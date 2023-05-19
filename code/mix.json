@@ -1,0 +1,39 @@
+{
+    "items": [
+         {
+            "type": "plugin",
+            "title": "[COLORwhite]Live TV[/COLOR]",
+            "link": "plugin.video.bolt_module/?mode=menu&serv_type=live_tv"
+        },
+	{
+            "type": "plugin",
+            "title": "[COLORwhite]Live Games[/COLOR]",
+            "link": "plugin.video.bolt_module/?mode=menu&serv_type=sched"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]English Channels[/COLOR]",
+            "link": "https://schwiftyrepo.github.io/test/eng.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[COLORwhite]Foreign Channels[/COLOR]",
+            "link": "https://schwiftyrepo.github.io/test/for.xml"
+        },
+        {
+	    "type": "dir",
+	    "title": "[COLORwhite]Free Sports[/COLOR]",
+	    "link": "https://mad-eric.bitbucket.io/fsportz.json"
+	},
+	{
+	     "type": "dir",
+	     "title": "[COLORwhite]Replays[/COLOR]",
+	     "link": "https://mad-eric.bitbucket.io/replays.xml"
+	},
+	{
+	      "type": "dir",
+	      "title": "[COLORwhite]Fanzone[/COLOR]",
+	      "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fans.json"
+	}
+    ]
+}
