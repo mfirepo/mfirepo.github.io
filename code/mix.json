@@ -26,11 +26,6 @@
 	    "link": "https://mfirepo.github.io/code/fsportz.json"
 	},
 	{
-	     "type": "dir",
-	     "title": "[COLORwhite]Replays[/COLOR]",
-	     "link": "https://mfirepo.github.io/code/replays.json"
-	},
-	{
 	      "type": "dir",
 	      "title": "[COLORwhite]Fanzone[/COLOR]",
 	      "link": "https://mfirepo.github.io/code/fans.json"
