@@ -1,0 +1,37 @@
+"items": [
+		{
+			"type": "dir",
+			"title": "[COLORwhite]4K Movies: One Click[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/4k.xml"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]New Movies: One Click[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/newrelsdeb.xml"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]New Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/tmdbsel.json"
+		},
+	    {
+            "type": "dir",
+            "title": "[COLORwhite]Latest Movies[/COLOR]",
+            "link": "tmdb/movie/now_playing"
+        },
+		{
+			"type": "dir",
+			"title": "[COLORwhite]Top Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/jenmovies.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORwhite]Movie Collections (Over 400)[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/coll.json"
+		}
+		
+		
+		
+
+	]
+}
