@@ -1,6 +1,10 @@
 {
   "items": [
-   
+    {
+      "type": "dir",
+      "title": "[COLORwhite]New Movies 2023[/COLOR]",
+      "link": "tmdb/list/8236189"
+    },
     {
       "type": "dir",
       "title": "[COLORwhite]Latest Movies[/COLOR]",
