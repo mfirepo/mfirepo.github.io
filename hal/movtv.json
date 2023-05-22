@@ -1,37 +1,79 @@
-"items": [
-		{
-			"type": "dir",
-			"title": "[COLORwhite]4K Movies: One Click[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/4k.xml"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORwhite]New Movies: One Click[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/newrelsdeb.xml"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORwhite]New Movies[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/tmdbsel.json"
-		},
-	    {
-            "type": "dir",
-            "title": "[COLORwhite]Latest Movies[/COLOR]",
-            "link": "tmdb/movie/now_playing"
-        },
-		{
-			"type": "dir",
-			"title": "[COLORwhite]Top Movies[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/jenmovies.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORwhite]Movie Collections (Over 400)[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/coll.json"
-		}
-		
-		
-		
-
-	]
+{
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORwhite]4K Movies: One Click[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/4k.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]New Movies: One Click[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/newrelsdeb.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]New Movies[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/tmdbsel.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Latest Movies[/COLOR]",
+      "link": "tmdb/movie/now_playing"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top Movies[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/jenmovies.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Movie Collections (Over 400)[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/coll.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Latest Episodes[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/tmdb.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows A To L[/COLOR]",
+      "link": "tmdb/list/8205785"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows M To Z[/COLOR]",
+      "link": "tmdb/list/8200954"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows Starting With 'The'[/COLOR]",
+      "link": "tmdb/list/8207191"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows A To Z[/COLOR]",
+      "link": "tmdb/list/8237878"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows By Network[/COLOR]",
+      "link": "https://mad-eric.bitbucket.io/nets.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows Most Popular[/COLOR]",
+      "link": "tmdb/tv/popular"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows Top Rated[/COLOR]",
+      "link": "tmdb/tv/top_rated"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TV Shows On The Air[/COLOR]",
+      "link": "tmdb/tv/on_the_air"
+    }
+  ]
 }
