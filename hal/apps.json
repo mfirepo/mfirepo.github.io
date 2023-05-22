@@ -1,0 +1,64 @@
+{
+    "items": [  
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]UK Channels[/COLOR]", 
+            "link": "plugin.video.valyria/samsung_tv/region/gb" 
+        }, 
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]US Channels[/COLOR]", 
+            "link": "plugin.video.valyria/samsung_tv/region/us" 
+        }, 
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]Canadian Channels[/COLOR]", 
+            "link": "plugin.video.valyria/samsung_tv/region/ca" 
+        }, 
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]Documentary Heaven[/COLOR]", 
+            "link": "plugin.video.documentaryheaven" 
+        }, 
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]Pluto TV App[/COLOR]", 
+            "link": "plugin.video.plutotv" 
+        }, 
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Free Sports[/COLOR]", 
+            "link": "https://mawashi360.github.io/fsport.json" 
+        },
+        {
+            "type": "plugin", 
+            "title": "[COLORwhite]MP3 Streams[/COLOR]", 
+            "link": "plugin.audio.mp3streams/"
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Fluxus TV[/COLOR]", 
+            "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG" 
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Live TV[/COLOR]", 
+            "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8" 
+        },
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]Music Channels[/COLOR]", 
+            "link": "https://mad-eric.bitbucket.io/music.xml" 
+        }, 
+        {
+            "type": "dir", 
+            "title": "[COLORwhite]World Free TV[/COLOR]", 
+            "link": "https://mawashi360.github.io/worldfree.m3u" 
+       } 
+       
+       
+        
+       
+  
+    ]
+}
