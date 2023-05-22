@@ -1,0 +1,90 @@
+{
+	"items": [
+
+		{
+			"type": "dir",
+			"title": "[COLORred]New Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/newrels.xml"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]4K Movies[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/free4k.xml"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]British Cinema[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/brit.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Family Movies[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fam.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]TV Shows[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/neweps.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]UK Soap Catchup[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/wc.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Comedy Shows[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/com.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Documentaries[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/doc.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Live In Concert[/COLOR]",
+			"link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSPVJ8t1eOnZtj_wDY956oEO"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Video Jukebox[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/jb.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Live Webcams[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/webs.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Movies And TV[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/ngix.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]TV Apps[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/valapps.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Free Sports[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/fsportz.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Replays[/COLOR]",
+			"link": "https://mad-eric.bitbucket.io/replays.xml"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORred]Fanzone[/COLOR]",
+			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fans.json"
+		}
+		
+		
+		
+		
+		
+	]
+}
