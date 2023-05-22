@@ -18,21 +18,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows A To L[/COLOR]",
-      "link": "tmdb/list/8205785"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]TV Shows M To Z[/COLOR]",
-      "link": "tmdb/list/8200954"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]TV Shows Starting With 'The'[/COLOR]",
-      "link": "tmdb/list/8207191"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]TV Shows A To Z[/COLOR]",
       "link": "tmdb/list/8237878"
     },
