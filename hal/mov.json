@@ -1,108 +1,104 @@
-
-    "items": [
-    
-     {
-            "type": "dir", 
-            "title": "[COLORlime]Any Debrid Service Works In This Section[/COLOR]", 
-            "link": "https://"
-        },  
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Best Picture Winners[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/oscars.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]My Top 100 Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/my100.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Thrillers[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/thrillers.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Action Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/action.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Horror Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/horror.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 British Cinema[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/british.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Comedy Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/comedy.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Sci-Fi Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/scifi.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 100 Family Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/family.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Top 250 Movies[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/top250.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]The Marvel Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/marvel.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]DC Comics Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/dc.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]The Avengers[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/av.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Star Trek Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/trek.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Alien Expanded Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/alien.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Middle Earth Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/lord.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Star Wars Universe[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/star.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]James Bond Collection[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/bond.xml"
-	    },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Disney Collection[/COLOR]",
-            "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/disney.xml"
-	    }
-                   
-
-	]
-
-}	
+{
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORlime]Any Debrid Service Works In This Section[/COLOR]",
+      "link": "https://"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Best Picture Winners[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/oscars.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]My Top 100 Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/my100.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Thrillers[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/thrillers.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Action Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/action.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Horror Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/horror.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 British Cinema[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/british.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Comedy Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/comedy.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Sci-Fi Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/scifi.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 100 Family Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/family.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Top 250 Movies[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/top250.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]The Marvel Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/marvel.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]DC Comics Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/dc.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]The Avengers[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/av.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Star Trek Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/trek.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Alien Expanded Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/alien.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Middle Earth Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/lord.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Star Wars Universe[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/star.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]James Bond Collection[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/bond.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Disney Collection[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/disney.xml"
+    }
+  ]
+}
