@@ -18,6 +18,11 @@
 		},
 		{
 			"type": "dir",
+			"title": "[COLORlime]Movies & TV[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/movtv.json"
+		},
+		{
+			"type": "dir",
 			"title": "[COLORlime]UK Soap Catchup[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/soap.json"
 		},
