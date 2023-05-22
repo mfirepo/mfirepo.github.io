@@ -4,7 +4,7 @@
 		{
 			"type": "dir",
 			"title": "[COLORred]New Movies[/COLOR]",
-			"link": "https://mfirepo.github.io/newrels.json"
+			"link": "https://mfirepo.github.io/hal/newrels.json"
 		},
 		{
 			"type": "dir",
