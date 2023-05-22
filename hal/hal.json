@@ -13,18 +13,8 @@
 		},
 		{
 			"type": "dir",
-			"title": "[COLORred]British Cinema[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/brit.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORred]Family Movies[/COLOR]",
-			"link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/fam.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORred]TV Shows[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/neweps.json"
+			"title": "[COLORlime]British Cinema[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/brit.json"
 		},
 		{
 			"type": "dir",
