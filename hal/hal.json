@@ -18,7 +18,7 @@
 		},
 		{
 			"type": "dir",
-			"title": "[COLORred]UK Soap Catchup[/COLOR]",
+			"title": "[COLORlime]UK Soap Catchup[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/soap.json"
 		},
 		{
@@ -28,8 +28,8 @@
 		},
 		{
 			"type": "dir",
-			"title": "[COLORred]Documentaries[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/doc.json"
+			"title": "[COLORlime]Documentaries[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/docu.json"
 		},
 		{
 			"type": "dir",
