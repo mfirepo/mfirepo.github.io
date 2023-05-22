@@ -1,0 +1,77 @@
+{
+    "items": [
+		{ 		
+            "type": "dir", 
+            "title": "Live Webcams From Aound The World", 
+            "link": "https://www.youtube.com/playlist_list=PLDHsOh0xPc5ZH1TEdtjaRZVRVkqRGfm1N/?page=0"
+        },
+		{ 		
+            "type": "dir", 
+            "title": "Live UK Webcams", 
+            "link": "https://www.youtube.com/playlist_list=PLk63PsMOWL05XQBupDj2UZsnmjoyInoK4"
+        },
+		{ 		
+            "type": "dir", 
+            "title": "Live UK Webcams 2", 
+            "link": "https://www.youtube.com/playlist_list=PLk63PsMOWL07-4gkdMMkxdotYREBzqd3k"
+        },
+        { 		
+            "type": "dir", 
+            "title": "Live UK Webcams 3", 
+            "link": "https://www.youtube.com/playlist_list=PLdckBEIf69GrA8biWxByZpKxw4c485RS9"
+        },
+		{ 		
+            "type": "dir", 
+            "title": "World Wide Webcams Live", 
+            "link": "https://www.youtube.com/playlist_list=PLFrsWoRoFYdLS30nXGB4Pim_GL4rGthxI" 
+        },
+        { 		
+            "type": "dir", 
+            "title": "Best Live Streaming Cams From Around The World", 
+            "link": "https://www.youtube.com/playlist_list=PL4SE83KD7TddJocXdANhm8P_Q-s44a9cT"
+        },
+		{ 		
+            "type": "dir", 
+            "title": "Switzerland Webcams Live", 
+            "link": "https://www.youtube.com/playlist_list=PLZvylrVZzE3PO5BdaevPzBwBBy0qsQOJb" 
+        },
+		{ 		
+            "type": "dir", 
+            "title": "Webcams USA", 
+            "link": "https://www.youtube.com/playlist_list=PLJMq6awrXRfZytLGv2uQLR1T8Eec52r5K" 
+        },
+		{ 		
+            "type": "dir", 
+            "title": "Live Cams North America", 
+            "link": "https://www.youtube.com/playlist_list=PLMvJBjBzkOqk_V7pZH6H-vxFkLZ5JLVvP"
+        },
+		{ 
+            "type": "item", 
+            "title": "Live UK Beach Cam Devon Full HD", 
+            "link": "https://www.youtube.com/watch?v=xsD21zBb73o" 
+        }, 
+        { 
+            "type": "item", 
+            "title": "NASA Live: Official Stream of NASA TV", 
+            "link": "https://www.youtube.com/watch?v=21X5lGlDOfg" 
+        },
+        { 
+            "type": "item", 
+            "title": "NASA Live: Official Stream of NASA TV's Media Channel", 
+            "link": "https://www.youtube.com/watch?v=nA9UZF-SZoQ" 
+        },
+        { 
+            "type": "item", 
+            "title": "Earth From Space : Live Views from the ISS", 
+            "link": "https://www.youtube.com/watch?v=86YLFOog4GM" 
+        },
+		{ 
+            "type": "item", 
+            "title": "Live Beach from Puerto Del Carmen Canary Islands", 
+            "link": "https://www.youtube.com/watch?v=f9dVWHKRP8o" 
+        }
+       
+		
+		
+	]
+}	
