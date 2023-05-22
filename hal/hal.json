@@ -55,6 +55,11 @@
 			"type": "dir",
 			"title": "[COLORlime]TV Apps[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/apps.json"
+		},
+		{
+			"type": "dir",
+			"title": "[COLORlime]Settings[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/set.json"
 		}
 		
 		
