@@ -3,17 +3,17 @@
         {
             "type": "plugin", 
             "title": "[COLORwhite]UK Channels[/COLOR]", 
-            "link": "plugin.video.valyria/samsung_tv/region/gb" 
+            "link": "plugin.video.halcyon/samsung_tv/region/gb" 
         }, 
         {
             "type": "plugin", 
             "title": "[COLORwhite]US Channels[/COLOR]", 
-            "link": "plugin.video.valyria/samsung_tv/region/us" 
+            "link": "plugin.video.halcyon/samsung_tv/region/us" 
         }, 
         {
             "type": "plugin", 
             "title": "[COLORwhite]Canadian Channels[/COLOR]", 
-            "link": "plugin.video.valyria/samsung_tv/region/ca" 
+            "link": "plugin.video.halcyon/samsung_tv/region/ca" 
         }, 
         {
             "type": "plugin", 
