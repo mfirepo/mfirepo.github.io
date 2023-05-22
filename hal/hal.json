@@ -3,13 +3,13 @@
 
 		{
 			"type": "dir",
-			"title": "[COLORred]New Movies[/COLOR]",
+			"title": "[COLORlime]New Movies[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/newrels.json"
 		},
 		{
 			"type": "dir",
-			"title": "[COLORred]4K Movies[/COLOR]",
-			"link": "https://mad-eric.bitbucket.io/free4k.xml"
+			"title": "[COLORlime]4K Movies[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/4k.json"
 		},
 		{
 			"type": "dir",
