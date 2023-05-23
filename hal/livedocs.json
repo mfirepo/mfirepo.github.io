@@ -1,0 +1,359 @@
+{
+    "items": [ 
+     {
+            "type": "dir",
+            "title": "[COLORlime]All Channels Are Free To Air And Have Commercial Breaks[/COLOR]",
+            "link": "http://"
+        },
+        {
+            "type": "item",
+            "title": "Antiques Roadshow UK",
+            "link": "http://bitly.ws/BQe7",
+            "thumbnail": "https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "BBC Food",
+            "link": "http://bitly.ws/BQed",
+            "thumbnail": "https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "BBC Home",
+            "link": "http://bitly.ws/BQeg",
+            "thumbnail": "https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png"
+        },
+		{
+            "type": "item",
+            "title": "Biography",
+            "link": "http://bitly.ws/A5KA",
+            "thumbnail": "https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Cold Case Files",
+            "link": "http://bitly.ws/BQeq",
+            "thumbnail": "https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Court TV",
+            "link": "https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8",
+            "thumbnail": "https://i.imgur.com/qkfe3o9.png"
+        },
+        {
+            "type": "item",
+            "title": "Crime 360",
+            "link": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/IjtaG1m.png"
+        },
+        {
+            "type": "item",
+            "title": "Crime Investigation Australia",
+            "link": "http://bitly.ws/BQes",
+            "thumbnail": "https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Docs Channel",
+            "link": "https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/Fqxw3Mx.png"
+        },
+        {
+            "type": "item",
+            "title": "Documentaries",
+            "link": "http://bitly.ws/BQev",
+            "thumbnail": "https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Docurama",
+            "link": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8",
+            "thumbnail": "https://i.imgur.com/W87cTZc.png"
+        },
+        {
+            "type": "item",
+            "title": "Dog the Bounty Hunter",
+            "link": "http://bitly.ws/BQex",
+            "thumbnail": "https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "English Club TV",
+            "link": "http://ott-cdn.ucom.am/s37/index.m3u8",
+            "thumbnail": "http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png"
+        },
+        {
+            "type": "item",
+            "title": "Exploring Britain",
+            "link": "http://bitly.ws/BQez"
+        },
+        {
+            "type": "item",
+            "title": "FBI Files",
+            "link": "http://bitly.ws/BQeE",
+            "thumbnail": "https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Food TV",
+            "link": "http://bitly.ws/BQeI",
+            "thumbnail": "https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Forensic Files",
+            "link": "http://bitly.ws/BQeL",
+            "thumbnail": "https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Get Factual",
+            "link": "http://bitly.ws/BQeR",
+            "thumbnail": "https://images.pluto.tv/channels/5dc2a69bc928a600093a7976/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Ghost Hunters",
+            "link": "http://bitly.ws/BQeW",
+            "thumbnail": "https://images.pluto.tv/channels/5f27bbe4779de70007a6d1c1/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Gordon Ramsay's Kitchen",
+            "link": "http://bitly.ws/BQeX",
+            "thumbnail": "https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "History",
+            "link": "http://bitly.ws/BQeZ",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"
+        },
+        {
+            "type": "item",
+            "title": "History (Opt-2)",
+            "link": "http://bitly.ws/BQf4",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"
+        },
+        {
+            "type": "item",
+            "title": "InsightTV",
+            "link": "https://insighttv-vizio.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/iz3YpQ1.png"
+        },
+        {
+            "type": "item",
+            "title": "InWild",
+            "link": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png"
+        },
+        {
+            "type": "item",
+            "title": "InWonder",
+            "link": "https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwonder-use.png"
+        },
+        {
+            "type": "item",
+            "title": "Law & Crime",
+            "link": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/HY64Nhe.png"
+        },
+        {
+            "type": "item",
+            "title": "Love Nature 4K",
+            "link": "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8",
+            "thumbnail": "https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Magellan TV",
+            "link": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8",
+            "thumbnail": "https://i.imgur.com/YGROdIl.png"
+        },
+        {
+            "type": "item",
+            "title": "MythBusters",
+            "link": "http://bitly.ws/BQf8",
+            "thumbnail": "https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "NASA TV",
+            "link": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8",
+            "thumbnail": "https://i.imgur.com/VX4uHSO.png"
+        },
+        {
+            "type": "item",
+            "title": "NASA TV Media",
+            "link": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8",
+            "thumbnail": "https://i.imgur.com/VX4uHSO.png"
+        },
+        {
+            "type": "item",
+            "title": "Naturescape",
+            "link": "http://bitly.ws/BQfc",
+            "thumbnail": "https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Now You Know",
+            "link": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/78K3L8J.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Animals",
+            "link": "http://bitly.ws/BQsb",
+            "thumbnail": "https://i.imgur.com/N00seOn.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Animals (UK)",
+            "link": "http://bitly.ws/BQsj",
+            "thumbnail": "https://i.imgur.com/N00seOn.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Biography",
+            "link": "http://bitly.ws/A5KA",
+            "thumbnail": "https://i.imgur.com/MwuIHbX.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Celebrity",
+            "link": "http://bitly.ws/A5Kw",
+            "thumbnail": "https://i.imgur.com/YPfJS0B.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Documentaries",
+            "link": "http://bitly.ws/BQev",
+            "thumbnail": "https://i.imgur.com/ICOzMFc.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Military",
+            "link": "http://bitly.ws/BQsv",
+            "thumbnail": "https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Paranormal",
+            "link": "http://bitly.ws/BQsB",
+            "thumbnail": "https://i.imgur.com/ApN6nfw.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Skills + Thrills",
+            "link": "http://bitly.ws/A5Kh",
+            "thumbnail": "https://i.imgur.com/TAszwqm.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Travel",
+            "link": "http://bitly.ws/BQsK",
+            "thumbnail": "https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Pluto TV Voyager Documentaries",
+            "link": "http://bitly.ws/BQsL",
+            "thumbnail": "https://i.imgur.com/bbqk8XO.png"
+        },
+        {
+            "type": "item",
+            "title": "Real Stories",
+            "link": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/PG15QKA.png"
+        },
+        {
+            "type": "item",
+            "title": "Reelz Channel",
+            "link": "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png"
+        },
+        {
+            "type": "item",
+            "title": "Rescue 911",
+            "link": "http://bitly.ws/BQsS",
+            "thumbnail": "https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Smithsonian Channel",
+            "link": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/T0XrMnW.png"
+        },
+        {
+            "type": "item",
+            "title": "Space",
+            "link": "http://bitly.ws/BQsX",
+            "thumbnail": "https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png"
+        },
+        {
+            "type": "item",
+            "title": "Space Channel",
+            "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=565",
+            "thumbnail": "https://i.imgur.com/47iCsiM.png"
+        },
+        {
+            "type": "item",
+            "title": "Sword and Shield",
+            "link": "https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8",
+            "thumbnail": "https://i.imgur.com/xwHhiAc.png"
+        },
+        {
+            "type": "item",
+            "title": "The Titanic Channel",
+            "link": "https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8",
+            "thumbnail": "https://i.imgur.com/uIZpZky.png"
+        },
+        {
+            "type": "item",
+            "title": "Timeline",
+            "link": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/JzOT1J7.png"
+        },
+        {
+            "type": "item",
+            "title": "Vice",
+            "link": "https://d2do1g43aq7264.cloudfront.net/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/XPEqSWW.png"
+        },
+        {
+            "type": "item",
+            "title": "Voyager Documentaries",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/UD259zI.png"
+        },
+        {
+            "type": "item",
+            "title": "Weatherspy",
+            "link": "https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/6kIa5LH.png"
+        },
+        {
+            "type": "item",
+            "title": "Wonder",
+            "link": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/qTbCyOj.png"
+        },
+        {
+            "type": "item",
+            "title": "X Zone Channel",
+            "link": "https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8",
+            "thumbnail": "https://i.imgur.com/ozQoHyf.png"
+        },
+        {
+            "type": "item",
+            "title": "Xplore",
+            "link": "http://xlpore-samsungus.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/AHiiHZs.png"
+        }
+        
+		
+	]
+	
+}
