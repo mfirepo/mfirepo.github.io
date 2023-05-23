@@ -3,12 +3,12 @@
         {
             "type": "dir",
             "title": "[COLORlime]New Documentaries[/COLOR]",
-            "link": "https://mad-eric.bitbucket.io/docu.xml"
+            "link": "https://mfirepo.github.io/hal/docu.json"
 		},
 		{
             "type": "dir", 
             "title": "[COLORlime]Documentary Channels[/COLOR]", 
-            "link": "https://mad-eric.bitbucket.io/livedocs.json" 
+            "link": "https://mfirepo.github.io/hal/livedocs.json" 
         },
 		{
             "type": "dir",
