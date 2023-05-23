@@ -2,57 +2,52 @@
     "items": [  
         {
             "type": "plugin", 
-            "title": "[COLORwhite]UK Channels[/COLOR]", 
+            "title": "[COLORlime]UK Channels[/COLOR]", 
             "link": "plugin.video.halcyon/samsung_tv/region/gb" 
         }, 
         {
             "type": "plugin", 
-            "title": "[COLORwhite]US Channels[/COLOR]", 
+            "title": "[COLORlime]US Channels[/COLOR]", 
             "link": "plugin.video.halcyon/samsung_tv/region/us" 
         }, 
         {
             "type": "plugin", 
-            "title": "[COLORwhite]Canadian Channels[/COLOR]", 
+            "title": "[COLORlime]Canadian Channels[/COLOR]", 
             "link": "plugin.video.halcyon/samsung_tv/region/ca" 
         }, 
         {
             "type": "plugin", 
-            "title": "[COLORwhite]Documentary Heaven[/COLOR]", 
+            "title": "[COLORlime]Documentary Heaven[/COLOR]", 
             "link": "plugin.video.documentaryheaven" 
         }, 
         {
             "type": "plugin", 
-            "title": "[COLORwhite]Pluto TV App[/COLOR]", 
+            "title": "[COLORlime]Pluto TV App[/COLOR]", 
             "link": "plugin.video.plutotv" 
         }, 
         {
             "type": "dir", 
-            "title": "[COLORwhite]Free Sports[/COLOR]", 
-            "link": "https://mawashi360.github.io/fsport.json" 
-        },
-        {
-            "type": "plugin", 
-            "title": "[COLORwhite]MP3 Streams[/COLOR]", 
-            "link": "plugin.audio.mp3streams/"
+            "title": "[COLORlime]Free Sports[/COLOR]", 
+            "link": "https://mfirepo.github.io/hal/fsportz.json" 
         },
         {
             "type": "dir", 
-            "title": "[COLORwhite]Fluxus TV[/COLOR]", 
+            "title": "[COLORlime]Fluxus TV[/COLOR]", 
             "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG" 
         },
         {
             "type": "dir", 
-            "title": "[COLORwhite]Live TV[/COLOR]", 
+            "title": "[COLORlime]Live TV[/COLOR]", 
             "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8" 
         },
         {
             "type": "dir", 
-            "title": "[COLORwhite]Music Channels[/COLOR]", 
+            "title": "[COLORlime]Music Channels[/COLOR]", 
             "link": "https://mad-eric.bitbucket.io/music.xml" 
         }, 
         {
             "type": "dir", 
-            "title": "[COLORwhite]World Free TV[/COLOR]", 
+            "title": "[COLORlime]World Free TV[/COLOR]", 
             "link": "https://mawashi360.github.io/worldfree.m3u" 
        } 
        
