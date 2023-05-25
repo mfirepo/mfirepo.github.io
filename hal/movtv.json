@@ -2,48 +2,143 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORwhite]New Movies 2023[/COLOR]",
+      "title": "[COLORlime]New Movies 2023[/COLOR]",
       "link": "tmdb/list/8236189"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Latest Movies[/COLOR]",
+      "title": "[COLORlime]Latest Movies[/COLOR]",
       "link": "tmdb/movie/now_playing"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Top Movies[/COLOR]",
+      "title": "[COLORlime]Top Movies[/COLOR]",
       "link": "https://mfirepo.github.io/hal/mov.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Movie Collections (Over 400)[/COLOR]",
+      "title": "[COLORlime]Movie Collections (Over 400)[/COLOR]",
       "link": "https://mfirepo.github.io/hal/coll.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows A To Z[/COLOR]",
+      "title": "[COLORlime]TV Shows A To Z[/COLOR]",
       "link": "tmdb/list/8237878"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows By Network[/COLOR]",
+      "title": "[COLORlime]TV Shows By Network[/COLOR]",
       "link": "https://mfirepo.github.io/hal/nets.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows Most Popular[/COLOR]",
+      "title": "[COLORlime]TV Shows Most Popular[/COLOR]",
       "link": "tmdb/tv/popular"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows Top Rated[/COLOR]",
+      "title": "[COLORlime]TV Shows Top Rated[/COLOR]",
       "link": "tmdb/tv/top_rated"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows On The Air[/COLOR]",
+      "title": "[COLORlime]TV Shows On The Air[/COLOR]",
       "link": "tmdb/tv/on_the_air"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]No Account Needed[/COLOR]",
+      "link": ""
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies Trending[/COLOR]",
+      "link": "trakt/movies/trending"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies Mosts[/COLOR]",
+      "link": "trakt/movies/collected"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies Most Played[/COLOR]",
+      "link": "trakt/movies/played"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies Most Watched[/COLOR]",
+      "link": "trakt/movies/watched"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies Recommended[/COLOR]",
+      "link": "trakt/movies/recommended"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows Trending[/COLOR]",
+      "link": "trakt/shows/trending"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows Mosts[/COLOR]",
+      "link": "trakt/shows/collected"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows Most Played[/COLOR]",
+      "link": "trakt/shows/played"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows Most Watched[/COLOR]",
+      "link": "trakt/shows/watched"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows Recommended[/COLOR]",
+      "link": "trakt/shows/recommended"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Set Your Default Language To English In System Settings[/COLOR]"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies And TV (List One)[/COLOR]",
+      "nginx_dir": "http://136.243.83.126/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies And TV (List Two)[/COLOR]",
+      "nginx_dir": "https://tartarus.feralhosting.com/firepig/JP/MOVIES/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies And TV (List Three)[/COLOR]",
+      "nginx_dir": "http://188.165.227.112/portail/films/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies And TV (List Four)[/COLOR]",
+      "nginx_dir": "http://185.223.160.3/Movie/2022/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]John Wick Movies 4K[/COLOR]",
+      "nginx_dir": "http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]5700 Movies And TV (Can Be Slow To Load)[/COLOR]",
+      "nginx_dir": "http://vod.simpletv.eu/media/storage/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Bollywood Movies[/COLOR]",
+      "nginx_dir": "http://103.213.238.85:8090/bollywood/"
     }
+   
   ]
 }
