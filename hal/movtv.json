@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "dir",
+      "title": "[COLORwhite]\/\/TMDB: No Account Needed\/\/[/COLOR]",
+      "link": ""
+    },
+    {
+      "type": "dir",
       "title": "[COLORlime]New Movies 2023[/COLOR]",
       "link": "tmdb/list/8236189"
     },
@@ -47,7 +52,7 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]No Account Needed[/COLOR]",
+      "title": "[COLORwhite]\/\/Trakt: No Account Needed\/\/[/COLOR]",
       "link": ""
     },
     {
@@ -99,46 +104,9 @@
       "type": "dir",
       "title": "[COLORlime]TV Shows Recommended[/COLOR]",
       "link": "trakt/shows/recommended"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Set Your Default Language To English In System Settings[/COLOR]"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Movies And TV (List One)[/COLOR]",
-      "nginx_dir": "http://136.243.83.126/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Movies And TV (List Two)[/COLOR]",
-      "nginx_dir": "https://tartarus.feralhosting.com/firepig/JP/MOVIES/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Movies And TV (List Three)[/COLOR]",
-      "nginx_dir": "http://188.165.227.112/portail/films/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Movies And TV (List Four)[/COLOR]",
-      "nginx_dir": "http://185.223.160.3/Movie/2022/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]John Wick Movies 4K[/COLOR]",
-      "nginx_dir": "http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]5700 Movies And TV (Can Be Slow To Load)[/COLOR]",
-      "nginx_dir": "http://vod.simpletv.eu/media/storage/"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Bollywood Movies[/COLOR]",
-      "nginx_dir": "http://103.213.238.85:8090/bollywood/"
     }
-   
-  ]
+    
+ ]
+  
 }
+   
