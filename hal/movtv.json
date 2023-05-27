@@ -112,14 +112,14 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]5700 Movies And TV (Can Be Slow To Load)[/COLOR]",
+      "title": "[COLORlime]5700 Movies & TV (Can Be Slow To Load)[/COLOR]",
       "nginx_dir": "http://vod.simpletv.eu/media/storage/"
 			
     },
     {
        "type": "dir",
-       "title": "[COLORlime]Bollywood Movies[/COLOR]",
-       "nginx_dir": "http://103.213.238.85:8090/bollywood/"
+       "title": "[COLORlime]Movies & TV[/COLOR]",
+       "nginx_dir": "http://136.243.83.126/"
 			
     }
     
