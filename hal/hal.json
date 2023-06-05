@@ -58,6 +58,11 @@
 		},
 		{
 			"type": "dir",
+			"title": "[COLORlime]Fanzone[/COLOR]",
+			"link": "https://mfirepo.github.io/hal/fans.json"
+		},
+		{
+			"type": "dir",
 			"title": "[COLORlime]Settings[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/set.json"
 		}
