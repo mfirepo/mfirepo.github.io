@@ -1488,6 +1488,11 @@
             ],
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         },
+        {
+            "type": "dir",
+            "title": "Search Trakt",
+            "link": "https://trakt/search"
+        },
        
         {
             "type": "dir",
