@@ -1,5 +1,5 @@
-<f4m>
-<title>Test3</title>
-<link>https://ddy5.cdnhks.lol/ddy5/premium38/tracks-v1a1/2023/06/06/17/48/33-04000.ts</link>
+<item>
+<title>Tester</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://ott-cdn.ucom.am/s24/index.m3u8</link>
 <thumbnail></thumbnail>
-</f4m>
+</item>
