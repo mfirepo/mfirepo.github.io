@@ -54,6 +54,11 @@
             "type": "dir", 
             "title": "[COLORlime]Test Area[/COLOR]", 
             "link": "https://mfirepo.github.io/hal/test.xml" 
+       },
+       {
+            "type": "dir", 
+            "title": "[COLORlime]Test Area2[/COLOR]", 
+            "link": "https://iptv-org.github.io/iptv/index.m3u" 
        }
        
        
