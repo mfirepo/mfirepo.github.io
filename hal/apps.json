@@ -47,21 +47,9 @@
         }, 
         {
             "type": "dir", 
-            "title": "[COLORlime]US Free To Air TV[/COLOR]", 
-            "link": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u" 
-       },
-       {
-            "type": "dir", 
             "title": "[COLORlime]World Free TV[/COLOR]", 
             "link": "https://mawashi360.github.io/worldfree.m3u" 
-       },
-       {
-            "type": "dir", 
-            "title": "[COLORlime]Test Area[/COLOR]", 
-            "link": "https://mfirepo.github.io/hal/test.xml" 
        }
-       
-       
        
        
     ]
