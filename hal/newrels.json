@@ -1490,6 +1490,16 @@
         },
         {
             "type": "dir",
+            "title": "Search Trakt",
+            "trakt": "search"
+        },
+        {
+            "type": "dir",
+            "title": "Search TMDB",
+            "tmdb": "search"
+        },
+        {
+            "type": "dir",
             "title": "[COLORyellow][I]>>>> Next Page >>>>[/I][/COLOR]",
             "link": "https://mad-eric.bitbucket.io/newrels2.xml"
         }
