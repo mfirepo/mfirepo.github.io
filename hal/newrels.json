@@ -1488,12 +1488,7 @@
             ],
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         },
-        {
-            "type": "dir",
-            "title": "Search Trakt",
-            "link": "trakt/search"
-        },
-       
+        
         {
             "type": "dir",
             "title": "[COLORyellow][I]>>>> Next Page >>>>[/I][/COLOR]",
