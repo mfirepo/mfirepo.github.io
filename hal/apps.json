@@ -54,12 +54,8 @@
             "type": "dir", 
             "title": "[COLORlime]Test Area[/COLOR]", 
             "link": "https://mfirepo.github.io/hal/test.xml" 
-       },
-       {
-            "type": "f4m", 
-            "title": "[COLORlime]Test Area 2*[/COLOR]", 
-            "link": "https://mfirepo.github.io/hal/test.m3u" 
        }
+       
        
        
     ]
