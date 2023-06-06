@@ -1,6 +1,30 @@
 {
     "items": [
-         {
+        {
+            "type": "item",
+            "title": "A Good Day to Die",
+            "link": "https://dooood.com/d/24tdic4y2tea",
+            "thumbnail": "https://i.imgur.com/HfunzZn.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Zoom In Solo A Star Wars Story",
+            "link": "https://dooood.com/d/82nmicz7x7he",
+            "thumbnail": "https://i.imgur.com/Blm9Xal.jpg"
+        },
+        {
+            "type": "item",
+            "title": "The Curse of the Highgate Vampire",
+            "link": "https://dooood.com/d/949y8w5eruv0",
+            "thumbnail": "https://i.imgur.com/QRNqavl.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Drop the Needle",
+            "link": "https://dooood.com/d/z0o001571npk",
+            "thumbnail": "https://i.imgur.com/5KmvEI3.jpg"
+        },
+        {
             "type": "item",
             "title": "ChristCore",
             "link": "https://dooood.com/d/ik9tpo2kfbkd",
