@@ -1488,16 +1488,7 @@
             ],
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         },
-        {
-            "type": "dir",
-            "title": "Search Trakt",
-            "trakt": "search"
-        },
-        {
-            "type": "dir",
-            "title": "Search TMDB",
-            "tmdb": "search"
-        },
+       
         {
             "type": "dir",
             "title": "[COLORyellow][I]>>>> Next Page >>>>[/I][/COLOR]",
