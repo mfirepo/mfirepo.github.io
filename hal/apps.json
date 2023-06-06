@@ -43,7 +43,7 @@
         {
             "type": "dir", 
             "title": "[COLORlime]Music Channels[/COLOR]", 
-            "link": "https://mad-eric.bitbucket.io/music.xml" 
+            "link": "https://mfirepo.github.io/hal/music.json" 
         }, 
         {
             "type": "dir", 
