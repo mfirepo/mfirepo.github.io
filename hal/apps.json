@@ -49,6 +49,11 @@
             "type": "dir", 
             "title": "[COLORlime]World Free TV[/COLOR]", 
             "link": "https://mawashi360.github.io/worldfree.m3u" 
+       },
+       {
+            "type": "dir", 
+            "title": "[COLORlime]Test Area[/COLOR]", 
+            "link": "https://raw.githubusercontent.com/muhaift/m3u/main/MySports" 
        }
        
        
