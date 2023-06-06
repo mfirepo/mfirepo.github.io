@@ -1490,8 +1490,8 @@
         },
         {
             "type": "dir",
-            "title": "Search Trakt",
-            "link": "https://trakt/search"
+            "title": "Search Tmdb",
+            "link": "tmdb/search"
         },
        
         {
