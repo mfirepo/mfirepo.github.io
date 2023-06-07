@@ -107,52 +107,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]My Movies[/COLOR]",
-      "link": "trakt/user/self/watched/movies"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My TV Shows[/COLOR]",
-      "link": "trakt/user/self/watched/shows"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My Movie Recommended[/COLOR]",
-      "link": "trakt/recommendations/movies"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My TV Show Recommended[/COLOR]",
-      "link": "trakt/recommendations/shows"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My Watched Movies[/COLOR]",
-      "link": "trakt/user/self/watched/movies"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My Watched TV Shows[/COLOR]",
-      "link": "trakt/user/self/watched/shows"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My Watchlist[/COLOR]",
-      "link": "trakt/user/self/watchlist"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My Movie Watchlist[/COLOR]",
-      "link": "trakt/user/self/watchlist/movies"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]My TV Shows Watchlist[/COLOR]",
-      "link": "trakt/user/self/watchlist/shows"
-    },
-    
-    {
-      "type": "dir",
       "title": "[COLORwhite]** Free Movies And TV **[/COLOR]",
       "link": ""
     },
