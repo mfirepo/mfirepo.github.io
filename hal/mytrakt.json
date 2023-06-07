@@ -18,12 +18,17 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]My Movie Watchlist[/COLOR]",
+      "title": "[COLORlime]My Movies Watchlist[/COLOR]",
       "link": "trakt/user/self/watchlist/movies"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORlime]My Movie Recommended[/COLOR]",
+      "title": "[COLORlime]My TV Shows Watchlist[/COLOR]",
+      "link": "trakt/user/self/watchlist/shows"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]My Movies Recommended[/COLOR]",
       "link": "trakt/recommendations/movies"
     },
     {
