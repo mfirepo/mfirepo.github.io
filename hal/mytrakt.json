@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "dir",
+      "title": "[COLORlime]My Lists[/COLOR]",
+      "link": "trakt/user/self/lists"
+    },
+    {
+      "type": "dir",
       "title": "[COLORlime]My Movies[/COLOR]",
       "link": "trakt/user/self/watched/movies"
     },
