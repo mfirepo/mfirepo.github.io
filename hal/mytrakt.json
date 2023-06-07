@@ -1,7 +1,6 @@
 {
-  "items": [ 
-	
-	{
+  "items": [
+    {
       "type": "dir",
       "title": "[COLORlime]My Movies[/COLOR]",
       "link": "trakt/user/self/watched/movies"
@@ -11,7 +10,7 @@
       "title": "[COLORlime]My TV Shows[/COLOR]",
       "link": "trakt/user/self/watched/shows"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORlime]My Watchlist[/COLOR]",
       "link": "trakt/user/self/watchlist"
@@ -36,7 +35,7 @@
       "title": "[COLORlime]My TV Shows Recommended[/COLOR]",
       "link": "trakt/recommendations/shows"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORlime]Movies Trending[/COLOR]",
       "link": "trakt/movies/trending"
@@ -87,5 +86,4 @@
       "link": "trakt/shows/recommended"
     }
   ]
-	
 }
