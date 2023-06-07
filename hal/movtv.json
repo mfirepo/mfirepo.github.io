@@ -117,12 +117,12 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]My Movie Reccomendations[/COLOR]",
+      "title": "[COLORlime]My Movie Recommended[/COLOR]",
       "link": "trakt/recommendations/movies"
     },
     {
       "type": "dir",
-      "title": "[COLORlime]My TV Show Reccomendations[/COLOR]",
+      "title": "[COLORlime]My TV Show Recommended[/COLOR]",
       "link": "trakt/recommendations/shows"
     },
     {
