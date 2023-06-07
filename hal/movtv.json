@@ -107,8 +107,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Test*[/COLOR]",
-      "link": "trakt/user/self/watchlist/movies"
+      "title": "[COLORlime]Test**[/COLOR]",
+      "link": "trakt/user/self/watched/movies"
     },
     {
       "type": "dir",
