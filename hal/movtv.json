@@ -107,6 +107,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "trakt/user/self/lists"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]** Free Movies And TV **[/COLOR]",
       "link": ""
     },
