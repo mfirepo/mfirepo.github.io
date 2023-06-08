@@ -1,0 +1,15 @@
+{
+    "items": [ 
+   
+   {
+      "type": "dir",
+      "title": "[COLORlime]Search Movies[/COLOR]",
+      "link": "tmdb/search/movie"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Search TV Shows[/COLOR]",
+      "link": "tmdb/search/tv"
+    }
+  ]
+}
