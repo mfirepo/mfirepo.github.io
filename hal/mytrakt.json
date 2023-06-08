@@ -94,6 +94,16 @@
       "type": "dir",
       "title": "[COLORlime]TV Shows Recommended[/COLOR]",
       "link": "trakt/shows/recommended"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Search Movies[/COLOR]",
+      "link": "tmdb/search/movie"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Search TV Shows[/COLOR]",
+      "link": "tmdb/search/tv"
     }
   ]
 }
