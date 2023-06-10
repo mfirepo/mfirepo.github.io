@@ -1,5 +1,10 @@
 {
     "items": [
+        { 		
+            "type": "dir", 
+            "title": "[COLORlime]>>>> JoBlo Movie Trailers <<<< Click![/COLOR]",
+            "link": "link": "https://www.youtube.com/@JoBloTopTrailers"
+        },
         {
             "type": "item",
             "title": "One Ranger (2023)",
