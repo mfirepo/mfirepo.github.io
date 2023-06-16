@@ -29,6 +29,11 @@
       "type": "dir",
       "title": "[COLORwhite]Free Sports[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fsportz.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Music Channels[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/music.json"
     }
   ]
 }
