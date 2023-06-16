@@ -37,6 +37,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]BBC iPlayer[/COLOR]",
+      "link": "plugin://plugin.video.iplayerwww"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Free Sports[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fsportz.json"
     },
