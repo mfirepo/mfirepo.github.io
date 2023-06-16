@@ -3,17 +3,17 @@
 
 		{
 			"type": "dir",
-			"title": "[COLORlime]New Movies[/COLOR]",
+			"title": "[COLORwhite]New Movies[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/newrels.json"
 		},
 		{
 			"type": "dir",
-			"title": "[COLORlime]4K Movies[/COLOR]",
+			"title": "[COLORwhite]4K Movies[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/4k.json"
 		},
 		{
 			"type": "dir",
-			"title": "[COLORlime]British Cinema[/COLOR]",
+			"title": "[COLORwhite]British Cinema[/COLOR]",
 			"link": "https://mfirepo.github.io/hal/brit.json"
 		}
     
