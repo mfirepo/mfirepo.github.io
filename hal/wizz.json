@@ -27,6 +27,16 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]UK Channels[/COLOR]",
+      "link": "plugin://plugin.video.samm_tv/samsung_tv/region/gb"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]US Channels[/COLOR]",
+      "link": "plugin://plugin.video.samm_tv/samsung_tv/region/us"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Free Sports[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fsportz.json"
     },
