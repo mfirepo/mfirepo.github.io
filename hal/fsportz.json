@@ -7,11 +7,6 @@
         },
         {
             "type": "item",
-            "title": "Alfa Sport",
-            "link": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu"
-        },
-		{
-            "type": "item",
             "title": "AutoMoto TV",
             "link": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8"
         },
@@ -94,11 +89,6 @@
             "type": "item",
             "title": "FTF",
             "link": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Fuel TV",
-            "link": "http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8"
         },
         {
             "type": "item",
