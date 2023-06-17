@@ -24,6 +24,11 @@
             "type": "plugin", 
             "title": "[COLORlime]Pluto TV App[/COLOR]", 
             "link": "plugin.video.plutotv" 
+        },
+        {
+            "type": "plugin", 
+            "title": "[COLORlime]Crackle TV[/COLOR]", 
+            "link": "plugin.video.crackle" 
         }, 
         {
             "type": "dir", 
