@@ -42,6 +42,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Crackle TV[/COLOR]",
+      "link": "plugin://plugin.video.crackle"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Free Sports[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fsportz.json"
     },
