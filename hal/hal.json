@@ -1,85 +1,84 @@
 {
-	"items": [
-
-		{
-			"type": "dir",
-			"title": "[COLORlime]New Movies[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/newrels.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]4K Movies[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/4k.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]British Cinema[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/brit.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Movies & TV[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/movtv.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]UK Soap Catchup[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/soap.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Comedy Shows[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/com.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Documentaries[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/docsel.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Live In Concert[/COLOR]",
-			"link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSPVJ8t1eOnZtj_wDY956oEO"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Video Jukebox[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/jb.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Live Webcams[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/webs.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]TV Apps[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/apps.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]My Trakt[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/mytrakt.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Fanzone[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/fans.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Search[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/search.json"
-		},
-		{
-			"type": "dir",
-			"title": "[COLORlime]Settings[/COLOR]",
-			"link": "https://mfirepo.github.io/hal/set.json"
-		}
-		
-		
-		
-		
-		
-	]
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORlime]New Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/newrels.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]4K Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/4k.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]British Cinema[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/brit.json"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Free Shows[/COLOR]",
+      "link": "plugin.video.wizz/"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movies & TV[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/movtv.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]UK Soap Catchup[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/soap.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Comedy Shows[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/com.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Documentaries[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/docsel.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Live In Concert[/COLOR]",
+      "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSPVJ8t1eOnZtj_wDY956oEO"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Video Jukebox[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/jb.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Live Webcams[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/webs.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Apps[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/apps.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]My Trakt[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/mytrakt.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Fanzone[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/fans.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Search[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/search.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Settings[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/set.json"
+    }
+  ]
 }
