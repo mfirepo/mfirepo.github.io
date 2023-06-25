@@ -17,6 +17,11 @@
     },
     {
       "type": "plugin",
+      "title": "[COLORlime]The Wizz Addon[/COLOR]",
+      "link": "plugin.video.wizz/"
+    },
+    {
+      "type": "plugin",
       "title": "[COLORlime]Documentary Heaven[/COLOR]",
       "link": "plugin.video.documentaryheaven"
     },
