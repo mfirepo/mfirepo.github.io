@@ -42,13 +42,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Live In Concert[/COLOR]",
-      "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSPVJ8t1eOnZtj_wDY956oEO"
-    },
-    {
-      "type": "dir",
       "title": "[COLORlime]Video Jukebox[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/jb.json"
+      "link": "https://mfirepo.github.io/hal/muzak.json"
     },
     {
       "type": "dir",
