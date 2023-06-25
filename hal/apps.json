@@ -59,6 +59,11 @@
       "type": "dir",
       "title": "[COLORlime]World Free TV[/COLOR]",
       "link": "https://mawashi360.github.io/worldfree.m3u"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "plugin.video.wizz/?mode=202"
     }
   ]
 }
