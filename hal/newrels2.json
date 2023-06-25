@@ -773,8 +773,8 @@
         },
          {
             "type": "item",
-            "title": "Test*",
-            "link": "search",
+            "title": "Test**",
+            "link": "link:search",
             
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         }
