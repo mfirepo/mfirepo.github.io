@@ -1,0 +1,21 @@
+{
+    "items": [
+	{
+      "type": "dir",
+      "title": "[COLORlime]Live In Concert[/COLOR]",
+      "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSPVJ8t1eOnZtj_wDY956oEO"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Video Jukebox[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/jb.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORlime]Music Channels[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/music.json"
+    }
+	
+]
+
+}
