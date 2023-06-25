@@ -773,10 +773,9 @@
         },
          {
             "type": "item",
-            "title": "Test",
-            "link": [
-                "https://clicknupload.click/4hp2nim8f51t"
-            ],
+            "title": "Test*",
+            "link": "search",
+            
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         }
     ]
