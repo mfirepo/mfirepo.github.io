@@ -16,11 +16,6 @@
       "link": "https://mfirepo.github.io/hal/brit.json"
     },
     {
-      "type": "plugin",
-      "title": "[COLORlime]Free Shows[/COLOR]",
-      "link": "plugin.video.wizz/"
-    },
-    {
       "type": "dir",
       "title": "[COLORlime]Movies & TV[/COLOR]",
       "link": "https://mfirepo.github.io/hal/movtv.json"
