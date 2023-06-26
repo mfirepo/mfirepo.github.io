@@ -17,7 +17,7 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORlime]The Wizz Addon[/COLOR]",
+      "title": "[COLORlime]The Wizz[/COLOR]",
       "link": "plugin.video.wizz/"
     },
     {
@@ -54,11 +54,6 @@
       "type": "dir",
       "title": "[COLORlime]Live TV[/COLOR]",
       "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Music Channels[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/music.json"
     },
     {
       "type": "dir",
