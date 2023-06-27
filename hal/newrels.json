@@ -10,7 +10,18 @@
             "type": "dir", 
             "title": "[COLORred]*** ResolveUrl Currently-5.1.101 ***[/COLOR]"
         },
-         {
+        {
+            "type": "item",
+            "title": "Gabriel's Redemption: Part One (2023)",
+            "link": [
+                "https://www.youtube.com/watch?v=XgacFY5E7pA([COLORblue]Trailer[/COLOR])",
+                "https://streamtape.com/v/a7Vkyak8D2SxxMm/([COLORred]HD-Free[/COLOR])"
+               
+           
+            ],
+            "thumbnail": "https://i.imgur.com/SbdRKl0.jpg"
+        },
+        {
             "type": "item",
             "title": "Knights of the Zodiac (2023)",
             "link": [
