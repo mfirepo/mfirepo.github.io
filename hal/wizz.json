@@ -17,6 +17,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]TV Shows[/COLOR]",
+      "link": "https://www.themoviedb.org/list/8237878"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]New Documentaries[/COLOR]",
       "link": "https://mfirepo.github.io/hal/docu.json"
     },
