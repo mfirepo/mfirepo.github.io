@@ -17,8 +17,8 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORlime]The Wizz*[/COLOR]",
-      "link": "plugin.video.wizz/?&;name=doodstream"
+      "title": "[COLORlime]The Wizz**[/COLOR]",
+      "link": "plugin.video.wizz/?action=doodstream"
     },
     {
       "type": "plugin",
