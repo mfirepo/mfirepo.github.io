@@ -772,9 +772,9 @@
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         },
         {
-            "type": "item",
-            "title": "Test*",
-            "link": "https://cdn2.techstribes.com:9443/streams/16_.m3u8|Referer=https://techstribes.com/g02.html"
+            "type": "plugin",
+            "title": "Test**",
+            "link": "plugin.video.bolt/?mode=play&amp;url=https://daddylivehd.sx//stream/stream-31.php"
                 
         }
         
