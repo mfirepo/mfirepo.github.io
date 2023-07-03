@@ -772,11 +772,10 @@
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         },
         {
-            "type": "plugin",
-            "title": "Test**",
-            "link": "plugin.video.bolt/?mode=play&amp;url=https://daddylivehd.sx//stream/stream-31.php"
-                
-        }
+      "type": "plugin",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "plugin.video.bolt/?mode=play&amp;url=https://daddylivehd.sx//stream/stream-31.php"
+    }
         
         
     ]
