@@ -764,11 +764,9 @@
             "thumbnail": "https://i.imgur.com/HVgZfHw.jpg"
         },
         {
-            "type": "item",
-            "title": "Indecent Choices (2023)",
-            "link": [
-                "https://dood.yt/d/duf1v39zs8cc"
-            ],
+            "type": "plugin",
+            "title": "Test",
+            "link": "plugin.video.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php",
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         }
        
