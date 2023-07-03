@@ -770,6 +770,12 @@
                 "https://dood.yt/d/duf1v39zs8cc"
             ],
             "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
+        },
+        {
+            "type": "plugin",
+            "title": "Test",
+            "link": "plugin.video.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php",
+            "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         }
     
     ]
