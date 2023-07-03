@@ -762,13 +762,8 @@
                 "https://dood.yt/d/p9glncmq641o"
             ],
             "thumbnail": "https://i.imgur.com/HVgZfHw.jpg"
-        },
-        {
-            "type": "plugin",
-            "title": "Test",
-            "link": "plugin.video.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php",
-            "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
         }
+       
        
     
     ]
