@@ -1,4 +1,4 @@
-
+{
     "items": [
          {
             "type": "plugin",
@@ -89,6 +89,16 @@
             "type": "plugin",
             "title": "SS Motor Sport",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-424.php"
+        },
+        {
+            "type": "plugin",
+            "title": "SS Golf",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-422.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Golf Channel",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-318.php"
         },
         {
             "type": "plugin",
