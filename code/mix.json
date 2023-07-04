@@ -149,6 +149,11 @@
             "type": "plugin",
             "title": "Euro Sport 2 (English)",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-42.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FS 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-39.php"
         }
     ]
 }
