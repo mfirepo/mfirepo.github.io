@@ -67,8 +67,13 @@
         },
         {
             "type": "plugin",
-            "title": "SS La Liga",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-415.php"
+            "title": "SS Football",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-56.php"
+        },
+        {
+            "type": "plugin",
+            "title": "SS Cricket",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-368.php"
         },
         {
             "type": "plugin",
