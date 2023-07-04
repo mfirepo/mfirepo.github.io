@@ -34,6 +34,26 @@
             "type": "plugin",
             "title": "Sky Cricket",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-65.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Prem league",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-130.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Action",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-37.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Arena",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-36.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky F1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-60.php"
         }
     ]
 }
