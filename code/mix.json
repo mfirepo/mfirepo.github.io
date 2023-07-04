@@ -57,6 +57,11 @@
         },
         {
             "type": "plugin",
+            "title": "Sky Mix",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-449.php"
+        },
+        {
+            "type": "plugin",
             "title": "SS Prem League",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-414.php"
         },
@@ -234,6 +239,16 @@
             "type": "plugin",
             "title": "Tennis Channel",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-40.php"
+        },
+        {
+            "type": "plugin",
+            "title": "MLB Network",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-399.php"
+        },
+        {
+            "type": "plugin",
+            "title": "NBA TV",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-404.php"
         }
     ]
 }
