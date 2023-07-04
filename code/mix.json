@@ -2,33 +2,9 @@
     "items": [
          {
             "type": "plugin",
-            "title": "[COLORwhite]Live TV[/COLOR]",
-            "link": "plugin.video.bolt_module/?mode=menu&serv_type=live_tv"
-        },
-	{
-            "type": "plugin",
-            "title": "[COLORwhite]Live Games[/COLOR]",
-            "link": "plugin.video.bolt_module/?mode=menu&serv_type=sched"
-        },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]English Channels[/COLOR]",
-            "link": "https://mfirepo.github.io/code/eng.json"
-        },
-        {
-            "type": "dir",
-            "title": "[COLORwhite]Super Sport[/COLOR]",
-            "link": "https://mfirepo.github.io/code/ss.json"
-        },
-        {
-	    "type": "dir",
-	    "title": "[COLORwhite]Free Sports[/COLOR]",
-	    "link": "https://mfirepo.github.io/code/fsportz.json"
-	},
-	{
-	      "type": "dir",
-	      "title": "[COLORwhite]Fanzone[/COLOR]",
-	      "link": "https://mfirepo.github.io/code/fans.json"
-	}
+            "title": "Test",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php",
+            "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
+        }
     ]
 }
