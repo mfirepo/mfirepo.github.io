@@ -137,6 +137,11 @@
         },
         {
             "type": "plugin",
+            "title": "Fox Cricket",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-369.php"
+        },
+        {
+            "type": "plugin",
             "title": "Bein Sports 1 (English)",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-61.php"
         },
@@ -164,6 +169,16 @@
             "type": "plugin",
             "title": "Fox Sports 1",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-39.php"
+        },
+        {
+            "type": "plugin",
+            "title": "ESPN 1 USA",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-44.php"
+        },
+        {
+            "type": "plugin",
+            "title": "ESPN 2 USA",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-45.php"
         }
     ]
 }
