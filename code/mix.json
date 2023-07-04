@@ -19,6 +19,11 @@
             "type": "plugin",
             "title": "BT Sport ESPN",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-34.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Main Event",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-38.php"
         }
     ]
 }
