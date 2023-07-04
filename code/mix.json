@@ -24,6 +24,16 @@
             "type": "plugin",
             "title": "Sky Main Event",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-38.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Golf",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-70.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Cricket",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-65.php"
         }
     ]
 }
