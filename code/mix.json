@@ -274,6 +274,21 @@
             "type": "plugin",
             "title": "WWE Network",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-376.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Bein Sports 1 Premium",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-98.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Bein Sports 2 Premium",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-99.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Bein Sports 3 Premium",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-100.php"
         }
     ]
 }
