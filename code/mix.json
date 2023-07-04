@@ -62,6 +62,11 @@
         },
         {
             "type": "plugin",
+            "title": "Sky Racing",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-554.php"
+        },
+        {
+            "type": "plugin",
             "title": "SS Prem League",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-414.php"
         },
@@ -249,6 +254,11 @@
             "type": "plugin",
             "title": "NBA TV",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-404.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Racing UK",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-555.php"
         }
     ]
 }
