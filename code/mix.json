@@ -97,6 +97,11 @@
         },
         {
             "type": "plugin",
+            "title": "SS Tennis",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-423.php"
+        },
+        {
+            "type": "plugin",
             "title": "SS Variety 1",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-416.php"
         },
@@ -199,6 +204,36 @@
             "type": "plugin",
             "title": "ESPN 2 USA",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-45.php"
+        },
+        {
+            "type": "plugin",
+            "title": "TSN 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-111.php"
+        },
+        {
+            "type": "plugin",
+            "title": "TSN 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-112.php"
+        },
+        {
+            "type": "plugin",
+            "title": "TSN 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-113.php"
+        },
+        {
+            "type": "plugin",
+            "title": "TSN 4",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-114.php"
+        },
+        {
+            "type": "plugin",
+            "title": "TSN 5",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-115.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Tennis Channel",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-40.php"
         }
     ]
 }
