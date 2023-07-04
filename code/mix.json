@@ -2,9 +2,23 @@
     "items": [
          {
             "type": "plugin",
-            "title": "Test",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php",
-            "thumbnail": "https://i.imgur.com/BAxSi6C.jpg"
+            "title": "BT Sport 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-31.php"
+        },
+        {
+            "type": "plugin",
+            "title": "BT Sport 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-32.php"
+        },
+        {
+            "type": "plugin",
+            "title": "BT Sport 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-33.php"
+        },
+        {
+            "type": "plugin",
+            "title": "BT Sport ESPN",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-34.php"
         }
     ]
 }
