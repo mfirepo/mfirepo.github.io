@@ -269,6 +269,11 @@
             "type": "plugin",
             "title": "Premier Sports 2",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-550.php"
+        },
+        {
+            "type": "plugin",
+            "title": "WWE Network",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-376.php"
         }
     ]
 }
