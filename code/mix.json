@@ -139,6 +139,16 @@
             "type": "plugin",
             "title": "Bein Sports 3 (English)",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-46.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Euro Sport 1 (English)",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-41.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Euro Sport 2 (English)",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-42.php"
         }
     ]
 }
