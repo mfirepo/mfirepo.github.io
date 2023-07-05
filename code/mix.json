@@ -357,8 +357,8 @@
         },
         {
             "type": "plugin",
-            "title": "Test",
-            "link": "script.module.jetextractors/play?urls=https://daddylivehd.sx/stream/stream-379.php"
+            "title": "Test*",
+            "link": "script.module.jetextractors/?mode=play&url=https://daddylivehd.sx/stream/stream-379.php"
         }
         
     ]
