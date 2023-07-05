@@ -322,6 +322,21 @@
         },
         {
             "type": "plugin",
+            "title": "Bein Sports 1 France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-116.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Bein Sports 2 France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-117.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Bein Sports 3 France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-118.php"
+        },
+        {
+            "type": "plugin",
             "title": "Bein Sports 1",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-91.php"
         },
@@ -504,6 +519,21 @@
             "type": "plugin",
             "title": "Movistar La Liga 3",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-540.php"
+        },
+        {
+            "type": "plugin",
+            "title": "RMC Sport 1 France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-119.php"
+        },
+        {
+            "type": "plugin",
+            "title": "RMC Sport 2 France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-120.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Canal+ France",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-121.php"
         },
         {
             "type": "plugin",
