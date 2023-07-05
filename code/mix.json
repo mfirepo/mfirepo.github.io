@@ -627,6 +627,26 @@
         },
         {
             "type": "plugin",
+            "title": "Digi Sport 1 Romania",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-400.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Digi Sport 2 Romania",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-401.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Digi Sport 3 Romania",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-402.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Digi Sport 4 Romania",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-403.php"
+        },
+        {
+            "type": "plugin",
             "title": "Match TV Russia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-127.php"
         },
