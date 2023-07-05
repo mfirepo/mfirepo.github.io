@@ -277,17 +277,17 @@
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 1 Premium",
+            "title": "Bein Sports 1 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-98.php"
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 2 Premium",
+            "title": "Bein Sports 2 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-99.php"
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 3 Premium",
+            "title": "Bein Sports 3 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-100.php"
         },
         {
@@ -324,6 +324,36 @@
             "type": "plugin",
             "title": "Bein Sports 7",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-97.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-134.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-135.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-139.php"
+        },
+        {
+            "type": "plugin",
+            "title": "SporTv 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-78.php"
+        },
+        {
+            "type": "plugin",
+            "title": "SporTv 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-79.php"
+        },
+        {
+            "type": "plugin",
+            "title": "SporTv 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-80.php"
         }
         
     ]
