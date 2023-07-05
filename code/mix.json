@@ -212,6 +212,36 @@
         },
         {
             "type": "plugin",
+            "title": "FOX Sports 502 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-820.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FOX Sports 503 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-821.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FOX Sports 504 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-822.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FOX Sports 505 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-823.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FOX Sports 506 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-824.php"
+        },
+        {
+            "type": "plugin",
+            "title": "FOX Sports 507 AU",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-825.php"
+        },
+        {
+            "type": "plugin",
             "title": "ESPN 1 USA",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-44.php"
         },
