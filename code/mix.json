@@ -327,18 +327,48 @@
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 1",
+            "title": "Arena Sport 1 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-134.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 2",
+            "title": "Arena Sport 2 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-135.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 3",
+            "title": "Arena Sport 3 Pr",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-139.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 1 Ser",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-429.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 2 Ser ",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-430.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 3 Ser",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-431.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 1 Cro",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-432.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 2 Cro ",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-433.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Arena Sport 3 Cro",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-434.php"
         },
         {
             "type": "plugin",
@@ -357,9 +387,41 @@
         },
         {
             "type": "plugin",
-            "title": "Test*",
-            "link": "script.module.jetextractors/?mode=play&url=https://daddylivehd.sx/stream/stream-379.php"
+            "title": "DAZN 1 Ger",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-426.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN 2 Ger",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-427.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN 1 Esp",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-445.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN 2 Esp",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-446.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN 3 Esp",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-447.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN 3 Esp",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-448.php"
+        },
+        {
+            "type": "plugin",
+            "title": "DAZN F1 Esp",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-537.php"
         }
+        
+        
         
     ]
 }
