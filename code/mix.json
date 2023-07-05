@@ -422,6 +422,61 @@
         },
         {
             "type": "plugin",
+            "title": "Movistar La Liga",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-84.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Liga de Campeones",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-435.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Deportes Spain",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-436.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Deportes 1 Spain",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-437.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Deportes 2 Spain",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-438.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Deportes 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-526.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Deportes 4",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-527.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar Golf Spain",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-528.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar La Liga 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-538.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar La Liga 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-539.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Movistar La Liga 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-540.php"
+        },
+        {
+            "type": "plugin",
             "title": "Eleven Sports 1",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-71.php"
         },
