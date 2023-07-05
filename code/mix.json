@@ -207,6 +207,11 @@
         },
         {
             "type": "plugin",
+            "title": "Fox Sports 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-758.php"
+        },
+        {
+            "type": "plugin",
             "title": "ESPN 1 USA",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-44.php"
         },
