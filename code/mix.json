@@ -242,6 +242,36 @@
         },
         {
             "type": "plugin",
+            "title": "Sportsnet Ontario",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-406.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sportsnet West",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-407.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sportsnet East",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-408.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sportsnet 360",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-409.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sportsnet World",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-410.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sportsnet One",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-411.php"
+        },
+        {
+            "type": "plugin",
             "title": "Tennis Channel",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-40.php"
         },
