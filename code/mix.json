@@ -628,22 +628,22 @@
         {
             "type": "plugin",
             "title": "Digi Sport 1 Romania",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-400.php"
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-400.php"
         },
         {
             "type": "plugin",
             "title": "Digi Sport 2 Romania",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-401.php"
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-401.php"
         },
         {
             "type": "plugin",
             "title": "Digi Sport 3 Romania",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-402.php"
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-402.php"
         },
         {
             "type": "plugin",
             "title": "Digi Sport 4 Romania",
-            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-403.php"
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-403.php"
         },
         {
             "type": "plugin",
@@ -664,6 +664,26 @@
             "type": "plugin",
             "title": "Match Football 3 Russia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-138.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Abu Dhabi Sports 1 UAE",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-600.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Abu Dhabi Sports 2 UAE",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-601.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Abu Dhabi Sports 1 Premium",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-609.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Abu Dhabi Sports 2 Premium",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-610.php"
         }
         
         
