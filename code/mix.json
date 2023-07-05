@@ -419,6 +419,21 @@
             "type": "plugin",
             "title": "DAZN F1 Esp",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-537.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Eleven Sports 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-71.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Eleven Sports 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-72.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Eleven Sports 3",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-428.php"
         }
         
         
