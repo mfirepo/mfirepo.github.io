@@ -342,17 +342,17 @@
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 1 Pr",
+            "title": "Bein Sports 1 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-98.php"
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 2 Pr",
+            "title": "Bein Sports 2 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-99.php"
         },
         {
             "type": "plugin",
-            "title": "Bein Sports 3 Pr",
+            "title": "Bein Sports 3 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-100.php"
         },
         {
@@ -407,48 +407,68 @@
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 1 Pr",
+            "title": "Arena Sport 1 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-134.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 2 Pr",
+            "title": "Arena Sport 2 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-135.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 3 Pr",
+            "title": "Arena Sport 3 Premium",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-139.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 1 Ser",
+            "title": "Arena Sport 1 Serbia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-429.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 2 Ser ",
+            "title": "Arena Sport 2 Serbia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-430.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 3 Ser",
+            "title": "Arena Sport 3 Serbia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-431.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 1 Cro",
+            "title": "Arena Sport 1 Croatia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-432.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 2 Cro ",
+            "title": "Arena Sport 2 Croatia ",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-433.php"
         },
         {
             "type": "plugin",
-            "title": "Arena Sport 3 Cro",
+            "title": "Arena Sport 3 Croatia",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-434.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Sports Golf Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-574.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Sport MotoGP Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-576.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Sport F1 Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-577.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Sport Tennis Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-575.php"
         },
         {
             "type": "plugin",
