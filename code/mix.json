@@ -212,6 +212,16 @@
         },
         {
             "type": "plugin",
+            "title": "FOX Soccer Plus",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-756.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Fox Cricket",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-369.php"
+        },
+        {
+            "type": "plugin",
             "title": "FOX Sports 502 AU",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-820.php"
         },
