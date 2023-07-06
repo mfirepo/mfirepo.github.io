@@ -52,8 +52,28 @@
         },
         {
             "type": "plugin",
+            "title": "Gold UK",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-687.php"
+        },
+        {
+            "type": "plugin",
             "title": "E4",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-363.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Film 4",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-688.php"
+        },
+        {
+            "type": "plugin",
+            "title": "RTE 1",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-364.php"
+        },
+        {
+            "type": "plugin",
+            "title": "RTE 2",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-365.php"
         }
 
 
