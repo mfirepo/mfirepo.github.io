@@ -487,6 +487,16 @@
         },
         {
             "type": "plugin",
+            "title": "Sky Sport 24 Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-869.php"
+        },
+        {
+            "type": "plugin",
+            "title": "Sky Sport Calcio Italy",
+            "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-870.php"
+        },
+        {
+            "type": "plugin",
             "title": "SporTv 1",
             "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-78.php"
         },
