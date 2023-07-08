@@ -61,9 +61,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-130.php"
     },
     {
+      "type": "item",
+      "title": "Sky Prem League",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSKYPL/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "Sky Football",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-35.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Football",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerskyfoot/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
