@@ -43,12 +43,6 @@
         },
         {
             "type": "item",
-            "title": "Crime 360",
-            "link": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail": "https://i.imgur.com/IjtaG1m.png"
-        },
-        {
-            "type": "item",
             "title": "Crime Investigation Australia",
             "link": "http://bitly.ws/BQes",
             "thumbnail": "https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png"
@@ -76,12 +70,6 @@
             "title": "Dog the Bounty Hunter",
             "link": "http://bitly.ws/BQex",
             "thumbnail": "https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png"
-        },
-        {
-            "type": "item",
-            "title": "English Club TV",
-            "link": "http://ott-cdn.ucom.am/s37/index.m3u8",
-            "thumbnail": "http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png"
         },
         {
             "type": "item",
@@ -135,18 +123,6 @@
             "title": "History (Opt-2)",
             "link": "http://bitly.ws/BQf4",
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"
-        },
-        {
-            "type": "item",
-            "title": "InsightTV",
-            "link": "https://insighttv-vizio.amagi.tv/playlist.m3u8",
-            "thumbnail": "https://i.imgur.com/iz3YpQ1.png"
-        },
-        {
-            "type": "item",
-            "title": "InWild",
-            "link": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8",
-            "thumbnail": "https://axiommedia.co/wp-content/uploads/2020/12/inwild-use.png"
         },
         {
             "type": "item",
