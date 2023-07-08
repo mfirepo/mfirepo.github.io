@@ -152,21 +152,6 @@
     },
     {
       "type": "plugin",
-      "title": "SS PSL",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-413.php"
-    },
-    {
-      "type": "plugin",
-      "title": "SS Motor Sport",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-424.php"
-    },
-    {
-      "type": "item",
-      "title": "SS Motor Sport",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportMotorsport/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "plugin",
       "title": "SS Golf",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-422.php"
     },
@@ -174,6 +159,16 @@
       "type": "item",
       "title": "SS Golf",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportGolf/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "plugin",
+      "title": "SS PSL",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-413.php"
+    },
+    {
+      "type": "plugin",
+      "title": "SS Motor Sport",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-424.php"
     },
     {
       "type": "plugin",
