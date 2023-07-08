@@ -106,9 +106,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-414.php"
     },
     {
+      "type": "item",
+      "title": "SS Prem League",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportPL/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS La Liga",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-415.php"
+    },
+    {
+      "type": "item",
+      "title": "SS La Liga",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportLaLiga/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -116,14 +126,29 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-56.php"
     },
     {
+      "type": "item",
+      "title": "SS Football",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportFootball/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Cricket",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-368.php"
     },
     {
+      "type": "item",
+      "title": "SS Cricket",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportCricket/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Grandstand",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-412.php"
+    },
+    {
+      "type": "item",
+      "title": "SS Grandstand",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSupersportGrandstand/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -136,14 +161,34 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-424.php"
     },
     {
+      "type": "item",
+      "title": "SS Motor Sport",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportMotorsport/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Golf",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-422.php"
     },
     {
+      "type": "item",
+      "title": "SS Golf",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportGolf/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Tennis",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-423.php"
+    },
+    {
+      "type": "item",
+      "title": "SS Action",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportAction/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "item",
+      "title": "SS Rugby",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportRugby/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -241,9 +286,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-39.php"
     },
     {
+      "type": "item",
+      "title": "Fox Sports 1",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerfs1/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "Fox Sports 2",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx/stream/stream-758.php"
+    },
+    {
+      "type": "item",
+      "title": "Fox Sports 2",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerfs2/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -291,9 +346,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-44.php"
     },
     {
+      "type": "item",
+      "title": "ESPN 1 USA",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerespn_usa/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "ESPN 2 USA",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-45.php"
+    },
+    {
+      "type": "item",
+      "title": "ESPN 2 USA",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerespn2_usa/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
