@@ -671,6 +671,31 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-870.php"
     },
     {
+      "type": "item",
+      "title": "SportsTV",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV1/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "item",
+      "title": "SportsTV 2",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV2/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "item",
+      "title": "SportsTV 3",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV3/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "item",
+      "title": "SportsTV 4",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV4/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
+      "type": "item",
+      "title": "SportsTV 5",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV5/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SporTv 1",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-78.php"
@@ -1069,32 +1094,8 @@
       "type": "plugin",
       "title": "Abu Dhabi Sports 2 Premium",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-610.php"
-    },
-    {
-      "type": "item",
-      "title": "SportsTV",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV1/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "item",
-      "title": "SportsTV 2",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV2/playlist.m3u8/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "item",
-      "title": "SportsTV 3",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV3/playlist.m3u8/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "item",
-      "title": "SportsTV 4",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV4/playlist.m3u8/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "item",
-      "title": "SportsTV 5",
-      "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV5/playlist.m3u8/playlist.m3u8|Referer=https://player.licenses4.me/"
     }
+    
     
    
   ]
