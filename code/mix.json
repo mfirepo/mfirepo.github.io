@@ -42,6 +42,11 @@
     },
     {
       "type": "plugin",
+      "title": "Sky Football",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-35.php"
+    },
+    {
+      "type": "plugin",
       "title": "Sky Action",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-37.php"
     },
