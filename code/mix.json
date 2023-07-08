@@ -787,46 +787,6 @@
     },
     {
       "type": "plugin",
-      "title": "Match TV Russia",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-127.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Match Football 1 Russia",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-136.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Match Football 2 Russia",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-137.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Match Football 3 Russia",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-138.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Abu Dhabi Sports 1 UAE",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-600.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Abu Dhabi Sports 2 UAE",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-601.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Abu Dhabi Sports 1 Premium",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-609.php"
-    },
-    {
-      "type": "plugin",
-      "title": "Abu Dhabi Sports 2 Premium",
-      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-610.php"
-    },
-    {
-      "type": "plugin",
       "title": "Cosmote Sport 1",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-622.php"
     },
@@ -869,7 +829,48 @@
       "type": "plugin",
       "title": "Cosmote Sport 9",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-630.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Match TV Russia",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-127.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Match Football 1 Russia",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-136.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Match Football 2 Russia",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-137.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Match Football 3 Russia",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-138.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Abu Dhabi Sports 1 UAE",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-600.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Abu Dhabi Sports 2 UAE",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-601.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Abu Dhabi Sports 1 Premium",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-609.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Abu Dhabi Sports 2 Premium",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-610.php"
     }
+    
    
   ]
 }
