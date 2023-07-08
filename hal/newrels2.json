@@ -1153,9 +1153,9 @@
         },
         {
             "type": "item",
-            "title": "Test",
+            "title": "Test**",
             "link": [
-                "https://cnl.cdnhks.lol/cnl/eplayerTSN_1_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
+                "https://cnl.cdnhks.lol/cnl/eplayerskymain2/playlist.m3u8|Referer=https://player.licenses4.me/"
             ],
             "thumbnail": "https://i.imgur.com/HVgZfHw.jpg"
         }
