@@ -361,9 +361,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-111.php"
     },
     {
+      "type": "item",
+      "title": "TSN 1",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerTSN_1_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "TSN 2",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-112.php"
+    },
+    {
+      "type": "item",
+      "title": "TSN 2",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerTSN_2_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -371,14 +381,29 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-113.php"
     },
     {
+      "type": "item",
+      "title": "TSN 3",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerTSN_3_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "TSN 4",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-114.php"
     },
     {
+      "type": "item",
+      "title": "TSN 4",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerTSN_4_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "TSN 5",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-115.php"
+    },
+    {
+      "type": "item",
+      "title": "TSN 5",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerTSN_5_HD/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
