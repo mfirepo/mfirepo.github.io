@@ -191,9 +191,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-416.php"
     },
     {
+      "type": "item",
+      "title": "SS Variety 1",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportVariety1/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Variety 2",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-417.php"
+    },
+    {
+      "type": "item",
+      "title": "SS Variety 2",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportVariety2/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -201,9 +211,19 @@
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-418.php"
     },
     {
+      "type": "item",
+      "title": "SS Variety 3",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportVariety3/playlist.m3u8|Referer=https://player.licenses4.me/"
+    },
+    {
       "type": "plugin",
       "title": "SS Variety 4",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-419.php"
+    },
+    {
+      "type": "item",
+      "title": "SS Variety 4",
+      "link": "https://cnl.cdnhks.lol/cnl/eplayerSuperSportVariety4/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
@@ -672,77 +692,77 @@
     },
     {
       "type": "item",
-      "title": "SportsTV",
+      "title": "SportTV Portugal",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV1/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "item",
-      "title": "SportsTV 2",
+      "title": "SportTV 2 Portugal",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV2/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "item",
-      "title": "SportsTV 3",
+      "title": "SportTV 3 Portugal",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV3/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "item",
-      "title": "SportsTV 4",
+      "title": "SportTV 4 Portugal",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV4/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "item",
-      "title": "SportsTV 5",
+      "title": "SportTV 5 Portugal",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerSPORTTV5/playlist.m3u8|Referer=https://player.licenses4.me/"
     },
     {
       "type": "plugin",
-      "title": "SporTv 1",
+      "title": "SporTv 1 Brasil",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-78.php"
     },
     {
       "type": "plugin",
-      "title": "SporTv 2",
+      "title": "SporTv 2 Brasil",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-79.php"
     },
     {
       "type": "plugin",
-      "title": "SporTv 3",
+      "title": "SporTv 3 Brasil",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-80.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 1 Ger",
+      "title": "DAZN 1 Germany",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-426.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 2 Ger",
+      "title": "DAZN 2 Germany",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-427.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 1 Esp",
+      "title": "DAZN 1 Spain",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-445.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 2 Esp",
+      "title": "DAZN 2 Spain",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-446.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 3 Esp",
+      "title": "DAZN 3 Spain",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-447.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN 4 Esp",
+      "title": "DAZN 4 Spain",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-448.php"
     },
     {
       "type": "plugin",
-      "title": "DAZN F1 Esp",
+      "title": "DAZN F1 Spain",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-537.php"
     },
     {
