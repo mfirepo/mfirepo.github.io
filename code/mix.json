@@ -497,6 +497,11 @@
     },
     {
       "type": "plugin",
+      "title": "NFL Network",
+      "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-405.php"
+    },
+    {
+      "type": "plugin",
       "title": "Racing UK",
       "link": "script.module.bolt/?mode=play&url=https://daddylivehd.sx//stream/stream-555.php"
     },
