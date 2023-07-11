@@ -1845,12 +1845,6 @@
         },
         {
             "type": "item",
-            "title": "The Transformers: The Movie (1986)",
-            "link": "magnet:?xt=urn:btih:df50d081de15747d3923d769f3298b57d0ef4cb6&amp;dn=The.Transformers.The.Movie.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-GUHZER",
-            "thumbnail": "https://i.imgur.com/lsH6DkK.jpg"
-        },
-        {
-            "type": "item",
             "title": "The Wolf of Wall Street (2013)",
             "link": "magnet:?xt=urn:btih:8460df293adaec0e2ba9c3bde5403b9cdb649ac4&amp;dn=The.Wolf.of.Wall.Street.2013.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ",
             "thumbnail": "https://i.imgur.com/5onmmg4.jpg"
@@ -1908,6 +1902,12 @@
             "title": "Toy Story 4 (2019)",
             "link": "magnet:?xt=urn:btih:9e1fda28c60b0ca173e2b8f8f30ba7703b92bce9&amp;dn=Toy.Story.4.2019.1080p.BluRay.x265-RARBG",
             "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Transformers: The Movie (1986)",
+            "link": "magnet:?xt=urn:btih:df50d081de15747d3923d769f3298b57d0ef4cb6&amp;dn=The.Transformers.The.Movie.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-GUHZER",
+            "thumbnail": "https://i.imgur.com/lsH6DkK.jpg"
         },
         {
             "type": "item",
