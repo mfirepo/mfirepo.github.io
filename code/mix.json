@@ -2,7 +2,7 @@
   "items": [
     {
       "type": "plugin",
-      "title": "BT Sport 1*",
+      "title": "BT Sport 1",
       "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-31.php"
     },
     {
@@ -269,11 +269,6 @@
       "type": "item",
       "title": "Willow Cricket",
       "link": "https://cnl.cdnhks.lol/cnl/eplayerwillow/playlist.m3u8|Referer=https://player.licenses4.me/"
-    },
-    {
-      "type": "plugin",
-      "title": "Fox Cricket",
-      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-369.php"
     },
     {
       "type": "plugin",
