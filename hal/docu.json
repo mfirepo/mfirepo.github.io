@@ -2,6 +2,18 @@
     "items": [
         {
             "type": "item",
+            "title": "What the Health",
+            "link": "https://dooood.com/d/6j5br42tbqnw",
+            "thumbnail": "https://i.imgur.com/WRM1lh0.jpg"
+        },
+        {
+            "type": "item",
+            "title": "The Curious Birth of Benjamin Button",
+            "link": "https://dooood.com/d/bcyg0ng4ud86",
+            "thumbnail": "https://i.imgur.com/bA59KPF.jpg"
+        },
+        {
+            "type": "item",
             "title": "Hearts of Darkness",
             "link": "https://dooood.com/d/xydzmtiixw2d",
             "thumbnail": "https://i.imgur.com/CT1FJRy.jpg"
