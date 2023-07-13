@@ -2,6 +2,18 @@
     "items": [
         {
             "type": "item",
+            "title": "Fresh Dressed",
+            "link": "https://dooood.com/d/wl67o76it5vd",
+            "thumbnail": "https://i.imgur.com/DECA8WV.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Jim & Andy: The Great Beyond",
+            "link": "https://dooood.com/d/sho3323zz2of",
+            "thumbnail": "https://i.imgur.com/8acXyJN.jpg"
+        },
+        {
+            "type": "item",
             "title": "What the Health",
             "link": "https://dooood.com/d/6j5br42tbqnw",
             "thumbnail": "https://i.imgur.com/WRM1lh0.jpg"
