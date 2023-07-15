@@ -1,7 +1,15 @@
 {
 	"items": [
-
 		{
+			"type": "item",
+			"title": "KSW 84 : Philip De Fries vs Szymon Bajor",
+			"link": [
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-86.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-120.php"
+
+			]
+		},
+                {
 			"type": "item",
 			"title": "UFC Fight Night Prelims : Tucker Lutz vs Melsik Baghdasaryan",
 			"link": [
