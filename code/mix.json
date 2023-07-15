@@ -9,18 +9,7 @@
       "type": "dir",
       "title": "[COLORlime]Non-English Channels[/COLOR]",
       "link": "https://archive.org/download/foreign_202307/foreign.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Free Sports Channels[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fsportz.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Fanzone[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fans.json"
     }
-    
 
   ]
 
