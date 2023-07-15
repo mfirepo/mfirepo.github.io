@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "dir",
+      "title": "[COLORlime]Live Events[/COLOR]",
+      "link": "https://mfirepo.github.io/code/events.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORlime]English Audio Channels[/COLOR]",
       "link": "https://archive.org/download/english_202307/english.json"
     },
