@@ -5,12 +5,12 @@
 			"type": "plugin",
 			"title": "UFC Fight Night Prelims : Tucker Lutz vs Melsik Baghdasaryan",
 			"link": [
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-105.php",
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-31.php",
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-44.php",
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-112.php",
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-120.php",
-				"script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-375.php"
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-105.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-31.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-44.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-112.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-120.php",
+				"plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-375.php"
 
 			]
 		}
