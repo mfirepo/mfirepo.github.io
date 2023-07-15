@@ -2,8 +2,8 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORlime]Live Events*[/COLOR]",
-      "link": "https://mfirepo.github.io/code/events.xml"
+      "title": "[COLORlime]Live Events[/COLOR]",
+      "link": "https://mfirepo.github.io/code/events.json"
     },
     {
       "type": "dir",
