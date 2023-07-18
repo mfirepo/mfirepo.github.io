@@ -148,6 +148,18 @@
             "link": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8",
             "thumbnail": "https://i.imgur.com/YGROdIl.png"
         },
+	{
+            "type": "item",
+            "title": "My5 Crime",
+            "link": "http://bitly.ws/LIiV",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/My5_Crime.png"
+        },
+	{
+            "type": "item",
+            "title": "My5 Documentaries",
+            "link": "http://bitly.ws/LIjp",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/My5_Documentaries.png"
+        },
         {
             "type": "item",
             "title": "MythBusters",
@@ -261,6 +273,12 @@
             "title": "Smithsonian Channel",
             "link": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/T0XrMnW.png"
+        },
+        {
+            "type": "item",
+            "title": "Smithsonian Channel Select",
+            "link": "http://bitly.ws/BQ6X",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/Smithsonian_Channel_Selects.png"
         },
         {
             "type": "item",
