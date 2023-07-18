@@ -35,6 +35,12 @@
             "link": "http://bitly.ws/A5KA",
             "thumbnail": "https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png"
         },
+	{
+            "type": "item",
+            "title": "Clarity 4K",
+            "link": "https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/Clarity_4K.png"
+        },
         {
             "type": "item",
             "title": "Court TV",
@@ -249,6 +255,12 @@
             "title": "Pluto TV Voyager Documentaries",
             "link": "http://bitly.ws/BQsL",
             "thumbnail": "https://i.imgur.com/bbqk8XO.png"
+        },
+	{
+            "type": "item",
+            "title": "Power Nation",
+            "link": "http://bitly.ws/LIsT",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/PowerNation.png"
         },
         {
             "type": "item",
