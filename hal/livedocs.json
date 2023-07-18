@@ -280,6 +280,12 @@
             "link": "https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8",
             "thumbnail": "https://i.imgur.com/xwHhiAc.png"
         },
+	{
+            "type": "item",
+            "title": "This Old House",
+            "link": "http://bitly.ws/LIpC",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/This_Old_House.png"
+        },
         {
             "type": "item",
             "title": "Timeline",
