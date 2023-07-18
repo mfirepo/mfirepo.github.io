@@ -41,6 +41,12 @@
             "link": "http://bitly.ws/BQes",
             "thumbnail": "https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png"
         },
+	{
+            "type": "item",
+            "title": "Danger TV",
+            "link": "http://bitly.ws/LIqE",
+            "thumbnail": "https://github.com/RW1986/IPTV/raw/main/logos/Danger_TV.png"
+        },
         {
             "type": "item",
             "title": "Docs Channel",
