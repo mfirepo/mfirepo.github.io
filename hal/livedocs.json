@@ -31,12 +31,6 @@
         },
         {
             "type": "item",
-            "title": "Cold Case Files",
-            "link": "http://bitly.ws/BQeq",
-            "thumbnail": "https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png"
-        },
-        {
-            "type": "item",
             "title": "Court TV",
             "link": "https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8",
             "thumbnail": "https://i.imgur.com/qkfe3o9.png"
@@ -126,12 +120,6 @@
         },
         {
             "type": "item",
-            "title": "InWonder",
-            "link": "https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8",
-            "thumbnail": "https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwonder-use.png"
-        },
-        {
-            "type": "item",
             "title": "Law & Crime",
             "link": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/HY64Nhe.png"
@@ -183,12 +171,6 @@
             "title": "Naturescape",
             "link": "http://bitly.ws/BQfc",
             "thumbnail": "https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png"
-        },
-        {
-            "type": "item",
-            "title": "Now You Know",
-            "link": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8",
-            "thumbnail": "https://i.imgur.com/78K3L8J.png"
         },
         {
             "type": "item",
@@ -300,12 +282,6 @@
         },
         {
             "type": "item",
-            "title": "The Titanic Channel",
-            "link": "https://a.jsrdn.com/broadcast/e6bdcb5ae9/+0000/c.m3u8",
-            "thumbnail": "https://i.imgur.com/uIZpZky.png"
-        },
-        {
-            "type": "item",
             "title": "Timeline",
             "link": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/JzOT1J7.png"
@@ -333,12 +309,6 @@
             "title": "Wonder",
             "link": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/qTbCyOj.png"
-        },
-        {
-            "type": "item",
-            "title": "X Zone Channel",
-            "link": "https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8",
-            "thumbnail": "https://i.imgur.com/ozQoHyf.png"
         },
         {
             "type": "item",
