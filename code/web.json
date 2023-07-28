@@ -416,9 +416,23 @@
         },
         {
             "type": "item",
-            "title": "[COLORwhite]Channel 61[/COLOR]",
+            "title": "[COLORwhite]Bein 1 English[/COLOR]",
             "link": [
                 "https://webudit.cdnhks.lol/lb/premium61/index.m3u8|Referer=https://ntuplay.xyz/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Channel 90[/COLOR]",
+            "link": [
+                "https://webudit.cdnhks.lol/lb/premium90/index.m3u8|Referer=https://ntuplay.xyz/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Bein 3 English[/COLOR]",
+            "link": [
+                "https://webudit.cdnhks.lol/lb/premium46/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
         {
