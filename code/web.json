@@ -294,13 +294,7 @@
                 "https://webudit.cdnhks.lol/lb/premium42/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
-        {
-            "type": "item",
-            "title": "[COLORwhite]Channel 43[/COLOR]",
-            "link": [
-                "https://webudit.cdnhks.lol/lb/premium43/index.m3u8|Referer=https://ntuplay.xyz/"
-            ]
-        },
+       
         {
             "type": "item",
             "title": "[COLORwhite]Channel 44[/COLOR]",
@@ -856,30 +850,37 @@
         },
         {
             "type": "item",
-            "title": "[COLORwhite]Channel 123[/COLOR]",
+            "title": "[COLORwhite]Astro Supersport 1[/COLOR]",
             "link": [
                 "https://webudit.cdnhks.lol/lb/premium123/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
         {
             "type": "item",
-            "title": "[COLORwhite]Channel 124[/COLOR]",
+            "title": "[COLORwhite]Astro Supersport 2[/COLOR]",
             "link": [
                 "https://webudit.cdnhks.lol/lb/premium124/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
         {
             "type": "item",
-            "title": "[COLORwhite]Channel 125[/COLOR]",
+            "title": "[COLORwhite]Astro Supersport 3[/COLOR]",
             "link": [
                 "https://webudit.cdnhks.lol/lb/premium125/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
         {
             "type": "item",
-            "title": "[COLORwhite]Channel 126[/COLOR]",
+            "title": "[COLORwhite]Astro Supersport 4[/COLOR]",
             "link": [
                 "https://webudit.cdnhks.lol/lb/premium126/index.m3u8|Referer=https://ntuplay.xyz/"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Astro Supersport 5[/COLOR]",
+            "link": [
+                "https://webudit.cdnhks.lol/lb/premium43/index.m3u8|Referer=https://ntuplay.xyz/"
             ]
         },
         {
