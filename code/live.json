@@ -22,6 +22,11 @@
         },
         {
             "type": "item",
+            "title": "BBC News",
+            "link": "https://webudit.cdnhks.lol/lb/premium349/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "ITV 1",
             "link": "https://webudit.cdnhks.lol/lb/premium350/index.m3u8|Referer=https://ntuplay.xyz/"
         },
@@ -219,6 +224,11 @@
             "type": "item",
             "title": "AXS TV",
             "link": "https://webudit.cdnhks.lol/lb/premium742/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Boomerang",
+            "link": "https://webudit.cdnhks.lol/lb/premium648/index.m3u8|Referer=https://ntuplay.xyz/"
         },
         {
             "type": "item",
