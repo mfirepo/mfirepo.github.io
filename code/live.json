@@ -262,8 +262,23 @@
         },
         {
             "type": "item",
+            "title": "Comet USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium696/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Cooking Channel USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium697/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "Boomerang",
             "link": "https://webudit.cdnhks.lol/lb/premium648/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Cartoon Network",
+            "link": "https://webudit.cdnhks.lol/lb/premium339/index.m3u8|Referer=https://ntuplay.xyz/"
         },
         {
             "type": "item",
