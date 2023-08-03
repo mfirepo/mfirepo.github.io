@@ -57,11 +57,6 @@
         },
         {
             "type": "item",
-            "title": "Sky Showcase",
-            "link": "https://webudit.cdnhks.lol/lb/premium682/index.m3u8|Referer=https://ntuplay.xyz/"
-        },
-        {
-            "type": "item",
             "title": "Sky Comedy",
             "link": "https://webudit.cdnhks.lol/lb/premium684/index.m3u8|Referer=https://ntuplay.xyz/"
         },
@@ -174,6 +169,26 @@
             "type": "item",
             "title": "Film 4",
             "link": "https://webudit.cdnhks.lol/lb/premium688/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Discovery Channel",
+            "link": "https://webudit.cdnhks.lol/lb/premium313/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Discovery Family",
+            "link": "https://webudit.cdnhks.lol/lb/premium657/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Discovery Life Channel",
+            "link": "https://webudit.cdnhks.lol/lb/premium311/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Investigation Discovery (USA)",
+            "link": "https://webudit.cdnhks.lol/lb/premium324/index.m3u8|Referer=https://ntuplay.xyz/"
         },
         {
             "type": "item",
