@@ -232,6 +232,26 @@
         },
         {
             "type": "item",
+            "title": "CBS USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium52/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "CW USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium300/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "CNBC USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium309/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "COZI TV USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium748/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "Boomerang",
             "link": "https://webudit.cdnhks.lol/lb/premium648/index.m3u8|Referer=https://ntuplay.xyz/"
         },
