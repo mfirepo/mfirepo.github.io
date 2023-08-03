@@ -2,6 +2,24 @@
     "items": [
         {
             "type": "item",
+            "title": "Mixtape",
+            "link": "https://dooood.com/d/po9ybky929a7",
+            "thumbnail": "https://i.imgur.com/kQCtQOf.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Untold: Jake Paul the Problem Child",
+            "link": "https://dooood.com/d/u1vdg2uhp1ip",
+            "thumbnail": "https://i.imgur.com/y0axIIN.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Revealed: The Cape",
+            "link": "https://dooood.com/d/7i1vlsv7fzhv",
+            "thumbnail": "https://i.imgur.com/q2Z94SZ.jpg"
+        },
+        {
+            "type": "item",
             "title": "Unknown: Cosmic Time Machine",
             "link": "https://dooood.com/d/tdox5xpvcoxd",
             "thumbnail": "https://i.imgur.com/MFU6mH8.jpg"
