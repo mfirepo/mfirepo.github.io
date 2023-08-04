@@ -417,6 +417,71 @@
         },
         {
             "type": "item",
+            "title": "Smithsonian Channel",
+            "link": "https://webudit.cdnhks.lol/lb/premium601/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TBS",
+            "link": "https://webudit.cdnhks.lol/lb/premium336/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TLC",
+            "link": "https://webudit.cdnhks.lol/lb/premium337/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TNT",
+            "link": "https://webudit.cdnhks.lol/lb/premium338/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Travel Channel",
+            "link": "https://webudit.cdnhks.lol/lb/premium340/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TruTV USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium341/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TVLAND",
+            "link": "https://webudit.cdnhks.lol/lb/premium342/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TCM USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium664/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TMC Channel USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium698/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "The Food Network",
+            "link": "https://webudit.cdnhks.lol/lb/premium384/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "The Weather Channel",
+            "link": "https://webudit.cdnhks.lol/lb/premium394/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TV ONE USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium660/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "USA Network",
+            "link": "https://webudit.cdnhks.lol/lb/premium343/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "Boomerang",
             "link": "https://webudit.cdnhks.lol/lb/premium648/index.m3u8|Referer=https://ntuplay.xyz/"
         },
@@ -459,6 +524,16 @@
             "type": "item",
             "title": "Nick Toons",
             "link": "https://webudit.cdnhks.lol/lb/premium649/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "TeenNick",
+            "link": "https://webudit.cdnhks.lol/lb/premium650/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Universal Kids USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium668/index.m3u8|Referer=https://ntuplay.xyz/"
         },
         {
             "type": "item",
