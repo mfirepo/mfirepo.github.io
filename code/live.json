@@ -397,6 +397,16 @@
         },
         {
             "type": "item",
+            "title": "RTE 1",
+            "link": "https://webudit.cdnhks.lol/lb/premium364/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "RTE 2",
+            "link": "https://webudit.cdnhks.lol/lb/premium365/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "Science Channel",
             "link": "https://webudit.cdnhks.lol/lb/premium294/index.m3u8|Referer=https://ntuplay.xyz/"
         },
@@ -482,6 +492,26 @@
         },
         {
             "type": "item",
+            "title": "VH1 USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium344/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "Vice",
+            "link": "https://webudit.cdnhks.lol/lb/premium659/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "WETV",
+            "link": "https://webudit.cdnhks.lol/lb/premium655/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
+            "title": "YES Network USA",
+            "link": "https://webudit.cdnhks.lol/lb/premium763/index.m3u8|Referer=https://ntuplay.xyz/"
+        },
+        {
+            "type": "item",
             "title": "Boomerang",
             "link": "https://webudit.cdnhks.lol/lb/premium648/index.m3u8|Referer=https://ntuplay.xyz/"
         },
@@ -534,17 +564,8 @@
             "type": "item",
             "title": "Universal Kids USA",
             "link": "https://webudit.cdnhks.lol/lb/premium668/index.m3u8|Referer=https://ntuplay.xyz/"
-        },
-        {
-            "type": "item",
-            "title": "RTE 1",
-            "link": "https://webudit.cdnhks.lol/lb/premium364/index.m3u8|Referer=https://ntuplay.xyz/"
-        },
-        {
-            "type": "item",
-            "title": "RTE 2",
-            "link": "https://webudit.cdnhks.lol/lb/premium365/index.m3u8|Referer=https://ntuplay.xyz/"
         }
+        
 
 
     ]
