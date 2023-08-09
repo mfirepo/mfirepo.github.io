@@ -2,6 +2,18 @@
     "items": [
         {
             "type": "item",
+            "title": "Meeting Gorbachev",
+            "link": "https://doodstream.com/d/2djs4zj3odrm",
+            "thumbnail": "https://i.imgur.com/rDrr1XG.jpg"
+        },
+        {
+            "type": "item",
+            "title": "The Magic Pill",
+            "link": "https://doodstream.com/d/qrkxv9oqa6al",
+            "thumbnail": "https://i.imgur.com/1NgpVjz.jpg"
+        },
+        {
+            "type": "item",
             "title": "Missing 411: The Hunted",
             "link": "https://doodstream.com/d/p5lpafhg55wd",
             "thumbnail": "https://i.imgur.com/CBGjfiT.jpg"
