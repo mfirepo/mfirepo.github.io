@@ -2,7 +2,19 @@
     "items": [
         {
             "type": "item",
-            "title": "Earth: One Amazing Day*",
+            "title": "Lake of Fire",
+            "link": "https://doodstream.com/d/1n2kyuc38ylh",
+            "thumbnail": "https://i.imgur.com/vZtg6EM.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Dancing with the Birds",
+            "link": "https://doodstream.com/d/gf0uounrrn20",
+            "thumbnail": "https://i.imgur.com/oXcd3uE.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Earth: One Amazing Day",
             "link": "https://doodstream.com/d/icj7tmizmvnm",
             "thumbnail": "https://i.imgur.com/gDRtnih.jpg"
         },
