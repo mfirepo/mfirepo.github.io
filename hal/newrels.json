@@ -10,7 +10,19 @@
             "type": "dir", 
             "title": "[COLORred]*** ResolveUrl Currently-5.1.105 ***[/COLOR]"
         },
-         {
+        {
+            "type": "item",
+            "title": "Heart Of Stone (2023)",
+            "link": [
+                "https://www.youtube.com/watch?v=XuDwndGaCFo([COLORblue]Trailer[/COLOR])",
+                "https://hexupload.net/12gj1879w9c5([COLORred]HD-Free[/COLOR])",
+                
+                "https://hexupload.net/1flo5se37y3l([COLORlime]FHD-Free[/COLOR])"
+                
+            ],
+            "thumbnail": "https://i.imgur.com/Xqf5jvX.jpg"
+        },
+        {
             "type": "item",
             "title": "Cobweb (2023)",
             "link": [
