@@ -1,0 +1,16 @@
+{
+      "type": "dir",
+      "title": "[COLORwhite]New Documentaries[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/docu.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Documentary Channels[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/livedocs.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]cMans Free Documantaries[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml"
+    }
+    
