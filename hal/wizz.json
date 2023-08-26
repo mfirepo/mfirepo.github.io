@@ -17,6 +17,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Movie Collections (Over 400)[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/coll.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]TV Shows[/COLOR]",
       "link": "tmdb/list/8237878"
     },
