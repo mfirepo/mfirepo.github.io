@@ -2,11 +2,35 @@
     "items": [
         {
             "type": "item",
+            "title": "Tech Billionaires: Elon Musk",
+            "link": "https://doods.pro/d/4yctmxdi24ji",
+            "thumbnail": "https://i.imgur.com/x4vDETf.jpg"
+        },
+        {
+            "type": "item",
+            "title": "The Story of Bohemian Rhapsody",
+            "link": "https://doods.pro/d/zyc8gqb1l9ny",
+            "thumbnail": "https://i.imgur.com/8uxgHjf.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Grand Knighthawk: Infiltrating the KKK",
+            "link": "https://doods.pro/d/9h3h8fur7g0i",
+            "thumbnail": "https://i.imgur.com/hkx9jvJ.jpg"
+        },
+        {
+            "type": "item",
+            "title": "2020 Nostradamus",
+            "link": "https://doods.pro/d/aajbj7kfqw44",
+            "thumbnail": "https://i.imgur.com/osUljyv.jpg"
+        },
+        {
+            "type": "item",
             "title": "Artifishal",
             "link": "https://doods.pro/d/pg3t73jed54w",
             "thumbnail": "https://i.imgur.com/2JiTkaP.jpg"
         },
-         {
+        {
             "type": "item",
             "title": "Trap Jazz",
             "link": "https://doods.pro/d/1nm40sjsvkot",
