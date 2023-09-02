@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]cMans Debrid Movies[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/MOVIES/Debrid-Main.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]British Cinema[/COLOR]",
       "link": "https://mfirepo.github.io/hal/brit.json"
     },
