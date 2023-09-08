@@ -6,7 +6,21 @@
             "title": "[COLORlime]>>>> JoBlo Movie Trailers <<<< Click!![/COLOR]",
             "link": "https://youtube.com/channel/UCT37npEfScFdfHeiIOpFKJg"
         },
-         {
+        {
+            "type": "item",
+            "title": "Sitting in Bars with Cake (2023)",
+            "link": [
+                "https://www.youtube.com/watch?v=DBzFS40KD0Y([COLORblue]Trailer[/COLOR])",
+                "https://hexupload.net/xrn890gl1zot([COLORred]HD-Free[/COLOR])",
+                "https://streamtape.com/v/q7qVGJK4K4CzVDX/([COLORlime]FHD-Free[/COLOR])",
+                "magnet:?xt=urn:btih:f618c05242fc789d035552033c8fe453c024eb9a&dn=Sitting.In.Bars.With.Cake.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG([COLORyellow]FHD-Debrid[/COLOR])",
+                "magnet:?xt=urn:btih:3b2148482019047955234e5703b9a9cc5647d525&dn=Sitting.In.Bars.With.Cake.2023.HDR.2160p.WEB.H265-AccomplishedYak[TGx]([COLORorchid]UHD-Debrid[/COLOR])"
+                
+             
+            ],
+            "thumbnail": "https://i.imgur.com/gsgsyvi.jpg"
+        },
+        {
             "type": "item",
             "title": "Office Race (2023)",
             "link": [
