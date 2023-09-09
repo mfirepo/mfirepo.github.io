@@ -2,6 +2,18 @@
     "items": [
         {
             "type": "item",
+            "title": "Sole Survivor",
+            "link": "https://doods.pro/d/6du6shgoctqp",
+            "thumbnail": "https://i.imgur.com/XTtaMZD.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Iceland's Fire and Ice",
+            "link": "https://doods.pro/d/1ajkmpin4dsa",
+            "thumbnail": "https://i.imgur.com/ghAQ0qq.jpg"
+        },
+        {
+            "type": "item",
             "title": "Michelin Stars: Tales from the Kitchen",
             "link": "https://doods.pro/d/yln6kznqef8r",
             "thumbnail": "https://i.imgur.com/OV6Ock5.jpg"
