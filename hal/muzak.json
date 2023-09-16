@@ -10,10 +10,15 @@
       "title": "[COLORlime]Video Jukebox[/COLOR]",
       "link": "https://mfirepo.github.io/hal/jb.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORlime]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Mp3 Streams[/COLOR]",
+      "link": "plugin.audio.mp3streams"
     }
 	
 ]
