@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORlime]Debrid Movies[/COLOR]",
+      "link": "tmdb/list/8236189"
+    },
+    {
+      "type": "dir",
       "title": "[COLORlime]British Cinema[/COLOR]",
       "link": "https://mfirepo.github.io/hal/brit.json"
     },
