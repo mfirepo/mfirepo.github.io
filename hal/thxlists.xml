@@ -30,3 +30,7 @@
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
+<plugin>
+	<title>[COLORwhite]Test[/COLOR]</title>
+	<link>plugin://plugin.video.wizz/?all_w=%7b%7d&amp;data=%20&amp;dates=%20&amp;description=Test&amp;eng_name=%20&amp;episode=%20&amp;fanart=https%3a%2f%2fi.imgur.com%2f7ecKGeN.jpg&amp;fav_status=false&amp;heb_name=%20&amp;iconimage=C%3a%5cUsers%5cDuncan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.wizz%5cresources%5cartwork%2fbasic.png&amp;id&amp;image_master&amp;isr=0&amp;last_id&amp;mode=202&amp;mypass&amp;name=%5bCOLORwhite%5dFree%20Shows%5b%2fCOLOR%5d&amp;original_title=%20&amp;search_db&amp;season=%20&amp;show_original_year=%20&amp;tmdbid=%20&amp;url=1&amp;video_data=%7b%22title%22%3a%20%22%5bCOLORwhite%5dFree%20Shows%5b%2fCOLOR%5d%22%2c%20%22mediatype%22%3a%20%22movie%22%2c%20%22TVshowtitle%22%3a%20%22%22%2c%20%22season%22%3a%200%2c%20%22episode%22%3a%200%2c%20%22OriginalTitle%22%3a%20%22%20%22%2c%20%22rating%22%3a%20%220%22%2c%20%22plot%22%3a%20%22Test%22%2c%20%22Tag%22%3a%20%22None%22%2c%20%22id%22%3a%20%22%22%7d&quot;,return</link>
+</plugin>
