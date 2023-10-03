@@ -5,6 +5,10 @@
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/thx.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]Web Movies[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=doo_main</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/deb.xml</link>
