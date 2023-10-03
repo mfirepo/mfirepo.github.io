@@ -14,3 +14,19 @@
 	<title>[COLORwhite]cMans Movies Debrid[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/MOVIES/Debrid-Main.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]UK Channels[/COLOR]</title>
+	<link>plugin://plugin.video.samm_tv/samsung_tv/region/gb</link>
+</plugin>
+<plugin>
+	<title>[COLORwhite]US Channels[/COLOR]</title>
+	<link>plugin://plugin.video.samm_tv/samsung_tv/region/us</link>
+</plugin>
+<plugin>
+	<title>[COLORwhite]BBC iPlayer[/COLOR]</title>
+	<link>plugin://plugin.video.iplayerwww</link>
+</plugin>
+<plugin>
+	<title>[COLORwhite]Crackle TV[/COLOR]</title>
+	<link>plugin://plugin.video.crackle</link>
+</plugin>
