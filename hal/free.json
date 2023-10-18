@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/thx.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free British Cinema[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/brit.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free UK Soap Catchup[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/soap.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Comedy Shows[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/com.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Documentaries[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/docsel.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Video Jukebox[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/muzak.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Live Webcams[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/webs.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free TV Apps[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/apps.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free Fanzone[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/fans.json"
+    }
+    
+  ]
+}
