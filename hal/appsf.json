@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "type": "plugin",
+      "title": "[COLORlime]UK Channels[/COLOR]",
+      "link": "plugin.video.halcyon/samsung_tv/region/gb"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]US Channels[/COLOR]",
+      "link": "plugin.video.halcyon/samsung_tv/region/us"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Canadian Channels[/COLOR]",
+      "link": "plugin.video.halcyon/samsung_tv/region/ca"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]The Wizz[/COLOR]",
+      "link": "plugin.video.wizz/"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Documentary Heaven[/COLOR]",
+      "link": "plugin.video.documentaryheaven"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Pluto TV App[/COLOR]",
+      "link": "plugin.video.plutotv"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Crackle TV[/COLOR]",
+      "link": "plugin.video.crackle"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Free Sports[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/fsportz.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Fat To Fit[/COLOR]",
+      "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSNmvER-qwxWqVK4vmDegL55"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Fluxus TV[/COLOR]",
+      "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Live TV[/COLOR]",
+      "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]World Free TV[/COLOR]",
+      "link": "https://mawashi360.github.io/worldfree.m3u"
+    }
+    
+  ]
+}
