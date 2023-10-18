@@ -1,5 +1,25 @@
  {
     "items": [
+     {
+            "type": "item",
+            "title": "All Sports",
+            "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "ATG",
+            "link": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Bahrain Sports 1",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Bahrain Sports 2",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+        },
         {
             "type": "item",
             "title": "Bein Sports Xtra (Opt 1)",
@@ -22,6 +42,11 @@
         },
         {
             "type": "item",
+            "title": "Canal Motor",
+            "link": "http://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+        },
+        {
+            "type": "item",
             "title": "Cars",
             "link": "http://bitly.ws/BQ6X"
         },
@@ -34,6 +59,36 @@
             "type": "item",
             "title": "Darcizzle Offshore",
             "link": "http://30a-tv.com/darcizzle.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Racing 1",
+            "link": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Racing 2",
+            "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Racing 3",
+            "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Sports 1",
+            "link": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Sports 2",
+            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+        },
+     {
+            "type": "item",
+            "title": "Dubai Sports 3",
+            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
         },
         {
             "type": "item",
