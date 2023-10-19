@@ -46,9 +46,9 @@
       "link": "https://mfirepo.github.io/hal/appsf.json"
     },
     {
-      "type": "dir",
+      "type": "plugin",
       "title": "[COLORred]Free To Air Sport[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fsportz.json"
+      "link": "plugin://plugin.video.ftasport"
     },
     {
       "type": "dir",
