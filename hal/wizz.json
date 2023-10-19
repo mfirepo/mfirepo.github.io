@@ -68,7 +68,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Free Sports[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fsportz.json"
+      "link": "plugin://plugin.video.ftasport"
     },
     {
       "type": "dir",
