@@ -312,59 +312,10 @@
         },
         {
             "type": "dir",
-            "title": "[COLORlime]Non-English Audio Below[/COLOR]",
-            "link": "https://"
-        },
-        {
-            "type": "item",
-            "title": "Abu Dhabi Sports 1",
-            "link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Abu Dhabi Sports 2",
-            "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "All Sports",
-            "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "ATG",
-            "link": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Bahrain Sports `",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportsone_all/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Bahrain Sports 2",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Dubai Racing 2",
-            "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Dubai Racing 3",
-            "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Dubai Sports 2",
-            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Dubai Sports 3",
-            "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+            "title": "[COLORlime]Test[/COLOR]",
+            "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|Sport"
         }
+       
         
             
         
