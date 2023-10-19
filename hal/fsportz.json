@@ -2,6 +2,16 @@
     "items": [
      {
             "type": "item",
+            "title": "Abu Dhabi Sports 1",
+            "link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Abu Dhabi Sports 2",
+            "link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
             "title": "All Sports",
             "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
         },
