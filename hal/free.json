@@ -52,6 +52,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORred]Free Replays[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORred]Free Fanzone[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fans.json"
     }
