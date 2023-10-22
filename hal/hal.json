@@ -52,6 +52,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORlime]Sports Replays[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORlime]TV Apps[/COLOR]",
       "link": "https://mfirepo.github.io/hal/apps.json"
     },
@@ -59,11 +64,6 @@
       "type": "dir",
       "title": "[COLORlime]My Trakt[/COLOR]",
       "link": "https://mfirepo.github.io/hal/mytrakt.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Sports Replays[/COLOR]",
-      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
     },
     {
       "type": "dir",
