@@ -72,6 +72,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Sports Replays[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
     }
