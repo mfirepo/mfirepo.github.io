@@ -17,6 +17,11 @@
     },
     {
       "type": "plugin",
+      "title": "[COLORlime]24/7 TV Shows[/COLOR]",
+      "link": "plugin.video.halcyon/get_list/m3ucat|https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|TV Shows"
+    },
+    {
+      "type": "plugin",
       "title": "[COLORlime]The Wizz[/COLOR]",
       "link": "plugin.video.wizz/"
     },
