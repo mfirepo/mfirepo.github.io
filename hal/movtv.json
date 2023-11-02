@@ -82,8 +82,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Movies Recommended[/COLOR]",
-      "link": "trakt/movies/recommended"
+      "title": "[COLORlime]Top 10 Most Pirated Movies Of The Week[/COLOR]",
+      "link": "trakt/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com"
     },
     {
       "type": "dir",
