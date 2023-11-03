@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<dir>
+	<title>[COLORwhite]FHD Debrid Movies[/COLOR]</title>
+	<link>https://mfirepo.github.io/hal/deb.xml</link>
+</dir>
 <dir>
 	<title>[COLORwhite]4K UHD Movies (A To L)[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4k.xml</link>
@@ -10,7 +16,4 @@
 	<title>[COLORwhite]4K Movies 2023 (A To Z)[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4k2023.xml</link>
 </dir>
-<dir>
-	<title>[COLORwhite]FHD Debrid Movies[/COLOR]</title>
-	<link>https://mfirepo.github.io/hal/deb.xml</link>
-</dir>
+
