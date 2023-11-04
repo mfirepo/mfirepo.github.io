@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<dir>
-  <title>[COLORyellow][I]>>>>> Next Page >>>>>[/I][/COLOR]</title>
-  <link>https://mfirepo.github.io/hal/docu2.xml</link>
-  <thumbnail></thumbnail>
-</dir>
+<item>
+	<title>Burn</title>
+	<link>https://ds2play.com/d/m754gmp54jqe</link>
+	<thumbnail>https://i.imgur.com/F7V1MIt.jpg</thumbnail>
+</item>
+<item>
+	<title>Kingdom of Saturn: Cassinis Epic Quest</title>
+	<link>https://ds2play.com/d/8qf0782ssx0b</link>
+	<thumbnail>https://i.imgur.com/mALETS6.jpg</thumbnail>
+</item>
 <item>
 	<title>Capitol Riot: Minute by Minute</title>
 	<link>https://ds2play.com/d/p6zmcd8uwezb</link>
@@ -720,3 +725,8 @@
 	<link>https://dooood.com/d/6j5br42tbqnw</link>
 	<thumbnail>https://i.imgur.com/WRM1lh0.jpg</thumbnail>
 </item>
+<dir>
+  <title>[COLORyellow][I]>>>>> Next Page >>>>>[/I][/COLOR]</title>
+  <link>https://mfirepo.github.io/hal/docu2.xml</link>
+  <thumbnail></thumbnail>
+</dir>
