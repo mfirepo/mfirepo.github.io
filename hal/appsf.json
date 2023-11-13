@@ -36,9 +36,9 @@
       "link": "plugin.video.crackle"
     },
     {
-      "type": "dir",
+      "type": "plugin",
       "title": "[COLORwhite]Free Sports[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fsportz.json"
+      "link": "plugin.video.ftasport"
     },
     {
       "type": "dir",
