@@ -1,0 +1,82 @@
+ {
+	"items": [    
+	{
+           "type": "item",
+           "title": "True Sport 1 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 2 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 3 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 4 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 5 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 6 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Sport 7 HD",
+           "link": "https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Premier 1 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Premier 2 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Premier 3 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Premier 4 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True Premier 5 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True SpoTV 1 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True SpoTV 2 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        },
+		{
+           "type": "item",
+           "title": "True SpoTV 3 HD",
+           "link": "https://sport.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+        }
+		
+		
+	]
+	
+}

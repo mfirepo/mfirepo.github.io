@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "Premier HD/Bein Streams",
+      "link": [
+        "https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/(Premier HD 1)",
+        "https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/(Premier HD 2)",
+        "https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/(Premier HD 3)",
+        "https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/(Premier HD 4)",
+        "https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/(Premier HD 5)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-61.php(Bein Sports 1 E)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-91.php(Bein Sports 1 A)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-92.php(Bein Sports 2 A)"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Direct Streams HD",
+      "link": [
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-31.php(TNT Sports 1)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-38.php(Sky Main Event)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-130.php(Sky Prem League)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-414.php(SS Prem League)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-123.php(Astro Sport 1)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-124.php(Astro Sport 2)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-125.php(Astro Sport 3)"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Live During Games HD",
+      "link": [
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-343.php(USA Network)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-23.php(Optus Sport)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-24.php(Optus Sport)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-25.php(Optus Sport)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-26.php(Optus Sport)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-27.php(Optus Sport)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-106.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-152.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-153.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-154.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-155.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-156.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-157.php(Hub Premier)",
+        "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-158.php(Hub Premier)"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Premier League Simulcast",
+      "link": "https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|User-Agent=Bolt&Referer=https://www.doomovie-hd.com/"
+    },
+    {
+      "type": "item",
+      "title": "International",
+      "link": "plugin://script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-130.php"
+    },
+    {
+      "type": "item",
+      "title": "Break",
+      "link": "https://247ovo.com/n-1.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Test",
+      "link": "https://lc-live-http-ipv4.akamaized.net/at/14879/3937383/mobile-vienna/tennis_itf_women_itf_portugal_19a_women_singles_delayed_45374798_1364k.m3u8?cid=14879&mid=45374798&ecid=3937383&pid=6&dtid=1&sid=232191977831&gc=oq8&gsd=pw&grm=1&hdnts=ip=84.21.168.187~exp=1700046740~acl=%2Fat%2F14879%2F3937383%2Fmobile-vienna%2F%2A~hmac=2b0a488a60333eb50b9d8a77153e791735cab8a850e3c15f3440a5e40c9b0ec9"
+    }
+  ]
+}

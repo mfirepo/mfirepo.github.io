@@ -1,0 +1,619 @@
+{
+  "items": [
+    {
+      "type": "plugin",
+      "title": "BBC 1",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-356.php"
+    },
+    {
+      "type": "plugin",
+      "title": "BBC 2",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-357.php"
+    },
+    {
+      "type": "plugin",
+      "title": "BBC 3",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-358.php"
+    },
+    {
+      "type": "plugin",
+      "title": "BBC 4",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-359.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ITV 1",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-350.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ITV 2",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-351.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ITV 3",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-352.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ITV 4",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-353.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Channel 4",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-354.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Channel 5",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-355.php"
+    },
+    {
+      "type": "plugin",
+      "title": "5 USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-360.php"
+    },
+	{
+      "type": "plugin",
+      "title": "BBC News",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-349.php"
+    },
+	{
+      "type": "item",
+      "title": "GB News",
+      "link": "https://www.youtube.com/watch?v=Ci5EBYAnBtY"
+    },
+	{
+      "type": "item",
+      "title": "Talk TV News",
+      "link": "https://www.youtube.com/watch?v=WguRyzIb4bE"
+    },
+    {
+      "type": "plugin",
+      "title": "BBC America",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-305.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Atlantic",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-362.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Comedy",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-684.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Crime",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-685.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky History",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-686.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Arts",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-683.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Witness",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-361.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Premier",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-671.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Select",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-672.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Greats",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-674.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Family",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-676.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky Action",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-677.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sky SciFi-Horror",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-681.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Comedy Central",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-310.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO Comedy",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-690.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-321.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO 2 USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-689.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO Family",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-691.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO Signature",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-693.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HBO Zone",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-694.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Dave",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-348.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Gold UK",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-687.php"
+    },
+    {
+      "type": "plugin",
+      "title": "E4",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-363.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Film 4",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-688.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Discovery Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-313.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Discovery Family",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-657.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Discovery Life Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-311.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Investigation Discovery USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-324.php"
+    },
+    {
+      "type": "plugin",
+      "title": "History USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-322.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ABC USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-51.php"
+    },
+    {
+      "type": "plugin",
+      "title": "A&E USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-301.php"
+    },
+    {
+      "type": "plugin",
+      "title": "AMC USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-303.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Animal Planet",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-304.php"
+    },
+    {
+      "type": "plugin",
+      "title": "AXS TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-742.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CMT",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-647.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CBS USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-52.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CW USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-300.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CNBC USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-309.php"
+    },
+    {
+      "type": "plugin",
+      "title": "COZI TV USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-748.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CNN USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-345.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Cinemax USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-374.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Comet USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-696.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Cooking Channel USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-697.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CBSNY USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-767.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CBC Canada",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-832.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CTV Canada",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-602.php"
+    },
+    {
+      "type": "plugin",
+      "title": "CTV 2 Canada",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-838.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Destination America",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-651.php"
+    },
+    {
+      "type": "plugin",
+      "title": "E! Entertainment TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-315.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Fashion TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-744.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FETV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-751.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FOX USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-54.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FX USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-317.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FXX USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-298.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FX Movie Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-381.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Fox News",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-347.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FOXNY USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-768.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Fox Weather Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-775.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Freeform",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-301.php"
+    },
+    {
+      "type": "plugin",
+      "title": "FYI",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-665.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Game Show Network",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-319.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Global Canada",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-836.php"
+    },
+	{
+      "type": "plugin",
+      "title": "Grit TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-752.php"
+    },
+    {
+      "type": "plugin",
+      "title": "HGTV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-382.php"
+    },
+    {
+      "type": "plugin",
+      "title": "ION",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-325.php"
+    },
+    {
+      "type": "plugin",
+      "title": "IFC TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-656.php"
+    },
+    {
+      "type": "plugin",
+      "title": "MotorTrend",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-661.php"
+    },
+	{
+      "type": "plugin",
+      "title": "Mav TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-646.php"
+    },
+    {
+      "type": "plugin",
+      "title": "METV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-662.php"
+    },
+	{
+      "type": "plugin",
+      "title": "MTV US",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-371.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Nat Geo",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-328.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Oxygen True Crime",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-332.php"
+    },
+    {
+      "type": "plugin",
+      "title": "POP TV USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-653.php"
+    },
+    {
+      "type": "plugin",
+      "title": "RTE 1",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-364.php"
+    },
+    {
+      "type": "plugin",
+      "title": "RTE 2",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-365.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Science Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-294.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Showtime USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-333.php"
+    },
+    {
+      "type": "plugin",
+      "title": "SYFY USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-373.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Sundance TV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-658.php"
+    },
+    {
+      "type": "item",
+      "title": "Smithsonian Channel",
+      "link": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "type": "plugin",
+      "title": "TBS",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-336.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TLC",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-337.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TNT",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-338.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Travel Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-340.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TruTV USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-341.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TVLAND",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-342.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TCM USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-664.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TMC Channel USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-698.php"
+    },
+    {
+      "type": "plugin",
+      "title": "The Food Network",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-384.php"
+    },
+    {
+      "type": "plugin",
+      "title": "The Hallmark Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-320.php"
+    },
+    {
+      "type": "plugin",
+      "title": "The Weather Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-394.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TV ONE USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-660.php"
+    },
+    {
+      "type": "plugin",
+      "title": "USA Network",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-343.php"
+    },
+    {
+      "type": "plugin",
+      "title": "VH1 USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-344.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Vice",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-659.php"
+    },
+    {
+      "type": "plugin",
+      "title": "WETV",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-655.php"
+    },
+    {
+      "type": "plugin",
+      "title": "YES TV CA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-837.php"
+    },
+    {
+      "type": "plugin",
+      "title": "YES Network USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-763.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Boomerang",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-648.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Cartoon Network",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-339.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Disney Channel",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-312.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Disney XD",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-314.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Disney JR",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-652.php"
+    },
+    {
+      "type": "plugin",
+      "title": "NICK",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-330.php"
+    },
+    {
+      "type": "plugin",
+      "title": "NICK JR",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-329.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Nick Music",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-666.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Nick Toons",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-649.php"
+    },
+    {
+      "type": "plugin",
+      "title": "TeenNick",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-650.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Universal Kids USA",
+      "link": "script.module.bolt/?mode=play&url=https://d.daddylivehd.sx//stream/stream-668.php"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "items": [
+  {
+      "type": "plugin",
+      "title": "[COLORwhite]Live Events[/COLOR]",
+      "link": "plugin://script.module.bolt/?mode=menu&serv_type=sched"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]EPL Football[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/footy.json"
+    },
+	{
+      "type": "plugin",
+      "title": "[COLORwhite]Football League[/COLOR]",
+      "link": "script.module.bolt/?mode=trList&trType=Soccer"
+    },
+	{
+      "type": "plugin",
+      "title": "[COLORwhite]Boxing[/COLOR]",
+      "link": "script.module.bolt/?mode=trList&trType=Boxing"
+    },
+	{
+      "type": "plugin",
+      "title": "[COLORwhite]MMA/UFC[/COLOR]",
+      "link": "script.module.bolt/?mode=trList&trType=MMA"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORwhite]Combat Sports[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/fight.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORwhite]English Channels[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/english.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORwhite]Non-English Channels[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/foreign.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORwhite]True Sports Channels[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/true.json"
+    }
+	
+	
+  ]
+
+}
