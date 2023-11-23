@@ -21,9 +21,9 @@
 	<title>[COLORwhite]Movies Trending[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=trending</link>
 </plugin>
-plugin>
+<plugin>
 	<title>[COLORwhite]TV Shows Trending[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=tvshows&amp;url=trending</link>
+	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]cMans Movies[/COLOR]</title>
