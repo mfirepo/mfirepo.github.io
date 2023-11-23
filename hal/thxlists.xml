@@ -22,7 +22,7 @@
 	<link>plugin://plugin.video.thx/?action=movies&url=trending</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]TV Shows Trending[/COLOR]</title>
+	<title>[COLORwhite]Shows Trending[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
 <dir>
