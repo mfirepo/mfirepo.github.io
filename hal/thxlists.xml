@@ -18,11 +18,11 @@
 	<link>https://mfirepo.github.io/hal/deb.xml</link>
 </dir>
 <plugin>
-	<title>[COLORwhite]Movies Trending[/COLOR]</title>
+	<title>[COLORwhite]Movies Popular[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=trending</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Shows Trending[/COLOR]</title>
+	<title>[COLORwhite]Shows Popular[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
 <dir>
