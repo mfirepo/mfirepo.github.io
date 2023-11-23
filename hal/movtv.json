@@ -12,11 +12,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]New Movies 2023[/COLOR]",
-      "link": "tmdb/list/8236189"
-    },
-    {
-      "type": "dir",
       "title": "[COLORlime]Latest Movies[/COLOR]",
       "link": "tmdb/movie/now_playing"
     },
