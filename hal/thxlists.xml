@@ -51,6 +51,6 @@
 </plugin>
 <plugin>
 	<title>[COLORwhite]Test[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=movieNavigator</link>
+	<link>plugin://plugin.video.thx/?action=movieCustomLists</link>
 </plugin>
 
