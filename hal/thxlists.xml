@@ -49,4 +49,8 @@
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
+<plugin>
+	<title>[COLORwhite]Test[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=movieNavigator</link>
+</plugin>
 
