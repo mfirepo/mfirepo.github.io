@@ -26,7 +26,7 @@
 	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Shows Popular*[/COLOR]</title>
+	<title>[COLORwhite]Shows Popular**[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvshows&url=tmdb_tv_top_rated</link>
 </plugin>
 <dir>
