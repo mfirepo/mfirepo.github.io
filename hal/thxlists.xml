@@ -18,8 +18,12 @@
 	<link>https://mfirepo.github.io/hal/deb.xml</link>
 </dir>
 <plugin>
-	<title>[COLORwhite]IMDB Lists[/COLOR]</title>
+	<title>[COLORwhite]IMDB Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movieCustomLists</link>
+</plugin>
+<plugin>
+	<title>[COLORwhite]IMDB TV Shows[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=tvNetworks</link>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Movies Popular[/COLOR]</title>
