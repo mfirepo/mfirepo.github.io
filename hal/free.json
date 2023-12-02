@@ -11,6 +11,11 @@
       "link": "plugin://plugin.video.youtube/channel/UCT37npEfScFdfHeiIOpFKJg/"
     },
     {
+      "type": "plugin",
+      "title": "[COLORred]Free Web Movies[/COLOR]",
+      "link": "plugin.video.wizz/?mode=doo_main"
+    },
+    {
       "type": "dir",
       "title": "[COLORred]Free British Cinema[/COLOR]",
       "link": "https://mfirepo.github.io/hal/brit.json"
