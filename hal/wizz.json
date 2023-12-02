@@ -79,6 +79,11 @@
       "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "plugin.video.wizz/?mode=14"
     }
     
   ]
