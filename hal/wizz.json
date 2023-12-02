@@ -32,11 +32,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TV Shows[/COLOR]",
-      "link": "tmdb/list/8237878"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]New Documentaries[/COLOR]",
       "link": "https://mfirepo.github.io/hal/wizzdocs.json"
     },
@@ -79,12 +74,8 @@
       "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Test[/COLOR]",
-      "link": "tmdb/list/8196435"
     }
+   
     
   ]
 }
