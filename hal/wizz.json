@@ -82,8 +82,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Test*[/COLOR]",
-      "link": "www.imdb.com/list/ls526731576/"
+      "title": "[COLORwhite]Test**[/COLOR]",
+      "link": "imdb/list/ls526731576/"
     }
   ]
 }
