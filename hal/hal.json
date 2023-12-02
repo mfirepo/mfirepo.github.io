@@ -16,6 +16,11 @@
       "link": "https://mfirepo.github.io/hal/deb.xml"
     },
     {
+      "type": "plugin",
+      "title": "[COLORlime]Web Movies[/COLOR]",
+      "link": "plugin.video.wizz/?mode=doo_main"
+    },
+    {
       "type": "dir",
       "title": "[COLORlime]British Cinema[/COLOR]",
       "link": "https://mfirepo.github.io/hal/brit.json"
