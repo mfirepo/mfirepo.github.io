@@ -39,12 +39,8 @@
       "type": "dir",
       "title": "[COLORwhite]Non-English Channels[/COLOR]",
       "link": "https://mfirepo.github.io/code/foreign.json"
-    },
-	{
-      "type": "dir",
-      "title": "[COLORwhite]True Sports Channels[/COLOR]",
-      "link": "https://mfirepo.github.io/code/true.json"
     }
+	
 	
 	
   ]
