@@ -50,19 +50,19 @@
         },
         {
             "type": "item",
-            "title": "Vevo 70's",
+            "title": "Vevo 70s",
             "link": "http://bitly.ws/Dfio",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
             "type": "item",
-            "title": "Vevo 80's",
+            "title": "Vevo 80s",
             "link": "http://bitly.ws/Dfit",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
             "type": "item",
-            "title": "Vevo 90's",
+            "title": "Vevo 90s",
             "link": "http://bitly.ws/Dfix",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
@@ -104,44 +104,20 @@
         },
         {
             "type": "item",
-            "title": "Trace Urban",
-            "link": "http://bitly.ws/Dfro",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "Qwest TV Jazz and Beyond",
-            "link": "http://bitly.ws/DfrB",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
             "title": "Radio 70s 80s Mix",
             "link": "https://www.youtube.com/watch?v=wXH_SkhhWds",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
             "type": "item",
-            "title": "Greatest Hits 80s Oldies Music",
+            "title": "Greatest Hits 80s Oldies Music 1",
             "link": "https://www.youtube.com/watch?v=R6_3OchvW_c",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
             "type": "item",
-            "title": "Greatest Hits 80s Oldies Music 1331",
+            "title": "Greatest Hits 80s Oldies Music 2",
             "link": "https://www.youtube.com/watch?v=_thKXe8PSXo",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "80's, 90's Disco Dance",
-            "link": "https://www.youtube.com/watch?v=3lmlTjQS6QA",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "80's, 90's Legends",
-            "link": "https://www.youtube.com/watch?v=3kPsqqdXSjE",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
@@ -176,30 +152,6 @@
         },
         {
             "type": "item",
-            "title": "Summer Music Deep",
-            "link": "https://www.youtube.com/watch?v=RbJg7YLqJk8",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "Summer Mix",
-            "link": "https://www.youtube.com/watch?v=GdknGEMbRZA",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "THE BEST OF Now That's What I Call Music!",
-            "link": "https://www.youtube.com/watch?v=Kj1QHMA7pjw",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "Pop Songs 2023",
-            "link": "https://www.youtube.com/watch?v=BsxUEoem7K8",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
             "title": "MTV",
             "link": "http://bitly.ws/D5Rf",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
@@ -212,14 +164,140 @@
         },
         {
             "type": "item",
-            "title": "MTV Spankin' New",
+            "title": "MTV Spankin New",
             "link": "http://bitly.ws/D5Rb",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
             "type": "item",
-            "title": "City Music",
-            "link": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
+            "title": "4 Ace TV",
+            "link": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/N55LT0GGXOUT6SC3GJN7/hls3/now_-1m_15s/m.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "4 Ace TV Classics",
+            "link": "https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VFEHH3ML20PMYQM0QEPB/hls3/now_-1m_15s/m.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "30 A Music",
+            "link": "https://30a-tv.com/music.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "CMC",
+            "link": "https://cmc-ono.amagi.tv/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Juice TV",
+            "link": "https://juicex.nz/hls/mystream.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Local Now",
+            "link": "https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Otto FM TV",
+            "link": "http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Party Time Karaoke",
+            "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Alternative",
+            "link": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Classic Rock",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray 70s",
+            "link": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray 80s",
+            "link": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Greatest Hits",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Hit List",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Holiday Hits",
+            "link": "https://stirr.ott-channels.stingray.com/155/master.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Hot Country",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Karaoke",
+            "link": "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Pop",
+            "link": "https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Soul",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Stingray Urban",
+            "link": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "The Country Network",
+            "link": "https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8",
+            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
+        },
+        {
+            "type": "item",
+            "title": "Trace Urban",
+            "link": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         },
         {
@@ -238,18 +316,6 @@
             "type": "item",
             "title": "Company TV",
             "link": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "Connect TV",
-            "link": "http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8",
-            "thumbnail": "https://i.imgur.com/QZywXme.jpg"
-        },
-        {
-            "type": "item",
-            "title": "Euro Indie TV",
-            "link": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
             "thumbnail": "https://i.imgur.com/QZywXme.jpg"
         }
     ]
