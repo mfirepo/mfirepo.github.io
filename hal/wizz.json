@@ -77,8 +77,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Test**[/COLOR]",
-      "link": "tmdb/list/8196435-scifi"
+      "title": "[COLORwhite]Test[/COLOR]",
+      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/oscars.xml"
     }
    
     
