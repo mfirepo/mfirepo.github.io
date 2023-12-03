@@ -49,6 +49,10 @@ plugin>
 	<title>[COLORwhite]US Channels[/COLOR]</title>
 	<link>plugin://plugin.video.samm_tv/samsung_tv/region/us</link>
 </plugin>
+<dir>
+	<title>[COLORwhite]Music Channels[/COLOR]</title>
+	<link>https://mfirepo.github.io/hal/music.xml</link>
+</dir>
 <plugin>
 	<title>[COLORwhite]BBC iPlayer[/COLOR]</title>
 	<link>plugin://plugin.video.iplayerwww</link>
