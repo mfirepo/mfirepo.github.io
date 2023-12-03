@@ -8,7 +8,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]EPL Football[/COLOR]",
-      "link": "https://cmanbuilds.com/bolt/footy.json"
+      "link": "https://mfirepo.github.io/code/footy.json"
     },
 	{
       "type": "plugin",
@@ -28,22 +28,22 @@
 	{
       "type": "dir",
       "title": "[COLORwhite]Combat Sports[/COLOR]",
-      "link": "https://cmanbuilds.com/bolt/fight.json"
+      "link": "https://mfirepo.github.io/code/fight.json"
     },
 	{
       "type": "dir",
       "title": "[COLORwhite]English Channels[/COLOR]",
-      "link": "https://cmanbuilds.com/bolt/english.json"
+      "link": "https://mfirepo.github.io/code/english.json"
     },
 	{
       "type": "dir",
       "title": "[COLORwhite]Non-English Channels[/COLOR]",
-      "link": "https://cmanbuilds.com/bolt/foreign.json"
+      "link": "https://mfirepo.github.io/code/foreign.json"
     },
 	{
       "type": "dir",
       "title": "[COLORwhite]True Sports Channels[/COLOR]",
-      "link": "https://cmanbuilds.com/bolt/true.json"
+      "link": "https://mfirepo.github.io/code/true.json"
     }
 	
 	
