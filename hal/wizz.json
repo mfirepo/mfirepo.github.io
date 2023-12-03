@@ -74,12 +74,8 @@
       "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Test[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/oscars.xml"
     }
+    
    
     
   ]
