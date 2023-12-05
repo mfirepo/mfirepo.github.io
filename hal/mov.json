@@ -23,7 +23,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Top 100 Action Movies[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/action.xml"
+      "link": "tmdb/list/8196264"
     },
     {
       "type": "dir",
@@ -38,12 +38,12 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Top 100 Comedy Movies[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/comedy.xml"
+      "link": "tmdb/list/8196404"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Top 100 Sci-Fi Movies[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/scifi.xml"
+      "link": "tmdb/list/8196435"
     },
     {
       "type": "dir",
@@ -93,7 +93,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]James Bond Collection[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/bond.xml"
+      "link": "tmdb/list/8196393"
     },
     {
       "type": "dir",
