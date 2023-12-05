@@ -12,7 +12,7 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]My Top 100 Movies*[/COLOR]",
+      "title": "[COLORwhite]My Top 100 Movies[/COLOR]",
       "link": "tmdb/list/8196200"
     },
     {
@@ -28,12 +28,12 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Top 100 Horror Movies[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/horror.xml"
+      "link": "tmdb/list/8196269"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Top 100 British Cinema[/COLOR]",
-      "link": "https://raw.githubusercontent.com/SchwiftyRepo/mawashi360/main/tmdb/british.xml"
+      "link": "tmdb/list/8196284"
     },
     {
       "type": "dir",
