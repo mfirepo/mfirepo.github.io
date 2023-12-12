@@ -22,6 +22,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORred]Free TV Shows[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/shows.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORred]Free UK Soap Catchup[/COLOR]",
       "link": "https://mfirepo.github.io/hal/soap.json"
     },
