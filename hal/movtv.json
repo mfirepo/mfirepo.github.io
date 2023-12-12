@@ -118,8 +118,8 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORlime]Test**[/COLOR]",
-      "link": "plugin.video.halcyon/?action=doo"
+      "title": "[COLORlime]Test***[/COLOR]",
+      "link": "plugin.video.halcyon/?action=doo_main"
     }
    
     
