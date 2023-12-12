@@ -115,6 +115,11 @@
       "title": "[COLORlime]5700 Movies & TV (Can Be Slow To Load)[/COLOR]",
       "nginx_dir": "http://vod.simpletv.eu/media/storage/"
 			
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Free Shows (Work In progress)[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/shows.xml"
     }
     
    
