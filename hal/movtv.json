@@ -115,6 +115,11 @@
       "title": "[COLORlime]5700 Movies & TV (Can Be Slow To Load)[/COLOR]",
       "nginx_dir": "http://vod.simpletv.eu/media/storage/"
 			
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "plugin.video.halcyon/?mode=doo_main"
     }
    
     
