@@ -37,11 +37,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Documentary Channels[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/livedocs.json"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]UK Channels[/COLOR]",
       "link": "plugin://plugin.video.samm_tv/samsung_tv/region/gb"
     },
