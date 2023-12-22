@@ -1,0 +1,67 @@
+{
+  "items": [
+	{
+      "type": "item",
+      "title": "Link 1",
+      "link": "https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Link 2",
+      "link": "https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Link 3",
+      "link": "https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Link 4",
+      "link": "https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Link 5",
+      "link": "https://hls.streambtw.com/live/stream_1.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 6",
+      "link": "https://hls.streambtw.com/live/stream_2.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 7",
+      "link": "https://hls.streambtw.com/live/stream_3.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 8",
+      "link": "https://hls.streambtw.com/live/stream_4.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 9",
+      "link": "https://bp2.mrgamingstreams.com/mrgamingsoccer1.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 10",
+      "link": "https://bp2.mrgamingstreams.com/mrgamingsoccer2.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 11",
+      "link": "https://bp2.mrgamingstreams.com/mrgamingsoccer3.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Link 12",
+      "link": "https://bp2.mrgamingstreams.com/mrgamingsoccer4.m3u8"
+    }
+
+
+  ]
+
+}
