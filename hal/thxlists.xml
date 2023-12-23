@@ -65,5 +65,9 @@ plugin>
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
+<dir>
+	<title>[COLORwhite]Test[/COLOR]</title>
+	<link>https://www.imdb.com/list/ls526731576/</link>
+</dir>
 
 
