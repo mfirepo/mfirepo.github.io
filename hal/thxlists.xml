@@ -65,6 +65,10 @@ plugin>
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
+<plugin>
+	<title>[COLORwhite]Test[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526731576/</link>
+</plugin>
 
 
 
