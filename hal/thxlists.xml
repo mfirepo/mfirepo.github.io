@@ -25,9 +25,9 @@ dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
 </plugin>
-plugin>
-	<title>[COLORwhite]IMDB Movies[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=movieCustomLists</link>
+<plugin>
+	<title>[COLORwhite]Test[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=https://www.themoviedb.org/list/8284221</link>
 </plugin>
 plugin>
 	<title>[COLORwhite]IMDB TV Shows[/COLOR]</title>
