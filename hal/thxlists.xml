@@ -17,10 +17,14 @@
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
 </dir>
-<dir>
+dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/deb.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
+</plugin>
 plugin>
 	<title>[COLORwhite]IMDB Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movieCustomLists</link>
@@ -65,10 +69,7 @@ plugin>
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
-<plugin>
-	<title>[COLORwhite]Test[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526731576/</link>
-</plugin>
+
 
 
 
