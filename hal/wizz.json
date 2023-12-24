@@ -12,8 +12,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Debrid Movies*[/COLOR]",
-      "link": "tmdb/list/8284221"
+      "title": "[COLORwhite]Debrid Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/deb.xml"
     },
     {
       "type": "dir",
