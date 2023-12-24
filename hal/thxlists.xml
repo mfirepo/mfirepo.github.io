@@ -37,7 +37,7 @@ plugin>
 	<title>[COLORwhite]Shows Popular[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
-<plugin>
+plugin>
 	<title>[COLORwhite]Shows By Network[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvNetworks</link>
 </plugin>
