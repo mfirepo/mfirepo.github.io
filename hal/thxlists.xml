@@ -26,11 +26,11 @@ plugin>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Movies Popular[/COLOR]</title>
+	<title>[COLORwhite]Popular Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=trending</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Shows Popular[/COLOR]</title>
+	<title>[COLORwhite]Popular Shows[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=tvshows&url=trending</link>
 </plugin>
 plugin>
