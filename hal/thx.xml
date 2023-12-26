@@ -1019,11 +1019,11 @@
 	</link>
 	<thumbnail>https://i.imgur.com/vMHmlmP.jpg</thumbnail>
 </item>
-<item>
-	<title>Test</title>
+<dir>
+	<title>Test*</title>
 	<link>tmdb/movie/695721</link>
 	<thumbnail>https://i.imgur.com/vMHmlmP.jpg</thumbnail>
-</item>
+</dir>
 
 
 
