@@ -1019,11 +1019,11 @@
 	</link>
 	<thumbnail>https://i.imgur.com/vMHmlmP.jpg</thumbnail>
 </item>
-<dir>
-	<title>Test*</title>
-	<link>tmdb/movie/695721</link>
+<item>
+	<title>Test**</title>
+	<link>https://www.themoviedb.org/movie/695721-the-hunger-games-the-ballad-of-songbirds-snakes</link>
 	<thumbnail>https://i.imgur.com/vMHmlmP.jpg</thumbnail>
-</dir>
+</item>
 
 
 
