@@ -74,6 +74,11 @@
       "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows A To Z[/COLOR]",
+      "link": "tmdb/list/8237878"
     }
     
    
