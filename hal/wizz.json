@@ -37,12 +37,17 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]TMDB Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/mov.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]New TV (A to Z)[/COLOR]",
       "link": "tmdb/list/8237878"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]New Documentaries[/COLOR]",
+      "title": "[COLORwhite]Documentaries[/COLOR]",
       "link": "https://mfirepo.github.io/hal/wizzdocs.json"
     },
     {
