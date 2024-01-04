@@ -7,6 +7,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]2023 Movies[/COLOR]",
+      "link": "tmdb/list/8284221"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]My Top 100 Movies[/COLOR]",
       "link": "tmdb/list/8196200"
     },
@@ -39,12 +44,8 @@
       "type": "dir",
       "title": "[COLORwhite]James Bond Collection[/COLOR]",
       "link": "tmdb/list/8196393"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Test[/COLOR]",
-      "link": "tmdb/list/8284221"
     }
+    
   
   ]
 }
