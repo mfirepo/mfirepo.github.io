@@ -21,12 +21,12 @@ dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/deb.xml</link>
 </dir>
-<plugin>
+plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Debrid Movies*[/COLOR]</title>
+	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
 </plugin>
 <plugin>
