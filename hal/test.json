@@ -1,13 +1,10 @@
-      {
-    "items": [ 
-       {
-            "type": "f4m",
-            "title": "my m3u",
-            "link": "https://ddy5.cdnhks.lol/ddy5/premium38/tracks-v1a1/mono.m3u8"
-        
-        }
-        
+{
+  "items": [
+    {
+      "type": "plugin",
+      "title": "Sky Main Event",
+      "link": "plugin.video.sportstest/sportjetextractors/play?urls=https://d.daddylivehd.sx//stream/stream-38.php"
+    }
+
   ]
-  
-  
 }
