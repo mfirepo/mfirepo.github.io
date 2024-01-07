@@ -444,6 +444,11 @@
       "type": "plugin",
       "title": "Sky Sport Select NZ",
       "link": "plugin.video.skynet/sportjetextractors/play?urls=https://d.daddylivehd.sx//stream/stream-587.php"
+    },
+    {
+      "type": "plugin",
+      "title": "Test",
+      "link": "plugin.video.skynet/sportjetextractors/play?urls=https://www.footybite.one/hd-1/"
     }
   ]
 }
