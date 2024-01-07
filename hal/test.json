@@ -4,6 +4,11 @@
       "type": "dir",
       "title": "Sports Channels",
       "link": "https://mfirepo.github.io/hal/skynet/main.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Live Events[/COLOR]",
+      "link": "https://cmanbuilds.com/bolt/links.json"
     }
 
   ]
