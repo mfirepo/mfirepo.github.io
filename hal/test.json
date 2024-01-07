@@ -12,6 +12,11 @@
     },
     {
       "type": "plugin",
+      "title": "Test 3",
+      "link": "plugin.video.sportstest/sportjetextractors/play?urls=https://dlhd.sx/stream/stream-31.php"
+    },
+    {
+      "type": "plugin",
       "title": "Sky Main Event",
       "link": "plugin.video.sportstest/sportjetextractors/play?urls=https://d.daddylivehd.sx//stream/stream-38.php"
     }
