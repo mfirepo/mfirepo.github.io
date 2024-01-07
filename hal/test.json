@@ -7,6 +7,11 @@
     },
     {
       "type": "plugin",
+      "title": "Test 2",
+      "link": "plugin.video.sportstest/sportjetextractors/play?urls=https://buffstreams.ai/soccer-stream/empoli-milan/55400555"
+    },
+    {
+      "type": "plugin",
       "title": "Sky Main Event",
       "link": "plugin.video.sportstest/sportjetextractors/play?urls=https://d.daddylivehd.sx//stream/stream-38.php"
     }
