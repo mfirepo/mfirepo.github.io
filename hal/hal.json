@@ -21,11 +21,6 @@
       "link": "tmdb/list/8284221"
     },
     {
-      "type": "plugin",
-      "title": "[COLORlime]Web Movies[/COLOR]",
-      "link": "plugin.video.thx/?action=doo_main"
-    },
-    {
       "type": "dir",
       "title": "[COLORlime]British Cinema[/COLOR]",
       "link": "https://mfirepo.github.io/hal/brit.json"
