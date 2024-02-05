@@ -17,11 +17,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Web Movies[/COLOR]",
-      "link": "plugin://plugin.video.thx/?action=doo_main"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]cMans Movies[/COLOR]",
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/MOVIES/Debrid-Main.xml"
     },
