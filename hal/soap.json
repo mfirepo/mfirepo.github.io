@@ -15,16 +15,11 @@
          },
 		{ 	
         
-         "title": "Eastenders, Corrie, Hollyoaks", 
+         "title": "Eastenders, Corrie, Emmerdale", 
             "type": "plugin", 
             "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=user:TvSoap"
-          },
-          { 	
-        
-         "title": "Eastenders, Corrie, Hollyoaks", 
-            "type": "plugin", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=user:Soap4K" 
           }
+         
          
           
 	]
