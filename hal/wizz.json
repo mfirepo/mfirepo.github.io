@@ -83,7 +83,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Test[/COLOR]",
-      "link": "plugin://plugin.video.wizz/get_list/trakt/user/self/lists"
+      "link": "plugin://plugin.video.wizz/"
     }
     
     
