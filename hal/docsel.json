@@ -1,10 +1,5 @@
 {
 "items": [     
-        {
-            "type": "dir",
-            "title": "[COLORlime]New Documentaries[/COLOR]",
-            "link": "https://mfirepo.github.io/hal/docu.xml"
-	},
 	{
             "type": "dir", 
             "title": "[COLORlime]Documentary Channels[/COLOR]", 
