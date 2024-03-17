@@ -1,5 +1,10 @@
 {
-"items": [     
+"items": [   
+	{
+            "type": "dir",
+            "title": "[COLORlime]New Documentaries[/COLOR]",
+            "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSOE9HbVj7DP67tBVVYG1rMJ"
+	},
 	{
             "type": "dir", 
             "title": "[COLORlime]Documentary Channels[/COLOR]", 
