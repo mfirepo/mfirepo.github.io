@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<dir>
+	<title>[COLORwhite]Debrid Movies (HQ Direct)[/COLOR]</title>
+	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
+</dir>
+<dir>
+	<title>[COLORwhite]Debrid Movies (Scrapers)[/COLOR]</title>
+	<link>tmdb/list/8284221</link>
+</dir>
