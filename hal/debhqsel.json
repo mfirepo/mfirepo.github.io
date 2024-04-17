@@ -1,11 +1,13 @@
-    {
+{
+  "items": [
+{
       "type": "dir",
-      "title": "[COLORlime]Debrid Movies[/COLOR]",
+      "title": "[COLORlime]Debrid Movies (Scrapers)[/COLOR]",
       "link": "tmdb/list/8284221"
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Debrid Movies[/COLOR]",
+      "title": "[COLORlime]Debrid Movies (HQ Direct)[/COLOR]",
       "link": "tmdb/list/8284221"
     }
 
