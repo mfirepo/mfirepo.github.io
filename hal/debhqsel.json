@@ -1,15 +1,16 @@
 {
   "items": [
-{
-      "type": "dir",
-      "title": "[COLORlime]Debrid Movies (Scrapers)[/COLOR]",
-      "link": "tmdb/list/8284221"
-    },
-    {
+     {
       "type": "dir",
       "title": "[COLORlime]Debrid Movies (HQ Direct)[/COLOR]",
       "link": "https://mfirepo.github.io/hal/rdhq.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Debrid Movies (Scrapers)[/COLOR]",
+      "link": "tmdb/list/8284221"
     }
+   
 
 ]
 
