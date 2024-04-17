@@ -4,7 +4,7 @@
 	<title>[COLORwhite]Debrid Movies (HQ Direct)[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
 </dir>
-<dir>
+<plugin>
 	<title>[COLORwhite]Debrid Movies (Scrapers)[/COLOR]</title>
-	<link>tmdb/list/8284221</link>
-</dir>
+	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
+</plugin>
