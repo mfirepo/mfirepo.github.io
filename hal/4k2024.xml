@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <item>
+	<title>Arcadian (2024)</title>
+	<link>
+	        <sublink>magnet:?xt=urn:btih:107fc367895db537d03a2428c179c5743fc33f86&dn=Arcadian.2024.2160p.WEB.H265-GigaHoundOfUltimateAction[TGx]</sublink>
+	</link>
+	<thumbnail>https://i.imgur.com/dxwkE3k.jpeg</thumbnail>
+</item>
+<item>
 	<title>The Long Game (2023)</title>
 	<link>
-	        <sublink>magnet:?xt=urn:btih:cb00b0b793361e44164a775892e2a7cd9816cbc1&dn=The.Long.Game.2023.2160p.WEB.h265-ETHEL[TGx]([COLORred]SDRx265[/COLOR])</sublink>
-		<sublink>magnet:?xt=urn:btih:11009212c30d403e2f05eb6b2ef12fb99da2b413&dn=The.Long.Game.2023.HDR.2160p.WEB.h265-ETHEL[TGx]([COLORlime]HDRx265[/COLOR])</sublink>
+	        <sublink>magnet:?xt=urn:btih:cb00b0b793361e44164a775892e2a7cd9816cbc1&dn=The.Long.Game.2023.2160p.WEB.h265-ETHEL[TGx]([COLORred]SDR[/COLOR])</sublink>
+		<sublink>magnet:?xt=urn:btih:11009212c30d403e2f05eb6b2ef12fb99da2b413&dn=The.Long.Game.2023.HDR.2160p.WEB.h265-ETHEL[TGx]([COLORlime]HDR[/COLOR])</sublink>
 	</link>
 	<thumbnail>https://i.imgur.com/Px0nLnw.jpeg</thumbnail>
 </item>
