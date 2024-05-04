@@ -1,0 +1,166 @@
+{
+  "items": [
+  {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]Direct Links (Test) >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/test.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]VVVV 24/7 Streams VVVV[/B][/COLOR]",
+      "link": "https://"
+    },
+	{
+      "type": "item",
+      "title": "Sky Sports News",
+      "link": "https://inst3.ignores.top/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8|Referer=https://vipstreams.in"
+      
+    },
+	
+	{
+      "type": "item",
+      "title": "Formula 1",
+      "link": "https://inst1.ignores.top/js/sky-sports-f1-sky-f1/1/playlist.m3u8|Referer=https://vipstreams.in"
+      
+    },
+	{
+      "type": "item",
+      "title": "Formula 1",
+      "pvr_sport_search":"search/miami?include=6"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]VVVV Saturday VVVV[/B][/COLOR]",
+      "link": "https://"
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Phiri vs Ali",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=115"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Phiri vs Ali",
+      "pvr_sport_search":"search/phiri?include=6"
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Canelo vs Munguia",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=113"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Canelo vs Munguia",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=114"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Canelo vs Munguia",
+      "pvr_sport_search":"search/canelo?include=6"
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Inoue vs Nery",
+      "pvr_sport_search":"search/nery?include=6"
+    },
+	{
+      "type": "item",
+      "title": "UFC 301: Pantoja vs Erceg",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=111"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "UFC 301: Pantoja vs Erceg",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=112"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "UFC 301: Pantoja vs Erceg",
+      "pvr_sport_search":"search/pantoja?include=6"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]VVVV Sunday VVVV[/B][/COLOR]",
+      "link": "https://"
+    },
+	{
+      "type": "item",
+      "title": "Chelsea vs West Ham United",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=257"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Chelsea vs West Ham United",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=52"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Chelsea vs West Ham United",
+      "pvr_sport_search":"search/chelsea?include=6"
+    },
+	{
+      "type": "item",
+      "title": "Brighton vs Aston Villa",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=255"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Brighton vs Aston Villa",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=51"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Brighton vs Aston Villa",
+      "pvr_sport_search":"search/aston?include=6"
+    },
+	{
+      "type": "item",
+      "title": "Liverpool vs Tottenham Hotspur",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=261"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Liverpool vs Tottenham Hotspur",
+      "sportjetextractors": [
+      "https://sons-stream.com/tvon.php?hd=53"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Liverpool vs Tottenham Hotspur",
+      "pvr_sport_search":"search/tottenham?include=6"
+    }
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 
+	
+]
+
+}

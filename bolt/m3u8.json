@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "BBC One",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53649.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "BBC Two",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53650.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "ITV 1",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53651.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "ITV 2",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53671.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "ITV 3 ",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53665.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "ITV 4",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53666.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "Channel 4",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/99138.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "Channel 5",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53653.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "Comedy Central",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53660.m3u8?&Connection=keep-alive"
+        },
+		{
+            "type": "item",
+            "title": "Dave",
+            "link": "http://1tv41.icu:8080/live/Dorris@609/443@609/53659.m3u8?&Connection=keep-alive"
+        }
+		
+	]
+	
+}

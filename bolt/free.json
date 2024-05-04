@@ -1,0 +1,215 @@
+ {
+    "items": [
+	{
+            "type": "plugin",
+            "title": "[COLORyellow]A VPN May Be Needed For Some Channels[/COLOR]",
+            "link": "plugin://plugin.video.ftasport/get_list/m3ucat|https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|Sport"
+        },
+	    {
+            "type": "plugin",
+            "title": "[COLORlime][I]>>>> Page 2 >>>>[/I][/COLOR]",
+            "link": "plugin://plugin.video.ftasport/get_list/m3ucat|https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|Sport"
+        },
+		{
+            "type": "plugin",
+            "title": "[COLORlime][I]>>>> Page 3 >>>>[/I][/COLOR]",
+            "link": "plugin://plugin.video.ftasport/get_list/m3ucat|https://mawashi360.github.io/worldfree.m3u|Sports"
+        },
+        {
+            "type": "item",
+            "title": "Bein Sports Xtra (Opt 1)",
+            "link": "http://bitly.ws/BQ7q"
+        },
+        {
+            "type": "item",
+            "title": "Bein Sports Xtra (Opt 2)",
+            "link": "https://bit.ly/BeinSportXtra?/master.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "BEK TV Sports West",
+            "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Bellator MMA",
+            "link": "http://bitly.ws/BQfx"
+        },
+        {
+            "type": "item",
+            "title": "Canal Motor",
+            "link": "http://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Cars",
+            "link": "http://bitly.ws/BQ6X"
+        },
+        {
+            "type": "item",
+            "title": "Darcizzle Offshore",
+            "link": "http://30a-tv.com/darcizzle.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Edge Sports",
+            "link": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "ESPN USA",
+            "link": "http://143.244.60.30/ESPN/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fat Guys in the Woods",
+            "link": "https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fight",
+            "link": "http://bitly.ws/BQfE"
+        },
+        {
+            "type": "item",
+            "title": "Fight Network",
+            "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Fite",
+            "link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "FOX Sports",
+            "link": "http://bitly.ws/BQfG"
+        },
+        {
+            "type": "item",
+            "title": "Full Custom Garage",
+            "link": "http://bitly.ws/BQfJ"
+        },
+        {
+            "type": "item",
+            "title": "Glory Kickboxing",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"
+        },
+        {
+            "type": "item",
+            "title": "Hard Knocks",
+            "link": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Highway Thru Hell",
+            "link": "https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Impact Wrestling",
+            "link": "https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Lax Sports Network TV",
+            "link": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Motor",
+            "link": "http://bitly.ws/BQfM"
+        },
+        {
+            "type": "item",
+            "title": "NFL Channel",
+            "link": "http://bitly.ws/BQfS"
+        },
+        {
+            "type": "item",
+            "title": "Nitro Circus",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"
+        },
+        {
+            "type": "item",
+            "title": "PGA Tour",
+            "link": "http://bitly.ws/BQfX"
+        },
+        {
+            "type": "item",
+            "title": "Red Bull TV",
+            "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Ski TV",
+            "link": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Spike Outdoors",
+            "link": "http://bitly.ws/BQg3"
+        },
+        {
+            "type": "item",
+            "title": "Tennis Channel",
+            "link": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "The Boat Show",
+            "link": "http://bitly.ws/BQg5"
+        },
+        {
+            "type": "item",
+            "title": "TVS Boxing",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Classic Sports",
+            "link": "http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Sports",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Sports Bureau",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Tavern",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Turbo",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "TVS Women Sports",
+            "link": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "VSiN",
+            "link": "https://stream.rcncdn.com/live/vsinproxy.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "World Poker Tour",
+            "link": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+        }
+        
+		
+        
+            
+        
+    ]
+    
+}
