@@ -9,7 +9,7 @@
 	<title>[COLORwhite]Free Shows[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml</link>
 </dir>
-<plugin>
+plugin>
 	<title>[COLORwhite]Web Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=doo_main</link>
 </plugin>
@@ -19,7 +19,7 @@
 </dir>
 <dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>https://mfirepo.github.io/hal/debhqsel.xml</link>
+	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
 </dir>
 plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
