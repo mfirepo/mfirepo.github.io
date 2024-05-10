@@ -1,0 +1,62 @@
+{
+  "items": [
+    
+	{
+      "type": "plugin",
+      "title": "Fight Network",
+      "link": "plugin.video.blsport/sportjetextractors/play?urls=https://dlhd.sx/stream/stream-757.php"
+    },
+    {
+      "type": "item",
+      "title": "Fight Network 2",
+      "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Fite",
+      "link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Glory Kickboxing",
+      "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows"
+    },
+    {
+      "type": "item",
+      "title": "Hard Knocks",
+      "link": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Impact Wrestling",
+      "link": "https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Stadium",
+      "link": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "TVS Boxing",
+      "link": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+    },
+	{
+      "type": "plugin",
+      "title": "WWE Network",
+      "link": "plugin.video.blsport/sportjetextractors/play?urls=https://dlhd.sx/stream/stream-376.php"
+    },
+	{
+      "type": "item",
+      "title": "ACA 1 (Russian Audio)",
+      "link": "https://cdn-2.facecast.net/public/115949/720p.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "ACA 2 (Russian Audio)",
+      "link": "https://cdn-3.facecast.net/public/115949/720p.m3u8"
+    }
+	
+	
+  ]
+}

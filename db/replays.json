@@ -1,0 +1,38 @@
+   {
+  "items": [ 
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Football Replays >>>>[/B][/COLOR]",
+      "sportjetextractors":"FullReplays"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> WWE/AEW/UFC/Impact >>>>[/B][/COLOR]",
+      "link":"https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Wrestling/MMA >>>>[/B][/COLOR]",
+      "sportjetextractors":"WatchProWrestling"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> NFL/HNL/MLB/MMA >>>>[/B][/COLOR]",
+      "sportjetextractors":"SportsVideo"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Basketball >>>>[/B][/COLOR]",
+      "sportjetextractors":"BasketballVideo"
+    }
+	
+	
+	
+	
+	
+ ]
+
+}
+	
+	
+	

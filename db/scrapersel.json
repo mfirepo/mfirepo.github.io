@@ -1,0 +1,22 @@
+{
+  "items": [
+
+{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/prem.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Live Sports >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/scrapers.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Scraper Search >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/search.json"
+    }
+	
+]
+
+}

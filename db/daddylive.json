@@ -1,0 +1,26 @@
+{
+  "items": [
+  {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DaddyLive Sport >>>>[/I][/B][/COLOR]",
+      "sportjetextractors":"Daddylive"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DaddyLive US/UK >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/daddylive1.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DaddyLive All >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/daddylive2.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DaddyLive Search >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/*?include=7"
+    }
+	
+	
+  ]
+}

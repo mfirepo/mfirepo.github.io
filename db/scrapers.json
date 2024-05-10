@@ -1,0 +1,86 @@
+ {
+  "items": [ 
+  {
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (DL) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Daddylive"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SU) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Streamedsu"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"SportSurgeStream"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (FH) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Freehdgames"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (WS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Weakspell/LiveOnScore"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SC) >>>>[/B][/COLOR]",
+      "sportjetextractors":"SportsCentral"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (HS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"HDStreams"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SW) >>>>[/B][/COLOR]",
+      "sportjetextractors":"StreamBTW"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SH) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Sportshub"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (MS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Meth_com"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SE) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Streameast"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (CS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Crackstreams"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (6S) >>>>[/B][/COLOR]",
+      "sportjetextractors":"6stream"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (BS) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Buffstreams"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (SB-Non PC) >>>>[/B][/COLOR]",
+      "sportjetextractors":"SportsBox(non-PC)"
+    }
+	
+	
+	
+	
+	
+
+ ]
+
+}

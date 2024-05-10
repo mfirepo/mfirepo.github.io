@@ -1,0 +1,660 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "BBC 1*",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium356/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php&Origin=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "BBC 2*",
+      "link": "https://websuit.onlinehdhls.ru/est1/cdn/mono31/tracks-v1a1/mono.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "BBC 3",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium358/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "BBC 4",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium359/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ITV 1",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium350/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ITV 2",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium351/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ITV 3",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium352/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ITV 4",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium353/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Channel 4",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium354/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Channel 5",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium355/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "5 USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium360/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "S4C UK",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium670/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "BBC News",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium349/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "GB News",
+      "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Talk TV News",
+      "link": "https://www.youtube.com/watch?v=WguRyzIb4bE"
+    },
+    {
+      "type": "item",
+      "title": "BBC America",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium305/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Atlantic",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium362/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Comedy",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium684/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Crime",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium685/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky History",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium686/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Arts",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium683/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Witness",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium361/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Sky Showcase",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium682/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Premier",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Select",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium672/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Greats",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium674/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Family",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium676/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky Action",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium677/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Sky Thriller",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium679/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sky SciFi-Horror",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium681/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Comedy Central",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium310/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO Comedy",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium690/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium321/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO 2 USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium689/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO Family",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium691/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO Signature",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium693/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HBO Zone",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium694/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Dave",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium348/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Gold UK",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium687/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "E4",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium363/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Film 4",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium688/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Discovery Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium313/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Discovery Family",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium657/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Discovery Life Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium311/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Investigation Discovery USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium324/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "History USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium322/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ABC USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium51/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "A&E USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "AMC USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium303/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Adult Swim",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium295/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Animal Planet",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium304/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "AXS TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium742/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CMT",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium647/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CBS USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium52/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CW USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium300/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CNBC USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium309/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "COZI TV USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium748/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CNN USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium345/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Cinemax USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium374/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Comet USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium696/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Cooking Channel USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium697/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CBSNY USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CBC Canada",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium832/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CTV Canada",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium602/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "CTV 2 Canada",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium838/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Destination America",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium651/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "E! Entertainment TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium315/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Fashion TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium744/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FETV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium751/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FOX USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FX USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium317/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FXX USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium298/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FX Movie Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium381/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Fox News",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium347/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FOXNY USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium768/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Fox Weather Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium775/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Freeform",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium301/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "FYI",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium665/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Game Show Network",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium319/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Global Canada",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium836/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Grit TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium752/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "HGTV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium382/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "ION",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium325/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "IFC TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium656/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "MotorTrend",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium661/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Mav TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium646/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "METV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium662/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "MTV US",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium371/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Nasa TV",
+      "link": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Nasa Media TV",
+      "link": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Nat Geo",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium328/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+	{
+      "type": "item",
+      "title": "Now 70s",
+      "link": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Now 80s",
+      "link": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Now Rock",
+      "link": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "Oxygen True Crime",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium332/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "POP TV USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium653/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "RTE 1",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium364/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "RTE 2",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium365/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Science Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium294/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Showtime USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium333/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "SYFY USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium373/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Sundance TV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium658/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TBS",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium336/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TLC",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium337/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TNT",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Travel Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium340/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TruTV USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium341/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TVLAND",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium342/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TCM USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium664/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TMC Channel USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium698/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "The Food Network",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium384/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "The Hallmark Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium320/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "The Weather Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium394/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TV ONE USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium660/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "USA Network",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "VH1 USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium344/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Vice",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium659/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "WETV",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium655/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "YES TV CA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium837/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "YES Network USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium763/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Boomerang",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium648/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Cartoon Network",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium339/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Disney Channel",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Disney XD",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Disney JR",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "NICK",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium330/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "NICK JR",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium329/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Nick Music",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Nick Toons",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium649/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "TeenNick",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium650/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    },
+    {
+      "type": "item",
+      "title": "Universal Kids USA",
+      "link": "https://webhdrus.onlinehdhls.ru/lb/premium668/index.m3u8|Referer=https://weblivehdplay.ru/premiumtv/daddylivehd.php"
+    }
+	
+  ]
+}

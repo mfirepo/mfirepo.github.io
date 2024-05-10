@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Todays Sport >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/search.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/prem.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> One-Offs >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/links.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Live Sports >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/scrapersel.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Fight Sports >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/fight.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Sport Replays >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/replays.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Direct Links >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/test.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Fork-Q TV >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/livetv1.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Online TV >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/sammtv.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Game Search >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search": "search/*?include=17"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Settings >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/sett.json"
+    }
+  ]
+}
