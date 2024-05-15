@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",4 Adventure (1080p)
+#EXTINF:-1 tvg-id="" group-title="Live TV",4 Adventure (1080p)
 https://lnc-4adventure.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="",4 Emergency (1080p)
 https://lnc-4emergency.tubi.video/playlist.m3u8
