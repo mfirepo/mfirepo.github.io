@@ -12,8 +12,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportSurgeStream"
+      "title": "[COLORyellow][B]>>>> Live Sports (SB) >>>>[/B][/COLOR]",
+      "sportjetextractors":"SportyBitev2"
     },
 	{
       "type": "dir",
@@ -72,9 +72,17 @@
     },
 	{
       "type": "dir",
+      "title": "[COLORyellow][B]>>>> Live Sports (CF) >>>>[/B][/COLOR]",
+      "sportjetextractors":"Cricfree"
+    },
+	{
+      "type": "dir",
       "title": "[COLORyellow][B]>>>> Live Sports (SB-Non PC) >>>>[/B][/COLOR]",
       "sportjetextractors":"SportsBox(non-PC)"
     }
+	
+	
+	
 	
 	
 	

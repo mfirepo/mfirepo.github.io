@@ -1,5 +1,15 @@
 {
     "items": [
+	{
+      "type": "dir",
+		"title": "[COLORwhite]UK Channels[/COLOR]",
+		"pvr_sport_search":"search/united kingdom?include=19"
+		},
+		{
+		"type": "dir",
+		"title": "[COLORwhite]24/7 Channels[/COLOR]",
+		"pvr_sport_search":"search/24/7?include=19"
+		},
         {
             "type": "plugin",
             "title": "[COLORwhite]United Kingdom[/COLOR]",
@@ -14,6 +24,11 @@
             "type": "plugin",
             "title": "[COLORwhite]Canada[/COLOR]",
             "link": "plugin.video.blsport/samsung_tv/region/ca"
+        },
+		{
+            "type": "plugin",
+            "title": "[COLORwhite]Pluto TV[/COLOR]",
+            "link": "plugin.video.plutotv"
         },
 		{
             "type": "plugin",

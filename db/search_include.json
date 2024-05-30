@@ -20,7 +20,7 @@
     ["V2 Sportsurge","Azulito","Batmanstream"],
 
     "search_include6":
-    ["SportSurgeStream","StreamBTW","Freehdgames","Elixx","Webcast","Crackstreams","SportsBox(non-PC)","Streamedsu","Buffstreams"],
+    ["Cricfree","StreamBTW","Freehdgames","Elixx","SportsBox(non-PC)","Streamedsu","Buffstreams","Daddylive"],
 
 
     "search_include7":
@@ -48,14 +48,20 @@
     ["Hitstreams"],
 
     "search_include15":
-    ["SportsBox(non-PC)","Streamedsu","Buffstreams","Crackstreams","Give Me"],
+    ["Cricfree","Streamedsu","Buffstreams","Crackstreams","Give Me","SportyBitev2"],
 	
 	"search_include16":
-    ["Streamedsu","Buffstreams","Crackstreams","Give Me"],
+    ["Cricfree","Streamedsu","Buffstreams","Crackstreams","Give Me","SportyBitev2"],
 	
 	"search_include17":
-    ["SportSurgeStream","StreamBTW","Freehdgames","FootyBiteTV","Elixx","Webcast","Crackstreams","SportsBox(non-PC)","Streamedsu","Buffstreams"],
+    ["Cricfree","StreamBTW","Freehdgames","FootyBiteTV","Elixx","Streamedsu","Buffstreams","Daddylive","SportyBitev2"],
 	
 	"search_include18":
-    ["Give Me"]
+    ["Give Me"],
+	
+	"search_include19":
+    ["KetaIPTV"],
+	
+	"search_include20":
+    ["Cricfree"]
 }

@@ -1,7 +1,26 @@
 {
   "items": [
-
-{
+  {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/sky sports?include=19"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> TNT Sport >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/united kingdom tnt sport?include=19"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DSTV >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/dstv?include=19"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Sports Channels SD >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/channel?include=20"
+    },
+    {
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
       "link": "https://cmanbuilds.com/sport/prem.json"
@@ -16,6 +35,7 @@
       "title": "[COLORyellow][B][I]>>>> Scraper Search >>>>[/I][/B][/COLOR]",
       "link": "https://cmanbuilds.com/sport/search.json"
     }
+	
 	
 ]
 

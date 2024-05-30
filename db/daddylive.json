@@ -17,9 +17,20 @@
     },
 	{
       "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DaddyLive 24/7 >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search":"search/24/7?include=7"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Random Sports >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/random.json"
+    },
+	{
+      "type": "dir",
       "title": "[COLORyellow][B][I]>>>> DaddyLive Search >>>>[/I][/B][/COLOR]",
       "pvr_sport_search":"search/*?include=7"
     }
+	
 	
 	
   ]
