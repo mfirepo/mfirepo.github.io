@@ -3,13 +3,7 @@
  
 	{
       "type": "item",
-      "title": "Sky Sports News (Opt. 1)",
-      "link": "https://inst3.ignores.top/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8|Referer=https://vipstreams.in&Origin=https://vipstreams.in"
-      
-    },
-	{
-      "type": "item",
-      "title": "Sky Sports News (Opt. 2)",
+      "title": "Sky Sports News",
       "sportjetextractors": [
       "https://streamhd-pro.com/skynews"
       ]
@@ -103,25 +97,9 @@
       "title": "Tennis Channel (Opt. 2)",
       "link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"
       
-    },
-	{
-      "type": "item",
-      "title": "Test",
-      "sportjetextractors": [
-      "https://streamhd-pro.com/tntsport1"
-      ]
-    },
-	{
-      "type": "item",
-      "title": "Test 1",
-      "sportjetextractors": [
-      "https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_CINEMA_ACTION_FHD.php"
-      ]
     }
 	
-	
 
-	
 ]
 
 }

@@ -2,23 +2,23 @@
   "items": [
   {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/sky sports?include=19"
+      "title": "[COLORyellow][B][I]>>>> Sports Channels #1 >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/backup.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> TNT Sport >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/united kingdom tnt sport?include=19"
+      "title": "[COLORyellow][B][I]>>>> Sports Channels #2 >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/now.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DSTV >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/dstv?include=19"
+      "title": "[COLORyellow][B][I]>>>> One-Offs >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/links.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sports Channels SD >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/channel?include=20"
+      "title": "[COLORyellow][B][I]>>>> Direct Links >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/test.json"
     },
     {
       "type": "dir",
@@ -34,7 +34,18 @@
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Scraper Search >>>>[/I][/B][/COLOR]",
       "link": "https://cmanbuilds.com/sport/search.json"
+    },
+	{
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Fight Sports >>>>[/I][/B][/COLOR]",
+      "link": "https://cmanbuilds.com/sport/fight.json"
+    },
+	{
+      "type": "plugin",
+      "title": "[COLORyellow][B][I]>>>> UKTV Now Sports >>>>[/I][/B][/COLOR]",
+      "link": "plugin.video.blsport/uktvnow/category/Sports"
     }
+    
 	
 	
 ]
