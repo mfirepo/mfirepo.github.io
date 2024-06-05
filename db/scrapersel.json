@@ -3,47 +3,47 @@
   {
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Sports Channels #1 >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/backup.json"
+      "link": "https://mfirepo.github.io/db/backup.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Sports Channels #2 >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/now.json"
+      "link": "https://mfirepo.github.io/db/now.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> One-Offs >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/links.json"
+      "link": "https://mfirepo.github.io/db/links.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Direct Links >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/test.json"
+      "link": "https://mfirepo.github.io/db/test.json"
     },
     {
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/prem.json"
+      "link": "https://mfirepo.github.io/db/prem.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Live Sports >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/scrapers.json"
+      "link": "https://mfirepo.github.io/db/scrapers.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Scraper Search >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/search.json"
+      "link": "https://mfirepo.github.io/db/search.json"
     },
 	{
       "type": "dir",
       "title": "[COLORyellow][B][I]>>>> Fight Sports >>>>[/I][/B][/COLOR]",
-      "link": "https://cmanbuilds.com/sport/fight.json"
+      "link": "https://mfirepo.github.io/db/fight.json"
     },
 	{
       "type": "plugin",
       "title": "[COLORyellow][B][I]>>>> UKTV Now Sports >>>>[/I][/B][/COLOR]",
-      "link": "plugin.video.blsport/uktvnow/category/Sports"
+      "link": "plugin.video.mayhem/uktvnow/category/Sports"
     }
     
 	
