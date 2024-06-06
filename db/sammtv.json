@@ -1,79 +1,84 @@
 {
-    "items": [
-
-        {
-            "type": "plugin",
-            "title": "[COLORwhite]United Kingdom[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/gb"
-        },
-        {
-            "type": "plugin",
-            "title": "[COLORwhite]United States[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/us"
-        },
-        {
-            "type": "plugin",
-            "title": "[COLORwhite]Canada[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/ca"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Pluto TV[/COLOR]",
-            "link": "plugin.video.plutotv"
-        },
-		{
-            "type": "dir", 
-            "title": "[COLORwhite]UKTV Now[/COLOR]", 
-            "uktvnow": "categories"  
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Austria[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/at"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Switzerland[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/ch"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Germany[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/de"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Spain[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/es"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]France[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/fr"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Italy[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/it"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]India[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/in"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]South Korea[/COLOR]",
-            "link": "plugin.video.mayhem/samsung_tv/region/kr"
-        },
-		{
-            "type": "plugin",
-            "title": "[COLORwhite]Stirr Sport[/COLOR]",
-            "link": "plugin.video.mayhem/get_list/m3ucat|https://i.mjh.nz/Stirr/all.m3u8|Sports Live"
-        }
-		
-	   
-	   
-	]	
-	
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORwhite]UK Channels[/COLOR]",
+      "pvr_sport_search": "search/united kingdom?include=19"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]24/7 Channels[/COLOR]",
+      "pvr_sport_search": "search/24/7?include=19"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]United Kingdom[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/gb"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]United States[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/us"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Canada[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/ca"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Pluto TV[/COLOR]",
+      "link": "plugin.video.plutotv"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]UKTV Now[/COLOR]",
+      "uktvnow": "categories"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Austria[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/at"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Switzerland[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/ch"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Germany[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/de"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Spain[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/es"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]France[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/fr"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Italy[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/it"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]India[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/in"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]South Korea[/COLOR]",
+      "link": "plugin.video.mayhem/samsung_tv/region/kr"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORwhite]Stirr Sport[/COLOR]",
+      "link": "plugin.video.mayhem/get_list/m3ucat|https://i.mjh.nz/Stirr/all.m3u8|Sports Live"
+    }
+  ]
 }
