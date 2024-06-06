@@ -22,6 +22,21 @@
     },
     {
       "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> TNT Sports >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search": "search/united kingdom tnt sport?include=19"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search": "search/united kingdom sky sports?include=19"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORyellow][B][I]>>>> DSTV Sports >>>>[/I][/B][/COLOR]",
+      "pvr_sport_search": "search/dstv?include=19"
+    },
+    {
+      "type": "dir",
       "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
