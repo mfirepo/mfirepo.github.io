@@ -6,6 +6,66 @@
       "title": "Formula 1",
       "link": "https://inst1.ignores.top/js/sky-sports-f1-sky-f1/1/playlist.m3u8|Referer=https://vipstreams.in&Origin=https://vipstreams.in"
       
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Broner vs Cobbs",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=114"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "Boxing: Broner vs Cobbs",
+      "pvr_sport_search":"search/broner?include=17"
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Collazo vs Zapata",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=115"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "Boxing: Collazo vs Zapata",
+      "pvr_sport_search":"search/collazo?include=17"
+    },
+	{
+      "type": "item",
+      "title": "MMA: LFA 185",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=116"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "MMA: LFA 185",
+      "pvr_sport_search":"search/LFA 185?include=17"
+    },
+	{
+      "type": "item",
+      "title": "MMA: Cage Warriors 173",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=117"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "MMA: Cage Warriors 173",
+      "pvr_sport_search":"search/Cage Warriors 173?include=17"
+    },
+	{
+      "type": "item",
+      "title": "Boxing: Walsh vs Ortiz",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=118"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "Boxing: Walsh vs Ortiz",
+      "pvr_sport_search":"search/walsh?include=17"
     }
 	
 	
