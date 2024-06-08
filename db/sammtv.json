@@ -2,13 +2,18 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORwhite]UK Channels[/COLOR]",
-      "pvr_sport_search": "search/united kingdom?include=19"
+      "title": "[COLORwhite]UK Channels  (Next Update)[/COLOR]",
+      "link": "https://mfirepo.github.io/db/ketauk.json"
+    },
+     {
+      "type": "dir",
+      "title": "[COLORwhite]US Channels (Next Update)[/COLOR]",
+      "link": "https://mfirepo.github.io/db/ketaus.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]24/7 Channels[/COLOR]",
-      "pvr_sport_search": "search/24/7?include=19"
+      "title": "[COLORwhite]24/7 Channels (Next Update)[/COLOR]",
+      "link": "https://mfirepo.github.io/db/keta247.json"
     },
     {
       "type": "plugin",
