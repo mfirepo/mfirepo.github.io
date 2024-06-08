@@ -103,11 +103,6 @@
     },
     {
       "type": "item",
-      "title": "Talk TV News",
-      "link": "https://www.youtube.com/watch?v=WguRyzIb4bE"
-    },
-    {
-      "type": "item",
       "title": "BBC America",
       "sportjetextractors": [
         "https://dlhd.sx/stream/stream-305.php"
@@ -290,14 +285,14 @@
     {
       "type": "item",
       "title": "Gold UK (Opt.1)",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/236"
+    },
+    {
+      "type": "item",
+      "title": "Gold UK (Opt.2)",
       "sportjetextractors": [
         "https://dlhd.sx/stream/stream-687.php"
       ]
-    },
-	{
-      "type": "item",
-      "title": "Gold UK (Opt.2)",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/236"
     },
     {
       "type": "item",
