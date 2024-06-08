@@ -260,17 +260,17 @@
         "https://dlhd.sx/stream/stream-694.php"
       ]
     },
-	{
+    {
       "type": "item",
       "title": "Showtime",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/472"
     },
-	{
+    {
       "type": "item",
       "title": "Showtime 2",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/473"
     },
-	{
+    {
       "type": "item",
       "title": "Showtime Showcase",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/475"
