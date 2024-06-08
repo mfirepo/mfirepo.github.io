@@ -9,9 +9,21 @@
     },
 	{
       "type": "item",
+      "title": "MMA: BKFC Venis vs Tabakov",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=112"
+      ]
+    },
+	{
+      "type": "dir",
+      "title": "MMA: BKFC Venis vs Tabakov",
+      "pvr_sport_search":"search/tabakov?include=17"
+    },
+	{
+      "type": "item",
       "title": "UFC: Cannonier vs Imavov",
       "sportjetextractors": [
-        "https://sportsurge.stream/embed/ufc.php"
+        "https://sons-stream.com/tvon.php?hd=111"
       ]
     },
 	{
@@ -23,7 +35,7 @@
       "type": "item",
       "title": "Boxing: Zayas vs Teixeira",
       "sportjetextractors": [
-        "https://sportsurge.stream/embed/boxing.php"
+        "https://sons-stream.com/tvon.php?hd=113"
       ]
     },
 	{
