@@ -22,13 +22,13 @@
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> TNT Sports >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search": "search/united kingdom tnt sport?include=19"
+      "title": "[COLORyellow][B][I]>>>> TNT Sports >>>> (Next Update)[/I][/B][/COLOR]",
+      "link": "https://mfirepo.github.io/db/tnt.json"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search": "search/united kingdom sky sports?include=19"
+      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>  (Next Update)[/I][/B][/COLOR]",
+      "link": "https://mfirepo.github.io/db/sky.json"
     },
     {
       "type": "dir",
