@@ -9,63 +9,27 @@
     },
 	{
       "type": "item",
-      "title": "Boxing: Broner vs Cobbs",
+      "title": "UFC: Cannonier vs Imavov",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=114"
+        "https://sportsurge.stream/embed/ufc.php"
       ]
     },
 	{
       "type": "dir",
-      "title": "Boxing: Broner vs Cobbs",
-      "pvr_sport_search":"search/broner?include=17"
+      "title": "UFC: Cannonier vs Imavov",
+      "pvr_sport_search":"search/cannonier?include=17"
     },
 	{
       "type": "item",
-      "title": "Boxing: Collazo vs Zapata",
+      "title": "Boxing: Zayas vs Teixeira",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=115"
+        "https://sportsurge.stream/embed/boxing.php"
       ]
     },
 	{
       "type": "dir",
-      "title": "Boxing: Collazo vs Zapata",
-      "pvr_sport_search":"search/collazo?include=17"
-    },
-	{
-      "type": "item",
-      "title": "MMA: LFA 185",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=116"
-      ]
-    },
-	{
-      "type": "dir",
-      "title": "MMA: LFA 185",
-      "pvr_sport_search":"search/LFA 185?include=17"
-    },
-	{
-      "type": "item",
-      "title": "MMA: Cage Warriors 173",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=117"
-      ]
-    },
-	{
-      "type": "dir",
-      "title": "MMA: Cage Warriors 173",
-      "pvr_sport_search":"search/Cage Warriors 173?include=17"
-    },
-	{
-      "type": "item",
-      "title": "Boxing: Walsh vs Ortiz",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=118"
-      ]
-    },
-	{
-      "type": "dir",
-      "title": "Boxing: Walsh vs Ortiz",
-      "pvr_sport_search":"search/walsh?include=17"
+      "title": "Boxing: Zayas vs Teixeira",
+      "pvr_sport_search":"search/zayas?include=17"
     }
 	
 	
