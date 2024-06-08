@@ -1,0 +1,229 @@
+{
+    "items": [
+
+         {
+            "type": "item",
+            "title": "UK SKY SPORTS ACTION HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_ACTION_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS ARENA FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_ARENA_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS ARENA HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_ARENA_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS ARENA SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_ARENA_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS BOX OFFICE FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_BOX_OFFICE_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS BOX OFFICE HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_BOX_OFFICE_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS BOX OFFICE SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_BOX_OFFICE_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS CRICKET FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_CRICKET_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS CRICKET HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_CRICKET_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS CRICKET SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_CRICKET_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS F1 FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_F1_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS F1 HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_F1_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS F1 SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_F1_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS FOOTBALL FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_FOOTBALL_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS FOOTBALL HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_FOOTBALL_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS FOOTBALL SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_FOOTBALL_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS GOLF FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_GOLF_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS GOLF HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_GOLF_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS GOLF SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_GOLF_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MAIN EVENT FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MAIN_EVENT_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MAIN EVENT HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MAIN_EVENT_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MAIN EVENT SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MAIN_EVENT_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MIX FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MIX_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MIX HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MIX_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS MIX SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_MIX_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NEWS FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NEWS_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NEWS HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NEWS_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NEWS SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NEWS_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NFL FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NFL_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NFL HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NFL_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS NFL SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_NFL_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS PREMIER LEAGUE FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_PREMIER_LEAGUE_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS PREMIER LEAGUE HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_PREMIER_LEAGUE_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS PREMIER LEAGUE SD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_PREMIER_LEAGUE_SD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS RACING FHD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_RACING_FHD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS RACING HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_RACING_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "UK SKY SPORTS TENNIS HD",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_UNITED_KINGDOM_SKY_SPORTS_TENNIS_HD.php"
+            
+        }
+
+]
+
+}
