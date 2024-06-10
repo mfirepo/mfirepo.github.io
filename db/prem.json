@@ -1,61 +1,54 @@
 {
-  "items": [ 
-  
+  "items": [
     {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (DL) >>>>[/B][/COLOR]",
-      "pvr_sport_search":"search/soccer?include=7"
-    },
-	{
-      "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (SU) >>>>[/B][/COLOR]",
-      "pvr_sport_search":"search/soccer?include=12"
+      "title": "[COLORwhite]FIFA Football (DL)[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=7"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (SS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportSurgeStream"
+      "title": "[COLORwhite]FIFA Football (SU)[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (SW) >>>>[/B][/COLOR]",
-      "sportjetextractors":"StreamBTW"
+      "title": "[COLORwhite]FIFA Football (SS)[/COLOR]",
+      "sportjetextractors": "SportSurgeStream"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (FG) >>>>[/B][/COLOR]",
-      "pvr_sport_search":"search/soccer?include=11"
+      "title": "[COLORwhite]FIFA Football (SW)[/COLOR]",
+      "sportjetextractors": "StreamBTW"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (LS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Weakspell/LiveOnScore"
+      "title": "[COLORwhite]FIFA Football (FG)[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=11"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (EL) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Elixx"
+      "title": "[COLORwhite]FIFA Football (LS)[/COLOR]",
+      "sportjetextractors": "Weakspell/LiveOnScore"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (FB) >>>>[/B][/COLOR]",
-      "sportjetextractors":"FootyBiteTV"
+      "title": "[COLORwhite]FIFA Football (EL)[/COLOR]",
+      "sportjetextractors": "Elixx"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (SB) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportyBite"
+      "title": "[COLORwhite]FIFA Football (FB)[/COLOR]",
+      "sportjetextractors": "FootyBiteTV"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> FIFA Football (SB-Non PC) >>>>[/B][/COLOR]",
-      "pvr_sport_search":"search/soccer?include=3"
+      "title": "[COLORwhite]FIFA Football (SB)[/COLOR]",
+      "sportjetextractors": "SportyBite"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]FIFA Football (SB-Non PC)[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=3"
     }
-	
-	
-	
-	
-	
-	]
-	
+  ]
 }
