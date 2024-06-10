@@ -32,8 +32,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DSTV Sports >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search": "search/dstv?include=19"
+      "title": "[COLORyellow][B][I]>>>> EPL 3PM >>>>  (Next Update)[/I][/B][/COLOR]",
+      "link": "https://mfirepo.github.io/db/epl.json"
     },
     {
       "type": "dir",
