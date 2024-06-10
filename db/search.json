@@ -2,83 +2,78 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Soccer >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/soccer?include=17"
+      "title": "[COLORwhite]Soccer[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=17"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> UFC/MMA >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/ufc?include=17"
+      "title": "[COLORwhite]UFC/MMA[/COLOR]",
+      "pvr_sport_search": "search/ufc?include=17"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Wrestling >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/wrestling?include=15"
+      "title": "[COLORwhite]Wrestling[/COLOR]",
+      "pvr_sport_search": "search/wrestling?include=15"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Boxing >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/boxing?include=15"
+      "title": "[COLORwhite]Boxing[/COLOR]",
+      "pvr_sport_search": "search/boxing?include=15"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Fight Sports >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/fight?include=12"
+      "title": "[COLORwhite]Fight Sports[/COLOR]",
+      "pvr_sport_search": "search/fight?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Motorsport >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/motor?include=15"
+      "title": "[COLORwhite]Motorsport[/COLOR]",
+      "pvr_sport_search": "search/motor?include=15"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> NBA >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/nba?include=15"
+      "title": "[COLORwhite]NBA[/COLOR]",
+      "pvr_sport_search": "search/nba?include=15"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> NFL >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/nfl?include=16"
+      "title": "[COLORwhite]NFL[/COLOR]",
+      "pvr_sport_search": "search/nfl?include=16"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> NHL >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/nhl?include=16"
+      "title": "[COLORwhite]NHL[/COLOR]",
+      "pvr_sport_search": "search/nhl?include=16"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> MLB >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/mlb?include=16"
+      "title": "[COLORwhite]MLB[/COLOR]",
+      "pvr_sport_search": "search/mlb?include=16"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Tennis >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/tennis?include=12"
+      "title": "[COLORwhite]Tennis[/COLOR]",
+      "pvr_sport_search": "search/tennis?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Golf >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/golf?include=12"
+      "title": "[COLORwhite]Golf[/COLOR]",
+      "pvr_sport_search": "search/golf?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Cricket >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/cricket?include=12"
+      "title": "[COLORwhite]Cricket[/COLOR]",
+      "pvr_sport_search": "search/cricket?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Rugby >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/rugby?include=12"
+      "title": "[COLORwhite]Rugby[/COLOR]",
+      "pvr_sport_search": "search/rugby?include=12"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Darts >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/darts?include=12"
+      "title": "[COLORwhite]Darts[/COLOR]",
+      "pvr_sport_search": "search/darts?include=12"
     }
-	
-	
-	
-	
-]
-
+  ]
 }
