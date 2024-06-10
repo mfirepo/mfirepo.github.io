@@ -37,6 +37,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]DSTV (Next Update)[/COLOR]",
+      "link": "https://mfirepo.github.io/db/dstv.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
