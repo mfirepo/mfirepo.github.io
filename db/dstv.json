@@ -1,0 +1,274 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT ACTION HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_ACTION_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT ACTION",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_ACTION.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT BLITZ HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_BLITZ_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT BLITZ",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_BLITZ.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT CRICKET HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_CRICKET_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT CRICKET",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_CRICKET.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT ESPN 2 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_ESPN_2_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT ESPN HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_ESPN_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT FOOTBALL HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_FOOTBALL_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT FOOTBALL",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_FOOTBALL.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT GOLF HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_GOLF_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT GOLF",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_GOLF.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT GRANDSTAND HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_GRANDSTAND_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT GRANDSTAND",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_GRANDSTAND.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT LA LIGA HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_LA_LIGA_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT LA LIGA",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_LA_LIGA.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT MAXIMO HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_MAXIMO_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT MAXIMO",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_MAXIMO.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT MOTORSPORT HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_MOTORSPORT_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT MOTORSPORT",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_MOTORSPORT.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 1 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_1_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 2 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_2_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 3 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_3_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 4 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_4_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 5 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_5_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 6 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_6_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 7 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_7_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT OTT 8 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_OTT_8_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT PREMIER LEAGUE HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_PREMIER_LEAGUE_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT PREMIER LEAGUE",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_PREMIER_LEAGUE.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT PSL HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_PSL_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT PSL",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_PSL.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT RUGBY HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_RUGBY_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT RUGBY",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_RUGBY.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT TENNIS HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_TENNIS_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT TENNIS",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_TENNIS.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 1 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_1_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 1",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_1.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 2 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_2_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 2",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_2.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 3 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_3_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 3",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_3.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 4 HD",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_4_HD.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV SUPERSPORT VARIETY 4",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_SUPERSPORT_VARIETY_4.php"
+            
+        },
+        {
+            "type": "item",
+            "title": "DSTV WWE NETWORK",
+            "link": "plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https://ketaiptv.me/channel/KETA0_DSTV_WWE_NETWORK.php"
+            
+        }
+    ]
+}
