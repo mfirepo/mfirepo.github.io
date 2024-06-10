@@ -1,21 +1,21 @@
 {
   "items": [
-  {
+    {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #1[/COLOR]",
       "link": "https://mfirepo.github.io/db/backup.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #2[/COLOR]",
       "link": "https://mfirepo.github.io/db/now.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]One-Offs[/COLOR]",
       "link": "https://mfirepo.github.io/db/links.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]Direct Links[/COLOR]",
       "link": "https://mfirepo.github.io/db/test.json"
@@ -37,7 +37,7 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]DSTV (Next Update)[/COLOR]",
+      "title": "[COLORwhite]SuperSport (Next Update)[/COLOR]",
       "link": "https://mfirepo.github.io/db/dstv.json"
     },
     {
@@ -45,29 +45,25 @@
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]Live Sports[/COLOR]",
       "link": "https://mfirepo.github.io/db/scrapers.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]Scraper Search[/COLOR]",
       "link": "https://mfirepo.github.io/db/search.json"
     },
-	{
+    {
       "type": "dir",
       "title": "[COLORwhite]Fight Sports[/COLOR]",
       "link": "https://mfirepo.github.io/db/fight.json"
     },
-	{
+    {
       "type": "plugin",
       "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
     }
-    
-	
-	
-]
-
+  ]
 }
