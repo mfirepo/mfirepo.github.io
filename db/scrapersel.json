@@ -2,62 +2,62 @@
   "items": [
   {
       "type": "dir",
-      "title": "Sports Channels #1",
+      "title": "[COLORwhite]Sports Channels #1[/COLOR]",
       "link": "https://mfirepo.github.io/db/backup.json"
     },
 	{
       "type": "dir",
-      "title": "Sports Channels #2",
+      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
       "link": "https://mfirepo.github.io/db/now.json"
     },
 	{
       "type": "dir",
-      "title": "One-Offs",
+      "title": "[COLORwhite]One-Offs[/COLOR]",
       "link": "https://mfirepo.github.io/db/links.json"
     },
 	{
       "type": "dir",
-      "title": "Direct Links",
+      "title": "[COLORwhite]Direct Links[/COLOR]",
       "link": "https://mfirepo.github.io/db/test.json"
     },
     {
       "type": "dir",
-      "title": "TNT Sports (Next Update)",
+      "title": "[COLORwhite]TNT Sports (Next Update)[/COLOR]",
       "link": "https://mfirepo.github.io/db/tnt.json"
     },
     {
       "type": "dir",
-      "title": "Sky Sports (Next Update)",
+      "title": "[COLORwhite]Sky Sports (Next Update)[/COLOR]",
       "link": "https://mfirepo.github.io/db/sky.json"
     },
     {
       "type": "dir",
-      "title": "EPL 3PM",
+      "title": "[COLORwhite]EPL 3PM (Next Update)[/COLOR]",
       "link": "https://mfirepo.github.io/db/epl.json"
     },
     {
       "type": "dir",
-      "title": "FIFA Football",
+      "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
 	{
       "type": "dir",
-      "title": "Live Sports",
+      "title": "[COLORwhite]Live Sports[/COLOR]",
       "link": "https://mfirepo.github.io/db/scrapers.json"
     },
 	{
       "type": "dir",
-      "title": "Scraper Search",
+      "title": "[COLORwhite]Scraper Search[/COLOR]",
       "link": "https://mfirepo.github.io/db/search.json"
     },
 	{
       "type": "dir",
-      "title": "Fight Sports",
+      "title": "[COLORwhite]Fight Sports[/COLOR]",
       "link": "https://mfirepo.github.io/db/fight.json"
     },
 	{
       "type": "plugin",
-      "title": "UKTV Now Sports",
+      "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
     }
     
