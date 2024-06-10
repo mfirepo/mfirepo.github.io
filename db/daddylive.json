@@ -1,37 +1,34 @@
 {
   "items": [
-  {
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DaddyLive Sport >>>>[/I][/B][/COLOR]",
-      "sportjetextractors":"Daddylive"
+      "title": "[COLORwhite]DaddyLive Sport[/COLOR]",
+      "sportjetextractors": "Daddylive"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DaddyLive US/UK >>>>[/I][/B][/COLOR]",
+      "title": "[COLORwhite]DaddyLive US/UK[/COLOR]",
       "link": "https://cmanbuilds.com/sport/daddylive1.json"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DaddyLive All >>>>[/I][/B][/COLOR]",
+      "title": "[COLORwhite]DaddyLive All[/COLOR]",
       "link": "https://cmanbuilds.com/sport/daddylive2.json"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DaddyLive 24/7 >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/24/7?include=7"
+      "title": "[COLORwhite]DaddyLive 24/7[/COLOR]",
+      "pvr_sport_search": "search/24/7?include=7"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Random Sports >>>>[/I][/B][/COLOR]",
+      "title": "[COLORwhite]Random Sports[/COLOR]",
       "link": "https://cmanbuilds.com/sport/random.json"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> DaddyLive Search >>>>[/I][/B][/COLOR]",
-      "pvr_sport_search":"search/*?include=7"
+      "title": "[COLORwhite]DaddyLive Search[/COLOR]",
+      "pvr_sport_search": "search/*?include=7"
     }
-	
-	
-	
   ]
 }
