@@ -9,39 +9,41 @@
     },
 	{
       "type": "item",
-      "title": "MMA: BKFC Venis vs Tabakov",
+      "title": "Poland vs Turkey",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=112"
+        "https://sons-stream.com/tvon.php?hd=422"
       ]
     },
 	{
-      "type": "dir",
-      "title": "MMA: BKFC Venis vs Tabakov",
-      "pvr_sport_search":"search/tabakov?include=17"
-    },
-	{
       "type": "item",
-      "title": "UFC: Cannonier vs Imavov",
+      "title": "Poland vs Turkey",
       "sportjetextractors": [
         "https://sons-stream.com/tvon.php?hd=111"
       ]
     },
 	{
       "type": "dir",
-      "title": "UFC: Cannonier vs Imavov",
-      "pvr_sport_search":"search/cannonier?include=17"
+      "title": "Poland vs Turkey",
+      "pvr_sport_search":"search/poland?include=17"
     },
 	{
       "type": "item",
-      "title": "Boxing: Zayas vs Teixeira",
+      "title": "Netherlands vs Iceland",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=113"
+        "https://sons-stream.com/tvon.php?hd=421"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Netherlands vs Iceland",
+      "sportjetextractors": [
+        "https://sons-stream.com/tvon.php?hd=112"
       ]
     },
 	{
       "type": "dir",
-      "title": "Boxing: Zayas vs Teixeira",
-      "pvr_sport_search":"search/zayas?include=17"
+      "title": "Netherlands vs Iceland",
+      "pvr_sport_search":"search/iceland?include=17"
     }
 	
 	
