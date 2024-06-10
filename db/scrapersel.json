@@ -2,62 +2,62 @@
   "items": [
   {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sports Channels #1 >>>>[/I][/B][/COLOR]",
+      "title": "Sports Channels #1",
       "link": "https://mfirepo.github.io/db/backup.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sports Channels #2 >>>>[/I][/B][/COLOR]",
+      "title": "Sports Channels #2",
       "link": "https://mfirepo.github.io/db/now.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> One-Offs >>>>[/I][/B][/COLOR]",
+      "title": "One-Offs",
       "link": "https://mfirepo.github.io/db/links.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Direct Links >>>>[/I][/B][/COLOR]",
+      "title": "Direct Links",
       "link": "https://mfirepo.github.io/db/test.json"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> TNT Sports >>>> (Next Update)[/I][/B][/COLOR]",
+      "title": "TNT Sports (Next Update)",
       "link": "https://mfirepo.github.io/db/tnt.json"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Sky Sports >>>>  (Next Update)[/I][/B][/COLOR]",
+      "title": "Sky Sports (Next Update)",
       "link": "https://mfirepo.github.io/db/sky.json"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> EPL 3PM >>>>  (Next Update)[/I][/B][/COLOR]",
+      "title": "EPL 3PM",
       "link": "https://mfirepo.github.io/db/epl.json"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> FIFA Football >>>>[/I][/B][/COLOR]",
+      "title": "FIFA Football",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Live Sports >>>>[/I][/B][/COLOR]",
+      "title": "Live Sports",
       "link": "https://mfirepo.github.io/db/scrapers.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Scraper Search >>>>[/I][/B][/COLOR]",
+      "title": "Scraper Search",
       "link": "https://mfirepo.github.io/db/search.json"
     },
 	{
       "type": "dir",
-      "title": "[COLORyellow][B][I]>>>> Fight Sports >>>>[/I][/B][/COLOR]",
+      "title": "Fight Sports",
       "link": "https://mfirepo.github.io/db/fight.json"
     },
 	{
       "type": "plugin",
-      "title": "[COLORyellow][B][I]>>>> UKTV Now Sports >>>>[/I][/B][/COLOR]",
+      "title": "UKTV Now Sports",
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
     }
     
