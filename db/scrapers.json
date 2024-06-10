@@ -1,94 +1,84 @@
- {
-  "items": [ 
-  {
+{
+  "items": [
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (DL) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Daddylive"
-    },
-	{
-      "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SU) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Streamedsu"
+      "title": "[COLORwhite]Live Sports (DL)[/COLOR]",
+      "sportjetextractors": "Daddylive"
     },
     {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SB) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportyBitev2"
+      "title": "[COLORwhite]Live Sports (SU)[/COLOR]",
+      "sportjetextractors": "Streamedsu"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (FH) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Freehdgames"
+      "title": "[COLORwhite]Live Sports (SB)[/COLOR]",
+      "sportjetextractors": "SportyBitev2"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (WS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Weakspell/LiveOnScore"
+      "title": "[COLORwhite]Live Sports (FH)[/COLOR]",
+      "sportjetextractors": "Freehdgames"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SC) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportsCentral"
+      "title": "[COLORwhite]Live Sports (WS)[/COLOR]",
+      "sportjetextractors": "Weakspell/LiveOnScore"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (HS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"HDStreams"
+      "title": "[COLORwhite]Live Sports (SC)[/COLOR]",
+      "sportjetextractors": "SportsCentral"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SW) >>>>[/B][/COLOR]",
-      "sportjetextractors":"StreamBTW"
+      "title": "[COLORwhite]Live Sports (HS)[/COLOR]",
+      "sportjetextractors": "HDStreams"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SH) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Sportshub"
+      "title": "[COLORwhite]Live Sports (SW)[/COLOR]",
+      "sportjetextractors": "StreamBTW"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (MS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Meth_com"
+      "title": "[COLORwhite]Live Sports (SH)[/COLOR]",
+      "sportjetextractors": "Sportshub"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SE) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Streameast"
+      "title": "[COLORwhite]Live Sports (MS)[/COLOR]",
+      "sportjetextractors": "Meth_com"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (CS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Crackstreams"
+      "title": "[COLORwhite]Live Sports (SE)[/COLOR]",
+      "sportjetextractors": "Streameast"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (6S) >>>>[/B][/COLOR]",
-      "sportjetextractors":"6stream"
+      "title": "[COLORwhite]Live Sports (CS)[/COLOR]",
+      "sportjetextractors": "Crackstreams"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (BS) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Buffstreams"
+      "title": "[COLORwhite]Live Sports (6S)[/COLOR]",
+      "sportjetextractors": "6stream"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (CF) >>>>[/B][/COLOR]",
-      "sportjetextractors":"Cricfree"
+      "title": "[COLORwhite]Live Sports (BS)[/COLOR]",
+      "sportjetextractors": "Buffstreams"
     },
-	{
+    {
       "type": "dir",
-      "title": "[COLORyellow][B]>>>> Live Sports (SB-Non PC) >>>>[/B][/COLOR]",
-      "sportjetextractors":"SportsBox(non-PC)"
+      "title": "[COLORwhite]Live Sports (CF)[/COLOR]",
+      "sportjetextractors": "Cricfree"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Live Sports (SB-Non PC)[/COLOR]",
+      "sportjetextractors": "SportsBox(non-PC)"
     }
-	
-	
-	
-	
-	
-	
-	
-	
-
- ]
-
+  ]
 }
