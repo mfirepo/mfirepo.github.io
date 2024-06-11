@@ -4,46 +4,47 @@
 	{
       "type": "item",
       "title": "Formula 1",
-      "link": "https://inst1.ignores.top/js/sky-sports-f1-sky-f1/1/playlist.m3u8|Referer=https://vipstreams.in&Origin=https://vipstreams.in"
-      
+	  "sportjetextractors": [
+        "https://streamed.su/watch/sky-sports-f1-sky-f1/1"
+      ]
     },
 	{
       "type": "item",
-      "title": "Poland vs Turkey",
+      "title": "Northern Ireland vs Andorra",
       "sportjetextractors": [
         "https://sons-stream.com/tvon.php?hd=422"
       ]
     },
 	{
       "type": "item",
-      "title": "Poland vs Turkey",
+      "title": "Northern Ireland vs Andorra",
       "sportjetextractors": [
         "https://sons-stream.com/tvon.php?hd=111"
       ]
     },
 	{
       "type": "dir",
-      "title": "Poland vs Turkey",
-      "pvr_sport_search":"search/poland?include=17"
+      "title": "Northern Ireland vs Andorra",
+      "pvr_sport_search":"search/andorra?include=17"
     },
 	{
       "type": "item",
-      "title": "Netherlands vs Iceland",
+      "title": "Portugal vs Republic of Ireland",
       "sportjetextractors": [
         "https://sons-stream.com/tvon.php?hd=421"
       ]
     },
 	{
       "type": "item",
-      "title": "Netherlands vs Iceland",
+      "title": "Portugal vs Republic of Ireland",
       "sportjetextractors": [
         "https://sons-stream.com/tvon.php?hd=112"
       ]
     },
 	{
       "type": "dir",
-      "title": "Netherlands vs Iceland",
-      "pvr_sport_search":"search/iceland?include=17"
+      "title": "Portugal vs Republic of Ireland",
+      "pvr_sport_search":"search/portugal?include=17"
     }
 	
 	
