@@ -2,8 +2,13 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORwhite]24/7 Sports[/COLOR]",
-      "link": "https://mfirepo.github.io/db/home1.json"
+      "title": "[COLORwhite]Sports Channels #1[/COLOR]",
+      "link": "https://mfirepo.github.io/db/backup.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
+      "link": "https://mfirepo.github.io/db/now.json"
     },
     {
       "type": "dir",
