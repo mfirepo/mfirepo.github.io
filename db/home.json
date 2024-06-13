@@ -32,6 +32,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]DaddyLive[/COLOR]",
+      "link": "https://mfirepo.github.io/db/daddylive.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Online TV[/COLOR]",
       "link": "https://mfirepo.github.io/db/sammtv.json"
     },
