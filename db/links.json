@@ -15,42 +15,24 @@
     },
 	{
       "type": "item",
-      "title": "Northern Ireland vs Andorra",
+      "title": "Euro 2024: Germany vs Scotland",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=422"
+        "https://sons-stream.com/tvon.php?hd=31"
       ]
     },
 	{
       "type": "item",
-      "title": "Northern Ireland vs Andorra",
+      "title": "Euro 2024: Germany vs Scotland",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=111"
+        "https://sons-stream.com/tvon.php?hd=51"
       ]
     },
 	{
       "type": "dir",
-      "title": "Northern Ireland vs Andorra",
-      "pvr_sport_search":"search/andorra?include=17"
-    },
-	{
-      "type": "item",
-      "title": "Portugal vs Republic of Ireland",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=421"
-      ]
-    },
-	{
-      "type": "item",
-      "title": "Portugal vs Republic of Ireland",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=112"
-      ]
-    },
-	{
-      "type": "dir",
-      "title": "Portugal vs Republic of Ireland",
-      "pvr_sport_search":"search/portugal?include=17"
+      "title": "Euro 2024: Germany vs Scotland",
+      "pvr_sport_search":"search/scotland?include=17"
     }
+	
 	
 	
 	
