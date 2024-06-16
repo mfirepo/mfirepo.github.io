@@ -21,11 +21,11 @@ plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
 </dir>
-<plugin>
+plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
 </plugin>
-<plugin>
+plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
 </plugin>
