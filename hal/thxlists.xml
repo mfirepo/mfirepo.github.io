@@ -30,8 +30,8 @@ plugin>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Debrid Shows[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=tvshows&url=https://www.imdb.com/list/ls524633845</link>
+	<title>[COLORwhite]Debrid Shows*[/COLOR]</title>
+	<link>plugin://plugin.video.thx/?action=tvshows&url=https://www.imdb.com/list/ls524633845/?ref_=uspf_t_1</link>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Popular Movies[/COLOR]</title>
