@@ -22,26 +22,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TNT Sports (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/tnt.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Sky Sports (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/sky.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]EPL 3PM (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/epl.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]SuperSport (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/dstv.json"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
