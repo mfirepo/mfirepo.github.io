@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "type": "dir",
-      "title": "[COLORwhite]UK Channels  (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/ketauk.json"
-    },
-     {
-      "type": "dir",
-      "title": "[COLORwhite]US Channels (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/ketaus.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]24/7 Channels (Next Update)[/COLOR]",
-      "link": "https://mfirepo.github.io/db/keta247.json"
-    },
-    {
       "type": "plugin",
       "title": "[COLORwhite]United Kingdom[/COLOR]",
       "link": "plugin.video.mayhem/samsung_tv/region/gb"
