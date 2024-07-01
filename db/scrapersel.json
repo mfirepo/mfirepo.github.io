@@ -28,7 +28,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Wimbledon[/COLOR]",
-      "pvr_sport_search": "search/channel?include=22"
+      "pvr_sport_search": "search/tennis?include=22"
     },
     {
       "type": "dir",
