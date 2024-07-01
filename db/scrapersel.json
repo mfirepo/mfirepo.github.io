@@ -27,6 +27,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Wimbledon[/COLOR]",
+      "pvr_sport_search": "search/channel?include=22"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
