@@ -1,0 +1,105 @@
+{
+  "items": [
+ 
+	{
+      "type": "item",
+      "title": "TNT Sports 1",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/tnt-sport-1-21.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TNT Sports 2",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/tnt-sport-2-20.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TNT Sports 3",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/tnt-sport-3-19.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TNT Sports 4",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/tnt-sport-4-137.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Main Event",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-main-event-60.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Sports News",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-news-115.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Premier League",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-premier-league-58.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Football",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-football-57.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Golf",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-golf-114.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Cricket",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-criket-29.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky F1",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-f1-28.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Mix",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sky-sports-mix-126.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Premier Sports 1",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/premier-sports-1-26.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Premier Sports 2",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/premier-sports-2-27.html"
+      ]
+    }
+	
+]
+
+}
