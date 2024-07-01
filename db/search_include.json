@@ -63,5 +63,11 @@
     ["KetaIPTV"],
 	
 	"search_include20":
-    ["Cricfree"]
+    ["Cricfree"],
+	
+	"search_include21":
+    ["Aesport"],
+
+	"search_include22":
+    ["TheHomeSport"]
 }
