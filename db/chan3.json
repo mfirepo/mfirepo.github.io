@@ -115,7 +115,7 @@
     },
 	{
       "type": "item",
-      "title": "MUTV",
+      "title": "MU TV",
       "sportjetextractors": [
         "https://aesport.tv/live-tv/mu-tv-142.html"
       ]
@@ -167,6 +167,76 @@
       "title": "WWE Network",
       "sportjetextractors": [
         "https://aesport.tv/live-tv/wwe-network-117.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bein Sports 1 (France)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/bein-sports-1-40.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bein Sports 2 (France)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/bein-sports-2-41.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "RMC Sport 1 (France)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/rmc-sport-1-13.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "RMC Sport 2 (France)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/rmc-sport-2-14.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Eleven Sport 1 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/eleven-sport-1-33.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Eleven Sport 2 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/eleven-sport-2-32.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Eleven Sport 3 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/eleven-sport-3-31.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sport TV 1 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sport-tv-1-36.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sport TV 2 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sport-tv-2-37.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sport TV 3 (Portugal)",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/sport-tv-3-38.html"
       ]
     }
 	
