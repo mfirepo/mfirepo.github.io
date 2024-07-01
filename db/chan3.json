@@ -98,6 +98,76 @@
       "sportjetextractors": [
         "https://aesport.tv/live-tv/premier-sports-2-27.html"
       ]
+    },
+	{
+      "type": "item",
+      "title": "EuroSport 1",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/eurosport-1-139.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "EuroSport 2",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/eurosport-2-140.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "MUTV",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/mu-tv-142.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "FS 1",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/fs1-86.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "FS 2",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/fs2-87.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "NFL Network",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/nfl-network-91.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "CBS SN",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/cbs-sports-network-70.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "NBA TV",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/nba-tv-43.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Willow",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/willow-cricket-116.html"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "WWE Network",
+      "sportjetextractors": [
+        "https://aesport.tv/live-tv/wwe-network-117.html"
+      ]
     }
 	
 ]
