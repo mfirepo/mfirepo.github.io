@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Sports Channels #3[/COLOR]",
+      "pvr_sport_search": "search/channel?include=20"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]One-Offs[/COLOR]",
       "link": "https://cmanbuilds.com/sport/links.json"
     },
