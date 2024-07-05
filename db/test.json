@@ -93,9 +93,16 @@
     },
 	  {
       "type": "item",
-      "title": "Test*",
+      "title": "Test",
       "sportjetextractors": [
         "https://embedme.top/embed/one-friday-fights-69/1"
+      ]
+    },
+	  	  {
+      "type": "item",
+      "title": "Test*",
+      "sportjetextractors": [
+        "https://the.streameast.app/soccer/spain-germany/38402181"
       ]
     }
    
