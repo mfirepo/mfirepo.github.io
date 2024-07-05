@@ -77,18 +77,19 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (SB-Non PC)[/COLOR]",
-      "sportjetextractors": "SportsBox(non-PC)"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Live Sports (AE-Test)[/COLOR]",
+      "title": "[COLORwhite]Live Sports (AE)[/COLOR]",
       "sportjetextractors": "Aesport"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (HS-Test)[/COLOR]",
+      "title": "[COLORwhite]Live Sports (HS)[/COLOR]",
       "sportjetextractors": "TheHomeSport"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Live Sports (SB-Non PC)[/COLOR]",
+      "sportjetextractors": "SportsBox(non-PC)"
     }
+   
   ]
 }
