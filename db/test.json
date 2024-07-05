@@ -90,6 +90,13 @@
       "title": "Tennis Channel (Opt. 2)",
       "link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"
       
+    },
+	  {
+      "type": "item",
+      "title": "Test",
+      "sportjetextractors": [
+        "https://streamed.su/watch/one-friday-fights-69/1"
+      ]
     }
    
 	
