@@ -2,10 +2,9 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1*",
+      "title": "TNT Sports 1",
       "sportjetextractors": [
-        "https://cricfree.live/live/bt-sport-1",
-        "https://cricfree.live/live/embed/link2/bt-sport-1"
+        "https://cricfree.live/live/bt-sport-1"
       ]
     },
     {
@@ -38,9 +37,11 @@
     },
     {
       "type": "item",
-      "title": "Sky Main Event",
+      "title": "Sky Main Event*",
       "sportjetextractors": [
-        "https://cricfree.live/live/sky-sports-main-event"
+        "https://cricfree.live/live/sky-sports-main-event",
+        "https://cricfree.live/live/embed/link2/sky-sports-main-event",
+        "https://cricfree.live/live/embed/link3/sky-sports-main-event"
       ]
     },
     {
