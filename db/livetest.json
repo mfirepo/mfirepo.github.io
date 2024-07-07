@@ -9,67 +9,56 @@
       "type": "item",
       "title": "BBC 1",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/44"
-      ]
     },
     {
       "type": "item",
       "title": "BBC 2",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/46"
-      ]
     },
     {
       "type": "item",
       "title": "BBC 4",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/43"
-      ]
     },
     {
       "type": "item",
       "title": "ITV 1",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/137"
-      ]
     },
     {
       "type": "item",
       "title": "ITV 2",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/139"
-      ]
     },
     {
       "type": "item",
       "title": "ITV 3",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/140"
-      ]
     },
     {
       "type": "item",
       "title": "ITV 4",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/142"
-      ]
     },
     {
       "type": "item",
       "title": "Channel 4",
      "link": "plugin://plugin.video.mayhem/uktvnow/play/77"
-      ]
     },
     {
       "type": "item",
       "title": "Channel 5",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/299"
-      ]
     },
     {
       "type": "item",
       "title": "5 USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/502"
-      ]
     },
     {
       "type": "item",
       "title": "BBC News",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/47"
-      ]
     },
     {
       "type": "item",
@@ -80,13 +69,11 @@
       "type": "item",
       "title": "Sky News",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/203"
-      ]
     },
     {
       "type": "item",
       "title": "Sky Atlantic",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/192"
-      ]
     },
     {
       "type": "item",
