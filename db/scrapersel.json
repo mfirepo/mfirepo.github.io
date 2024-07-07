@@ -18,7 +18,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #4[/COLOR]",
-      "pvr_sport_search":"search/Channel?include=20"
+      "link": "https://mfirepo.github.io/db/cric.json"
     },
     {
       "type": "dir",
