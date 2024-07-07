@@ -8,92 +8,67 @@
     {
       "type": "item",
       "title": "BBC 1",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-356.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/44"
       ]
     },
     {
       "type": "item",
       "title": "BBC 2",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-357.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "BBC 3",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-358.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/46"
       ]
     },
     {
       "type": "item",
       "title": "BBC 4",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-359.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/43"
       ]
     },
     {
       "type": "item",
       "title": "ITV 1",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-350.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/137"
       ]
     },
     {
       "type": "item",
       "title": "ITV 2",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-351.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/139"
       ]
     },
     {
       "type": "item",
       "title": "ITV 3",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-352.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/140"
       ]
     },
     {
       "type": "item",
       "title": "ITV 4",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-353.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/142"
       ]
     },
     {
       "type": "item",
       "title": "Channel 4",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-354.php"
+     "link": "plugin://plugin.video.mayhem/uktvnow/play/77"
       ]
     },
     {
       "type": "item",
       "title": "Channel 5",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-355.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/299"
       ]
     },
     {
       "type": "item",
       "title": "5 USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-360.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "S4C UK",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-670.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/502"
       ]
     },
     {
       "type": "item",
       "title": "BBC News",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-349.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/47"
       ]
     },
     {
@@ -101,18 +76,16 @@
       "title": "GB News",
       "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8"
     },
-    {
+     {
       "type": "item",
-      "title": "BBC America",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-305.php"
+      "title": "Sky News",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/203"
       ]
     },
     {
       "type": "item",
       "title": "Sky Atlantic",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-362.php"
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/192"
       ]
     },
     {
