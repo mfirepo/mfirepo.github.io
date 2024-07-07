@@ -2,9 +2,10 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1",
+      "title": "TNT Sports 1*",
       "sportjetextractors": [
-        "https://cricfree.live/live/bt-sport-1"
+        "https://cricfree.live/live/bt-sport-1",
+        "https://cricfree.live/live/embed/link2/bt-sport-1"
       ]
     },
     {
