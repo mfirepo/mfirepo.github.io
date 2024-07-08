@@ -148,9 +148,7 @@
     {
       "type": "item",
       "title": "Sky Action",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-677.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
     },
     {
       "type": "item",
@@ -174,9 +172,7 @@
     {
       "type": "item",
       "title": "Comedy Central US",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-310.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/85"
     },
     {
       "type": "item",
@@ -188,9 +184,7 @@
     {
       "type": "item",
       "title": "HBO USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-321.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/128"
     },
     {
       "type": "item",
@@ -202,9 +196,7 @@
     {
       "type": "item",
       "title": "HBO Family",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-691.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/611"
     },
     {
       "type": "item",
@@ -216,9 +208,7 @@
     {
       "type": "item",
       "title": "HBO Zone",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-694.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
     },
     {
       "type": "item",
@@ -242,6 +232,11 @@
         "https://dlhd.so/stream/stream-348.php"
       ]
     },
+     {
+      "type": "item",
+      "title": "D Max",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/97"
+    },
     {
       "type": "item",
       "title": "Gold UK (Opt.1)",
@@ -257,10 +252,7 @@
     {
       "type": "item",
       "title": "E4",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-363.php"
-      ]
-    },
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/100"
     {
       "type": "item",
       "title": "Film 4",
@@ -306,23 +298,15 @@
     {
       "type": "item",
       "title": "ABC USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-51.php"
-      ]
-    },
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/23"
     {
       "type": "item",
       "title": "A&E USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-301.php"
-      ]
-    },
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/22"
     {
       "type": "item",
       "title": "AMC USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-303.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/28"
     },
     {
       "type": "item",
@@ -341,9 +325,12 @@
     {
       "type": "item",
       "title": "AXS TV",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-742.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/42"
+    },
+     {
+      "type": "item",
+      "title": "Bravo",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/56"
     },
     {
       "type": "item",
@@ -390,9 +377,7 @@
     {
       "type": "item",
       "title": "Cinemax USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-374.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/467"
     },
     {
       "type": "item",
@@ -424,11 +409,13 @@
     },
     {
       "type": "item",
-      "title": "CTV Canada",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-602.php"
-      ]
+      "title": "Crime & Investigation",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/754"
     },
+    {
+      "type": "item",
+      "title": "CTV Canada",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/754"
     {
       "type": "item",
       "title": "CTV 2 Canada",
@@ -467,23 +454,16 @@
     {
       "type": "item",
       "title": "FOX USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-54.php"
-      ]
-    },
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/117"
     {
       "type": "item",
       "title": "FX USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-317.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/123"
     },
     {
       "type": "item",
       "title": "FXX USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-298.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/603"
     },
     {
       "type": "item",
@@ -599,6 +579,11 @@
     },
     {
       "type": "item",
+      "title": "NBC",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/160"
+    },
+    {
+      "type": "item",
       "title": "Nasa TV",
       "link": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
     },
@@ -638,10 +623,20 @@
     },
     {
       "type": "item",
+      "title": "Paramount Network",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/677"
+    },
+    {
+      "type": "item",
       "title": "POP TV USA",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-653.php"
       ]
+    },
+    {
+      "type": "item",
+      "title": "Quest",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/177"
     },
     {
       "type": "item",
@@ -674,9 +669,7 @@
     {
       "type": "item",
       "title": "SYFY USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-373.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/221"
     },
     {
       "type": "item",
@@ -688,23 +681,17 @@
     {
       "type": "item",
       "title": "TBS",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-336.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/222"
     },
     {
       "type": "item",
       "title": "TLC",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-337.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/288"
     },
     {
       "type": "item",
       "title": "TNT",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-338.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/228"
     },
     {
       "type": "item",
@@ -772,10 +759,7 @@
     {
       "type": "item",
       "title": "USA Network",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-343.php"
-      ]
-    },
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/238"
     {
       "type": "item",
       "title": "VH1 USA",
@@ -786,9 +770,12 @@
     {
       "type": "item",
       "title": "Vice",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-659.php"
-      ]
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/612"
+    },
+    {
+      "type": "item",
+      "title": "Viceland",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/646"
     },
     {
       "type": "item",
