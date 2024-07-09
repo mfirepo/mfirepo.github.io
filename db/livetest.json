@@ -264,9 +264,7 @@
         {
             "type": "item",
             "title": "Discovery Channel",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-313.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/94"
         },
         {
             "type": "item",
@@ -321,9 +319,7 @@
         {
             "type": "item",
             "title": "Animal Planet",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-304.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/31"
         },
         {
             "type": "item",
@@ -345,16 +341,12 @@
         {
             "type": "item",
             "title": "CBS USA",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-52.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/64"
         },
         {
             "type": "item",
             "title": "CW USA",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-300.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/87"
         },
         {
             "type": "item",
@@ -430,9 +422,7 @@
         {
             "type": "item",
             "title": "Destination America",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-651.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/638"
         },
         {
             "type": "item",
@@ -501,9 +491,7 @@
         {
             "type": "item",
             "title": "Freeform",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-301.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/675"
         },
         {
             "type": "item",
@@ -522,9 +510,7 @@
         {
             "type": "item",
             "title": "Global Canada",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-836.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/659"
         },
         {
             "type": "item",
@@ -536,9 +522,12 @@
         {
             "type": "item",
             "title": "HGTV",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-382.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/130"
+        },
+         {
+            "type": "item",
+            "title": "History",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/133"
         },
         {
             "type": "item",
@@ -554,12 +543,22 @@
                 "https://dlhd.so/stream/stream-656.php"
             ]
         },
+         {
+            "type": "item",
+            "title": "Lifetime",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/146"
+        },
         {
             "type": "item",
             "title": "MotorTrend",
             "sportjetextractors": [
                 "https://dlhd.so/stream/stream-661.php"
             ]
+        },
+        {
+            "type": "item",
+            "title": "Magnolia Network",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/872"
         },
         {
             "type": "item",
@@ -571,9 +570,7 @@
         {
             "type": "item",
             "title": "METV",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-662.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/866"
         },
         {
             "type": "item",
@@ -600,9 +597,12 @@
         {
             "type": "item",
             "title": "Nat Geo",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-328.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/158"
+        },
+         {
+            "type": "item",
+            "title": "Nat Geo Wild",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/157"
         },
         {
             "type": "item",
@@ -622,9 +622,7 @@
         {
             "type": "item",
             "title": "Oxygen True Crime",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-332.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/637"
         },
         {
             "type": "item",
@@ -660,9 +658,7 @@
         {
             "type": "item",
             "title": "Science Channel",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-294.php"
-            ]
+           "link": "plugin://plugin.video.mayhem/uktvnow/play/488"
         },
         {
             "type": "item",
@@ -673,15 +669,18 @@
         },
         {
             "type": "item",
+            "title": "Smithsonian Channel",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/867"
+        },
+        {
+            "type": "item",
             "title": "SYFY USA",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/221"
         },
         {
             "type": "item",
             "title": "Sundance TV",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-658.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/676"
         },
         {
             "type": "item",
@@ -701,9 +700,7 @@
         {
             "type": "item",
             "title": "Travel Channel",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-340.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/786"
         },
         {
             "type": "item",
@@ -807,9 +804,7 @@
         {
             "type": "item",
             "title": "Boomerang",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-648.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/635"
         },
         {
             "type": "item",
@@ -821,16 +816,12 @@
         {
             "type": "item",
             "title": "Disney Channel",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-312.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/490"
         },
         {
             "type": "item",
             "title": "Disney XD",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-314.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/755"
         },
         {
             "type": "item",
@@ -842,9 +833,7 @@
         {
             "type": "item",
             "title": "NICK",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-330.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/167"
         },
         {
             "type": "item",
@@ -863,9 +852,7 @@
         {
             "type": "item",
             "title": "Nick Toons",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-649.php"
-            ]
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/489"
         },
         {
             "type": "item",
