@@ -18,12 +18,12 @@
         {
             "type": "item",
             "title": "BBC 3",
-            "link": "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
         },
         {
             "type": "item",
             "title": "BBC 4*",
-            "link": "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
         },
         {
             "type": "item",
@@ -240,7 +240,7 @@
             "title": "HGTV",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/130"
         },
-         {
+        {
             "type": "item",
             "title": "History",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/133"
@@ -280,7 +280,7 @@
             "title": "Nat Geo",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/158"
         },
-         {
+        {
             "type": "item",
             "title": "Nat Geo Wild",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/157"
@@ -318,7 +318,7 @@
         {
             "type": "item",
             "title": "Science Channel",
-           "link": "plugin://plugin.video.mayhem/uktvnow/play/488"
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/488"
         },
         {
             "type": "item",
@@ -394,7 +394,6 @@
             "type": "item",
             "title": "Nick Toons",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/489"
-    
         }
     ]
 }
