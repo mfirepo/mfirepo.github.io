@@ -22,8 +22,8 @@
         },
         {
             "type": "item",
-            "title": "BBC 4*",
-            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
+            "title": "BBC 4",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/43"
         },
         {
             "type": "item",
@@ -124,6 +124,36 @@
             "type": "item",
             "title": "Showtime Showcase",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/475"
+        },
+        {
+            "type": "item",
+            "title": "Sony Movies",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/291"
+        },
+        {
+            "type": "item",
+            "title": "Starz",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/602"
+        },
+        {
+            "type": "item",
+            "title": "Starz Cinema",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/482"
+        },
+        {
+            "type": "item",
+            "title": "Starz Comedy",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/483"
+        },
+        {
+            "type": "item",
+            "title": "Starz Edge",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/484"
+        },
+        {
+            "type": "item",
+            "title": "Starz Edge",
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/484"
         },
         {
             "type": "item",
