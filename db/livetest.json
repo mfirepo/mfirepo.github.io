@@ -100,6 +100,11 @@
             "title": "HBO USA",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/128"
         },
+         {
+            "type": "item",
+            "title": "HBO 2 USA",
+            "link": "https://fl5.moveonjoy.com/HBO_2/index.m3u8"
+        },
         {
             "type": "item",
             "title": "HBO Family",
@@ -292,6 +297,11 @@
         },
         {
             "type": "item",
+            "title": "Grit Xtra",
+            "link": "https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
             "title": "HGTV",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/130"
         },
@@ -302,8 +312,18 @@
         },
         {
             "type": "item",
+            "title": "Impact Wrestling",
+            "link": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
+        },
+        {
+            "type": "item",
             "title": "Lifetime",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/146"
+        },
+        {
+            "type": "item",
+            "title": "Loupe 4K",
+            "link": "https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8"
         },
         {
             "type": "item",
