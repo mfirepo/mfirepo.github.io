@@ -8,7 +8,8 @@
         {
             "type": "item",
             "title": "BBC 1",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/44"
+            "link": "plugin://plugin.video.mayhem/uktvnow/play/44",
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-one-99.html"
         },
         {
             "type": "item",
