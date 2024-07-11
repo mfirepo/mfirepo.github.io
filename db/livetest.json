@@ -388,7 +388,7 @@
         {
             "type": "item",
             "title": "USA Network",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/238"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/usa-network-88.html"
         },
         {
             "type": "item",
