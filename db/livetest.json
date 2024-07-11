@@ -8,48 +8,52 @@
         {
             "type": "item",
             "title": "BBC 1",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/44",
             "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-one-99.html"
         },
         {
             "type": "item",
             "title": "BBC 2",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/46"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-two-100.html"
         },
         {
             "type": "item",
-            "title": "BBC 4",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/43"
+            "title": "BBC 3",
+            "link": "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
+        },
+        {
+            "type": "item",
+            "title": "BBC 4*",
+            "link": "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/bbc-three-101.html"
         },
         {
             "type": "item",
             "title": "ITV 1",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/137"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/itv-1-104.html"
         },
         {
             "type": "item",
             "title": "ITV 2",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/139"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/itv-2-105.html"
         },
         {
             "type": "item",
             "title": "ITV 3",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/140"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/itv-3-136.html"
         },
         {
             "type": "item",
             "title": "ITV 4",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/142"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/itv-4-141.html"
         },
         {
             "type": "item",
             "title": "Channel 4",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/77"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/channel-4-102.html"
         },
         {
             "type": "item",
             "title": "Channel 5",
-            "link": "plugin://plugin.video.mayhem/uktvnow/play/299"
+            "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://aesport.tv/live-tv/channel-5-103.html"
         },
         {
             "type": "item",
