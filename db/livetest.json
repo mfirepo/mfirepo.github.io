@@ -207,6 +207,11 @@
         },
         {
             "type": "item",
+            "title": "Amazing Discoveries",
+            "link": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+        },
+        {
+            "type": "item",
             "title": "AXS TV",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/42"
         },
@@ -342,6 +347,11 @@
         },
         {
             "type": "item",
+            "title": "MUTV",
+            "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+        },
+        {
+            "type": "item",
             "title": "NBC",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/160"
         },
@@ -394,6 +404,31 @@
             "type": "item",
             "title": "Quest",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/177"
+        },
+        {
+            "type": "item",
+            "title": "Rakuten Action Movies",
+            "link": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Rakuten Comedy Movies",
+            "link": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Rakuten Family Movies",
+            "link": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Rakuten TV Shows",
+            "link": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Rakuten Top Free UK",
+            "link": "https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8"
         },
         {
             "type": "item",
