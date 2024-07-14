@@ -282,6 +282,16 @@
         },
         {
             "type": "item",
+            "title": "Film Rise Classic TV",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Film Free Movies",
+            "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"
+        },
+        {
+            "type": "item",
             "title": "FOX USA",
             "link": "plugin://plugin.video.mayhem/uktvnow/play/117"
         },
