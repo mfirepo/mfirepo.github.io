@@ -1,11 +1,7 @@
 {
     "items": [ 
+	
 	{
-            "link": "plugin://plugin.video.mayhem/clear_cache", 
-            "title": "[COLORwhite]Clear The Cache[/COLOR]", 
-            "type": "item"
-        },
-		{
             "sportjetextractors": "clear_config", 
             "title": "[COLORwhite]Clear The Config File[/COLOR]", 
             "type": "item"
