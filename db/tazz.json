@@ -125,6 +125,34 @@
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=espnnews"
       ]
+    },
+	{
+      "type": "item",
+      "title": "ESPN U",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=espnu"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "USA Network",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=usanetwork"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Fox Sports",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=fs1"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Fox Sports 2",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=fs2"
+      ]
     }
 
   ]
