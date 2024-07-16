@@ -251,6 +251,34 @@
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=cbs-sport-network"
       ]
+    },
+	{
+      "type": "item",
+      "title": "NFL Network",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=nflnetwork"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "MLB Network",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=mlbnetwork"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "NHL Network",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=nhlnetwork"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "NBA TV",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=nbatv"
+      ]
     }
 
   ]
