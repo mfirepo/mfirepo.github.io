@@ -153,6 +153,76 @@
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=fs2"
       ]
+    },
+	{
+      "type": "item",
+      "title": "Golf Channel",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=nbc-golf"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TSN 1",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tsn1"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TSN 2",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tsn2"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TSN 3",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tsn3"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TSN 4",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tsn4"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TSN 5",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tsn5"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN Ontatrio",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=snontario"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN East",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=sneast"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN One",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=snone"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN 360",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=sn360"
+      ]
     }
 
   ]
