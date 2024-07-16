@@ -118,6 +118,13 @@
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=espn"
       ]
+    },
+    {
+      "type": "item",
+      "title": "ESPN News",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=espnnews"
+      ]
     }
 
   ]
