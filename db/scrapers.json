@@ -22,6 +22,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Live Sports (TZ New)[/COLOR]",
+      "sportjetextractors":"Tazz"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Live Sports (WS)[/COLOR]",
       "sportjetextractors": "Weakspell/LiveOnScore"
     },
