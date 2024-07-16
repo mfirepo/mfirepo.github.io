@@ -104,6 +104,20 @@
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=skytennisuk"
       ]
+    },
+    {
+      "type": "item",
+      "title": "ESPN 1 USA",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=espn"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "ESPN 2 USA",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=espn"
+      ]
     }
 
   ]
