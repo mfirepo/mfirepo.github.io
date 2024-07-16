@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "TNT Sports 1",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tnt1-uk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 2",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tnt2-uk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 3",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tnt3-uk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 4",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=tnt4-uk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Main Event",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skymaineventuk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Golf",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skygolfuk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Cricket",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-65.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky P League",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyepluk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Football",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyfootballuk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Action",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyactionuk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Arena",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyarenauk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky F1",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyf1uk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Mix",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skymixuk"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Racing",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skyracinguk"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Tennis",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=skytennisuk"
+      ]
+    }
+
+  ]
+}
