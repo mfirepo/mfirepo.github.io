@@ -105,6 +105,20 @@
         "https://minum.realiptvs.com/tazzfree.php?u=skytennisuk"
       ]
     },
+	{
+      "type": "item",
+      "title": "Premier Sports 1",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=premiersp1"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Premier Sports 2",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=premiersp2"
+      ]
+    },
     {
       "type": "item",
       "title": "ESPN 1 USA",
@@ -285,6 +299,202 @@
       "title": "NBA TV",
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=nbatv"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "MASN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=masn"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "MASN 2",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=masn2"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "MSG SN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=msg-sn"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Altitude Sports",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=altitude"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "YES Network",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=yes-network"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "ROOT Sports",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=rootsports"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "LongHorn",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=longhorn"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "NESN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=nesn12"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Spectrum SN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=spectrum-sportsnet"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Monumental SN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=monumental"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Wisconsin",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-wisconsin"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Ohio",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-ohio"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Florida",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-florida"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports South East",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-southeast"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports South",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-south"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Midwest",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-midwest"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Southwest",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-southwest"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Sun",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-sun"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Detroit",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-detroit"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports SoCal",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-socal"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Indiana",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-indiana"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports North",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-north"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports West",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-west"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Oklahoma",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-oklahoma"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Southeast Cha",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-southeast-charl"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Southeast Mem",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-southeast-mem"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Southeast ATL",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-southeast-atl"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Bally Sports Great Lakes",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=bally-great-lakes"
       ]
     }
 
