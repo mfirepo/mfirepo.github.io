@@ -212,6 +212,13 @@
     },
 	{
       "type": "item",
+      "title": "SN West",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=snwest"
+      ]
+    },
+	{
+      "type": "item",
       "title": "SN One",
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=snone"
@@ -222,6 +229,27 @@
       "title": "SN 360",
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=sn360"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN World",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=snworld"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "SN Pacific",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=snpacific"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "CBS SN",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=cbs-sport-network"
       ]
     }
 
