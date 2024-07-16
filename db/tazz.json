@@ -261,6 +261,13 @@
     },
 	{
       "type": "item",
+      "title": "NFL Redzone",
+      "sportjetextractors": [
+        "https://minum.realiptvs.com/tazzfree.php?u=redzone"
+      ]
+    },
+	{
+      "type": "item",
       "title": "MLB Network",
       "sportjetextractors": [
         "https://minum.realiptvs.com/tazzfree.php?u=mlbnetwork"
