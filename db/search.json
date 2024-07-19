@@ -18,62 +18,62 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Boxing[/COLOR]",
-      "pvr_sport_search": "search/boxing?include=15"
+      "pvr_sport_search": "search/boxing?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Fight Sports[/COLOR]",
-      "pvr_sport_search": "search/fight?include=12"
+      "pvr_sport_search": "search/fight?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Motorsport[/COLOR]",
-      "pvr_sport_search": "search/motor?include=15"
+      "pvr_sport_search": "search/motor?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]NBA[/COLOR]",
-      "pvr_sport_search": "search/nba?include=15"
+      "pvr_sport_search": "search/nba?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]NFL[/COLOR]",
-      "pvr_sport_search": "search/nfl?include=16"
+      "pvr_sport_search": "search/nfl?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]NHL[/COLOR]",
-      "pvr_sport_search": "search/nhl?include=16"
+      "pvr_sport_search": "search/nhl?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]MLB[/COLOR]",
-      "pvr_sport_search": "search/mlb?include=16"
+      "pvr_sport_search": "search/mlb?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Tennis[/COLOR]",
-      "pvr_sport_search": "search/tennis?include=12"
+      "pvr_sport_search": "search/tennis?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Golf[/COLOR]",
-      "pvr_sport_search": "search/golf?include=12"
+      "pvr_sport_search": "search/golf?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Cricket[/COLOR]",
-      "pvr_sport_search": "search/cricket?include=12"
+      "pvr_sport_search": "search/cricket?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Rugby[/COLOR]",
-      "pvr_sport_search": "search/rugby?include=12"
+      "pvr_sport_search": "search/rugby?include=17"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Darts[/COLOR]",
-      "pvr_sport_search": "search/darts?include=12"
+      "pvr_sport_search": "search/darts?include=17"
     }
   ]
 }
