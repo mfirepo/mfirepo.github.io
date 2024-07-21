@@ -1,114 +1,154 @@
 {
   "items": [
-	  {
+    {
       "type": "item",
       "title": "TNT Sports 1",
-      "link": "https://live-tv.yarncdn.live/uk_bts1/tracks-v3a1/mono.m3u8|Referer=https://aesport.tv/"
-      
+      "link": "https://live-tv.yarncdn.live/uk_bts1/index.m3u8|Referer=https://aesport.tv/"
     },
-	  {
-	   "type": "item",
-      "title": "TNT Sports 2",
-      "link": "https://live-tv.yarncdn.live/uk_bts2/tracks-v1a1/mono.m3u8|Referer=https://aesport.tv/"
-      
-    },
-	    {
-	   "type": "item",
-      "title": "TNT Sports 3",
-      "link": "https://live-tv.yarncdn.live/uk_bts3/tracks-v1a1/mono.m3u8|Referer=https://aesport.tv/"
-      
-    },
-	      {
-	   "type": "item",
-      "title": "TNT Sports 4*",
-      "link": "https://live-tv.yarncdn.live/uk_bts4/tracks-v1a1/mono.m3u8|Referer=https://aesport.tv/"
-      
-    },
- 
-	{
+    {
       "type": "item",
-      "title": "Sky F1",
-      "link": "https://rr.vipstreams.in/js/sky-sports-f1-sky-f1/1/playlist.m3u8|Referer=https://embedme.top"
-      
+      "title": "TNT Sports 2",
+      "link": "https://live-tv.yarncdn.live/uk_bts2/index.m3u8|Referer=https://aesport.tv/"
     },
-	{
+    {
+      "type": "item",
+      "title": "TNT Sports 3",
+      "link": "https://live-tv.yarncdn.live/uk_bts3/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 4",
+      "link": "https://live-tv.yarncdn.live/uk_bts4/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Main Event",
+      "link": "https://live-tv.yarncdn.live/uk_ssmain/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Sports News",
+      "link": "https://live-tv.yarncdn.live/uk_ssnews/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky P League",
+      "link": "https://live-tv.yarncdn.live/uk_ssepl/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Football",
+      "link": "https://live-tv.yarncdn.live/uk_ssfb/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Golf",
+      "link": "https://live-tv.yarncdn.live/uk_ssgolf/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Cricket",
+      "link": "https://live-tv.yarncdn.live/uk_sscricket/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky F1 (Opt 1)",
+      "link": "https://live-tv.yarncdn.live/uk_ssf1/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky F1 (Opt 2)",
+      "link": "https://rr.vipstreams.in/js/sky-sports-f1-sky-f1/1/playlist.m3u8|Referer=https://embedme.top"
+    },
+    {
+      "type": "item",
+      "title": "Sky Mix",
+      "link": "https://live-tv.yarncdn.live/uk_ssmix/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Rugby",
+      "link": "https://live-tv.yarncdn.live/za_ssrugby/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Sky Arena",
+      "link": "https://live-tv.yarncdn.live/uk_ssarena/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Premier Sports 1",
+      "link": "https://live-tv.yarncdn.live/uk_premiersports1/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "Premier Sports 2",
+      "link": "https://live-tv.yarncdn.live/uk_premiersports2/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "EuroSport 1",
+      "link": "https://live-tv.yarncdn.live/uk_eurosport1/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
+      "type": "item",
+      "title": "EuroSport 2",
+      "link": "https://live-tv.yarncdn.live/uk_eurosport2/index.m3u8|Referer=https://aesport.tv/"
+    },
+    {
       "type": "item",
       "title": "NBA TV",
       "link": "https://rr.vipstreams.in/js/nba-tv/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "NFL TV",
       "link": "https://rr.vipstreams.in/js/nfl-network/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "Fox NRL",
       "link": "https://rr.vipstreams.in/js/fox-nrl-tv/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "Fox AFL",
       "link": "https://rr.vipstreams.in/js/fox-afl-tv/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "Sky Golf",
       "link": "https://rr.vipstreams.in/js/sky-sports-golf/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "PGA Tour",
       "link": "https://rr.vipstreams.in/js/pga-tour-2024/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "MUTV",
       "link": "https://rr.vipstreams.in/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "NHL Network",
       "link": "https://rr.vipstreams.in/js/nhl-network/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "WWE Network",
       "link": "https://rr.vipstreams.in/js/wwe-network/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "DAZN Boxing",
       "link": "https://rr.vipstreams.in/js/dazn-boxing-dazn-ppv-boxing/1/playlist.m3u8|Referer=https://embedme.top"
-      
     },
-	{
+    {
       "type": "item",
       "title": "Tennis Channel",
       "link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8"
-      
     }
-
-	
-
-]
-
+  ]
 }
-
-
-
-
-
-
-
-
-
