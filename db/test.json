@@ -9,19 +9,19 @@
 	  {
 	   "type": "item",
       "title": "TNT Sports 2",
-      "link": "https://live-tv.yarncdn.live/uk_bts1/tracks-v3a2/mono.m3u8|Referer=https://aesport.tv/"
+      "link": "https://live-tv.yarncdn.live/uk_bts2/tracks-v1a1/mono.m3u8/mono.m3u8|Referer=https://aesport.tv/"
       
     },
 	    {
 	   "type": "item",
       "title": "TNT Sports 3",
-      "link": "https://live-tv.yarncdn.live/uk_bts1/tracks-v3a3/mono.m3u8|Referer=https://aesport.tv/"
+      "link": "https://live-tv.yarncdn.live/uk_bts3/tracks-v1a1/mono.m3u8|Referer=https://aesport.tv/"
       
     },
 	      {
 	   "type": "item",
-      "title": "TNT Sports 4",
-      "link": "https://live-tv.yarncdn.live/uk_bts1/tracks-v3a4/mono.m3u8|Referer=https://aesport.tv/"
+      "title": "TNT Sports 4*",
+      "link": "https://live-tv.yarncdn.live/uk_bts4/tracks-v1a1/mono.m3u8|Referer=https://aesport.tv/"
       
     },
  
