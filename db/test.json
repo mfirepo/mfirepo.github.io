@@ -87,16 +87,6 @@
     },
     {
       "type": "item",
-      "title": "EuroSport 1",
-      "link": "https://live-tv.yarncdn.live/uk_eurosport1/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "EuroSport 2",
-      "link": "https://live-tv.yarncdn.live/uk_eurosport2/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
       "title": "FS 1",
       "link": "https://live-tv.yarncdn.live/us_fs1/index.m3u8|Referer=https://aesport.tv/"
     },
@@ -114,56 +104,6 @@
       "type": "item",
       "title": "Willow Cricket",
       "link": "https://live-tv.yarncdn.live/us_willow/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Bein Sports 1 (FR)",
-      "link": "https://live-tv.yarncdn.live/fr_beinsports1/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Bein Sports 2 (FR)",
-      "link": "https://live-tv.yarncdn.live/fr_beinsports2/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "RMC Sport 1 (FR)",
-      "link": "https://live-tv.yarncdn.live/fr_rmcsport1/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "RMC Sport 2 (FR)",
-      "link": "https://live-tv.yarncdn.live/fr_rmcsport2/index.m3u8/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 1 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_elevensport1/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 2 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_elevensport2/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 3 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_elevensport3/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 1 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_sporttv1/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 2 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_sporttv2/index.m3u8|Referer=https://aesport.tv/"
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 3 (PR)",
-      "link": "https://live-tv.yarncdn.live/pt_sporttv3/index.m3u8|Referer=https://aesport.tv/"
     },
     {
       "type": "item",
