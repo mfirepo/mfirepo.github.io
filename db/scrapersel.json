@@ -32,6 +32,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Direct Links[/COLOR]",
+      "link": "https://mfirepo.github.io/db/test.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
