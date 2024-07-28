@@ -2,9 +2,23 @@
   "items": [
     {
       "type": "item",
+      "title": "TNT Sports 1 (HD)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-1-710"
+      ]
+    },
+    {
+      "type": "item",
       "title": "TNT Sports 1",
       "sportjetextractors": [
         "https://streamhd-pro.com/tntsport1"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 2 (HD)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-2-711"
       ]
     },
     {
@@ -16,9 +30,23 @@
     },
     {
       "type": "item",
+      "title": "TNT Sports 3 (HD)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-3-712"
+      ]
+    },
+    {
+      "type": "item",
       "title": "TNT Sports 3",
       "sportjetextractors": [
         "https://streamhd-pro.com/tntsport3"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 4 (HD)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-4-713"
       ]
     },
     {
@@ -121,6 +149,13 @@
     },
     {
       "type": "item",
+      "title": "Golf Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=golf-channel-228"
+      ]
+    },
+    {
+      "type": "item",
       "title": "Fox Sports 1",
       "sportjetextractors": [
         "https://streamhd-pro.com/foxsport1"
@@ -140,6 +175,13 @@
     },
     {
       "type": "item",
+      "title": "ESPN 1",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-204"
+      ]
+    },
+    {
+      "type": "item",
       "title": "ESPN 1 USA",
       "sportjetextractors": [
         "https://streamhd-pro.com/espn1"
@@ -147,9 +189,23 @@
     },
     {
       "type": "item",
+      "title": "ESPN 2",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-2-205"
+      ]
+    },
+    {
+      "type": "item",
       "title": "ESPN 2 USA",
       "sportjetextractors": [
         "https://streamhd-pro.com/espn2"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "ESPN 3",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-3-206"
       ]
     },
     {
@@ -177,14 +233,8 @@
       "sportjetextractors": [
         "https://streamhd-pro.com/viaplay2"
       ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 1 (Test)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/tnt-sport-1-21.html"
-      ]
     }
+   
    
   ]
 }
