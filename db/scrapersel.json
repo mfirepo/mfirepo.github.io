@@ -64,6 +64,11 @@
       "type": "plugin",
       "title": "[COLORwhite]Stirr Sports[/COLOR]",
       "link": "plugin.video.mayhem/get_list/m3ucat|https://i.mjh.nz/Stirr/all.m3u8|Sports Live"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Test List[/COLOR]",
+      "link": "https://mfirepo.github.io/db/ba.json"
     }
   ]
 }
