@@ -1,7 +1,19 @@
 {
+  "items": [
+{
       "type": "item",
-      "title": "Test",
+      "title": "TNT Sports 1",
       "sportjetextractors": [
-        "https://balo.live/?tv=nbc-news-now-256"
+        "https://balo.live/?tv=tnt-sports-1-710"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "TNT Sports 2",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-2-711"
       ]
     }
+
+  ]
+}
