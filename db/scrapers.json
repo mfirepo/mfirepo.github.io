@@ -22,7 +22,12 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (TZ New)[/COLOR]",
+      "title": "[COLORwhite]Live Sports (BA)[/COLOR]",
+      "sportjetextractors":"Balo"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Live Sports (TZ)[/COLOR]",
       "sportjetextractors":"Tazz"
     },
     {
@@ -62,16 +67,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (CS)[/COLOR]",
-      "sportjetextractors": "Crackstreams"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Live Sports (6S)[/COLOR]",
-      "sportjetextractors": "6stream"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]Live Sports (BS)[/COLOR]",
       "sportjetextractors": "Buffstreams"
     },
@@ -89,11 +84,6 @@
       "type": "dir",
       "title": "[COLORwhite]Live Sports (HS)[/COLOR]",
       "sportjetextractors": "TheHomeSport"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Live Sports (SB-Non PC)[/COLOR]",
-      "sportjetextractors": "SportsBox(non-PC)"
     }
    
   ]
