@@ -27,6 +27,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Olympics[/COLOR]",
+      "pvr_sport_search":"search/Olympic?include=20"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]One-Offs[/COLOR]",
       "link": "https://cmanbuilds.com/sport/links.json"
     },
