@@ -13,7 +13,90 @@
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-2-711"
       ]
-    }
+    },
+	{
+      "type": "item",
+      "title": "TNT Sports 3",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-3-712"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "TNT Sports 4",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-4-713"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Golf Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=golf-channel-228"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Football",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-sports-football-341"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky F1",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-sports-f1-340"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Sky Arena",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-sports-arena-338"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "Golf Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=golf-channel-228"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "ESPN 1",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-204"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "ESPN 2",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-2-205"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "ESPN 3",
+      "sportjetextractors": [
+        "https://balo.live/?tv=espn-3-206"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "FS 1",
+      "sportjetextractors": [
+        "https://balo.live/?tv=fs1-216"
+      ]
+    },
+	{
+      "type": "item",
+      "title": "FS 2",
+      "sportjetextractors": [
+        "https://balo.live/?tv=fs2-217
+    
 
   ]
 }
