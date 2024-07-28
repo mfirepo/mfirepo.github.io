@@ -107,6 +107,13 @@
     },
     {
       "type": "item",
+      "title": "Sky F1 (HD)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-sports-f1-340"
+      ]
+    },
+    {
+      "type": "item",
       "title": "Sky F1",
       "sportjetextractors": [
         "https://streamhd-pro.com/skyf1"
