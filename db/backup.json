@@ -2,7 +2,7 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1 (HD)",
+      "title": "TNT Sports 1",
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-1-710",
         "https://streamhd-pro.com/tntsport1"
@@ -10,22 +10,9 @@
     },
     {
       "type": "item",
-      "title": "TNT Sports 1",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/tntsport1"
-      ]
-    },
-    {
-      "type": "item",
       "title": "TNT Sports 2 (HD)",
       "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-2-711"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 2",
-      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-2-711",
         "https://streamhd-pro.com/tntsport2"
       ]
     },
@@ -33,13 +20,7 @@
       "type": "item",
       "title": "TNT Sports 3 (HD)",
       "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-3-712"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 3",
-      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-3-712",
         "https://streamhd-pro.com/tntsport3"
       ]
     },
@@ -47,13 +28,7 @@
       "type": "item",
       "title": "TNT Sports 4 (HD)",
       "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-4-713"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 4",
-      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-sports-4-713",
         "https://streamhd-pro.com/tntsport4"
       ]
     },
