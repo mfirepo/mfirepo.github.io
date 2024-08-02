@@ -243,11 +243,26 @@
         "https://cricfree.live/live/willow-hd"
       ]
     },
+     {
+      "type": "item",
+      "title": "Willow",
+      "sportjetextractors": [
+        "links://https://aesport.tv/live-tv/willow-cricket-116.html"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Fox Cricket",
+      "sportjetextractors": [
+        "https://cricfree.live/live/fox-501"
+      ]
+    },
     {
       "type": "item",
       "title": "Fox Sports 1",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/fs1-86.html",
+        "https://cricfree.live/live/fox-sports-1-usa",
         "https://streamhd-pro.com/foxsport1"
       ]
     },
@@ -256,28 +271,8 @@
       "title": "Fox Sports 2",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/fs2-87.html",
+        "https://cricfree.live/live/fox-sports-2-usa",
         "https://streamhd-pro.com/foxsport2"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Fox Sports 1",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-sports-1-usa"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Fox Sports 2",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-sports-2-usa"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Fox Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-501"
       ]
     },
     {
@@ -385,13 +380,6 @@
       "title": "NBA TV",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/nba-tv-43.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Willow",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/willow-cricket-116.html"
       ]
     },
     {
