@@ -6,6 +6,7 @@
             "sportjetextractors": [
                 "https://balo.live/?tv=tnt-sports-1-710",
                 "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
+                "https://cricfree.live/live/bt-sport-1",
                 "https://streamhd-pro.com/tntsport1"
             ]
         },
@@ -15,6 +16,7 @@
             "sportjetextractors": [
                 "https://balo.live/?tv=tnt-sports-2-711",
                 "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
+                "https://cricfree.live/live/bt-sport-2",
                 "https://streamhd-pro.com/tntsport2"
             ]
         },
@@ -24,6 +26,7 @@
             "sportjetextractors": [
                 "https://balo.live/?tv=tnt-sports-3-712",
                 "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
+                "https://cricfree.live/live/bt-sport-3",
                 "https://streamhd-pro.com/tntsport3"
             ]
         },
@@ -33,6 +36,7 @@
             "sportjetextractors": [
                 "https://balo.live/?tv=tnt-sports-4-713",
                 "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
+                "https://cricfree.live/live/bt-sport-4",
                 "https://streamhd-pro.com/tntsport4"
             ]
         },
@@ -41,6 +45,7 @@
             "title": "Sky Main Event",
             "sportjetextractors": [
                 "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
+                "https://cricfree.live/live/sky-sports-main-event",
                 "https://streamhd-pro.com/skymainevent"
             ]
         },
@@ -49,6 +54,7 @@
             "title": "Sky Golf",
             "sportjetextractors": [
                 "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
+                "https://cricfree.live/live/sky-sports-golf",
                 "https://streamhd-pro.com/skygolf"
             ]
         },
@@ -57,6 +63,7 @@
             "title": "Sky Cricket",
             "sportjetextractors": [
                 "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
+                "https://cricfree.live/live/sky-sports-cricket",
                 "https://streamhd-pro.com/skycricket"
             ]
         },
@@ -65,6 +72,7 @@
             "title": "Sky P League",
             "sportjetextractors": [
                 "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
+                "https://cricfree.live/live/sky-sports-premier-league",
                 "https://streamhd-pro.com/skypremierl"
             ]
         },
@@ -73,6 +81,7 @@
             "title": "Sky Football",
             "sportjetextractors": [
                 "links://https://aesport.tv/live-tv/sky-sports-football-57.html",
+                "https://cricfree.live/live/sky-sports-football",
                 "https://streamhd-pro.com/skyfootball"
             ]
         },
@@ -80,6 +89,7 @@
             "type": "item",
             "title": "Sky Action",
             "sportjetextractors": [
+                "https://cricfree.live/live/sky-sports-news",
                 "https://streamhd-pro.com/skyaction"
             ]
         },
@@ -87,6 +97,7 @@
             "type": "item",
             "title": "Sky Arena",
             "sportjetextractors": [
+                "https://cricfree.live/live/sky-sports-arena",
                 "https://streamhd-pro.com/skyarena"
             ]
         },
@@ -96,6 +107,7 @@
             "sportjetextractors": [
                 "https://balo.live/?tv=sky-sports-f1-340",
                 "links://https://aesport.tv/live-tv/sky-sports-f1-28.html",
+                "https://cricfree.live/live/sky-sports-f1",
                 "https://streamhd-pro.com/skyf1"
             ]
         },
@@ -103,13 +115,22 @@
             "type": "item",
             "title": "Sky Mix",
             "sportjetextractors": [
+                "https://cricfree.live/live/sky-sports-mix",
                 "https://streamhd-pro.com/skymix"
             ]
+        },
+        {
+      "type": "item",
+      "title": "Sky NFL",
+      "sportjetextractors": [
+        "https://cricfree.live/live/sky-sports-action"
+      ]
         },
         {
             "type": "item",
             "title": "Sky Sports News",
             "sportjetextractors": [
+                "https://cricfree.live/live/sky-sports-news",
                 "https://streamhd-pro.com/skynews"
             ]
         },
@@ -157,6 +178,69 @@
                 "https://balo.live/?tv=golf-channel-228"
             ]
         },
+         {
+      "type": "item",
+      "title": "SS Prem League",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-premier-league"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS La Liga",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-laliga"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS Football",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-football"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS Cricket",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-cricket"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS Grandstand",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-grandstand"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS Rugby",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-rugby"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "SS Action",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-action"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Astro Cricket",
+      "sportjetextractors": [
+        "https://cricfree.live/live/astro-cricket"
+      ]
+    },
+        {
+      "type": "item",
+      "title": "Willow Cricket",
+      "sportjetextractors": [
+        "https://cricfree.live/live/willow-hd"
+      ]
+    },
         {
             "type": "item",
             "title": "Fox Sports 1",
