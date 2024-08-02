@@ -317,11 +317,6 @@
     },
     {
       "type": "item",
-      "title": "ESPN USA",
-      "link": "http://143.244.60.30/ESPN/index.m3u8"
-    },
-    {
-      "type": "item",
       "title": "ESPN 1",
       "sportjetextractors": [
         "https://cricfree.live/live/espn-usa",
@@ -333,14 +328,8 @@
       "type": "item",
       "title": "ESPN 2",
       "sportjetextractors": [
-        "https://balo.live/?tv=espn-2-205"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN 2 USA",
-      "sportjetextractors": [
         "https://cricfree.live/live/espn2",
+        "https://balo.live/?tv=espn-2-205",
         "https://streamhd-pro.com/espn2"
       ]
     },
