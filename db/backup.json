@@ -203,13 +203,6 @@
     },
     {
       "type": "item",
-      "title": "SS Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-cricket"
-      ]
-    },
-    {
-      "type": "item",
       "title": "SS Grandstand",
       "sportjetextractors": [
         "https://cricfree.live/live/supersports-grandstand"
@@ -231,21 +224,21 @@
     },
     {
       "type": "item",
+      "title": "SS Cricket",
+      "sportjetextractors": [
+        "https://cricfree.live/live/supersports-cricket"
+      ]
+    },
+    {
+      "type": "item",
       "title": "Astro Cricket",
       "sportjetextractors": [
         "https://cricfree.live/live/astro-cricket"
       ]
     },
-    {
-      "type": "item",
-      "title": "Willow Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/willow-hd"
-      ]
-    },
      {
       "type": "item",
-      "title": "Willow",
+      "title": "Willow Cricket",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/willow-cricket-116.html"
       ]
