@@ -1,231 +1,348 @@
 {
-  "items": [
-    {
-      "type": "item",
-      "title": "TNT Sports 1",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-1-710",
-        "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
-        "https://streamhd-pro.com/tntsport1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 2",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-2-711",
-        "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
-        "https://streamhd-pro.com/tntsport2"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 3",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-3-712",
-        "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
-        "https://streamhd-pro.com/tntsport3"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "TNT Sports 4",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tnt-sports-4-713",
-        "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
-        "https://streamhd-pro.com/tntsport4"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Main Event",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
-        "https://streamhd-pro.com/skymainevent"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Golf",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
-        "https://streamhd-pro.com/skygolf"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Cricket",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
-        "https://streamhd-pro.com/skycricket"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky P League",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
-        "https://streamhd-pro.com/skypremierl"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Football",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skyfootball"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Action",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skyaction"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Arena",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skyarena"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky F1 (HD)",
-      "sportjetextractors": [
-        "https://balo.live/?tv=sky-sports-f1-340"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky F1",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skyf1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Mix",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skymix"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Sports News",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/skynews"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Racing UK",
-      "sportjetextractors": [
-        "https://cricfree.live/live/racing-uk"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Euro Sport 1 (English)",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/eurosport1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Euro Sport 2 (English)",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/eurosport2"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Golf Channel",
-      "sportjetextractors": [
-        "https://balo.live/?tv=golf-channel-228"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Fox Sports 1",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/foxsport1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Fox Sports 2",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/foxsport2"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN USA",
-      "link": "http://143.244.60.30/ESPN/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "ESPN 1",
-      "sportjetextractors": [
-        "https://balo.live/?tv=espn-204"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN 1 USA",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/espn1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN 2",
-      "sportjetextractors": [
-        "https://balo.live/?tv=espn-2-205"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN 2 USA",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/espn2"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "ESPN 3",
-      "sportjetextractors": [
-        "https://balo.live/?tv=espn-3-206"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "BBC One",
-      "sportjetextractors": [
-        "https://cricfree.live/live/bbc-one"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "MUTV",
-      "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Viaplay Sports 1",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/viaplay1"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Viaplay Sports 2",
-      "sportjetextractors": [
-        "https://streamhd-pro.com/viaplay2"
-      ]
-    }
-   
-   
-  ]
+    "items": [
+        {
+            "type": "item",
+            "title": "TNT Sports 1",
+            "sportjetextractors": [
+                "https://balo.live/?tv=tnt-sports-1-710",
+                "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
+                "https://streamhd-pro.com/tntsport1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "TNT Sports 2",
+            "sportjetextractors": [
+                "https://balo.live/?tv=tnt-sports-2-711",
+                "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
+                "https://streamhd-pro.com/tntsport2"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "TNT Sports 3",
+            "sportjetextractors": [
+                "https://balo.live/?tv=tnt-sports-3-712",
+                "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
+                "https://streamhd-pro.com/tntsport3"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "TNT Sports 4",
+            "sportjetextractors": [
+                "https://balo.live/?tv=tnt-sports-4-713",
+                "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
+                "https://streamhd-pro.com/tntsport4"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Main Event",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
+                "https://streamhd-pro.com/skymainevent"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Golf",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
+                "https://streamhd-pro.com/skygolf"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Cricket",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
+                "https://streamhd-pro.com/skycricket"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky P League",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
+                "https://streamhd-pro.com/skypremierl"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Football",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sky-sports-football-57.html",
+                "https://streamhd-pro.com/skyfootball"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Action",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/skyaction"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Arena",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/skyarena"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky F1 (HD)",
+            "sportjetextractors": [
+                "https://balo.live/?tv=sky-sports-f1-340",
+                "links://https://aesport.tv/live-tv/sky-sports-f1-28.html",
+                "https://streamhd-pro.com/skyf1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Mix",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/skymix"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sky Sports News",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/skynews"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Racing UK",
+            "sportjetextractors": [
+                "https://cricfree.live/live/racing-uk"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Premier Sports 1",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/premier-sports-1-26.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Premier Sports 2",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/premier-sports-2-27.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Euro Sport 1 (English)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/eurosport-1-139.html",
+                "https://streamhd-pro.com/eurosport1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Euro Sport 2 (English)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/eurosport-2-140.html",
+                "https://streamhd-pro.com/eurosport2"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Golf Channel",
+            "sportjetextractors": [
+                "https://balo.live/?tv=golf-channel-228"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Fox Sports 1",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/fs1-86.html",
+                "https://streamhd-pro.com/foxsport1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Fox Sports 2",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/fs2-87.html",
+                "https://streamhd-pro.com/foxsport2"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "ESPN USA",
+            "link": "http://143.244.60.30/ESPN/index.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "ESPN 1",
+            "sportjetextractors": [
+                "https://balo.live/?tv=espn-204"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "ESPN 1 USA",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/espn1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "ESPN 2",
+            "sportjetextractors": [
+                "https://balo.live/?tv=espn-2-205"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "ESPN 2 USA",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/espn2"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "ESPN 3",
+            "sportjetextractors": [
+                "https://balo.live/?tv=espn-3-206"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "BBC One",
+            "sportjetextractors": [
+                "https://cricfree.live/live/bbc-one"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "MUTV",
+            "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
+        },
+        {
+            "type": "item",
+            "title": "Viaplay Sports 1",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/viaplay1"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Viaplay Sports 2",
+            "sportjetextractors": [
+                "https://streamhd-pro.com/viaplay2"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "NFL Network",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/nfl-network-91.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "CBS SN",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/cbs-sports-network-70.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "NBA TV",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/nba-tv-43.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Willow",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/willow-cricket-116.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "WWE Network",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/wwe-network-117.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Bein Sports 1 (France)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/bein-sports-1-40.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Bein Sports 2 (France)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/bein-sports-2-41.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "RMC Sport 1 (France)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/rmc-sport-1-13.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "RMC Sport 2 (France)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/rmc-sport-2-14.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Eleven Sport 1 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/eleven-sport-1-33.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Eleven Sport 2 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/eleven-sport-2-32.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Eleven Sport 3 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/eleven-sport-3-31.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sport TV 1 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sport-tv-1-36.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sport TV 2 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sport-tv-2-37.html"
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Sport TV 3 (Portugal)",
+            "sportjetextractors": [
+                "links://https://aesport.tv/live-tv/sport-tv-3-38.html"
+            ]
+        }
+    ]
 }
