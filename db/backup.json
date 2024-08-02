@@ -11,25 +11,28 @@
     },
     {
       "type": "item",
-      "title": "TNT Sports 2 (HD)",
+      "title": "TNT Sports 2",
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-2-711",
+        "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
         "https://streamhd-pro.com/tntsport2"
       ]
     },
     {
       "type": "item",
-      "title": "TNT Sports 3 (HD)",
+      "title": "TNT Sports 3",
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-3-712",
+        "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
         "https://streamhd-pro.com/tntsport3"
       ]
     },
     {
       "type": "item",
-      "title": "TNT Sports 4 (HD)",
+      "title": "TNT Sports 4",
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-4-713",
+        "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
         "https://streamhd-pro.com/tntsport4"
       ]
     },
@@ -37,6 +40,7 @@
       "type": "item",
       "title": "Sky Main Event",
       "sportjetextractors": [
+        "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
         "https://streamhd-pro.com/skymainevent"
       ]
     },
@@ -44,6 +48,7 @@
       "type": "item",
       "title": "Sky Golf",
       "sportjetextractors": [
+        "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
         "https://streamhd-pro.com/skygolf"
       ]
     },
@@ -51,6 +56,7 @@
       "type": "item",
       "title": "Sky Cricket",
       "sportjetextractors": [
+        "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
         "https://streamhd-pro.com/skycricket"
       ]
     },
@@ -58,6 +64,7 @@
       "type": "item",
       "title": "Sky P League",
       "sportjetextractors": [
+        "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
         "https://streamhd-pro.com/skypremierl"
       ]
     },
