@@ -1,6 +1,6 @@
 {
   "items": [
-     {
+    {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #1[/COLOR]",
       "link": "https://mfirepo.github.io/db/backup.json"
@@ -23,7 +23,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Olympics[/COLOR]",
-      "pvr_sport_search":"search/Olympic?include=20"
+      "pvr_sport_search": "search/Olympic?include=20"
     },
     {
       "type": "dir",
@@ -46,24 +46,14 @@
       "link": "https://mfirepo.github.io/db/search.json"
     },
     {
-      "type": "dir",
-      "title": "[COLORwhite]Fight Sports[/COLOR]",
-      "link": "https://mfirepo.github.io/db/fight.json"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
-      "link": "plugin.video.mayhem/uktvnow/category/Sports"
-    },
-    {
       "type": "plugin",
       "title": "[COLORwhite]Stirr Sports[/COLOR]",
       "link": "plugin.video.mayhem/get_list/m3ucat|https://i.mjh.nz/Stirr/all.m3u8|Sports Live"
     },
     {
-      "type": "dir",
-      "title": "[COLORwhite]Test List[/COLOR]",
-      "link": "https://mfirepo.github.io/db/ba.json"
+      "type": "plugin",
+      "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
+      "link": "plugin.video.mayhem/uktvnow/category/Sports"
     }
   ]
 }
