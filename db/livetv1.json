@@ -107,6 +107,13 @@
       "title": "Sky Action",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
     },
+	   {
+      "type": "item",
+      "title": "Sky Crime",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-crime-814"
+      ]
+     },
     {
       "type": "item",
       "title": "BBC America",
@@ -170,6 +177,13 @@
       "title": "HBO Family",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/611"
     },
+    {
+      "type": "item",
+      "title": "HBO Signature",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-693.php"
+      ]
+     },
 	{
       "count": 272,
       "type": "item",
@@ -182,13 +196,6 @@
       "type": "item",
       "title": "HBO Zone (Opt 2)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
-    },
-	{
-      "type": "item",
-      "title": "HBO Signature",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-693.php"
-      ]
     },
     {
       "type": "item",
