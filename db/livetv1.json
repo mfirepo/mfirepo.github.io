@@ -123,52 +123,51 @@
     },
     {
       "type": "item",
-      "title": "Comedy Central UK (Opt 1*)",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/84",
-      "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://balo.live/?tv=comedy-central-191"
+      "title": "Comedy Central UK",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/84"
     },
     {
       "type": "item",
-      "title": "Comedy Central UK (Opt 2)",
+      "title": "Comedy Central UK",
       "sportjetextractors": [
         "https://balo.live/?tv=comedy-central-191"
       ]
     },
     {
       "type": "item",
-      "title": "Comedy Central US (Opt 1)",
+      "title": "Comedy Central US",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-310.php"
       ]
     },
     {
       "type": "item",
-      "title": "Comedy Central US (Opt 2)",
+      "title": "Comedy Central US",
       "sportjetextractors": [
         "https://balo.live/?tv=comedy-central-us-804"
       ]
     },
     {
       "type": "item",
-      "title": "HBO USA (Opt 1)",
+      "title": "HBO USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/128"
     },
 	{
       "type": "item",
-      "title": "HBO USA (Opt 2)",
+      "title": "HBO USA",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-321.php"
       ]
     },
     {
       "type": "item",
-      "title": "HBO 2 USA (Opt 1)",
+      "title": "HBO 2 USA",
       "link": "https://fl5.moveonjoy.com/HBO_2/index.m3u8"
     },
 	{
       "count": 267,
       "type": "item",
-      "title": "HBO 2 USA (Opt 2)",
+      "title": "HBO 2 USA",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-689.php"
       ]
@@ -188,36 +187,36 @@
 	{
       "count": 272,
       "type": "item",
-      "title": "HBO Zone (Opt 1)",
+      "title": "HBO Zone",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-694.php"
       ]
     },
     {
       "type": "item",
-      "title": "HBO Zone (Opt 2)",
+      "title": "HBO Zone",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
     },
     {
       "type": "item",
-      "title": "Showtime (Opt 1)",
+      "title": "Showtime",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/472"
     },
     {
       "type": "item",
-      "title": "Showtime (Opt 2)",
+      "title": "Showtime",
        "sportjetextractors": [
         "https://balo.live/?tv=showtime-296"
       ]
     },
     {
       "type": "item",
-      "title": "Showtime 2 (Opt 1)",
+      "title": "Showtime 2",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/473"
     },
     {
       "type": "item",
-      "title": "Showtime 2 (Opt 2)",
+      "title": "Showtime 2",
        "sportjetextractors": [
         "https://balo.live/?tv=showtime-2-297"
       ]
@@ -257,12 +256,12 @@
     },
     {
       "type": "item",
-      "title": "Starz (Opt 1)",
+      "title": "Starz",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/602"
     },
     {
       "type": "item",
-      "title": "Starz (Opt 2)",
+      "title": "Starz",
        "sportjetextractors": [
         "https://balo.live/?tv=starz-278"
       ]
@@ -274,24 +273,24 @@
     },
     {
       "type": "item",
-      "title": "Starz Comedy (Opt 1)",
+      "title": "Starz Comedy",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/483"
     },
     {
       "type": "item",
-      "title": "Starz Comedy (Opt 2)",
+      "title": "Starz Comedy",
        "sportjetextractors": [
         "https://balo.live/?tv=starz-comedy-279"
       ]
     },
     {
       "type": "item",
-      "title": "Starz Edge (Opt 1)",
+      "title": "Starz Edge",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/484"
     },
     {
       "type": "item",
-      "title": "Starz Edge (Opt 2)",
+      "title": "Starz Edge",
        "sportjetextractors": [
         "https://balo.live/?tv=starz-edge-280"
       ]
@@ -320,14 +319,14 @@
     },
 	 {
       "type": "item",
-      "title": "Gold UK (Opt 1)",
+      "title": "Gold UK",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-687.php"
       ]
     },
     {
       "type": "item",
-      "title": "Gold UK (Opt 2)",
+      "title": "Gold UK",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/236"
     },
     {
@@ -702,14 +701,14 @@
     },
 	{
       "type": "item",
-      "title": "TBS (Opt 1)",
+      "title": "TBS",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-336.php"
       ]
     },
     {
       "type": "item",
-      "title": "TBS (Opt 2)",
+      "title": "TBS",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/222"
     },
     {
