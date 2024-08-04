@@ -107,6 +107,20 @@
       "title": "Sky Action",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
     },
+	  	  	  	  {
+      "type": "item",
+      "title": "Sky Comedy",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-comedy-813"
+      ]
+    },
+	  	  	  {
+      "type": "item",
+      "title": "Sky Nature",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-nature-815"
+      ]
+    },
 	   {
       "type": "item",
       "title": "Sky Crime",
@@ -131,6 +145,13 @@
       "title": "Comedy Central UK",
       "sportjetextractors": [
         "https://balo.live/?tv=comedy-central-191"
+      ]
+    },
+	   {
+      "type": "item",
+      "title": "Comedy Central UK",
+      "sportjetextractors": [
+        "https://balo.live/?tv=comedy-central-uk-802"
       ]
     },
     {
@@ -159,6 +180,14 @@
         "https://dlhd.so/stream/stream-321.php"
       ]
     },
+	   {
+      "type": "item",
+      "title": "HBO USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-321"
+      ]
+    },
+
     {
       "type": "item",
       "title": "HBO 2 USA",
@@ -172,10 +201,31 @@
         "https://dlhd.so/stream/stream-689.php"
       ]
     },
+	     {
+      "type": "item",
+      "title": "HBO 2 USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-2-322"
+      ]
+    },
+	  {
+      "type": "item",
+      "title": "HBO Comedy",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-comedy-323"
+      ]
+    },
     {
       "type": "item",
       "title": "HBO Family",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/611"
+    },
+{
+      "type": "item",
+      "title": "HBO Family",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-family-324"
+      ]
     },
     {
       "type": "item",
@@ -184,12 +234,26 @@
         "https://dlhd.so/stream/stream-693.php"
       ]
      },
+	  	  	  	     {
+      "type": "item",
+      "title": "HBO Signature",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-signature-325"
+      ]
+    },
 	{
       "count": 272,
       "type": "item",
       "title": "HBO Zone",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-694.php"
+      ]
+    },
+	  	  	     {
+      "type": "item",
+      "title": "HBO Zone",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hbo-zone-326"
       ]
     },
     {
@@ -336,6 +400,13 @@
         "https://dlhd.so/stream/stream-363.php"
       ]
     },
+	  	  	  	  	  {
+      "type": "item",
+      "title": "E4 Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=e4-816"
+      ]
+    },
 	{
       "type": "item",
       "title": "Film4 UK",
@@ -348,11 +419,25 @@
       "title": "Discovery Channel",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/94"
     },
+	  	  	   {
+      "type": "item",
+      "title": "Discovery Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=discovery-channel-783"
+      ]
+    },
 	{
       "type": "item",
       "title": "Discovery Life Channel",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-311.php"
+      ]
+    },
+	  {
+      "type": "item",
+      "title": "Discovery Life Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=discovery-life-channel-199"
       ]
     },
     {
@@ -364,6 +449,13 @@
       "type": "item",
       "title": "A&E USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/22"
+    },
+	  	  	  	  {
+      "type": "item",
+      "title": "A&E USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=a-e-805"
+      ]
     },
 	{
       "type": "item",
@@ -377,10 +469,24 @@
       "title": "AMC USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/28"
     },
+	  	  {
+      "type": "item",
+      "title": "AMC USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=amc-us-798"
+      ]
+    },
     {
       "type": "item",
       "title": "Animal Planet",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/31"
+    },
+	  	  	  	  	  	  	  {
+      "type": "item",
+      "title": "Animal Planet",
+      "sportjetextractors": [
+        "https://balo.live/?tv=animal-planet-164"
+      ]
     },
     {
       "type": "item",
@@ -412,6 +518,20 @@
       "title": "Big City TV",
       "link": "https://bigcitytv.playout.vju.tv/bigcitytv/main.m3u8"
     },
+	  	  	  	  	  {
+      "type": "item",
+      "title": "Bounce TV",
+      "sportjetextractors": [
+        "https://balo.live/?tv=bounce-tv-312"
+      ]
+    },
+	  	  {
+      "type": "item",
+      "title": "BTN",
+      "sportjetextractors": [
+        "https://balo.live/?tv=big-ten-network-177"
+      ]
+    },
     {
       "type": "item",
       "title": "Bravo",
@@ -421,6 +541,13 @@
       "type": "item",
       "title": "CBS USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/64"
+    },
+	  	  	  	  	  	  	  {
+      "type": "item",
+      "title": "CMT",
+      "sportjetextractors": [
+        "https://balo.live/?tv=cmt-187"
+      ]
     },
     {
       "type": "item",
@@ -454,6 +581,13 @@
       "title": "Cooking Channel USA",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-697.php"
+      ]
+    },
+	  	  	  	  {
+      "type": "item",
+      "title": "Cooking Channel USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=cooking-channel-193"
       ]
     },
     {
@@ -538,6 +672,28 @@
         "https://balo.live/?tv=game-show-network-227"
       ]
     },
+	  	  	  {
+      "type": "item",
+      "title": "Hallmark Channel",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hallmark-channel-229"
+      ]
+    },
+	  
+	  	  {
+      "type": "item",
+      "title": "Hallmark Drama",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hallmark-drama-230"
+      ]
+    },
+	  	  	  {
+      "type": "item",
+      "title": "Hallmark Mystery",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hallmark-movies-mysteries-231"
+      ]
+    },
     {
       "type": "item",
       "title": "HD Net Movies",
@@ -554,6 +710,13 @@
       "type": "item",
       "title": "History",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/133"
+    },
+	  	  	  	  	  	  {
+      "type": "item",
+      "title": "HLN",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hln-795"
+      ]
     },
     {
       "type": "item",
@@ -594,6 +757,20 @@
       "title": "METV",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/866"
     },
+	  {
+      "type": "item",
+      "title": "MotorVision",
+      "sportjetextractors": [
+        "https://balo.live/?tv=motorvision-tv-746"
+      ]
+    },
+	  	  	  	  	  	  	  	  {
+      "type": "item",
+      "title": "MSG",
+      "sportjetextractors": [
+        "https://balo.live/?tv=msg-739"
+      ]
+    },
     {
       "type": "item",
       "title": "MUTV",
@@ -619,10 +796,24 @@
       "title": "Nat Geo",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/158"
     },
+	  	   {
+      "type": "item",
+      "title": "Nat Geo",
+      "sportjetextractors": [
+        "https://balo.live/?tv=national-geographic-252"
+      ]
+    },
     {
       "type": "item",
       "title": "Nat Geo Wild",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/157"
+    },
+	  	  	  {
+      "type": "item",
+      "title": "Nat Geo Wild",
+      "sportjetextractors": [
+        "https://balo.live/?tv=nat-geo-wild-251"
+      ]
     },
     {
       "type": "item",
@@ -648,6 +839,13 @@
       "type": "item",
       "title": "Paramount Network",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/677"
+    },
+	  {
+      "type": "item",
+      "title": "Paramount Network",
+      "sportjetextractors": [
+        "https://balo.live/?tv=paramount-network-269"
+      ]
     },
     {
       "type": "item",
@@ -684,6 +882,13 @@
       "title": "Science Channel",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/488"
     },
+{
+      "type": "item",
+      "title": "Sec Network",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sec-network-274"
+      ]
+    },
     {
       "type": "item",
       "title": "Smithsonian Channel",
@@ -711,15 +916,36 @@
       "title": "TBS",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/222"
     },
+	  	  	  	  	  	  {
+      "type": "item",
+      "title": "TCM",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tcm-807"
+      ]
+    },
     {
       "type": "item",
       "title": "TLC",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/288"
     },
+ {
+      "type": "item",
+      "title": "TLC",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tlc-287"
+      ]
+    },
     {
       "type": "item",
       "title": "TNT",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/228"
+    },
+	  	  	  	   {
+      "type": "item",
+      "title": "TNT",
+      "sportjetextractors": [
+        "https://balo.live/?tv=tnt-733"
+      ]
     },
     {
       "type": "item",
