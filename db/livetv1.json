@@ -123,8 +123,9 @@
     },
     {
       "type": "item",
-      "title": "Comedy Central UK (Opt 1)",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/84"
+      "title": "Comedy Central UK (Opt 1*)",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/84",
+      "link": "plugin://plugin.video.mayhem/sportjetextractors/play?urls=https://balo.live/?tv=comedy-central-191"
     },
     {
       "type": "item",
