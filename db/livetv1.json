@@ -109,13 +109,6 @@
     },
     {
       "type": "item",
-      "title": "Sky One",
-      "sportjetextractors": [
-        "https://balo.live/?tv=sky-one-336"
-      ]
-    },
-	{
-      "type": "item",
       "title": "BBC America",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-305.php"
@@ -137,7 +130,7 @@
       "type": "item",
       "title": "Comedy Central US (Opt 2)",
       "sportjetextractors": [
-        "https://balo.live/?tv=e-203"
+        "https://balo.live/?tv=comedy-central-191"
       ]
     },
     {
