@@ -91,7 +91,9 @@
     {
       "type": "item",
       "title": "Sky News",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/203"
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-news-335"
+      ]
     },
     {
       "type": "item",
@@ -104,6 +106,13 @@
       "type": "item",
       "title": "Sky Action",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
+    },
+    {
+      "type": "item",
+      "title": "Sky One",
+      "sportjetextractors": [
+        "https://balo.live/?tv=sky-one-336"
+      ]
     },
 	{
       "type": "item",
@@ -119,9 +128,16 @@
     },
     {
       "type": "item",
-      "title": "Comedy Central US",
+      "title": "Comedy Central US (Opt 1)",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-310.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Comedy Central US (Opt 2)",
+      "sportjetextractors": [
+        "https://balo.live/?tv=e-203"
       ]
     },
     {
@@ -176,18 +192,55 @@
     },
     {
       "type": "item",
-      "title": "Showtime",
+      "title": "Showtime (Opt 1)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/472"
     },
     {
       "type": "item",
-      "title": "Showtime 2",
+      "title": "Showtime (Opt 2)",
+       "sportjetextractors": [
+        "https://balo.live/?tv=showtime-296"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Showtime 2 (Opt 1)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/473"
     },
     {
       "type": "item",
+      "title": "Showtime 2 (Opt 2)",
+       "sportjetextractors": [
+        "https://balo.live/?tv=showtime-2-297"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Showtime Family",
+       "sportjetextractors": [
+        "https://balo.live/?tv=showtime-family-zone-299"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Showtime Next",
+       "sportjetextractors": [
+        "https://balo.live/?tv=showtime-next-300"
+      ]
+    },
+    {
+      "type": "item",
       "title": "Showtime Showcase",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/475"
+       "sportjetextractors": [
+        "https://balo.live/?tv=showtime-showcase-301"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Showtime Women",
+      "sportjetextractors": [
+        "https://balo.live/?tv=showtime-women-302"
+      ]
     },
     {
       "type": "item",
@@ -196,8 +249,15 @@
     },
     {
       "type": "item",
-      "title": "Starz",
+      "title": "Starz (Opt 1)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/602"
+    },
+    {
+      "type": "item",
+      "title": "Starz (Opt 2)",
+       "sportjetextractors": [
+        "https://balo.live/?tv=starz-278"
+      ]
     },
     {
       "type": "item",
@@ -206,18 +266,39 @@
     },
     {
       "type": "item",
-      "title": "Starz Comedy",
+      "title": "Starz Comedy (Opt 1)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/483"
     },
     {
       "type": "item",
-      "title": "Starz Edge",
+      "title": "Starz Comedy (Opt 2)",
+       "sportjetextractors": [
+        "https://balo.live/?tv=starz-comedy-279"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Starz Edge (Opt 1)",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/484"
+    },
+    {
+      "type": "item",
+      "title": "Starz Edge (Opt 2)",
+       "sportjetextractors": [
+        "https://balo.live/?tv=starz-edge-280"
+      ]
     },
     {
       "type": "item",
       "title": "Starz Encore",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/485"
+    },
+    {
+      "type": "item",
+      "title": "Starz Kids",
+       "sportjetextractors": [
+        "https://balo.live/?tv=tv-land-289"
+      ]
     },
     {
       "type": "item",
@@ -385,6 +466,20 @@
     },
     {
       "type": "item",
+      "title": "Dog TV",
+      "sportjetextractors": [
+        "https://balo.live/?tv=dog-tv-356"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "E!",
+      "sportjetextractors": [
+        "https://balo.live/?tv=e-203"
+      ]
+    },
+    {
+      "type": "item",
       "title": "FOX USA",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/117"
     },
@@ -395,13 +490,29 @@
     },
     {
       "type": "item",
+      "title": "FXM USA",
+      "sportjetextractors": [
+        "https://balo.live/?tv=fx-movie-channel-222"
+      ]
+    },
+    {
+      "type": "item",
       "title": "FXX USA",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/603"
+      "sportjetextractors": [
+        "https://balo.live/?tv=fxx-224"
+      ]
     },
     {
       "type": "item",
       "title": "Freeform",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/675"
+    },
+    {
+      "type": "item",
+      "title": "FYI",
+      "sportjetextractors": [
+        "https://balo.live/?tv=fyi-225"
+      ]
     },
     {
       "type": "item",
@@ -412,6 +523,20 @@
       "type": "item",
       "title": "Grit Xtra",
       "link": "https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "GSN",
+      "sportjetextractors": [
+        "https://balo.live/?tv=game-show-network-227"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "HD Net Movies",
+      "sportjetextractors": [
+        "https://balo.live/?tv=hdnet-movies-327"
+      ]
     },
     {
       "type": "item",
@@ -432,6 +557,20 @@
       "type": "item",
       "title": "Lifetime",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/146"
+    },
+    {
+      "type": "item",
+      "title": "Lifetime Movies",
+      "sportjetextractors": [
+        "https://balo.live/?tv=lifetime-movies-328"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Logo",
+      "sportjetextractors": [
+        "https://balo.live/?tv=logo-237"
+      ]
     },
     {
       "type": "item",
@@ -579,6 +718,13 @@
       "type": "item",
       "title": "Travel Channel",
       "link": "plugin://plugin.video.mayhem/uktvnow/play/786"
+    },
+    {
+      "type": "item",
+      "title": "TV Land",
+       "sportjetextractors": [
+        "https://balo.live/?tv=tv-land-289"
+      ]
     },
     {
       "type": "item",
