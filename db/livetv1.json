@@ -104,11 +104,6 @@
     },
     {
       "type": "item",
-      "title": "Sky Action",
-      "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
-    },
-    {
-      "type": "item",
       "title": "Sky Comedy",
       "sportjetextractors": [
         "https://balo.live/?tv=sky-comedy-813"
@@ -126,6 +121,88 @@
       "title": "Sky Crime",
       "sportjetextractors": [
         "https://balo.live/?tv=sky-crime-814"
+      ]
+    },
+     {
+      "type": "item",
+      "title": "Sky History",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-686.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Arts",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-683.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Witness",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-361.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Showcase",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-682.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Premier",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-671.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Select",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-672.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Greats",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-674.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Family",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-676.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Action",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-677.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky Action",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/609"
+    },
+    {
+      "type": "item",
+      "title": "Sky Thriller",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-679.php"
+      ]
+    },
+    {
+      "type": "item",
+      "title": "Sky SciFi-Horror",
+      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-681.php"
       ]
     },
     {
