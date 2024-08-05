@@ -377,6 +377,11 @@
     },
     {
       "type": "item",
+      "title": "Showtime Showcase",
+      "link": "plugin://plugin.video.mayhem/uktvnow/play/475"
+    },
+    {
+      "type": "item",
       "title": "Showtime Women",
       "sportjetextractors": [
         "https://balo.live/?tv=showtime-women-302"
