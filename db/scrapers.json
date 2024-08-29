@@ -84,6 +84,11 @@
       "type": "dir",
       "title": "[COLORwhite]Live Sports (HS)[/COLOR]",
       "sportjetextractors": "TheHomeSport"
+    },
+     {
+      "type": "dir",
+      "title": "[COLORwhite]Live Sports (ST)[/COLOR]",
+      "sportjetextractors": "Sportea"
     }
    
   ]
