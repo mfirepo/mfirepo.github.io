@@ -2,9 +2,9 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1",
+      "title": "TNT Sports 1*",
       "sportjetextractors": [
-        "https://minum.realiptvs.com/tazzfree.php?u=tnt1-uk"
+        "link://https://minum.realiptvs.com/tazzfree.php?u=tnt1-uk"
       ]
     },
     {
