@@ -2,21 +2,6 @@
   "items": [
     {
       "type": "plugin",
-      "title": "[COLORlime]UK Channels[/COLOR]",
-      "link": "plugin.video.halcyon/samsung_tv/region/gb"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORlime]US Channels[/COLOR]",
-      "link": "plugin.video.halcyon/samsung_tv/region/us"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORlime]Canadian Channels[/COLOR]",
-      "link": "plugin.video.halcyon/samsung_tv/region/ca"
-    },
-    {
-      "type": "plugin",
       "title": "[COLORlime]24/7 TV Shows[/COLOR]",
       "link": "plugin.video.halcyon/get_list/m3ucat|https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|TV Shows"
     },
@@ -32,18 +17,8 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORlime]Pluto TV App[/COLOR]",
-      "link": "plugin.video.plutotv"
-    },
-    {
-      "type": "plugin",
       "title": "[COLORlime]Crackle TV[/COLOR]",
       "link": "plugin.video.crackle"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORlime]Free Sports[/COLOR]",
-      "link": "plugin://plugin.video.ftasport"
     },
     {
       "type": "dir",
