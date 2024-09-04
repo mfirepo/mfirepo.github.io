@@ -49,11 +49,11 @@ plugin>
 	<title>[COLORwhite]Documentaries[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/docselect.xml</link>
 </dir>
-<plugin>
+plugin>
 	<title>[COLORwhite]UK Channels[/COLOR]</title>
 	<link>plugin://plugin.video.samm_tv/samsung_tv/region/gb</link>
 </plugin>
-<plugin>
+plugin>
 	<title>[COLORwhite]US Channels[/COLOR]</title>
 	<link>plugin://plugin.video.samm_tv/samsung_tv/region/us</link>
 </plugin>
