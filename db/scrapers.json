@@ -2,92 +2,92 @@
   "items": [
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Daddylive)[/COLOR]",
+      "title": "[COLORwhite]Daddylive[/COLOR]",
       "sportjetextractors": "Daddylive"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Streamedsu)[/COLOR]",
+      "title": "[COLORwhite]Streamedsu[/COLOR]",
       "sportjetextractors": "Streamedsu"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (SportyBite)[/COLOR]",
+      "title": "[COLORwhite]SportyBite[/COLOR]",
       "sportjetextractors": "SportyBitev2"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Freehdgames)[/COLOR]",
+      "title": "[COLORwhite]Freehdgames[/COLOR]",
       "sportjetextractors": "Freehdgames"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Balo)[/COLOR]",
+      "title": "[COLORwhite]Balo[/COLOR]",
       "sportjetextractors":"Balo"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Tazz)[/COLOR]",
+      "title": "[COLORwhite]Tazz[/COLOR]",
       "sportjetextractors":"Tazz"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (LiveOnScore)[/COLOR]",
+      "title": "[COLORwhite]LiveOnScore[/COLOR]",
       "sportjetextractors": "Weakspell/LiveOnScore"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (SportsCentral)[/COLOR]",
+      "title": "[COLORwhite]SportsCentral[/COLOR]",
       "sportjetextractors": "SportsCentral"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (HDStreams)[/COLOR]",
+      "title": "[COLORwhite]HDStreams)[/COLOR]",
       "sportjetextractors": "HDStreams"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (StreamBTW)[/COLOR]",
+      "title": "[COLORwhite]StreamBTW[/COLOR]",
       "sportjetextractors": "StreamBTW"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Sportshub)[/COLOR]",
+      "title": "[COLORwhite]Sportshub[/COLOR]",
       "sportjetextractors": "Sportshub"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Meth)[/COLOR]",
+      "title": "[COLORwhite]Meth[/COLOR]",
       "sportjetextractors": "Meth_com"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Streameast)[/COLOR]",
+      "title": "[COLORwhite]Streameast[/COLOR]",
       "sportjetextractors": "Streameast"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Buffstreams)[/COLOR]",
+      "title": "[COLORwhite]Buffstreams[/COLOR]",
       "sportjetextractors": "Buffstreams"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Cricfree)[/COLOR]",
+      "title": "[COLORwhite]Cricfree[/COLOR]",
       "sportjetextractors": "Cricfree"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (AeSport)[/COLOR]",
+      "title": "[COLORwhite]AeSport[/COLOR]",
       "sportjetextractors": "AeSport"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (TheHomeSport)[/COLOR]",
-      "sportjetextractors": "TheHomeSport"
+      "title": "[COLORwhite]FootyBiteTV[/COLOR]",
+      "sportjetextractors": "FootyBiteTV"
     },
      {
       "type": "dir",
-      "title": "[COLORwhite]Live Sports (Sportea)[/COLOR]",
+      "title": "[COLORwhite]Sportea[/COLOR]",
       "sportjetextractors": "Sportea"
     }
    
