@@ -80,10 +80,15 @@
       "title": "[COLORwhite]FootyBiteTV[/COLOR]",
       "sportjetextractors": "FootyBiteTV"
     },
-     {
+    {
       "type": "dir",
       "title": "[COLORwhite]Sportea[/COLOR]",
       "sportjetextractors": "Sportea"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]GiveMe[/COLOR]",
+      "sportjetextractors": "Give Me"
     }
    
   ]
