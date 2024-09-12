@@ -2,7 +2,7 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1**",
+      "title": "TNT Sports 1*",
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sport-1-3078",
         "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
@@ -45,7 +45,7 @@
       "title": "Sky Main Event",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
-		"https://balo.live/?tv=sky-sports-main-event-50-fps-1090",
+	"https://balo.live/?tv=sky-sports-main-event-50-fps-1090",
         "https://cricfree.live/live/sky-sports-main-event",
         "https://sons-stream.com/tvon.php?hd=311"
       ]
@@ -64,6 +64,7 @@
       "title": "Sky Cricket",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
+	"https://balo.live/?tv=sky-sports-cricket-339",
         "https://cricfree.live/live/sky-sports-cricket",
         "https://sons-stream.com/tvon.php?hd=312"
       ]
@@ -73,6 +74,7 @@
       "title": "Sky P League",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
+	"https://balo.live/?tv=sky-sports-premier-league-50fps-2827",
         "https://cricfree.live/live/sky-sports-premier-league",
         "https://sons-stream.com/tvon.php?hd=314"
       ]
@@ -90,7 +92,7 @@
       "type": "item",
       "title": "Sky Action",
       "sportjetextractors": [
-        "https://cricfree.live/live/sky-sports-news",
+	"https://balo.live/?tv=sky-sports-action-nfl-2825",
         "https://sons-stream.com/tvon.php?hd=316"
       ]
     },
@@ -116,6 +118,7 @@
       "type": "item",
       "title": "Sky Mix",
       "sportjetextractors": [
+	"https://balo.live/?tv=sky-sports-mix-344",
         "https://cricfree.live/live/sky-sports-mix",
         "https://sons-stream.com/tvon.php?hd=317"
       ]
@@ -131,6 +134,7 @@
       "type": "item",
       "title": "Sky Sports News",
       "sportjetextractors": [
+	"https://balo.live/?tv=sky-sports-news-345",
         "https://cricfree.live/live/sky-sports-news",
         "https://sons-stream.com/tvon.php?hd=320"
       ]
