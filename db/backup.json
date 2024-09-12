@@ -6,7 +6,6 @@
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sport-1-3078",
         "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
-        "https://cricfree.live/live/bt-sport-1",
         "https://sons-stream.com/tvon.php?hd=301"
       ]
     },
@@ -16,7 +15,6 @@
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sport-2-3079",
         "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
-        "https://cricfree.live/live/bt-sport-2",
         "https://sons-stream.com/tvon.php?hd=302"
       ]
     },
@@ -26,7 +24,6 @@
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-3-712",
         "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
-        "https://cricfree.live/live/bt-sport-3",
         "https://sons-stream.com/tvon.php?hd=303"
       ]
     },
@@ -36,7 +33,6 @@
       "sportjetextractors": [
         "https://balo.live/?tv=tnt-sports-4-713",
         "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
-        "https://cricfree.live/live/bt-sport-4",
         "https://sons-stream.com/tvon.php?hd=304"
       ]
     },
@@ -46,7 +42,6 @@
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
 	"https://balo.live/?tv=sky-sports-main-event-50-fps-1090",
-        "https://cricfree.live/live/sky-sports-main-event",
         "https://sons-stream.com/tvon.php?hd=311"
       ]
     },
@@ -55,7 +50,6 @@
       "title": "Sky Golf",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
-        "https://cricfree.live/live/sky-sports-golf",
         "https://sons-stream.com/tvon.php?hd=318"
       ]
     },
@@ -65,7 +59,6 @@
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
 	"https://balo.live/?tv=sky-sports-cricket-339",
-        "https://cricfree.live/live/sky-sports-cricket",
         "https://sons-stream.com/tvon.php?hd=312"
       ]
     },
@@ -75,7 +68,6 @@
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
 	"https://balo.live/?tv=sky-sports-premier-league-50fps-2827",
-        "https://cricfree.live/live/sky-sports-premier-league",
         "https://sons-stream.com/tvon.php?hd=314"
       ]
     },
@@ -84,13 +76,12 @@
       "title": "Sky Football",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/sky-sports-football-57.html",
-        "https://cricfree.live/live/sky-sports-football",
         "https://sons-stream.com/tvon.php?hd=313"
       ]
     },
     {
       "type": "item",
-      "title": "Sky Action",
+      "title": "Sky Action/NFL",
       "sportjetextractors": [
 	"https://balo.live/?tv=sky-sports-action-nfl-2825",
         "https://sons-stream.com/tvon.php?hd=316"
@@ -100,7 +91,6 @@
       "type": "item",
       "title": "Sky Arena",
       "sportjetextractors": [
-        "https://cricfree.live/live/sky-sports-arena",
         "https://sons-stream.com/tvon.php?hd=315"
       ]
     },
@@ -110,7 +100,6 @@
       "sportjetextractors": [
         "https://balo.live/?tv=sky-sports-f1-340",
         "links://https://aesport.tv/live-tv/sky-sports-f1-28.html",
-        "https://cricfree.live/live/sky-sports-f1",
         "https://sons-stream.com/tvon.php?hd=319"
       ]
     },
@@ -119,15 +108,7 @@
       "title": "Sky Mix",
       "sportjetextractors": [
 	"https://balo.live/?tv=sky-sports-mix-344",
-        "https://cricfree.live/live/sky-sports-mix",
         "https://sons-stream.com/tvon.php?hd=317"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sky NFL",
-      "sportjetextractors": [
-        "https://cricfree.live/live/sky-sports-action"
       ]
     },
     {
@@ -135,7 +116,6 @@
       "title": "Sky Sports News",
       "sportjetextractors": [
 	"https://balo.live/?tv=sky-sports-news-345",
-        "https://cricfree.live/live/sky-sports-news",
         "https://sons-stream.com/tvon.php?hd=320"
       ]
     },
@@ -143,7 +123,7 @@
       "type": "item",
       "title": "Racing UK",
       "sportjetextractors": [
-        "https://cricfree.live/live/racing-uk"
+        "https://balo.live/?tv=sky-sports-racing-1-1091"
       ]
     },
     {
@@ -165,7 +145,6 @@
       "title": "Euro Sport 1 (English)",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/eurosport-1-139.html",
-        "https://cricfree.live/live/bein-sports-1-english",
         "https://sons-stream.com/tvon.php?hd=321"
       ]
     },
@@ -174,7 +153,6 @@
       "title": "Euro Sport 2 (English)",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/eurosport-2-140.html",
-        "https://cricfree.live/live/bein-sports-2-english",
         "https://sons-stream.com/tvon.php?hd=322"
       ]
     },
@@ -187,62 +165,6 @@
     },
     {
       "type": "item",
-      "title": "SS Prem League",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-premier-league"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS La Liga",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-laliga"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS Football",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-football"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS Grandstand",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-grandstand"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS Rugby",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-rugby"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS Action",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-action"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "SS Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/supersports-cricket"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Astro Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/astro-cricket"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Willow Cricket",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/willow-cricket-116.html"
@@ -250,17 +172,9 @@
     },
     {
       "type": "item",
-      "title": "Fox Cricket",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-501"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Fox Sports 1",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/fs1-86.html",
-        "https://cricfree.live/live/fox-sports-1-usa",
         "https://sons-stream.com/tvon.php?hd=187"
       ]
     },
@@ -269,50 +183,13 @@
       "title": "Fox Sports 2",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/fs2-87.html",
-        "https://cricfree.live/live/fox-sports-2-usa",
         "https://sons-stream.com/tvon.php?hd=188"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "FOX Sports 502 AU",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-502"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "FOX Sports 503 AU",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-503"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "FOX Sports 504 AU",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-504"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "FOX Sports 505 AU",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-505"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "FOX Sports 506 AU",
-      "sportjetextractors": [
-        "https://cricfree.live/live/fox-506"
       ]
     },
     {
       "type": "item",
       "title": "ESPN 1",
       "sportjetextractors": [
-        "https://cricfree.live/live/espn-usa",
         "https://sons-stream.com/tvon.php?hd=189",
         "https://balo.live/?tv=espn-204"
       ]
@@ -321,7 +198,6 @@
       "type": "item",
       "title": "ESPN 2",
       "sportjetextractors": [
-        "https://cricfree.live/live/espn2",
         "https://balo.live/?tv=espn-2-205",
         "https://sons-stream.com/tvon.php?hd=190"
       ]
@@ -331,13 +207,6 @@
       "title": "ESPN 3",
       "sportjetextractors": [
         "https://balo.live/?tv=espn-3-206"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "BBC One",
-      "sportjetextractors": [
-        "https://cricfree.live/live/bbc-one"
       ]
     },
     {
