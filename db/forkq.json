@@ -90,13 +90,6 @@
     },
     {
       "type": "item",
-      "title": "Sky News",
-      "sportjetextractors": [
-        "https://balo.live/?tv=sky-news-335"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Sky Atlantic",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-362.php"
@@ -106,7 +99,7 @@
       "type": "item",
       "title": "Sky Comedy",
       "sportjetextractors": [
-        "https://balo.live/?tv=sky-comedy-813"
+        "https://dlhd.so/stream/stream-684.php"
       ]
     },
     {
@@ -120,7 +113,7 @@
       "type": "item",
       "title": "Sky Crime",
       "sportjetextractors": [
-        "https://balo.live/?tv=sky-crime-814"
+        "https://balo.live/?tv=sky-crime-1-1080"
       ]
     },
      {
@@ -219,13 +212,6 @@
     },
     {
       "type": "item",
-      "title": "Comedy Central UK",
-      "sportjetextractors": [
-        "https://balo.live/?tv=comedy-central-uk-802"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Comedy Central US",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-310.php"
@@ -235,7 +221,7 @@
       "type": "item",
       "title": "Comedy Central US",
       "sportjetextractors": [
-        "https://balo.live/?tv=comedy-central-us-804"
+        "https://balo.live/?tv=comedy-central-191"
       ]
     },
     {
@@ -254,7 +240,7 @@
       "type": "item",
       "title": "HBO USA",
       "sportjetextractors": [
-        "https://balo.live/?tv=hbo-321"
+        "https://balo.live/?tv=hbo-1-1627"
       ]
     },
     {
@@ -281,7 +267,7 @@
       "type": "item",
       "title": "HBO Comedy",
       "sportjetextractors": [
-        "https://balo.live/?tv=hbo-comedy-323"
+        "https://dlhd.so/stream/stream-690.php"
       ]
     },
     {
@@ -291,23 +277,9 @@
     },
     {
       "type": "item",
-      "title": "HBO Family",
-      "sportjetextractors": [
-        "https://balo.live/?tv=hbo-family-324"
-      ]
-    },
-    {
-      "type": "item",
       "title": "HBO Signature",
       "sportjetextractors": [
         "https://dlhd.so/stream/stream-693.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "HBO Signature",
-      "sportjetextractors": [
-        "https://balo.live/?tv=hbo-signature-325"
       ]
     },
     {
@@ -321,26 +293,12 @@
     {
       "type": "item",
       "title": "HBO Zone",
-      "sportjetextractors": [
-        "https://balo.live/?tv=hbo-zone-326"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "HBO Zone",
       "link": "plugin://plugin.video.forkq/uktvnow/play/609"
     },
     {
       "type": "item",
       "title": "Showtime",
       "link": "plugin://plugin.video.forkq/uktvnow/play/472"
-    },
-    {
-      "type": "item",
-      "title": "Showtime",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-296"
-      ]
     },
     {
       "type": "item",
@@ -389,6 +347,13 @@
     },
     {
       "type": "item",
+      "title": "Showtime Extreme",
+      "sportjetextractors": [
+        "https://balo.live/?tv=showtime-extreme-298"
+      ]
+    },
+    {
+      "type": "item",
       "title": "Sony Movies",
       "link": "plugin://plugin.video.forkq/uktvnow/play/291"
     },
@@ -401,7 +366,7 @@
       "type": "item",
       "title": "Starz",
       "sportjetextractors": [
-        "https://balo.live/?tv=starz-278"
+        "https://dlhd.so/stream/stream-335.php"
       ]
     },
     {
@@ -416,22 +381,8 @@
     },
     {
       "type": "item",
-      "title": "Starz Comedy",
-      "sportjetextractors": [
-        "https://balo.live/?tv=starz-comedy-279"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Starz Edge",
       "link": "plugin://plugin.video.forkq/uktvnow/play/484"
-    },
-    {
-      "type": "item",
-      "title": "Starz Edge",
-      "sportjetextractors": [
-        "https://balo.live/?tv=starz-edge-280"
-      ]
     },
     {
       "type": "item",
@@ -478,7 +429,7 @@
       "type": "item",
       "title": "E4 Channel",
       "sportjetextractors": [
-        "https://balo.live/?tv=e4-816"
+        "https://balo.live/?tv=e4-1-1005"
       ]
     },
     {
@@ -497,7 +448,7 @@
       "type": "item",
       "title": "Discovery Channel",
       "sportjetextractors": [
-        "https://balo.live/?tv=discovery-channel-783"
+        "https://balo.live/?tv=discovery-channel-1-2983"
       ]
     },
     {
@@ -511,7 +462,7 @@
       "type": "item",
       "title": "Discovery Life Channel",
       "sportjetextractors": [
-        "https://balo.live/?tv=discovery-life-channel-199"
+        "https://balo.live/?tv=discovery-life-1204"
       ]
     },
     {
