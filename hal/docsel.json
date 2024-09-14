@@ -1,25 +1,12 @@
 {
 "items": [   
-	{
-            "type": "dir",
-            "title": "[COLORlime]New Documentaries[/COLOR]",
-            "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSOE9HbVj7DP67tBVVYG1rMJ"
-	},
-	{
-            "type": "dir", 
-            "title": "[COLORlime]Documentary Channels[/COLOR]", 
-            "link": "https://mfirepo.github.io/hal/livedocs.json" 
-        },
+	
 	{
             "type": "dir", 
             "title": "[COLORlime]cMans Free Documentaries[/COLOR]", 
             "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml" 
-        },
-	{
-            "type": "dir",
-            "title": "[COLORlime]You Tube Documentaries[/COLOR]",
-            "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSOdBhgNGld-xu5cofvmVpFB"
-	}
+        }
+	
         
     ]
     
