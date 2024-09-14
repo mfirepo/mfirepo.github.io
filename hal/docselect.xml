@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-dir>
-	<title>New Documentaries</title>
-	<link>https://mfirepo.github.io/hal/docu.xml</link>
-</dir>
-<dir>
-	<title>Live Documentaries</title>
-	<link>https://mfirepo.github.io/hal/docch.xml</link>
-</dir>
 <dir>
 	<title>cMans Documentaries</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml</link>
