@@ -391,13 +391,6 @@
     },
     {
       "type": "item",
-      "title": "Starz Kids",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tv-land-289"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Dave",
       "link": "plugin://plugin.video.forkq/uktvnow/play/88"
     },
