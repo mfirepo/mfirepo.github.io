@@ -764,6 +764,11 @@
       "title": "Lifetime",
       "link": "plugin://plugin.video.forkq/uktvnow/play/146"
     },
+	{
+      "type": "item",
+      "title": "Lifetime",
+      "link": "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Loupe 4K",
@@ -779,6 +784,11 @@
       "title": "METV",
       "link": "plugin://plugin.video.forkq/uktvnow/play/866"
     },
+	{
+      "type": "item",
+      "title": "Midnight Pulp",
+      "link": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "Motor Trend",
@@ -792,6 +802,16 @@
       "sportjetextractors": [
         "https://balo.live/?tv=msg-739"
       ]
+    },
+	{
+      "type": "item",
+      "title": "MTV",
+      "link": "https://fl2.moveonjoy.com/MTV/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "MTV 2",
+      "link": "https://fl5.moveonjoy.com/MTV_2/index.m3u8"
     },
     {
       "type": "item",
