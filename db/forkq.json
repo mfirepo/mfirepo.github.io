@@ -226,7 +226,7 @@
     },
     {
       "type": "item",
-      "title": "HBO USA*",
+      "title": "HBO",
       "link": [
         "http://143.244.60.30/HBO/index.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-321.php",
@@ -236,7 +236,7 @@
     },
     {
       "type": "item",
-      "title": "HBO 2 USA*",
+      "title": "HBO 2",
       "link": [
         "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-689.php",
@@ -246,13 +246,9 @@
     {
       "type": "item",
       "title": "HBO Comedy",
-      "link": "http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "HBO Comedy",
       "sportjetextractors": [
-        "https://dlhd.so/stream/stream-690.php"
+        "http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-690.php"
       ]
     },
     {
@@ -275,14 +271,8 @@
       "title": "HBO Zone",
       "link": [
         "http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-694.php",
         "plugin://plugin.video.forkq/uktvnow/play/609"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "HBO Zone",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-694.php"
       ]
     },
     {
