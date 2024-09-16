@@ -567,6 +567,21 @@
       "title": "CBS USA",
       "link": "plugin://plugin.video.forkq/uktvnow/play/64"
     },
+	{
+      "type": "item",
+      "title": "Cinemax",
+      "link": "http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Cinevault 80s",
+      "link": "https://lnc-cinevault-80s.tubi.video/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Cinevault Classics",
+      "link": "https://lnc-cinevault-classics.tubi.video/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "CMT",
