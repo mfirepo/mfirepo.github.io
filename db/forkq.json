@@ -175,14 +175,10 @@
     {
       "type": "item",
       "title": "Sky Action",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-677.php"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-677.php",
+        "plugin://plugin.video.forkq/uktvnow/play/609"
       ]
-    },
-    {
-      "type": "item",
-      "title": "Sky Action",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/609"
     },
     {
       "type": "item",
@@ -201,26 +197,16 @@
     {
       "type": "item",
       "title": "Comedy Central UK",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/84"
-    },
-    {
-      "type": "item",
-      "title": "Comedy Central UK",
-      "sportjetextractors": [
-        "https://balo.live/?tv=comedy-central-191"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=comedy-central-191",
+        "plugin://plugin.video.forkq/uktvnow/play/84"
       ]
     },
     {
       "type": "item",
       "title": "Comedy Central US",
       "sportjetextractors": [
-        "https://dlhd.so/stream/stream-310.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Comedy Central US",
-      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-310.php",
         "https://balo.live/?tv=comedy-central-191"
       ]
     },
