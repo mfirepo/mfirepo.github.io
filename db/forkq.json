@@ -649,6 +649,11 @@
         "https://dlhd.so/stream/stream-317.php"
       ]
     },
+	{
+      "type": "item",
+      "title": "FX USA",
+      "link": "http://fl2.moveonjoy.com/FX/index.m3u8"
+    },
     {
       "type": "item",
       "title": "FX USA",
@@ -668,15 +673,35 @@
         "https://dlhd.so/stream/stream-298.php"
       ]
     },
+	{
+      "type": "item",
+      "title": "FXX USA",
+      "link": "http://fl2.moveonjoy.com/FXX/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Freeform",
       "link": "plugin://plugin.video.forkq/uktvnow/play/675"
     },
+	{
+      "type": "item",
+      "title": "Freeform",
+      "link": "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Fuse",
+      "link": "http://fl2.moveonjoy.com/FUSE/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Global Canada",
       "link": "plugin://plugin.video.forkq/uktvnow/play/659"
+    },
+	{
+      "type": "item",
+      "title": "Go USA",
+      "link": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"
     },
     {
       "type": "item",
@@ -690,12 +715,27 @@
         "https://balo.live/?tv=game-show-network-227"
       ]
     },
+	{
+      "type": "item",
+      "title": "Hallmark",
+      "link": "http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Hallmark Drama",
+      "link": "https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Hallmark Mystery",
       "sportjetextractors": [
         "https://balo.live/?tv=hallmark-movies-mysteries-231"
       ]
+    },
+	{
+      "type": "item",
+      "title": "Heartland",
+      "link": "https://d76toswjmqqzm.cloudfront.net/playlist.m3u8"
     },
     {
       "type": "item",
