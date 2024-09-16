@@ -237,14 +237,7 @@
             "title": "HBO USA",
             "sportjetextractors": [
                 "https://dlhd.so/stream/stream-321.php",
-		"https://balo.live/?tv=hbo-1-1627"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "HBO USA",
-            "sportjetextractors": [
-                "https://balo.live/?tv=hbo-1-1627"
+				"https://balo.live/?tv=hbo-1-1627"
             ]
         },
         {
@@ -258,7 +251,7 @@
             "title": "HBO 2 USA",
             "sportjetextractors": [
                 "https://dlhd.so/stream/stream-689.php",
-		"https://balo.live/?tv=hbo-2-322"
+				"https://balo.live/?tv=hbo-2-322"
             ]
         },
         {
@@ -276,12 +269,10 @@
         {
             "type": "item",
             "title": "HBO Family",
-            "link": "http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "HBO Family",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/611"
+				"link":	[
+                    "http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8",
+			        "plugin://plugin.video.forkq/uktvnow/play/611"
+			]
         },
         {
             "type": "item",
@@ -293,7 +284,10 @@
         {
             "type": "item",
             "title": "HBO Zone",
-            "link": "http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8"
+            "link":[
+			"http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8",
+			"plugin://plugin.video.forkq/uktvnow/play/609"
+			]
         },
         {
             "type": "item",
@@ -301,11 +295,6 @@
             "sportjetextractors": [
                 "https://dlhd.so/stream/stream-694.php"
             ]
-        },
-        {
-            "type": "item",
-            "title": "HBO Zone",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/609"
         },
 		{
             "type": "item",
