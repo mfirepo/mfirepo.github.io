@@ -299,22 +299,18 @@
 		{
             "type": "item",
             "title": "Showtime",
-            "link": "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Showtime",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/472"
+            "link": [
+					"http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+			        "plugin://plugin.video.forkq/uktvnow/play/472"
+					]
         },
 		{
             "type": "item",
             "title": "Showtime 2",
-            "link": "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Showtime 2",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/473"
+            "link":[
+					"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+			        "plugin://plugin.video.forkq/uktvnow/play/473"
+					]
         },
         {
             "type": "item",
