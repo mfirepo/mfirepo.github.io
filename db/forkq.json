@@ -215,7 +215,6 @@
       "link": [
         "http://143.244.60.30/HBO/index.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-321.php",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-1-1627",
         "plugin://plugin.video.forkq/uktvnow/play/128"
       ]
     },
@@ -421,13 +420,9 @@
     {
       "type": "item",
       "title": "A&E USA",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/22"
-    },
-    {
-      "type": "item",
-      "title": "A&E USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-302.php"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-302.php",
+        "plugin://plugin.video.forkq/uktvnow/play/22"
       ]
     },
     {
@@ -442,14 +437,8 @@
       "title": "AMC",
       "link": [
         "https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-303.php",
         "plugin://plugin.video.forkq/uktvnow/play/28"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "AMC",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-303.php"
       ]
     },
     {
@@ -482,13 +471,9 @@
     {
       "type": "item",
       "title": "BBC America",
-      "link": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "BBC America",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-305.php"
+      "link": [
+        "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-305.php"
       ]
     },
     {
@@ -640,36 +625,28 @@
     {
       "type": "item",
       "title": "FX USA",
-      "link": "http://fl2.moveonjoy.com/FX/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "FX USA",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/123"
-    },
-    {
-      "type": "item",
-      "title": "FXM USA",
-      "link": "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-317.php",
+        "http://fl2.moveonjoy.com/FX/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/123"
+      ]
     },
     {
       "type": "item",
       "title": "FXM USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-381.php"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-381.php",
+        "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/123"
       ]
     },
     {
       "type": "item",
       "title": "FXX USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-298.php"
+      "link": [
+        "http://fl2.moveonjoy.com/FXX/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-298.php"
       ]
-    },
-    {
-      "type": "item",
-      "title": "FXX USA",
-      "link": "http://fl2.moveonjoy.com/FXX/index.m3u8"
     },
     {
       "type": "item",
@@ -679,12 +656,10 @@
     {
       "type": "item",
       "title": "Freeform",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/675"
-    },
-    {
-      "type": "item",
-      "title": "Freeform",
-      "link": "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8"
+      "link": [
+        "http://fl2.moveonjoy.com/FREE_FORM/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/675"
+      ]
     },
     {
       "type": "item",
@@ -770,12 +745,10 @@
     {
       "type": "item",
       "title": "Lifetime",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/146"
-    },
-    {
-      "type": "item",
-      "title": "Lifetime",
-      "link": "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
+      "link": [
+        "http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/146"
+      ]
     },
     {
       "type": "item",
@@ -908,17 +881,15 @@
     {
       "type": "item",
       "title": "Paramount Network",
-      "link": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+      "link": [
+        "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/677"
+      ]
     },
     {
       "type": "item",
       "title": "PBS",
       "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Paramount Network",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/677"
     },
     {
       "type": "item",
@@ -965,61 +936,43 @@
     {
       "type": "item",
       "title": "Sundance TV",
-      "link": "https://fl2.moveonjoy.com/SUNDANCE/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Sundance TV",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/676"
-    },
-    {
-      "type": "item",
-      "title": "SYFY USA",
-      "link": "http://fl2.moveonjoy.com/SYFY/index.m3u8"
+      "link": [
+        "https://fl2.moveonjoy.com/SUNDANCE/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/676"
+      ]
     },
     {
       "type": "item",
       "title": "SYFY USA",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/221"
-    },
-    {
-      "type": "item",
-      "title": "TBS",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-336.php"
+      "link": [
+        "http://fl2.moveonjoy.com/SYFY/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/221"
       ]
     },
     {
       "type": "item",
       "title": "TBS",
-      "link": "http://143.244.60.30/TBS/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "TBS",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/222"
-    },
-    {
-      "type": "item",
-      "title": "TLC",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/288"
+      "link": [
+        "http://143.244.60.30/TBS/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-336.php",
+        "plugin://plugin.video.forkq/uktvnow/play/222"
+      ]
     },
     {
       "type": "item",
       "title": "TLC",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tlc-1-1003"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=tlc-1-1003",
+        "plugin://plugin.video.forkq/uktvnow/play/288"
       ]
     },
     {
       "type": "item",
       "title": "TNT",
-      "link": "http://fl2.moveonjoy.com/TNT/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "TNT",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/228"
+      "link": [
+        "http://fl2.moveonjoy.com/TNT/index.m3u8",
+        "plugin://plugin.video.forkq/uktvnow/play/228"
+      ]
     },
     {
       "type": "item",
