@@ -594,6 +594,11 @@
       "title": "CNN",
       "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Cult Movies",
+      "link": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8"
+    },
     {
       "type": "item",
       "title": "CW USA",
@@ -645,12 +650,22 @@
       "title": "Destination America",
       "link": "plugin://plugin.video.forkq/uktvnow/play/638"
     },
+	{
+      "type": "item",
+      "title": "Discover Film",
+      "link": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "E!",
       "sportjetextractors": [
         "https://balo.live/?tv=e-203"
       ]
+    },
+	{
+      "type": "item",
+      "title": "Encore+",
+      "link": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8"
     },
     {
       "type": "item",
@@ -674,6 +689,11 @@
       "title": "FX USA",
       "link": "plugin://plugin.video.forkq/uktvnow/play/123"
     },
+	{
+      "type": "item",
+      "title": "FXM USA",
+      "link": "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8"
+    },
     {
       "type": "item",
       "title": "FXM USA",
@@ -692,6 +712,11 @@
       "type": "item",
       "title": "FXX USA",
       "link": "http://fl2.moveonjoy.com/FXX/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Freedom Flix",
+      "link": "https://panel.freedomflixtv.org:3311/stream/play.m3u8"
     },
     {
       "type": "item",
@@ -717,6 +742,11 @@
       "type": "item",
       "title": "Go USA",
       "link": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Gravitas Movies",
+      "link": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"
     },
     {
       "type": "item",
