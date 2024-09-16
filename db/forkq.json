@@ -877,7 +877,17 @@
       "title": "Oxygen True Crime",
       "link": "plugin://plugin.video.forkq/uktvnow/play/637"
     },
+	{
+      "type": "item",
+      "title": "Paramount Network",
+      "link": "http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+    },
     {
+      "type": "item",
+      "title": "PBS",
+      "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
+    },
+	{
       "type": "item",
       "title": "Paramount Network",
       "link": "plugin://plugin.video.forkq/uktvnow/play/677"
@@ -924,15 +934,25 @@
       "title": "Smithsonian Channel",
       "link": "plugin://plugin.video.forkq/uktvnow/play/867"
     },
-    {
+	{
       "type": "item",
-      "title": "SYFY USA",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/221"
+      "title": "Sundance TV",
+      "link": "https://fl2.moveonjoy.com/SUNDANCE/index.m3u8"
     },
     {
       "type": "item",
       "title": "Sundance TV",
       "link": "plugin://plugin.video.forkq/uktvnow/play/676"
+    },
+	{
+      "type": "item",
+      "title": "SYFY USA",
+      "link": "http://fl2.moveonjoy.com/SYFY/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "SYFY USA",
+      "link": "plugin://plugin.video.forkq/uktvnow/play/221"
     },
     {
       "type": "item",
@@ -942,6 +962,11 @@
       ]
     },
     {
+      "type": "item",
+      "title": "TBS",
+      "link": "http://143.244.60.30/TBS/index.m3u8"
+    },
+	{
       "type": "item",
       "title": "TBS",
       "link": "plugin://plugin.video.forkq/uktvnow/play/222"
@@ -958,10 +983,20 @@
         "https://balo.live/?tv=tlc-1-1003"
       ]
     },
+	{
+      "type": "item",
+      "title": "TNT",
+      "link": "http://fl2.moveonjoy.com/TNT/index.m3u8"
+    },
     {
       "type": "item",
       "title": "TNT",
       "link": "plugin://plugin.video.forkq/uktvnow/play/228"
+    },
+	{
+      "type": "item",
+      "title": "The Archive",
+      "link": "https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8"
     },
     {
       "type": "item",
@@ -975,12 +1010,22 @@
         "https://balo.live/?tv=tv-land-289"
       ]
     },
+	{
+      "type": "item",
+      "title": "TV One",
+      "link": "http://fl2.moveonjoy.com/TV_ONE/index.m3u8"
+    },
     {
       "type": "item",
       "title": "USA Network",
       "sportjetextractors": [
         "links://https://aesport.tv/live-tv/usa-network-88.html"
       ]
+    },
+	{
+      "type": "item",
+      "title": "VH 1",
+      "link": "https://fl2.moveonjoy.com/VH1/index.m3u8"
     },
     {
       "type": "item",
@@ -991,6 +1036,16 @@
       "type": "item",
       "title": "Viceland",
       "link": "plugin://plugin.video.forkq/uktvnow/play/646"
+    },
+	{
+      "type": "item",
+      "title": "WFMZ 69",
+      "link": "https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "WGN",
+      "link": "https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8"
     },
     {
       "type": "item",
