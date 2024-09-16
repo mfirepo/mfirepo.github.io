@@ -206,8 +206,7 @@
       "type": "item",
       "title": "Comedy Central US",
       "sportjetextractors": [
-        "https://dlhd.so/stream/stream-310.php",
-        "https://balo.live/?tv=comedy-central-191"
+        "https://dlhd.so/stream/stream-310.php"
       ]
     },
     {
@@ -274,20 +273,17 @@
       "title": "Showtime 2",
       "link": [
         "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-2-297",
         "plugin://plugin.video.forkq/uktvnow/play/473"
       ]
     },
     {
       "type": "item",
-      "title": "Showtime 2",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-2-297"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Showtime Extreme",
-      "link": "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
+      "link": [
+        "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-extreme-298"
+      ]
     },
     {
       "type": "item",
@@ -306,13 +302,9 @@
     {
       "type": "item",
       "title": "Showtime Next",
-      "link": "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Showtime Next",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-next-300"
+      "link": [
+        "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-next-300"
       ]
     },
     {
@@ -325,12 +317,18 @@
     {
       "type": "item",
       "title": "Showtime Showcase",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/475"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-showcase-301",
+        "plugin://plugin.video.forkq/uktvnow/play/475"
+      ]
     },
     {
       "type": "item",
       "title": "Showtime Women",
-      "link": "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-women-302",
+        "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+      ]
     },
     {
       "type": "item",
