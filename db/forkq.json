@@ -382,12 +382,10 @@
 		{
             "type": "item",
             "title": "Starz",
-            "link": "http://fl2.moveonjoy.com/STARZ/index.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Starz",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/602"
+            "link": [
+					"http://fl2.moveonjoy.com/STARZ/index.m3u8",
+					"plugin://plugin.video.forkq/uktvnow/play/602"
+					]
         },
         {
             "type": "item",
@@ -404,7 +402,10 @@
 		{
             "type": "item",
             "title": "Starz Comedy",
-            "link": "http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8"
+            "link":[
+					"http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8",
+					"plugin://plugin.video.forkq/uktvnow/play/483"
+					]
         },
         {
             "type": "item",
@@ -414,7 +415,10 @@
 		{
             "type": "item",
             "title": "Starz Edge",
-            "link": "http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8"
+            "link": [
+					"http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8",
+					"plugin://plugin.video.forkq/uktvnow/play/484"
+					]
         },
         {
             "type": "item",
@@ -424,7 +428,8 @@
 		{
             "type": "item",
             "title": "Starz Encore",
-            "link": "http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8"
+            "link": ["http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8",
+					"plugin://plugin.video.forkq/uktvnow/play/485"]
         },
         {
             "type": "item",
