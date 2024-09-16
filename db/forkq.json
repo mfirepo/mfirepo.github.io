@@ -287,13 +287,6 @@
     },
     {
       "type": "item",
-      "title": "Showtime Extreme",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-extreme-298"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Showtime Family",
       "sportjetextractors": [
         "https://balo.live/?tv=showtime-family-zone-299"
@@ -333,14 +326,8 @@
       "title": "Starz",
       "link": [
         "http://fl2.moveonjoy.com/STARZ/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-335.php",
         "plugin://plugin.video.forkq/uktvnow/play/602"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Starz",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-335.php"
       ]
     },
     {
@@ -390,27 +377,17 @@
     {
       "type": "item",
       "title": "Gold UK",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-687.php"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-687.php",
+        "plugin://plugin.video.forkq/uktvnow/play/236"
       ]
-    },
-    {
-      "type": "item",
-      "title": "Gold UK",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/236"
     },
     {
       "type": "item",
       "title": "E4 Channel",
       "sportjetextractors": [
+        "https://balo.live/?tv=e4-1-1005",
         "https://dlhd.so/stream/stream-363.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "E4 Channel",
-      "sportjetextractors": [
-        "https://balo.live/?tv=e4-1-1005"
       ]
     },
     {
@@ -423,27 +400,17 @@
     {
       "type": "item",
       "title": "Discovery Channel",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/94"
-    },
-    {
-      "type": "item",
-      "title": "Discovery Channel",
-      "sportjetextractors": [
-        "https://balo.live/?tv=discovery-channel-1-2983"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=discovery-channel-1-2983",
+        "plugin://plugin.video.forkq/uktvnow/play/94"
       ]
     },
     {
       "type": "item",
       "title": "Discovery Life Channel",
       "sportjetextractors": [
+        "https://balo.live/?tv=discovery-life-1204",
         "https://dlhd.so/stream/stream-311.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Discovery Life Channel",
-      "sportjetextractors": [
-        "https://balo.live/?tv=discovery-life-1204"
       ]
     },
     {
