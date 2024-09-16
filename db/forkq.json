@@ -545,6 +545,11 @@
             "title": "AXS TV Now",
             "link": "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
         },
+		{
+            "type": "item",
+            "title": "BBC America",
+            "link": "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8"
+        },
         {
             "type": "item",
             "title": "BBC America",
