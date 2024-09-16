@@ -226,7 +226,7 @@
         },
 	{
             "type": "item",
-            "title": "HBO USA***",
+            "title": "HBO USA*",
             "link": [
                 "http://143.244.60.30/HBO/index.m3u8",
                 "plugin://plugin.video.forkq/uktvnow/play/128"
@@ -234,14 +234,10 @@
         },
         {
             "type": "item",
-            "title": "HBO USA",
-            "link": "plugin://plugin.video.forkq/uktvnow/play/128"
-        },
-        {
-            "type": "item",
-            "title": "HBO USA",
+            "title": "HBO USA**",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-321.php"
+                "https://dlhd.so/stream/stream-321.php",
+		"https://balo.live/?tv=hbo-1-1627"
             ]
         },
         {
