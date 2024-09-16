@@ -824,25 +824,17 @@
     {
       "type": "item",
       "title": "Nat Geo",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/158"
-    },
-    {
-      "type": "item",
-      "title": "Nat Geo",
-      "sportjetextractors": [
-        "https://balo.live/?tv=nat-geographic-3467"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=nat-geographic-3467",
+        "plugin://plugin.video.forkq/uktvnow/play/158"
       ]
     },
     {
       "type": "item",
       "title": "Nat Geo Wild",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/157"
-    },
-    {
-      "type": "item",
-      "title": "Nat Geo Wild",
-      "sportjetextractors": [
-        "https://balo.live/?tv=nat-geo-wild-251"
+      "link": [
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=nat-geo-wild-251",
+        "plugin://plugin.video.forkq/uktvnow/play/157"
       ]
     },
     {
