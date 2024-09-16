@@ -226,34 +226,21 @@
     },
     {
       "type": "item",
-      "title": "HBO USA**",
+      "title": "HBO USA*",
       "link": [
         "http://143.244.60.30/HBO/index.m3u8",
-		"plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-321.php",
-		"plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-1-1627",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-321.php",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-1-1627",
         "plugin://plugin.video.forkq/uktvnow/play/128"
       ]
     },
     {
       "type": "item",
-      "title": "HBO USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-321.php",
-        "https://balo.live/?tv=hbo-1-1627"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "HBO 2 USA",
-      "link": "https://fl5.moveonjoy.com/HBO_2/index.m3u8"
-    },
-    {
-      "count": 267,
-      "type": "item",
-      "title": "HBO 2 USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-689.php",
-        "https://balo.live/?tv=hbo-2-322"
+      "title": "HBO 2 USA*",
+      "link": [
+        "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-689.php",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-2-322"
       ]
     },
     {
