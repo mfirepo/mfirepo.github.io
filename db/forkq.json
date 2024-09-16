@@ -568,13 +568,7 @@
       "type": "item",
       "title": "Cooking Channel USA",
       "sportjetextractors": [
-        "https://dlhd.so/stream/stream-697.php"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Cooking Channel USA",
-      "sportjetextractors": [
+        "https://dlhd.so/stream/stream-697.php",
         "https://balo.live/?tv=cooking-channel-193"
       ]
     },
@@ -614,13 +608,6 @@
       "type": "item",
       "title": "FOX USA",
       "link": "plugin://plugin.video.forkq/uktvnow/play/117"
-    },
-    {
-      "type": "item",
-      "title": "FX USA",
-      "sportjetextractors": [
-        "https://dlhd.so/stream/stream-317.php"
-      ]
     },
     {
       "type": "item",
