@@ -310,13 +310,6 @@
     {
       "type": "item",
       "title": "Showtime Showcase",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-showcase-301"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Showtime Showcase",
       "link": [
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-showcase-301",
         "plugin://plugin.video.forkq/uktvnow/play/475"
@@ -328,13 +321,6 @@
       "link": [
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-women-302",
         "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Showtime Women",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-women-302"
       ]
     },
     {
