@@ -828,6 +828,11 @@
             "title": "Impact Wrestling",
             "link": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
         },
+		{
+            "type": "item",
+            "title": "Legend Films",
+            "link": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8"
+        },
         {
             "type": "item",
             "title": "Lifetime",
@@ -837,6 +842,11 @@
             "type": "item",
             "title": "Lifetime",
             "link": "http://fl2.moveonjoy.com/LIFETIME/index.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "LMN",
+            "link": "http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
         },
         {
             "type": "item",
@@ -852,6 +862,16 @@
             "type": "item",
             "title": "METV",
             "link": "plugin://plugin.video.forkq/uktvnow/play/866"
+        },
+		{
+            "type": "item",
+            "title": "MGM+",
+            "link": "http://fl2.moveonjoy.com/EPIX/index.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "MGM+ Drive In",
+            "link": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
         },
         {
             "type": "item",
@@ -886,6 +906,11 @@
             "type": "item",
             "title": "MUTV",
             "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "MyTime Movies",
+            "link": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
         },
         {
             "type": "item",
