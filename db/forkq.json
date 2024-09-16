@@ -226,8 +226,9 @@
         },
         {
             "type": "item",
-            "title": "HBO USA",
-            "link": "http://143.244.60.30/HBO/index.m3u8"
+            "title": "HBO USA*",
+            "link": "http://143.244.60.30/HBO/index.m3u8",
+	    "link": "plugin://plugin.video.forkq/uktvnow/play/128"
         },
         {
             "type": "item",
