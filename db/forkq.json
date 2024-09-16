@@ -314,10 +314,20 @@
             "title": "HBO Zone",
             "link": "plugin://plugin.video.forkq/uktvnow/play/609"
         },
+		{
+            "type": "item",
+            "title": "Showtime",
+            "link": "http://fl2.moveonjoy.com/SHOWTIME/index.m3u8"
+        },
         {
             "type": "item",
             "title": "Showtime",
             "link": "plugin://plugin.video.forkq/uktvnow/play/472"
+        },
+		{
+            "type": "item",
+            "title": "Showtime 2",
+            "link": "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8"
         },
         {
             "type": "item",
@@ -331,12 +341,29 @@
                 "https://balo.live/?tv=showtime-2-297"
             ]
         },
+		{
+            "type": "item",
+            "title": "Showtime Extreme",
+            "link": "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
+        },
+		{
+            "type": "item",
+            "title": "Showtime Extreme",
+            "sportjetextractors": [
+                "https://balo.live/?tv=showtime-extreme-298"
+            ]
+        },
         {
             "type": "item",
             "title": "Showtime Family",
             "sportjetextractors": [
                 "https://balo.live/?tv=showtime-family-zone-299"
             ]
+        },
+		{
+            "type": "item",
+            "title": "Showtime Next",
+            "link": "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
         },
         {
             "type": "item",
@@ -357,18 +384,16 @@
             "title": "Showtime Showcase",
             "link": "plugin://plugin.video.forkq/uktvnow/play/475"
         },
+		{
+            "type": "item",
+            "title": "Showtime Women",
+            "link": "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+        },
         {
             "type": "item",
             "title": "Showtime Women",
             "sportjetextractors": [
                 "https://balo.live/?tv=showtime-women-302"
-            ]
-        },
-        {
-            "type": "item",
-            "title": "Showtime Extreme",
-            "sportjetextractors": [
-                "https://balo.live/?tv=showtime-extreme-298"
             ]
         },
         {
