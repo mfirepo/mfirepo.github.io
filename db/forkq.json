@@ -401,6 +401,11 @@
             "title": "Sony Movies",
             "link": "plugin://plugin.video.forkq/uktvnow/play/291"
         },
+		{
+            "type": "item",
+            "title": "Starz",
+            "link": "http://fl2.moveonjoy.com/STARZ/index.m3u8"
+        },
         {
             "type": "item",
             "title": "Starz",
@@ -418,20 +423,40 @@
             "title": "Starz Cinema",
             "link": "plugin://plugin.video.forkq/uktvnow/play/482"
         },
+		{
+            "type": "item",
+            "title": "Starz Comedy",
+            "link": "http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8"
+        },
         {
             "type": "item",
             "title": "Starz Comedy",
             "link": "plugin://plugin.video.forkq/uktvnow/play/483"
+        },
+		{
+            "type": "item",
+            "title": "Starz Edge",
+            "link": "http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8"
         },
         {
             "type": "item",
             "title": "Starz Edge",
             "link": "plugin://plugin.video.forkq/uktvnow/play/484"
         },
+		{
+            "type": "item",
+            "title": "Starz Encore",
+            "link": "http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8"
+        },
         {
             "type": "item",
             "title": "Starz Encore",
             "link": "plugin://plugin.video.forkq/uktvnow/play/485"
+        },
+		{
+            "type": "item",
+            "title": "Starz Encore Action",
+            "link": "http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8"
         },
         {
             "type": "item",
