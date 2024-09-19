@@ -604,10 +604,20 @@
         "https://balo.live/?tv=e-203"
       ]
     },
+	{
+      "type": "item",
+      "title": "Earth X",
+      "link": "https://ov.ottera.tv/live/master.m3u8?channel=earth_et"
+    },
     {
       "type": "item",
       "title": "Encore+",
       "link": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Fashion TV 4K",
+      "link": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
     },
     {
       "type": "item",
@@ -1037,20 +1047,60 @@
       "title": "WGN",
       "link": "https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Wild Earth",
+      "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Wonder",
+      "link": "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Xplore",
+      "link": "http://xlpore-samsungus.amagi.tv/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Beano TV",
+      "link": "https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "Boomerang",
       "link": "plugin://plugin.video.forkq/uktvnow/play/635"
+    },
+	{
+      "type": "item",
+      "title": "Cartoon TV",
+      "link": "https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8"
     },
     {
       "type": "item",
       "title": "Disney Channel",
       "link": "plugin://plugin.video.forkq/uktvnow/play/490"
     },
+	{
+      "type": "item",
+      "title": "Disney JR",
+      "link": "https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Disney XD",
       "link": "plugin://plugin.video.forkq/uktvnow/play/755"
+    },
+	{
+      "type": "item",
+      "title": "Kartoon Channel",
+      "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "KidsFlix",
+      "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
     },
     {
       "type": "item",
