@@ -425,6 +425,11 @@
         "plugin://plugin.video.forkq/uktvnow/play/22"
       ]
     },
+	{
+      "type": "item",
+      "title": "ACC Network",
+      "link": "http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Adult Swim",
@@ -509,6 +514,11 @@
       "type": "item",
       "title": "Bravo",
       "link": "plugin://plugin.video.forkq/uktvnow/play/56"
+    },
+	{
+      "type": "item",
+      "title": "CBS SN",
+      "link": "http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
     },
     {
       "type": "item",
@@ -619,6 +629,16 @@
       "title": "Fashion TV 4K",
       "link": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Fight Network",
+      "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Fite 24/7",
+      "link": "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8"
+    },
     {
       "type": "item",
       "title": "FOX USA",
@@ -712,6 +732,11 @@
         "https://balo.live/?tv=hallmark-movies-mysteries-231"
       ]
     },
+	{
+      "type": "item",
+      "title": "Hard Knocks",
+      "link": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+    },
     {
       "type": "item",
       "title": "Heartland",
@@ -777,6 +802,11 @@
       "title": "Magnolia Network",
       "link": "plugin://plugin.video.forkq/uktvnow/play/872"
     },
+	{
+      "type": "item",
+      "title": "Marquee Sports",
+      "link": "https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8"
+    },
     {
       "type": "item",
       "title": "METV",
@@ -796,6 +826,11 @@
       "type": "item",
       "title": "Midnight Pulp",
       "link": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Motor Vision",
+      "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"
     },
     {
       "type": "item",
@@ -895,10 +930,30 @@
       "title": "PBS",
       "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Poker Go",
+      "link": "https://lnc-pokergo.tubi.video/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Poker Night",
+      "link": "https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8"
+    },
     {
       "type": "item",
       "title": "Quest",
       "link": "plugin://plugin.video.forkq/uktvnow/play/177"
+    },
+	{
+      "type": "item",
+      "title": "Racing America",
+      "link": "https://lnc-racing-america.tubi.video/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Racing.Com",
+      "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
     },
     {
       "type": "item",
@@ -920,6 +975,11 @@
       "title": "Rakuten TV Shows",
       "link": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Red Bull TV",
+      "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    },
     {
       "type": "item",
       "title": "Science Channel",
@@ -936,6 +996,11 @@
       "type": "item",
       "title": "Smithsonian Channel",
       "link": "plugin://plugin.video.forkq/uktvnow/play/867"
+    },
+	{
+      "type": "item",
+      "title": "Stadium",
+      "link": "https://lnc-stadium2.tubi.video/playlist.m3u8"
     },
     {
       "type": "item",
@@ -1059,6 +1124,11 @@
     },
 	{
       "type": "item",
+      "title": "World Poker",
+      "link": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+    },
+	{
+      "type": "item",
       "title": "Xplore",
       "link": "http://xlpore-samsungus.amagi.tv/playlist.m3u8"
     },
@@ -1107,10 +1177,20 @@
       "title": "NICK",
       "link": "plugin://plugin.video.forkq/uktvnow/play/167"
     },
+	{
+      "type": "item",
+      "title": "NICK Music",
+      "link": "http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Nick Toons",
       "link": "plugin://plugin.video.forkq/uktvnow/play/489"
+    },
+	{
+      "type": "item",
+      "title": "PBS Kids",
+      "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR"
     }
   ]
 }
