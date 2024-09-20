@@ -506,6 +506,11 @@
       "title": "BEK Sports",
       "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Binge",
+      "link": "http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8"
+    },
     {
       "type": "item",
       "title": "Bounce TV",
