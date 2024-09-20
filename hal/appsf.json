@@ -8,11 +8,6 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORwhite]Pluto TV App[/COLOR]",
-      "link": "plugin.video.plutotv"
-    },
-    {
-      "type": "plugin",
       "title": "[COLORwhite]Crackle TV[/COLOR]",
       "link": "plugin.video.crackle"
     },
