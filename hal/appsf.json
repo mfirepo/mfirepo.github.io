@@ -1,25 +1,6 @@
 {
   "items": [
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]UK Channels[/COLOR]",
-      "link": "plugin.video.free/samsung_tv/region/gb"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]US Channels[/COLOR]",
-      "link": "plugin.video.free/samsung_tv/region/us"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]Canadian Channels[/COLOR]",
-      "link": "plugin.video.free/samsung_tv/region/ca"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]The Wizz[/COLOR]",
-      "link": "plugin.video.wizz/"
-    },
+   
     {
       "type": "plugin",
       "title": "[COLORwhite]Documentary Heaven[/COLOR]",
@@ -36,11 +17,6 @@
       "link": "plugin.video.crackle"
     },
     {
-      "type": "plugin",
-      "title": "[COLORwhite]Free Sports[/COLOR]",
-      "link": "plugin.video.ftasport"
-    },
-    {
       "type": "dir",
       "title": "[COLORwhite]Fat To Fit[/COLOR]",
       "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSNmvER-qwxWqVK4vmDegL55"
@@ -49,17 +25,8 @@
       "type": "dir",
       "title": "[COLORwhite]Fluxus TV[/COLOR]",
       "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Live TV[/COLOR]",
-      "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]World Free TV[/COLOR]",
-      "link": "https://mawashi360.github.io/worldfree.m3u"
     }
+   
     
   ]
 }
