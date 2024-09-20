@@ -1,15 +1,6 @@
 {
   "items": [
-    {
-      "type": "plugin",
-      "title": "[COLORlime]24/7 TV Shows[/COLOR]",
-      "link": "plugin.video.halcyon/get_list/m3ucat|https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8|TV Shows"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORlime]The Wizz[/COLOR]",
-      "link": "plugin.video.wizz/"
-    },
+   
     {
       "type": "plugin",
       "title": "[COLORlime]Documentary Heaven[/COLOR]",
@@ -29,17 +20,8 @@
       "type": "dir",
       "title": "[COLORlime]Fluxus TV[/COLOR]",
       "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Live TV[/COLOR]",
-      "link": "https://raw.githubusercontent.com/RW1986/IPTV/main/lineup.m3u8"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]World Free TV[/COLOR]",
-      "link": "https://mawashi360.github.io/worldfree.m3u"
     }
+   
     
   ]
 }
