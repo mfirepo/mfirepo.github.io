@@ -47,8 +47,8 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORwhite]Test[/COLOR]",
-      "link": "plugin.video.mayhem/uktvnow/"
+      "title": "[COLORwhite]Test*[/COLOR]",
+      "link": "plugin.video.mayhem/uktvnow/category/Entertainment"
     }
   ]
 }
