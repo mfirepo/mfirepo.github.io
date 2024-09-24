@@ -46,9 +46,9 @@
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
     },
     {
-      "type": "plugin",
-      "title": "[COLORwhite]Test*[/COLOR]",
-      "link": "plugin.video.mayhem/uktvnow/category/Entertainment"
+      "type": "dir",
+      "title": "[COLORwhite]UKTV Now[/COLOR]",
+      "uktvnow": "categories"
     }
   ]
 }
