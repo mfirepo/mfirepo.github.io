@@ -22,8 +22,13 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Movie Collections (Over 400)[/COLOR]",
+      "title": "[COLORlime]Movie Collections[/COLOR]",
       "link": "https://mfirepo.github.io/hal/coll.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Shows A To Z[/COLOR]",
+      "link": "tmdb/list/8237878"
     },
     {
       "type": "dir",
