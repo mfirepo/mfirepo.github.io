@@ -24,11 +24,6 @@
       "type": "dir",
       "title": "[COLORlime]My Trakt[/COLOR]",
       "link": "https://mfirepo.github.io/hal/mytrakt.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORlime]Comedy Shows[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/com.json"
     }
    
 
