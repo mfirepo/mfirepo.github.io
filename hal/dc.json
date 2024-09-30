@@ -10,6 +10,11 @@
       "title": "[COLORlime]Debrid Movies[/COLOR]",
       "link": "https://mfirepo.github.io/hal/rdhq.xml"
     },
+     {
+      "type": "dir",
+      "title": "[COLORlime]Latest Movies[/COLOR]",
+      "link": "tmdb/movie/now_playing"
+    },
    {
       "type": "dir",
       "title": "[COLORlime]Movies & TV[/COLOR]",
