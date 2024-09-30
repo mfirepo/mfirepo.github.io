@@ -31,6 +31,11 @@
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml"
     },
     {
+      "type": "plugin",
+      "title": "[COLORlime]Upcoming Movies[/COLOR]",
+      "link": "plugin://plugin.video.youtube/channel/UCT37npEfScFdfHeiIOpFKJg/"
+    },
+    {
       "type": "dir",
       "title": "[COLORlime]Video Jukebox[/COLOR]",
       "link": "https://mfirepo.github.io/hal/muzak.json"
