@@ -10,17 +10,27 @@
       "title": "[COLORlime]Debrid Movies[/COLOR]",
       "link": "https://mfirepo.github.io/hal/rdhq.xml"
     },
-     {
+    {
       "type": "dir",
       "title": "[COLORlime]Latest Movies[/COLOR]",
       "link": "tmdb/movie/now_playing"
     },
-   {
+    {
+      "type": "dir",
+      "title": "[COLORlime]Top Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/mov.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movie Collections (Over 400)[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/coll.json"
+    },
+    {
       "type": "dir",
       "title": "[COLORlime]Movies & TV[/COLOR]",
       "link": "https://mfirepo.github.io/hal/movtv.json"
     },
-   {
+    {
       "type": "dir",
       "title": "[COLORlime]My Trakt[/COLOR]",
       "link": "https://mfirepo.github.io/hal/mytrakt.json"
