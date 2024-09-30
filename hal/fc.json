@@ -1,1 +1,61 @@
+{
+  "items": [
+    {
+      "type": "dir",
+      "title": "[COLORlime]Free Movies[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/thx.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Free Shows[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]British Cinema[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/brit.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]UK Soap Catchup[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/soap.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Comedy Shows[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/com.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Documentaries[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/docsel.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Video Jukebox[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/muzak.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Live Webcams[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/webs.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Sports Replays[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]TV Apps[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/apps.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Fanzone[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/fans.json"
+    }
 
+  ]
+
+}
