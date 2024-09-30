@@ -25,6 +25,11 @@
       "title": "[COLORlime]Movie Collections[/COLOR]",
       "link": "https://mfirepo.github.io/hal/coll.json"
     },
+     {
+      "type": "dir",
+      "title": "[COLORlime]Latest TV Shows[/COLOR]",
+      "link": "trakt/shows/trending"
+    },
     {
       "type": "dir",
       "title": "[COLORlime]TV Shows A To Z[/COLOR]",
