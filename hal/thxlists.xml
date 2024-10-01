@@ -21,6 +21,10 @@ plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
 </dir>
+<dir>
+	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
+	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml</link>
+</dir>
 plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
