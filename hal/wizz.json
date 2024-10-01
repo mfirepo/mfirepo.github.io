@@ -37,6 +37,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Latest TV Shows[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]New TV (A to Z)[/COLOR]",
       "link": "tmdb/list/8237878"
     },
