@@ -25,10 +25,10 @@
       "title": "[COLORlime]Movie Collections[/COLOR]",
       "link": "https://mfirepo.github.io/hal/coll.json"
     },
-     {
+    {
       "type": "dir",
       "title": "[COLORlime]Latest TV Shows[/COLOR]",
-      "link": "trakt/shows/trending"
+      "link": "view-source:https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml"
     },
     {
       "type": "dir",
