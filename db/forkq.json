@@ -874,16 +874,6 @@
     },
     {
       "type": "item",
-      "title": "Nasa TV",
-      "link": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Nasa Media TV",
-      "link": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
-    },
-    {
-      "type": "item",
       "title": "Nat Geo",
       "link": [
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=nat-geographic-3467",
@@ -933,11 +923,6 @@
     },
     {
       "type": "item",
-      "title": "Poker Go",
-      "link": "https://lnc-pokergo.tubi.video/playlist.m3u8"
-    },
-    {
-      "type": "item",
       "title": "Poker Night",
       "link": "https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8"
     },
@@ -948,18 +933,8 @@
     },
     {
       "type": "item",
-      "title": "Racing America",
-      "link": "https://lnc-racing-america.tubi.video/playlist.m3u8"
-    },
-    {
-      "type": "item",
       "title": "Racing.Com",
       "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Rakuten Action Movies",
-      "link": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
       "type": "item",
@@ -997,11 +972,6 @@
       "type": "item",
       "title": "Smithsonian Channel",
       "link": "plugin://plugin.video.forkq/uktvnow/play/867"
-    },
-    {
-      "type": "item",
-      "title": "Stadium",
-      "link": "https://lnc-stadium2.tubi.video/playlist.m3u8"
     },
     {
       "type": "item",
