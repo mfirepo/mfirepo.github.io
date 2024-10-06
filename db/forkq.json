@@ -387,8 +387,8 @@
       "type": "item",
       "title": "Gold UK",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-687.php",
-        "plugin://plugin.video.forkq/uktvnow/play/236"
+	"plugin://plugin.video.forkq/uktvnow/play/236",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-687.php"
       ]
     },
     {
