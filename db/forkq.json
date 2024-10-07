@@ -547,6 +547,11 @@
     },
     {
       "type": "item",
+      "title": "Choppertown",
+      "link": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+    },
+    {
+      "type": "item",
       "title": "Cinemax",
       "link": [
         "http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8",
