@@ -6,7 +6,11 @@
 	<link>https://mfirepo.github.io/hal/thx.xml</link>
 </dir>
 <dir>
-	<title>[COLORwhite]Free Shows[/COLOR]</title>
+	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
+	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml</link>
+</dir>
+<dir>
+	<title>[COLORwhite]Free Shows A-Z[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml</link>
 </dir>
 plugin>
