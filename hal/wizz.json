@@ -37,6 +37,16 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Free Shows Daily[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Free Shows A-Z[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]Latest TV Shows[/COLOR]",
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml"
     },
