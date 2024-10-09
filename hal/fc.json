@@ -7,7 +7,12 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Free Shows[/COLOR]",
+      "title": "[COLORlime]Free Shows Daily[/COLOR]",
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Free Shows A-Z[/COLOR]",
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml"
     },
     {
