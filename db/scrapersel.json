@@ -22,6 +22,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]15.00 Kick Off (EPL)[/COLOR]",
+      "link": "https://cmanbuilds.com/sport/links.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]FIFA Football[/COLOR]",
       "link": "https://mfirepo.github.io/db/prem.json"
     },
