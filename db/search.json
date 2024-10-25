@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Football/Soccer[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=12"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]UFC/MMA[/COLOR]",
       "pvr_sport_search": "search/mma?include=17"
     },
