@@ -226,6 +226,13 @@
     },
     {
       "type": "item",
+      "title": "NFL Redzone",
+      "sportjetextractors": [
+        "https://methstreams.to/nflstreams/nfl-redzone/177321/"
+      ]
+    },
+    {
+      "type": "item",
       "title": "CBS SN",
       "sportjetextractors": [
         "https://thedaddy.to/stream/stream-308.php"
