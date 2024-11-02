@@ -4,7 +4,6 @@
       "type": "item",
       "title": "TNT Sports 1",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/tnt-sport-1-21.html",
         "https://balo.live/?tv=tnt-sport-1-3078",
         "https://dlhd.so/stream/stream-31.php"
       ]
@@ -90,9 +89,7 @@
       "type": "item",
       "title": "Sky F1",
       "sportjetextractors": [
-        "https://balo.live/?tv=sky-sports-f1-340",
-        "https://dlhd.so/stream/stream-60.php",
-        "https://methstreams.to/f1streams/f1-streams/177522/"
+        "https://dlhd.so/stream/stream-60.php"
       ]
     },
     {
