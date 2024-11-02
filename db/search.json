@@ -15,6 +15,11 @@
       "title": "[COLORwhite]Fifa Football/NFL[/COLOR]",
       "pvr_sport_search": "search/football?include=12"
     },
+     {
+      "type": "dir",
+      "title": "[COLORwhite]Premier League[/COLOR]",
+      "pvr_sport_search": "search/Premier?include=19"
+    },
     {
       "type": "dir",
       "title": "[COLORwhite]UFC/MMA[/COLOR]",
