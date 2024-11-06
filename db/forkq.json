@@ -964,18 +964,8 @@
         },
         {
             "type": "item",
-            "title": "Rakuten Comedy Movies",
-            "link": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
-        },
-        {
-            "type": "item",
             "title": "Rakuten Family Movies",
             "link": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
-        },
-        {
-            "type": "item",
-            "title": "Rakuten TV Shows",
-            "link": "https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8"
         },
         {
             "type": "item",
