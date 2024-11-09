@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <item>
-	<title>The Terminator (BluRay) (2024)</title>
+	<title>The Terminator (BluRay) (1984)</title>
 	<link>
 		<sublink>magnet:?xt=urn:btih:F10B4772D7083D40319490898DB88B5C26C77EBC</sublink>
 	</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvktm0BHcnmDpul4Hz01GIazWPr.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg</fanart>
+</item>
+<item>
+	<title>Terminator 2: Judgment Day (BluRay) (1991)</title>
+	<link>
+		<sublink>magnet:?xt=urn:btih:DFAC0D74C3CA505ABF663B8D67286CB380D0EE46</sublink>
+	</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5M0j0B18abtBI5gi2RhfjjurTqb.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/vINgGecnz95iDL6fjQMARDsocgG.jpg</fanart>
 </item>
 <item>
 	<title>Black Cab (2024)</title>
