@@ -8,8 +8,9 @@
         {
             "type": "item",
             "title": "BBC 1",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-356.php"
+            "link": [
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-one-south-3126",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-356.php"
             ]
         },
         {
