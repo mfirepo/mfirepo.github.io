@@ -22,6 +22,16 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]AeSport[/COLOR]",
+      "sportjetextractors": "AeSport"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Sportea[/COLOR]",
+      "sportjetextractors": "Sportea"
+    }
+    {
+      "type": "dir",
       "title": "[COLORwhite]Tazz (VPN Needed)[/COLOR]",
       "sportjetextractors":"Tazz"
     },
@@ -62,24 +72,10 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Cricfree[/COLOR]",
-      "sportjetextractors": "Cricfree"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]AeSport[/COLOR]",
-      "sportjetextractors": "AeSport"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]FootyBiteTV[/COLOR]",
       "sportjetextractors": "FootyBiteTV"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Sportea[/COLOR]",
-      "sportjetextractors": "Sportea"
     }
+   
        
   ]
 }
