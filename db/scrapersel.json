@@ -17,11 +17,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Sports Channels #4 (Next Update)[/COLOR]",
-      "pvr_sport_search": "search/Channels?include=21"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]EPL 3pm Kick-Off[/COLOR]",
       "link": "https://cmanbuilds.com/sport/links.json"
     },
