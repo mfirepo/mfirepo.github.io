@@ -2,9 +2,8 @@
   "items": [
     {
       "type": "item",
-      "title": "TNT Sports 1*",
+      "title": "TNT Sports 1",
       "sportjetextractors": [
-        "https://aesport.tv/live/tnt-sport-1-21.html",
         "https://balo.live/?tv=tnt-sport-1-3078",
         "https://dlhd.so/stream/stream-31.php"
       ]
@@ -13,7 +12,6 @@
       "type": "item",
       "title": "TNT Sports 2",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/tnt-sport-2-20.html",
         "https://balo.live/?tv=tnt-sport-2-3079",
         "https://dlhd.so/stream/stream-32.php"
       ]
@@ -22,7 +20,6 @@
       "type": "item",
       "title": "TNT Sports 3",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/tnt-sport-3-19.html",
         "https://balo.live/?tv=tnt-sports-3-712",
         "https://dlhd.so/stream/stream-33.php"
       ]
@@ -31,7 +28,6 @@
       "type": "item",
       "title": "TNT Sports 4",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/tnt-sport-4-137.html",
         "https://balo.live/?tv=tnt-sports-4-713",
         "https://dlhd.so/stream/stream-34.php"
       ]
@@ -40,7 +36,6 @@
       "type": "item",
       "title": "Sky Main Event",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-main-event-60.html",
         "https://balo.live/?tv=sky-sports-main-event-50-fps-1090",
         "https://dlhd.so/stream/stream-38.php"
       ]
@@ -49,7 +44,6 @@
       "type": "item",
       "title": "Sky Golf",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-golf-114.html",
         "https://dlhd.so/stream/stream-70.php"
       ]
     },
@@ -57,7 +51,6 @@
       "type": "item",
       "title": "Sky Cricket",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-criket-29.html",
         "https://balo.live/?tv=sky-sports-cricket-339",
         "https://dlhd.so/stream/stream-65.php"
       ]
@@ -66,7 +59,6 @@
       "type": "item",
       "title": "Sky P League",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-premier-league-58.html",
         "https://balo.live/?tv=sky-sports-premier-league-50fps-2827",
         "https://dlhd.so/stream/stream-130.php"
       ]
@@ -75,7 +67,6 @@
       "type": "item",
       "title": "Sky Football",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-football-57.html",
         "https://dlhd.so/stream/stream-35.php"
       ]
     },
@@ -98,7 +89,6 @@
       "type": "item",
       "title": "Sky F1",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sky-sports-f1-28.html",
         "https://balo.live/?tv=sky-sports-f1-340",
         "https://dlhd.so/stream/stream-60.php"
       ]
@@ -130,21 +120,20 @@
       "type": "item",
       "title": "Premier Sports 1",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/premier-sports-1-26.html"
+        "https://thedaddy.to/stream/stream-451.php"
       ]
     },
     {
       "type": "item",
       "title": "Premier Sports 2",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/premier-sports-2-27.html"
+        "https://thedaddy.to/stream/stream-550.php"
       ]
     },
     {
       "type": "item",
       "title": "Euro Sport 1 (English)",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/eurosport-1-139.html",
         "https://dlhd.so/stream/stream-41.php"
       ]
     },
@@ -152,7 +141,6 @@
       "type": "item",
       "title": "Euro Sport 2 (English)",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/eurosport-2-140.html",
         "https://dlhd.so/stream/stream-42.php"
       ]
     },
@@ -168,7 +156,6 @@
       "type": "item",
       "title": "Willow Cricket",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/willow-cricket-116.html",
         "https://dlhd.so/stream/stream-346.php"
       ]
     },
@@ -176,7 +163,6 @@
       "type": "item",
       "title": "Fox Sports 1",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/fs1-86.html",
         "https://dlhd.so/stream/stream-39.php"
       ]
     },
@@ -184,7 +170,6 @@
       "type": "item",
       "title": "Fox Sports 2",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/fs2-87.html",
         "https://dlhd.so/stream/stream-758.php"
       ]
     },
@@ -192,7 +177,6 @@
       "type": "item",
       "title": "ESPN 1",
       "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=189",
         "https://dlhd.so/stream/stream-44.php",
         "https://balo.live/?tv=espn-204"
       ]
@@ -235,99 +219,30 @@
       "type": "item",
       "title": "NFL Network",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/nfl-network-91.html"
+        "https://thedaddy.to/stream/stream-405.php"
       ]
     },
     {
       "type": "item",
       "title": "CBS SN",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/cbs-sports-network-70.html"
+        "https://thedaddy.to/stream/stream-308.php"
       ]
     },
     {
       "type": "item",
       "title": "NBA TV",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/nba-tv-43.html"
+        "https://thedaddy.to/stream/stream-404.php"
       ]
     },
     {
       "type": "item",
       "title": "WWE Network",
       "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/wwe-network-117.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Bein Sports 1 (France)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/bein-sports-1-40.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Bein Sports 2 (France)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/bein-sports-2-41.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "RMC Sport 1 (France)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/rmc-sport-1-13.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "RMC Sport 2 (France)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/rmc-sport-2-14.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 1 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/eleven-sport-1-33.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 2 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/eleven-sport-2-32.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Eleven Sport 3 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/eleven-sport-3-31.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 1 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sport-tv-1-36.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 2 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sport-tv-2-37.html"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Sport TV 3 (Portugal)",
-      "sportjetextractors": [
-        "links://https://aesport.tv/live-tv/sport-tv-3-38.html"
+        "https://thedaddy.to/stream/stream-376.php"
       ]
     }
+   
   ]
 }
