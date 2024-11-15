@@ -16,8 +16,9 @@
         {
             "type": "item",
             "title": "BBC 2",
-            "sportjetextractors": [
-                "https://dlhd.so/stream/stream-357.php"
+            "link": [
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-two-1-3128",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-357.php"
             ]
         },
         {
