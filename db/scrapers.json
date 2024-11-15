@@ -62,8 +62,13 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Meth[/COLOR]",
+      "title": "[COLORwhite]MethStream[/COLOR]",
       "sportjetextractors": "Meth_com"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Meth App[/COLOR]",
+      "sportjetextractors": "Methstreamsapp"
     },
     {
       "type": "dir",
@@ -74,6 +79,11 @@
       "type": "dir",
       "title": "[COLORwhite]FootyBiteTV[/COLOR]",
       "sportjetextractors": "FootyBiteTV"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Solaris[/COLOR]",
+      "sportjetextractors": "Sol"
     }
    
        
