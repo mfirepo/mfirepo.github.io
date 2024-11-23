@@ -13,7 +13,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Premier League[/COLOR]",
-      "pvr_sport_search": "search/Premier?include=19"
+      "link": "https://cmanbuilds.com/sport/links.json"
     },
     {
       "type": "dir",
