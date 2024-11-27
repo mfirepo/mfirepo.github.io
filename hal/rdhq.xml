@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <item>
+	<title>Ballistic (2024)</title>
+	<imdb>tt32276545</imdb>
+	<link>
+		<sublink>magnet:?xt=urn:btih:6aa1a7253ef4964f0e65e408e041e5244aa9b6de</sublink>
+	</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zJ7qzKu8TXxelGB6LPZprjP5gNl.jpg/thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/kGtoozRV2eH2DYXV8HgWNuqhPVT.jpg</fanart>
+</item>
+<item>
 	<title>Elevation (2024)</title>
 	<link>
 		<sublink>magnet:?xt=urn:btih:099969f1d0302c42f15caecf131147aa5738f5a6</sublink>
