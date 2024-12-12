@@ -7,7 +7,7 @@ global CLIENT_ID,CLIENT_SECRET
 CLIENT_ID = "ff13321831ab46a34108ce8b8d9adbb106b5ed460f88303eeb0b2d9534c6dc83"
 CLIENT_SECRET = "2c5cc70a7bb8a030e09193803e773579cf529855210f47ff1f4c53feeb4f206c"
 
-
+lang=xbmc.getLanguage(0)
 addonPath = xbmc_tranlate_path(Addon.getAddonInfo("path"))
 if Addon.getSetting("theme")=='0':
     art_folder='artwork'
@@ -503,3 +503,4 @@ def tv_neworks():
     all_d.append(aa)
     
     xbmcplugin .addDirectoryItems(int(sys.argv[1]),all_d,len(all_d))
+    
