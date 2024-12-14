@@ -24,6 +24,31 @@
       "type": "dir",
       "title": "[COLORwhite]Sportea[/COLOR]",
       "sportjetextractors": "Sportea"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]BatmanStream[/COLOR]",
+      "sportjetextractors": "Batmanstream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Meth.Com[/COLOR]",
+      "sportjetextractors": "Meth_com"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]SportSurgeStream[/COLOR]",
+      "sportjetextractors": "SportSurgeStream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]SportyBite[/COLOR]",
+      "sportjetextractors": "SportyBite"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]SportyBiteV2[/COLOR]",
+      "sportjetextractors": "SportyBitev2"
     }
    
 
