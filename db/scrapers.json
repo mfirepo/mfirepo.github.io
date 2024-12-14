@@ -12,11 +12,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Freehdgames[/COLOR]",
-      "sportjetextractors": "Freehdgames"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]Balo[/COLOR]",
       "sportjetextractors":"Balo"
     },
@@ -29,64 +24,9 @@
       "type": "dir",
       "title": "[COLORwhite]Sportea[/COLOR]",
       "sportjetextractors": "Sportea"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Tazz (VPN Needed)[/COLOR]",
-      "sportjetextractors":"Tazz"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]LiveOnScore[/COLOR]",
-      "sportjetextractors": "Weakspell/LiveOnScore"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]SportsCentral[/COLOR]",
-      "sportjetextractors": "SportsCentral"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]HDStreams[/COLOR]",
-      "sportjetextractors": "HDStreams"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]StreamBTW[/COLOR]",
-      "sportjetextractors": "StreamBTW"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Sportshub[/COLOR]",
-      "sportjetextractors": "Sportshub"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]MethStream[/COLOR]",
-      "sportjetextractors": "Meth_com"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Meth App[/COLOR]",
-      "sportjetextractors": "Methstreamsapp"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Buffstreams[/COLOR]",
-      "sportjetextractors": "Buffstreams"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]FootyBiteTV[/COLOR]",
-      "sportjetextractors": "FootyBiteTV"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Solaris[/COLOR]",
-      "sportjetextractors": "Sol"
     }
    
-   
+
        
   ]
 }
