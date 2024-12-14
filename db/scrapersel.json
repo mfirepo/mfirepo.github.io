@@ -22,11 +22,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]FIFA Football[/COLOR]",
-      "link": "https://mfirepo.github.io/db/prem.json"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]Live Sports[/COLOR]",
       "link": "https://mfirepo.github.io/db/scrapers.json"
     },
