@@ -986,6 +986,14 @@ item>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nyZ0IvkSjoU7ShhLh1wjfVz0QXN.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/3j4ez4pX0FKynYAkjimn0ABzNuu.jpg</fanart>
 </item>
+<item>
+	<title>Test</title>
+	<link>
+		<sublink>https://wdfiles.ru/3vvbv</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
 
 
