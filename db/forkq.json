@@ -9,6 +9,7 @@
             "type": "item",
             "title": "BBC 1",
             "link": [
+                "http://1tv41.icu:8080/live/Dorris@609/443@609/53649.m3u8?&Connection=keep-alive",
                 "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-one-south-3126",
                 "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-356.php"
             ]
