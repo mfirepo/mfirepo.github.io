@@ -23,8 +23,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]Test[/COLOR]",
-      "link": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8"
+      "title": "[COLORlime]US Channels[/COLOR]",
+      "link": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u"
     }
    
     
