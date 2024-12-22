@@ -79,6 +79,11 @@
       "type": "dir",
       "title": "[COLORwhite]Music Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/music.json"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]US Channels[/COLOR]",
+      "link": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u"
     }
   ]
 }
