@@ -81,6 +81,10 @@ plugin>
 	<title>[COLORwhite]US Channels[/COLOR]</title>
 	<link>https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u</link>
 </dir>
+<dir>
+	<title>[COLORwhite]UK Channels[/COLOR]</title>
+	<link>https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/uk.m3u</link>
+</dir>
 
 
 
