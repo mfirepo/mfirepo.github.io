@@ -20,6 +20,11 @@
       "type": "dir",
       "title": "[COLORlime]Fluxus TV[/COLOR]",
       "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8"
     }
    
     
