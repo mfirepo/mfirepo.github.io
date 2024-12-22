@@ -77,6 +77,10 @@ plugin>
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
+<dir>
+	<title>[COLORwhite]US Channels[/COLOR]</title>
+	<link>https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u</link>
+</dir>
 
 
 
