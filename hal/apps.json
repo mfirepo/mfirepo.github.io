@@ -23,8 +23,13 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]US Channels**[/COLOR]",
+      "title": "[COLORlime]US Channels[/COLOR]",
       "link": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us.m3u"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]US Channels[/COLOR]",
+      "link": "https://raw.githubusercontent.com/mfirepo/mfirepo.github.io/refs/heads/main/hal/index.m3u"
     }
    
     
