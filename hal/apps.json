@@ -30,6 +30,11 @@
       "type": "dir",
       "title": "[COLORlime]Test Channels[/COLOR]",
       "link": "https://raw.githubusercontent.com/mfirepo/mfirepo.github.io/refs/heads/main/hal/index.m3u"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Test[/COLOR]",
+      "link": "plugin.video.halcyon/get_list/m3ucat|https://raw.githubusercontent.com/mfirepo/mfirepo.github.io/refs/heads/main/hal/index.m3u|United Kingdom"
     }
    
     
