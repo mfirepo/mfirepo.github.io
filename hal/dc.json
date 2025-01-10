@@ -1,5 +1,10 @@
 {
   "items": [
+     {
+      "type": "item",
+      "title": "[COLORlime][B][I]Debrid Section Info[/I][/B][/COLOR]",
+      "link": "message/https://cmanbuilds.com/sport/info.xml"
+    },
     {
       "type": "dir",
       "title": "[COLORlime]4K Movies[/COLOR]",
