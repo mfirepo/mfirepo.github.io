@@ -103,9 +103,10 @@
     },
     {
       "type": "item",
-      "title": "Sky Sports News",
+      "title": "Sky Sports News*",
       "sportjetextractors": [
         "https://balo.live/?tv=sky-sports-news-345",
+        "https://topembed.pw/channel/SkySportsNews[UK]",
         "https://dlhd.so/stream/stream-366.php"
       ]
     },
