@@ -38,7 +38,8 @@
     {
       "type": "dir",
       "title": "[COLORlime]Video Jukebox[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/muzak.json"
+      "link": "https://mfirepo.github.io/hal/muzak.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -59,6 +60,7 @@
       "type": "dir",
       "title": "[COLORlime]Fanzone[/COLOR]",
       "link": "https://mfirepo.github.io/hal/fans.json"
+      
     }
 
   ]
