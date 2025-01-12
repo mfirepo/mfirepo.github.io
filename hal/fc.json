@@ -44,7 +44,8 @@
     {
       "type": "dir",
       "title": "[COLORlime]Live Webcams[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/webs.json"
+      "link": "https://mfirepo.github.io/hal/webs.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -59,7 +60,8 @@
     {
       "type": "dir",
       "title": "[COLORlime]Fanzone[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fans.json"
+      "link": "https://mfirepo.github.io/hal/fans.json",
+      "enabled": "false"
       
     }
 
