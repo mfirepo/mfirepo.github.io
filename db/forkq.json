@@ -11,7 +11,7 @@
             "link": [
                 "http://1tv41.icu:8080/live/Dorris@609/443@609/53649.m3u8?&Connection=keep-alive",
                 "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-one-south-3126",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-356.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-356.php"
             ]
         },
         {
@@ -19,63 +19,63 @@
             "title": "BBC 2",
             "link": [
                 "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-two-1-3128",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-357.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-357.php"
             ]
         },
         {
             "type": "item",
             "title": "BBC 3",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-358.php"
+                "https://thedaddy.to/stream/stream-358.php"
             ]
         },
         {
             "type": "item",
             "title": "BBC 4",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-359.php"
+                "https://thedaddy.to/stream/stream-359.php"
             ]
         },
         {
             "type": "item",
             "title": "ITV 1",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-350.php"
+                "https://thedaddy.to/stream/stream-350.php"
             ]
         },
         {
             "type": "item",
             "title": "ITV 2",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-351.php"
+                "https://thedaddy.to/stream/stream-351.php"
             ]
         },
         {
             "type": "item",
             "title": "ITV 3",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-352.php"
+                "https://thedaddy.to/stream/stream-352.php"
             ]
         },
         {
             "type": "item",
             "title": "ITV 4",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-353.php"
+                "https://thedaddy.to/stream/stream-353.php"
             ]
         },
         {
             "type": "item",
             "title": "Channel 4",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-354.php"
+                "https://thedaddy.to/stream/stream-354.php"
             ]
         },
         {
             "type": "item",
             "title": "Channel 5",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-355.php"
+                "https://thedaddy.to/stream/stream-355.php"
             ]
         },
         {
@@ -114,7 +114,7 @@
             "type": "item",
             "title": "Sky Comedy",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-684.php"
+                "https://thedaddy.to/stream/stream-684.php"
             ]
         },
         {
@@ -135,63 +135,63 @@
             "type": "item",
             "title": "Sky History",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-686.php"
+                "https://thedaddy.to/stream/stream-686.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Arts",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-683.php"
+                "https://thedaddy.to/stream/stream-683.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Witness",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-361.php"
+                "https://thedaddy.to/stream/stream-361.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Showcase",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-682.php"
+                "https://thedaddy.to/stream/stream-682.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Premier",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-671.php"
+                "https://thedaddy.to/stream/stream-671.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Select",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-672.php"
+                "https://thedaddy.to/stream/stream-672.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Greats",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-674.php"
+                "https://thedaddy.to/stream/stream-674.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Family",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-676.php"
+                "https://thedaddy.to/stream/stream-676.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky Action",
             "link": [
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-677.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-677.php",
                 "plugin://plugin.video.forkq/uktvnow/play/609"
             ]
         },
@@ -199,14 +199,14 @@
             "type": "item",
             "title": "Sky Thriller",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-679.php"
+                "https://thedaddy.to/stream/stream-679.php"
             ]
         },
         {
             "type": "item",
             "title": "Sky SciFi-Horror",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-681.php"
+                "https://thedaddy.to/stream/stream-681.php"
             ]
         },
         {
@@ -221,7 +221,7 @@
             "type": "item",
             "title": "Comedy Central US",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-310.php"
+                "https://thedaddy.to/stream/stream-310.php"
             ]
         },
         {
@@ -229,7 +229,7 @@
             "title": "HBO",
             "link": [
                 "http://143.244.60.30/HBO/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-321.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-321.php",
                 "plugin://plugin.video.forkq/uktvnow/play/128"
             ]
         },
@@ -238,7 +238,7 @@
             "title": "HBO 2",
             "link": [
                 "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-689.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-689.php",
                 "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-2-322"
             ]
         },
@@ -247,7 +247,7 @@
             "title": "HBO Comedy",
             "sportjetextractors": [
                 "http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-690.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-690.php"
             ]
         },
         {
@@ -262,7 +262,7 @@
             "type": "item",
             "title": "HBO Signature",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-693.php"
+                "https://thedaddy.to/stream/stream-693.php"
             ]
         },
         {
@@ -270,7 +270,7 @@
             "title": "HBO Zone",
             "link": [
                 "http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-694.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-694.php",
                 "plugin://plugin.video.forkq/uktvnow/play/609"
             ]
         },
@@ -340,7 +340,7 @@
             "title": "Starz",
             "link": [
                 "http://fl2.moveonjoy.com/STARZ/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-335.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-335.php",
                 "plugin://plugin.video.forkq/uktvnow/play/602"
             ]
         },
@@ -393,7 +393,7 @@
             "title": "Gold UK",
             "link": [
                 "plugin://plugin.video.forkq/uktvnow/play/236",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-687.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-687.php"
             ]
         },
         {
@@ -401,14 +401,14 @@
             "title": "E4 Channel",
             "sportjetextractors": [
                 "https://balo.live/?tv=e4-1-1005",
-                "https://dlhd.so/stream/stream-363.php"
+                "https://thedaddy.to/stream/stream-363.php"
             ]
         },
         {
             "type": "item",
             "title": "Film4 UK",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-688.php"
+                "https://thedaddy.to/stream/stream-688.php"
             ]
         },
         {
@@ -424,7 +424,7 @@
             "title": "Discovery Life Channel",
             "sportjetextractors": [
                 "https://balo.live/?tv=discovery-life-1204",
-                "https://dlhd.so/stream/stream-311.php"
+                "https://thedaddy.to/stream/stream-311.php"
             ]
         },
         {
@@ -436,7 +436,7 @@
             "type": "item",
             "title": "A&E USA",
             "link": [
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-302.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-302.php",
                 "plugin://plugin.video.forkq/uktvnow/play/22"
             ]
         },
@@ -449,7 +449,7 @@
             "type": "item",
             "title": "Adult Swim",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-295.php"
+                "https://thedaddy.to/stream/stream-295.php"
             ]
         },
         {
@@ -457,7 +457,7 @@
             "title": "AMC",
             "link": [
                 "https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-303.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-303.php",
                 "plugin://plugin.video.forkq/uktvnow/play/28"
             ]
         },
@@ -498,7 +498,7 @@
             "title": "BBC America",
             "link": [
                 "http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-305.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-305.php"
             ]
         },
         {
@@ -603,14 +603,14 @@
             "type": "item",
             "title": "Comet USA",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-696.php"
+                "https://thedaddy.to/stream/stream-696.php"
             ]
         },
         {
             "type": "item",
             "title": "Cooking Channel USA",
             "sportjetextractors": [
-                "https://dlhd.so/stream/stream-697.php",
+                "https://thedaddy.to/stream/stream-697.php",
                 "https://balo.live/?tv=cooking-channel-193"
             ]
         },
@@ -675,7 +675,7 @@
             "type": "item",
             "title": "FX USA",
             "link": [
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-317.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-317.php",
                 "http://fl2.moveonjoy.com/FX/index.m3u8",
                 "plugin://plugin.video.forkq/uktvnow/play/123"
             ]
@@ -684,7 +684,7 @@
             "type": "item",
             "title": "FXM USA",
             "link": [
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-381.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-381.php",
                 "http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8",
                 "plugin://plugin.video.forkq/uktvnow/play/123"
             ]
@@ -694,7 +694,7 @@
             "title": "FXX USA",
             "link": [
                 "http://fl2.moveonjoy.com/FXX/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-298.php"
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-298.php"
             ]
         },
         {
@@ -998,7 +998,7 @@
             "title": "TBS",
             "link": [
                 "http://143.244.60.30/TBS/index.m3u8",
-                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://dlhd.so/stream/stream-336.php",
+                "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-336.php",
                 "plugin://plugin.video.forkq/uktvnow/play/222"
             ]
         },
