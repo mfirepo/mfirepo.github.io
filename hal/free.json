@@ -42,6 +42,11 @@
       "link": "https://mfirepo.github.io/hal/docsel.json"
     },
     {
+      "type": "plugin", 
+      "title": "[COLORred]Free Documentary Channels[/COLOR]", 
+      "link": "plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
+    },
+    {
       "type": "dir",
       "title": "[COLORred]Free Video Jukebox[/COLOR]",
       "link": "https://mfirepo.github.io/hal/muzak.json",
