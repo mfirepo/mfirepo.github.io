@@ -8,7 +8,8 @@
     {
       "type": "plugin",
       "title": "[COLORred]Free Movie Trailers[/COLOR]",
-      "link": "plugin://plugin.video.youtube/channel/UCT37npEfScFdfHeiIOpFKJg/"
+      "link": "plugin://plugin.video.youtube/channel/UCT37npEfScFdfHeiIOpFKJg/",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -38,12 +39,14 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Video Jukebox[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/muzak.json"
+      "link": "https://mfirepo.github.io/hal/muzak.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORred]Free Live Webcams[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/webs.json"
+      "link": "https://mfirepo.github.io/hal/webs.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -63,7 +66,8 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Fanzone[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fans.json"
+      "link": "https://mfirepo.github.io/hal/fans.json",
+      "enabled": "false"
     }
   ]
 }
