@@ -7,9 +7,9 @@
             "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml" 
         },
 	{
-            "type": "dir", 
-            "title": "[COLORlime]Documentary Channels*[/COLOR]", 
-            "link": "plugin://plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
+            "type": "plugin", 
+            "title": "[COLORlime]Documentary Channels**[/COLOR]", 
+            "link": "plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
         }
 	
         
