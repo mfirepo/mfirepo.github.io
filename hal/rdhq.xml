@@ -887,9 +887,17 @@ item>
 
 
 <item>
+	<title>Test</title>
+	<link>
+		<sublink>https://nitroflare.com/view/13328C622DB1F49/H.D.T.M.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
 	<title>Test1</title>
 	<link>
-		<sublink>magnet:?xt=urn:btih:YlZ2Tk0WuHLxjqL6xDo6ANQvL1GoS3z_o5obKzjGHn0&dn=GOT</sublink>
+		<sublink>https://fikper.com/bbOdsnOkf3/H.D.T.M.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv.html</sublink>
 	</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
