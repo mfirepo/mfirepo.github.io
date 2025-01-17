@@ -43,7 +43,7 @@
     },
     {
       "type": "plugin", 
-      "title": "[COLORred]Free Documentary Channels[/COLOR]", 
+      "title": "[COLORred]Free Documentary TV[/COLOR]", 
       "link": "plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
     },
     {
