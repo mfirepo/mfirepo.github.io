@@ -5,6 +5,11 @@
             "type": "dir", 
             "title": "[COLORlime]cMans Free Documentaries[/COLOR]", 
             "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml" 
+        },
+	{
+            "type": "dir", 
+            "title": "[COLORlime]Documentary Channels[/COLOR]", 
+            "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
         }
 	
         
