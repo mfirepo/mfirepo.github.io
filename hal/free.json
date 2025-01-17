@@ -42,9 +42,9 @@
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml"
     },
     {
-      "type": "dir", 
-      "title": "[COLORred]Free Documentary TV*[/COLOR]", 
-      "link": "https://mfirepo.github.io/hal/newdoc.xml" 
+      "type": "plugin", 
+      "title": "[COLORred]Free Documentary TV[/COLOR]", 
+      "link": "plugin.video.free/get_list/m3ucat|https://mfirepo.github.io/hal/newdoc.xml|Documentary" 
     },
     {
       "type": "dir",
