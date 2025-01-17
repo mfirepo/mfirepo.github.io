@@ -8,8 +8,8 @@
         },
 	{
             "type": "dir", 
-            "title": "[COLORlime]Documentary Channels[/COLOR]", 
-            "link": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
+            "title": "[COLORlime]Documentary Channels*[/COLOR]", 
+            "link": "plugin://plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Documentary" 
         }
 	
         
