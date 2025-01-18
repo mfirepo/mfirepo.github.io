@@ -59,11 +59,6 @@
       "enabled": "false"
     },
     {
-      "type": "dir",
-      "title": "[COLORred]Free TV Apps[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/appsf.json"
-    },
-    {
       "type": "plugin", 
       "title": "[COLORred]Free Sports TV[/COLOR]", 
       "link": "plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Sports" 
@@ -72,6 +67,11 @@
       "type": "dir",
       "title": "[COLORred]Free Replays[/COLOR]",
       "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORred]Free TV Apps[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/appsf.json"
     },
     {
       "type": "dir",
