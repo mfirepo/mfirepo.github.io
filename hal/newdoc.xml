@@ -14,7 +14,7 @@ https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
 http://fl3.moveonjoy.com/COURT_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="Documentary",Crime + Investigation Network
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="Documentary",C + I Network
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/mom/linear_channel/thumbnails/square/crimeflix_logo_1-1_2.png" group-title="Documentary",CrimeFlix
@@ -95,9 +95,6 @@ https://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/reelz/logos/3p-logo._CB619581767_.png" group-title="Documentary",Reelz Famous & Infamous
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Documentary",TV One Crime & Justice
-https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/sightlinemediagroup.com/wp-content/uploads/cropped-Sightline_Icon.png" group-title="Documentary",Sightline
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
 
@@ -121,6 +118,9 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVart.bg" tvg-logo="https://i.imgur.com/YNmrCF7.png" group-title="Documentary",TVart
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Documentary",TV One Crime & Justice
+https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/21/1716314429vaHSoXxCT6-original-bYbfASIL.png" group-title="Documentary",Unexplained TV
 https://d2anxoa8ay4brr.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-UnexplainedTV/454.m3u8
