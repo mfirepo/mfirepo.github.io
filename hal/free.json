@@ -64,9 +64,9 @@
       "link": "https://mfirepo.github.io/hal/appsf.json"
     },
     {
-      "type": "plugin",
-      "title": "[COLORred]Free To Air Sport[/COLOR]",
-      "link": "plugin://plugin.video.ftasport"
+      "type": "plugin", 
+      "title": "[COLORlred]Free Sports TV[/COLOR]", 
+      "link": "plugin.video.free/get_list/m3ucat|https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/master/files/FTV-ENG|Sports" 
     },
     {
       "type": "dir",
