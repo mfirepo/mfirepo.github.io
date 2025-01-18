@@ -26,6 +26,11 @@
       "link": "https://mfirepo.github.io/hal/soap.json"
     },
     {
+      "type": "plugin", 
+      "title": "[COLORlime]Movie Channels[/COLOR]", 
+      "link": "plugin.video.halcyon/get_list/m3ucat|https://mfirepo.github.io/hal/movonline.xml|Movies" 
+    },
+    {
       "type": "dir",
       "title": "[COLORlime]Comedy Shows[/COLOR]",
       "link": "https://mfirepo.github.io/hal/com.json"
