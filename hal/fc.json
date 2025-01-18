@@ -41,6 +41,11 @@
       "link": "plugin.video.halcyon/get_list/m3ucat|https://mfirepo.github.io/hal/newdoc.xml|Documentary" 
     },
     {
+      "type": "plugin", 
+      "title": "[COLORlime]FTA Sports TV[/COLOR]", 
+      "link": "plugin.video.halcyon/get_list/m3ucat|https://mfirepo.github.io/hal/newdoc.xml|Sports" 
+    },
+    {
       "type": "dir",
       "title": "[COLORlime]Video Jukebox[/COLOR]",
       "link": "https://mfirepo.github.io/hal/muzak.json",
