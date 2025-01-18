@@ -46,6 +46,11 @@
       "title": "[COLORred]Free Documentary TV[/COLOR]", 
       "link": "plugin.video.free/get_list/m3ucat|https://mfirepo.github.io/hal/newdoc.xml|Documentary" 
     },
+     {
+      "type": "plugin", 
+      "title": "[COLORred]Free Movie Channels[/COLOR]", 
+      "link": "plugin.video.free/get_list/m3ucat|https://mfirepo.github.io/hal/movonline.xml|Movies" 
+    },
     {
       "type": "dir",
       "title": "[COLORred]Free Video Jukebox[/COLOR]",
