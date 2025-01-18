@@ -8,11 +8,26 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="Documentary",Cold Case Files
+https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="Documentary",Crime + Investigation Network
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/mom/linear_channel/thumbnails/square/crimeflix_logo_1-1_2.png" group-title="Documentary",CrimeFlix
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/CrimeHunters_original-300x164.png" group-title="Documentary",Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/CuriosityStream/CuriosityStream-Logo.wine.png" group-title="Documentary",Curiosity Stream
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png" group-title="Documentary",Discovery HD
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-webApp-Assets-Dateline-Logo-White900x2442.png" group-title="Documentary",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.discovery-channel-logo-1-1.png.168be28b3a17cf9f1c27a6fc3020c7b6.png" group-title="Documentary",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
@@ -20,10 +35,28 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png" group-title="Documentary",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-logo="https://filmrise.com/uploads/images/FilmRise_TrueCrime_Color_Logo_long.png" group-title="Documentary",Filmrise True Crime
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="Documentary",Forensic Files
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+
 #EXTINF:-1 tvg-logo="https://historyhit.com/app/uploads/2020/09/Logo_Dark.png" group-title="Documentary",History Hit Channel
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Documentary",Love Nature 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Documentary",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery
+https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png" group-title="Documentary",Ion Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IjDt01J.png" group-title="Documentary",Law & Crime Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Documentary",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="Documentary",Military History
@@ -35,6 +68,9 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentary",NatGeo Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9HFzJk.png" group-title="Documentary",PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
@@ -44,6 +80,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/29/WKLE.png" group-title="Documentary",PBS KET World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Real_Crime_2024.svg/1200px-Real_Crime_2024.svg.png" group-title="Documentary",Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Documentary",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
@@ -52,6 +91,12 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="Documentary",Reelz (Opt-2)
 https://fl2.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/reelz/logos/3p-logo._CB619581767_.png" group-title="Documentary",Reelz Famous & Infamous
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Documentary",TV One Crime & Justice
+https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/sightlinemediagroup.com/wp-content/uploads/cropped-Sightline_Icon.png" group-title="Documentary",Sightline
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
@@ -80,6 +125,9 @@ https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/21/1716314429vaHSoXxCT6-original-bYbfASIL.png" group-title="Documentary",Unexplained TV
 https://d2anxoa8ay4brr.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-UnexplainedTV/454.m3u8
 
+#EXTINF:-1 tvg-logo="https://fitz.tmsimg.com/assets/s113370_ll_h3_aa.png" group-title="Documentary",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Documentary",Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
@@ -98,56 +146,3 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="Documentary",Xplore (Opt-2)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ColdCaseFiles.us" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="Documentary",Cold Case Files
-https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
-http://fl3.moveonjoy.com/COURT_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/crime-investigation-network-logo-DCB045F60C-seeklogo.com.png" group-title="Documentary",Crime + Investigation Network
-http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.static-ottera.com/prod/mom/linear_channel/thumbnails/square/crimeflix_logo_1-1_2.png" group-title="Documentary",CrimeFlix
-https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tablotv.com/wp-content/uploads/2023/03/CrimeHunters_original-300x164.png" group-title="Documentary",Crime Hunters
-https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/9/29/Dateline-webApp-Assets-Dateline-Logo-White900x2442.png" group-title="Documentary",Dateline 24/7
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us" tvg-logo="https://filmrise.com/uploads/images/FilmRise_TrueCrime_Color_Logo_long.png" group-title="Documentary",Filmrise True Crime
-https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseForensicFiles.us" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1507553842971-V1552JH0TBZ9FV7JO1S5/ForensicFiles_logo.png" group-title="Documentary",Forensic Files
-https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="Documentary",HLN
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery
-https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/court-tv-mystery.png" group-title="Documentary",Ion Mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IjDt01J.png" group-title="Documentary",Law & Crime Network
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Documentary",Oxygen True Crime (Opt-2)
-https://fl2.moveonjoy.com/OXYGEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Real_Crime_2024.svg/1200px-Real_Crime_2024.svg.png" group-title="Documentary",Real Crime
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/reelz/logos/3p-logo._CB619581767_.png" group-title="Documentary",Reelz Famous & Infamous
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVOne.us" tvg-logo="https://i.imgur.com/tthm8Q5.png" group-title="Documentary",TV One Crime & Justice
-https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
-
-#EXTINF:-1 tvg-logo="https://fitz.tmsimg.com/assets/s113370_ll_h3_aa.png" group-title="Documentary",Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
