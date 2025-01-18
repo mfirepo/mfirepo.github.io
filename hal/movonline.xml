@@ -3,15 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cncN6B9.jpeg" group-title="Movies",30A TV Movie Time
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IkYZQ9S.png" group-title="Movies",American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="Movies",AsianCrush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Movies",CineLife
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
@@ -48,26 +39,11 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" group-title="Movies",Encore+
 https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRU0d3y.png" group-title="Movies",Film Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/filmrise/the-miseducation-of-cameron-post/images/legal-logos.png" group-title="Movies",FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/filmrise/the-miseducation-of-cameron-post/images/legal-logos.png" group-title="Movies",FilmRise Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png" group-title="Movies",Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
 http://143.244.60.30/HBO/index.m3u8
@@ -84,29 +60,11 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png" group-title="Movies",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="Movies",Hi-Yah!
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rZbIYb.png" group-title="Movies",iFilm English
-https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.watchneptune.tv/app-images/kung-fu-plus--thumb-horizontal-1716930234.jpg" group-title="Movies",Kung Fu+
-https://lte.wiseplayout.com/WiseM3U8_10/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wj9GYfu.jpeg" group-title="Movies",Legend Films
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="Movies",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies",Maverick Black Cinema
-https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="Movies",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-hits-logo-A8D9F99377-seeklogo.com.png" group-title="Movies",MGM+ Hits
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-marquee-logo-3BDD06EA75-seeklogo.com.png" group-title="Movies",MGM+ Marquee
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
@@ -116,12 +74,6 @@ http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Movies",MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.ebates.com/static/images/about/logo/Rakuten_logo_white.png" group-title="Movies",Rakuten Comedy Movies
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://static.ebates.com/static/images/about/logo/Rakuten_logo_white.png" group-title="Movies",Rakuten Family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movies",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -143,9 +95,6 @@ http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies 
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (Opt-2)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" group-title="Movies",Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
