@@ -63,9 +63,6 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="Movies",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png" group-title="Movies",Lone Star
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="Movies",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
