@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cncN6B9.jpeg" group-title="Movies",30A TV Movie Time
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
@@ -17,6 +14,9 @@ https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
+
+#EXTINF:-1 tvg-id="CinevaultWesterns.us" tvg-logo="https://i.imgur.com/K1W137J.png" group-title="Movies",Cinevault Westerns
+https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
@@ -62,6 +62,9 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dCioQy.png" group-title="Movies",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png/v1/fill/w_1280,h_720,al_c/2d47fc_32a9c728993d45cc856ef018fa39a014~mv2.png" group-title="Movies",Lone Star
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQaS34R.png" group-title="Movies",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -116,6 +119,9 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="Movies",Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/Starz-Encore-Westerns-ON-DISH.png" group-title="Movies",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tcm-turner-classic-movies-logo-3C3FFA491D-seeklogo.com.png" group-title="Movies",TCM
 https://fl2.moveonjoy.com/TCM/index.m3u8
