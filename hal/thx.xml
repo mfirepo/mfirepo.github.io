@@ -1421,10 +1421,8 @@ item>
 	<fanart></fanart>
 </item>
 <item>
-	<title>Test 1</title>
-	<link>
-		<sublink>https://www.youtube.com/playlist_list=PLv8ZV4smRTrvb-aVx914QYo40CKZ-mI86</sublink>
-	</link>
+	<title>Test 2</title>
+	<link>https://www.youtube.com/playlist_list=PLv8ZV4smRTrvb-aVx914QYo40CKZ</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
