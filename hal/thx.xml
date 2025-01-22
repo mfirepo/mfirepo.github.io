@@ -1419,6 +1419,11 @@ item>
 </dir>
 
 <dir>
+	<title>[COLORyellow][I]>>>>> Test List 1 >>>>>[/I][/COLOR]</title>
+	<link>https://mfirepo.github.io/hal/camlist.xml</link>
+</dir>
+
+<dir>
 	<title>[COLORyellow][I]>>>>> Next Page >>>>>[/I][/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/thx2.xml</link>
 </dir>
