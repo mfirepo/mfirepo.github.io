@@ -3,16 +3,11 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #1[/COLOR]",
-      "link": "https://mfirepo.github.io/db/backup.json"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
       "link": "https://mfirepo.github.io/db/home1.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Sports Channels #3[/COLOR]",
+      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
       "link": "https://mfirepo.github.io/db/now.json"
     },
     {
@@ -34,11 +29,7 @@
       "type": "plugin",
       "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]UKTV Now All[/COLOR]",
-      "uktvnow": "categories"
     }
+    
   ]
 }
