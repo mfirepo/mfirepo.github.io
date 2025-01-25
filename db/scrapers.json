@@ -42,13 +42,38 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]SportyBite[/COLOR]",
-      "sportjetextractors": "SportyBite"
+      "title": "[COLORwhite]SportyBiteV2[/COLOR]",
+      "sportjetextractors": "SportyBitev2"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]SportyBiteV2[/COLOR]",
-      "sportjetextractors": "SportyBitev2"
+      "title": "[COLORwhite]Strikeout (Next Update)[/COLOR]",
+      "sportjetextractors": "Strikeout"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]SportsBox(non-PC) (Next Update)[/COLOR]",
+      "sportjetextractors": "SB"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]720pStream (Next Update)[/COLOR]",
+      "sportjetextractors": "720pStream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Dofu (Next Update)[/COLOR]",
+      "sportjetextractors": "Dofu"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]NizarStream (Next Update)[/COLOR]",
+      "sportjetextractors": "NizarStream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TotalSportek(Next Update)[/COLOR]",
+      "sportjetextractors": "TotalSportek"
     }
    
    
