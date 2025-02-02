@@ -59,8 +59,7 @@
     {
       "type": "dir",
       "title": "[COLORlime]Live Webcams[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/camlist.xml",
-      "enabled": "false"
+      "link": "https://mfirepo.github.io/hal/camlist.xml"
     },
     {
       "type": "dir",
