@@ -507,14 +507,6 @@
 	<fanart></fanart>
 </item>
 <item>
-	<title>Epping Signal Cabin, Epping Essex, UK</title>
-	<link>
-		<sublink>https://www.youtube.com/watch?v=gJL3WWKDoTc</sublink>
-	</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</item>
-<item>
 	<title>Brisbane Weather Live</title>
 	<link>
 		<sublink>https://www.youtube.com/watch?v=i-lFoyt5W3c</sublink>
@@ -550,6 +542,14 @@
 	<title>LIVE WEBCAM Playa Palmira 2</title>
 	<link>
 		<sublink>https://www.youtube.com/watch?v=63Suep5hNq0</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+<item>
+	<title>LIVE WEBCAM Santa Ponsa Beach</title>
+	<link>
+		<sublink>https://www.youtube.com/watch?v=HGklLsnDmC8</sublink>
 	</link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
