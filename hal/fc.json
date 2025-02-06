@@ -23,7 +23,8 @@
     {
       "type": "dir",
       "title": "[COLORlime]UK Soap Catchup[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/soap.json"
+      "link": "https://mfirepo.github.io/hal/soap.json",
+      "enabled": "false"
     },
     {
       "type": "plugin", 
@@ -53,8 +54,7 @@
     {
       "type": "dir",
       "title": "[COLORlime]Video Jukebox[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/muzak.json",
-      "enabled": "false"
+      "link": "https://mfirepo.github.io/hal/muzak.json"
     },
     {
       "type": "dir",
