@@ -29,7 +29,8 @@
     {
       "type": "dir",
       "title": "[COLORred]Free UK Soap Catchup[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/soap.json"
+      "link": "https://mfirepo.github.io/hal/soap.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -54,14 +55,12 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Video Jukebox[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/muzak.json",
-      "enabled": "false"
+      "link": "https://mfirepo.github.io/hal/muzak.json"
     },
     {
       "type": "dir",
       "title": "[COLORred]Free Live Webcams[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/webs.json",
-      "enabled": "false"
+      "link": "https://mfirepo.github.io/hal/webs.json"
     },
     {
       "type": "plugin", 
@@ -81,8 +80,7 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Fanzone[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/fans.json",
-      "enabled": "false"
+      "link": "https://mfirepo.github.io/hal/fans.json"
     }
   ]
 }
