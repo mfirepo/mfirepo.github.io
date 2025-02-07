@@ -5,6 +5,11 @@
             "title": "[COLORlime]**** Links Won't Work With A VPN ****[/COLOR]", 
             "link": "https://"
         },
+	     {
+      	   "type": "dir",
+           "title": "[COLORlime]UK/US Live Webcams (New List)[/COLOR]",
+           "link": "https://mfirepo.github.io/hal/camlist.xml"
+         },
 		{ 		
             "type": "dir", 
             "title": "Live Webcams From Around The World", 
