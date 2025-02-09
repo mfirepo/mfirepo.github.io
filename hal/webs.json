@@ -49,6 +49,11 @@
             "type": "dir", 
             "title": "Live Cams North America", 
             "link": "https://www.youtube.com/playlist_list=PLMvJBjBzkOqk_V7pZH6H-vxFkLZ5JLVvP"
+        },
+	{ 
+            "type": "dir", 
+            "title": "YouTube Search", 
+            "ytdlp": "search"
         }
 	
 	
