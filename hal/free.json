@@ -35,7 +35,8 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Comedy Shows[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/com.json"
+      "link": "https://mfirepo.github.io/hal/com.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
