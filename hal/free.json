@@ -24,7 +24,8 @@
     {
       "type": "dir",
       "title": "[COLORred]Free Shows (A-Z)[/COLOR]",
-      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml"
+      "link": "https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml",
+      "enabled": "false"
     },
     {
       "type": "dir",
