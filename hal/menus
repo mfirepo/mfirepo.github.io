@@ -112,7 +112,7 @@ def main_menu():
     if Addon.getSetting('tv_world')=='true':
         aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'basic.png',all_fanarts['32025'],'TV')
         all_d.append(aa)
-    aa=addDir3('[COLORwhite]Free Shows[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/freeshows.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Shows',mypass=mypass)
+    aa=addDir3('[COLORwhite]Free Shows[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Shows',mypass=mypass)
     all_d.append(aa)
     if Addon.getSetting('trakt_world')=='true':
         aa=addDir3(Addon.getLocalizedString(32026),'www',21,BASE_LOGO+'basic.png',all_fanarts['32026'],'No account needed)')
