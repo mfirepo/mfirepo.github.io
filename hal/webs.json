@@ -12,8 +12,8 @@
          },
 		{ 		
             "type": "dir", 
-            "title": "Live Webcams From Around The World", 
-            "link": "https://www.youtube.com/playlist_list=PLDHsOh0xPc5ZH1TEdtjaRZVRVkqRGfm1N/?page=0"
+            "title": "Live Webcams From Around The World*", 
+            "link": "https://www.youtube.com/playlist_list=PLDHsOh0xPc5ZH1TEdtjaRZVRVkqRGfm1N"
         },
 		{ 		
             "type": "dir", 
@@ -30,22 +30,12 @@
             "title": "World Wide Webcams Live", 
             "link": "https://www.youtube.com/playlist_list=PLFrsWoRoFYdLS30nXGB4Pim_GL4rGthxI" 
         },
-        { 		
-            "type": "dir", 
-            "title": "Best Live Streaming Cams From Around The World", 
-            "link": "https://www.youtube.com/playlist_list=PL4SE83KD7TddJocXdANhm8P_Q-s44a9cT"
-        },
-		{ 		
-            "type": "dir", 
-            "title": "Switzerland Webcams Live", 
-            "link": "https://www.youtube.com/playlist_list=PLZvylrVZzE3PO5BdaevPzBwBBy0qsQOJb" 
-        },
-		{ 		
+	{ 		
             "type": "dir", 
             "title": "Webcams USA", 
             "link": "https://www.youtube.com/playlist_list=PLJMq6awrXRfZytLGv2uQLR1T8Eec52r5K" 
         },
-		{ 		
+	{ 		
             "type": "dir", 
             "title": "Live Cams North America", 
             "link": "https://www.youtube.com/playlist_list=PLMvJBjBzkOqk_V7pZH6H-vxFkLZ5JLVvP"
