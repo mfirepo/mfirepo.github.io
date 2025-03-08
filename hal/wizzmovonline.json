@@ -55,21 +55,6 @@
       "title": "Encore+",
       "link": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8"
     },
-	{
-      "type": "item",
-      "title": "Epix",
-      "link": "http://fl2.moveonjoy.com/EPIX/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Epix Drive In",
-      "link": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Epix Hits",
-      "link": "http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8"
-    },
     {
       "type": "item",
       "title": "Freebie TV",
@@ -109,6 +94,21 @@
       "type": "item",
       "title": "LMN",
       "link": "http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "MGM+",
+      "link": "http://fl2.moveonjoy.com/EPIX/index.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "MGM Drive In",
+      "link": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+    },
+    {
+      "type": "item",
+      "title": "MGM Hits",
+      "link": "http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8"
     },
     {
       "type": "item",
