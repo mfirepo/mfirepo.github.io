@@ -98,37 +98,49 @@ def main_menu():
     key='zWrite'
     mypass=crypt(mypass,key)
 
-    aa=addDir3('[COLORwhite]Playlists[/COLOR]', 'https://mfirepo.github.io/hal/wizz.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Wizz Playlists',mypass=mypass)
-    all_d.append(aa)
     aa=addDir3('[COLORwhite]Free Movies[/COLOR]', 'https://mfirepo.github.io/hal/thx.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Movies (Non Debrid)',mypass=mypass)
     all_d.append(aa)
     aa=addDir3('[COLORwhite]UHD Movies[/COLOR]', 'https://mfirepo.github.io/hal/4k.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','4K Movies (Debrid)',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[COLORwhite]Debrid Movies[/COLOR]', 'https://mfirepo.github.io/hal/rdhq.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','4K Movies (Debrid)',mypass=mypass)
+    aa=addDir3('[COLORwhite]Debrid Movies[/COLOR]', 'https://mfirepo.github.io/hal/rdhq.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Debrid (Debrid)',mypass=mypass)
     all_d.append(aa)
-    if Addon.getSetting('movie_world')=='true':
-        aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
-        all_d.append(aa)
-    if Addon.getSetting('tv_world')=='true':
-        aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'basic.png',all_fanarts['32025'],'TV')
-        all_d.append(aa)
+    aa=addDir3('[COLORwhite]cMans Movies[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/MOVIES/Debrid-Main.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Movies (Debrid)',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[COLORwhite]Online Movies[/COLOR]', 'https://mfirepo.github.io/hal/wizzmovonline.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Online',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[COLORwhite]Latest TV[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','TV Shows (Debrid)',mypass=mypass)
+    all_d.append(aa)
     aa=addDir3('[COLORwhite]Free Shows[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Shows',mypass=mypass)
     all_d.append(aa)
-    if Addon.getSetting('trakt_world')=='true':
-        aa=addDir3(Addon.getLocalizedString(32026),'www',21,BASE_LOGO+'basic.png',all_fanarts['32026'],'No account needed)')
-        all_d.append(aa)
-    if Addon.getSetting('trakt')=='true':
-        aa=addDir3(Addon.getLocalizedString(32027),'www',114,BASE_LOGO+'basic.png',all_fanarts['32027'],'TV')
-        all_d.append(aa)
-    
-    aa=addDir3( '[COLORwhite]Search[/COLOR]', 'www',201,BASE_LOGO+'basic.png',all_fanarts['32034'],'Search All')
-        
+    aa=addDir3('[COLORwhite]Free Sports[/COLOR]', 'https://cmanbuilds.com/sport/free.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Sport',mypass=mypass)
     all_d.append(aa)
+    aa=addDir3('[COLORwhite]Sports Replays[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Sport',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[COLORwhite]Documentaries[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[COLORwhite]Live Webcams[/COLOR]', 'https://mfirepo.github.io/hal/camlist.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free',mypass=mypass)
+    all_d.append(aa)
+    #if Addon.getSetting('movie_world')=='true':
+        #aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
+        #all_d.append(aa)
+    #if Addon.getSetting('tv_world')=='true':
+        #aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'basic.png',all_fanarts['32025'],'TV')
+        #all_d.append(aa)
+    #if Addon.getSetting('trakt_world')=='true':
+        #aa=addDir3(Addon.getLocalizedString(32026),'www',21,BASE_LOGO+'basic.png',all_fanarts['32026'],'No account needed)')
+        #all_d.append(aa)
+    #if Addon.getSetting('trakt')=='true':
+        #aa=addDir3(Addon.getLocalizedString(32027),'www',114,BASE_LOGO+'basic.png',all_fanarts['32027'],'TV')
+        #all_d.append(aa)
+    
+    #aa=addDir3( '[COLORwhite]Search[/COLOR]', 'www',201,BASE_LOGO+'basic.png',all_fanarts['32034'],'Search All')
+        
+    #all_d.append(aa)
     if Addon.getSetting('settings')=='true':
         aa=addNolink( Addon.getLocalizedString(32029), id,151,False,fanart=all_fanarts['32029'], iconimage=BASE_LOGO+'basic.png',plot='',dont_place=True)
         all_d.append(aa)
-    aa=addDir3('[COLORwhite]Toolbox[/COLOR]', 'https://mfirepo.github.io/hal/auth.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Debrid',mypass=mypass)
-    all_d.append(aa)
+    #aa=addDir3('[COLORwhite]Toolbox[/COLOR]', 'https://mfirepo.github.io/hal/auth.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Debrid',mypass=mypass)
+    #all_d.append(aa)
         
     #place your MicroJen playlist here:
     #dulpicate this line with your address
