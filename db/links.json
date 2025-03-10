@@ -1,43 +1,24 @@
 {
   "items": [
- 
-	{
-      "type": "item",
-      "title": "The US Open",
-      "link": "https://rr.ignores.top/js/live-from-the-u-s-open/1/playlist.m3u8|Referer=https://vipstreams.in&Origin=https://vipstreams.in"
-      
-    },
-	  {
-      "type": "item",
-      "title": "Cricket: Live USA v India",
-      "link": "https://rr.ignores.top/js/usa-vs-india/1/playlist.m3u8|Referer=https://vipstreams.in&Origin=https://vipstreams.in"
-      
-    },
-	{
-      "type": "item",
-      "title": "Euro 2024: Germany vs Scotland",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=31"
-      ]
-    },
-	{
-      "type": "item",
-      "title": "Euro 2024: Germany vs Scotland",
-      "sportjetextractors": [
-        "https://sons-stream.com/tvon.php?hd=51"
-      ]
-    },
-	{
-      "type": "dir",
-      "title": "Euro 2024: Germany vs Scotland",
-      "pvr_sport_search":"search/scotland?include=17"
-    }
+		{
+            "type": "dir",
+            "title": "Tottenham Hotspur v Bournemouth",
+            "pvr_sport_search": "search/Bournemouth?include=17"
+        },
+		{
+            "type": "dir",
+            "title": "Chelsea v Leicester City",
+            "pvr_sport_search": "search/Chelsea?include=17"
+        },
+		{
+            "type": "dir",
+            "title": "Manchester United v Arsenal",
+            "pvr_sport_search": "search/Manchester United?include=17"
+        }
+		
+		
+		
+		
 	
-	
-	
-	
-	
-	
-]
-
+  ]
 }
