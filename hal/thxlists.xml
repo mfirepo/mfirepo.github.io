@@ -9,10 +9,6 @@
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml</link>
 </dir>
-plugin>
-	<title>[COLORwhite]Web Movies[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=doo_main</link>
-</plugin>
 <dir>
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
@@ -25,10 +21,10 @@ plugin>
 	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml</link>
 </dir>
-plugin>
-	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls526756716/</link>
-</plugin>
+<dir>
+	<title>[COLORwhite]Movie Channels[/COLOR]</title>
+	<link>https://mfirepo.github.io/hal/thxonline.xml</link>
+</dir>
 plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
@@ -61,10 +57,6 @@ plugin>
 	<title>[COLORwhite]US Channels[/COLOR]</title>
 	<link>plugin://plugin.video.samm_tv/samsung_tv/region/us</link>
 </plugin>
-<dir>
-	<title>[COLORwhite]Music Channels[/COLOR]</title>
-	<link>https://mfirepo.github.io/hal/music.xml</link>
-</dir>
 <plugin>
 	<title>[COLORwhite]BBC iPlayer[/COLOR]</title>
 	<link>plugin://plugin.video.iplayerwww</link>
