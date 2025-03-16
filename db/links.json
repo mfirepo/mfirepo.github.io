@@ -2,33 +2,22 @@
   "items": [
 		{
             "type": "dir",
-            "title": "Everton v West Ham United",
-            "pvr_sport_search": "search/Everton?include=17"
+            "title": "Arsenal v Chelsea",
+            "pvr_sport_search": "search/Chelsea?include=17"
         },
 		{
             "type": "dir",
-            "title": "Ipswich Town v Nottingham Forest",
-            "pvr_sport_search": "search/Ipswich Town?include=17"
+            "title": "Fulham v Tottenham Hotspur",
+            "pvr_sport_search": "search/Fulham?include=17"
         },
 		{
             "type": "dir",
-            "title": "Manchester City v Brighton",
-            "pvr_sport_search": "search/Brighton?include=17"
-        },
-		{
-            "type": "dir",
-            "title": "Southampton v Wolverhampton Wanderers",
-            "pvr_sport_search": "search/Southampton?include=17"
-        },
-		{
-            "type": "dir",
-            "title": "Bournemouth v Brentford",
-            "pvr_sport_search": "search/Brentford?include=17"
+            "title": "Leicester City v Manchester United",
+            "pvr_sport_search": "search/Leicester City?include=17"
         }
 		
 		
-		
-		
+	
 	
   ]
 }
