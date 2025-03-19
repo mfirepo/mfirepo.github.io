@@ -9,6 +9,16 @@
       "type": "plugin",
       "title": "Emmerdale",
       "link": "plugin.video.tvfree/get_list/https://srstop.link/show/emmerdale"
+    },
+    {
+      "type": "plugin",
+      "title": "Hollyoaks",
+      "link": "plugin.video.tvfree/get_list/https://srstop.link/show/hollyoaks"
+    },
+    {
+      "type": "plugin",
+      "title": "Home And Away",
+      "link": "plugin.video.tvfree/get_list/https://srstop.link/show/home-and-away"
     }
     
 ]
