@@ -1,26 +1,11 @@
 {
     "items": [
        
-       { 	
-        
-         "title": "Eastenders, Corrie, Emmerdale", 
-            "type": "plugin", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:HdOneTv" 
-         },
-         { 	
-        
-         "title": "Eastenders, Corrie, Emmerdale", 
-            "type": "plugin", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=owner:HightlightSelect247" 
-         },
-		{ 	
-        
-         "title": "Eastenders, Corrie, Emmerdale", 
-            "type": "plugin", 
-            "link": "plugin://plugin.video.dailymotion_com/?mode=sortVideos1&url=user:TvSoap"
-          }
-         
-         
-          
-	]
+        {
+      "type": "dir",
+      "title": "Corrie",
+      "link": "https://srstop.link/show/coronation-street"
+       }
+    
+]
 }	
