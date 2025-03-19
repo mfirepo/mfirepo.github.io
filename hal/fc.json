@@ -24,11 +24,6 @@
     },
     {
       "type": "dir",
-      "title": "[COLORlime]UK Soap Catchup[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/soap.json"
-    },
-    {
-      "type": "dir",
       "title": "[COLORlime]Movie Channels[/COLOR]",
       "link": "https://mfirepo.github.io/hal/wizzmovonline.json"
     },
@@ -47,6 +42,11 @@
       "type": "plugin",
       "title": "[COLORlime]Documentary TV[/COLOR]",
       "link": "plugin.video.halcyon/get_list/m3ucat|https://mfirepo.github.io/hal/newdoc.xml|Documentary"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]UK Soap Catchup[/COLOR]",
+      "link": "https://mfirepo.github.io/hal/soap.json"
     },
     {
       "type": "plugin",
