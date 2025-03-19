@@ -19,6 +19,11 @@
       "type": "plugin",
       "title": "Home And Away",
       "link": "plugin.video.tvfree/get_list/https://srstop.link/show/home-and-away"
+    },
+    {
+      "type": "plugin",
+      "title": "Neighbours",
+      "link": "plugin.video.tvfree/get_list/https://srstop.link/show/neighbours"
     }
     
 ]
