@@ -2,9 +2,9 @@
     "items": [
        
         {
-      "type": "dir",
-      "title": "Corrie*",
-      "link": "https://srstop.link/show/coronation-street"
+      "type": "plugin",
+      "title": "Emmerdale",
+      "link": "plugin.video.tvfree/get_list/https://srstop.link/show/emmerdale"
        }
     
 ]
