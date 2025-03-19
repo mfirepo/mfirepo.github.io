@@ -39,7 +39,7 @@
       "link": "https://mfirepo.github.io/hal/com.json",
       "enabled": "false"
     },
-    {
+	{
       "type": "plugin",
       "title": "[COLORred]Catch Up TV[/COLOR]",
       "link": "plugin.video.tvfree"
