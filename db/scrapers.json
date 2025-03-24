@@ -50,7 +50,7 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Strikeout[/COLOR]",
-      "sportjetextractors": "Strikeout"
+      "sportjetextractors": "Strikeout",
       "enabled": "false"
     },
     {
