@@ -28,12 +28,14 @@
     {
       "type": "dir",
       "title": "[COLORwhite]BatmanStream[/COLOR]",
-      "sportjetextractors": "Batmanstream"
+      "sportjetextractors": "Batmanstream",
+      "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Meth.Com[/COLOR]",
-      "sportjetextractors": "Meth_com"
+      "sportjetextractors": "Meth_com",
+      "enabled": "false"
     },
     {
       "type": "dir",
@@ -49,16 +51,19 @@
       "type": "dir",
       "title": "[COLORwhite]Strikeout[/COLOR]",
       "sportjetextractors": "Strikeout"
+      "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]SportsBox(non-PC)[/COLOR]",
-      "sportjetextractors": "SportsBox(non-PC)"
+      "sportjetextractors": "SportsBox(non-PC)",
+      "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]720pStream[/COLOR]",
-      "sportjetextractors": "720pStream"
+      "sportjetextractors": "720pStream",
+      "enabled": "false"
     },
     {
       "type": "dir",
