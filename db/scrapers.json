@@ -1,9 +1,51 @@
 {
   "items": [
+     {
+      "type": "dir",
+      "title": "[COLORwhite]720pStream[/COLOR]",
+      "sportjetextractors": "720pStream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]AeSport[/COLOR]",
+      "sportjetextractors": "AeSport"
+    },
+     {
+      "type": "dir",
+      "title": "[COLORwhite]Balo[/COLOR]",
+      "sportjetextractors":"Balo"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]BatmanStream[/COLOR]",
+      "sportjetextractors": "Batmanstream",
+      "enabled": "false"
+    },
     {
       "type": "dir",
       "title": "[COLORwhite]DaddyLive[/COLOR]",
       "sportjetextractors": "Daddylive"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Dofu[/COLOR]",
+      "sportjetextractors": "Dofu"
+    },
+     {
+      "type": "dir",
+      "title": "[COLORwhite]Meth.Com[/COLOR]",
+      "sportjetextractors": "Meth_com",
+      "enabled": "false"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]NizarStream[/COLOR]",
+      "sportjetextractors": "NizarStream"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]PPV Land[/COLOR]",
+      "sportjetextractors": "PPV Land"
     },
      {
       "type": "dir",
@@ -17,30 +59,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Balo[/COLOR]",
-      "sportjetextractors":"Balo"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]AeSport[/COLOR]",
-      "sportjetextractors": "AeSport"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]Sportea[/COLOR]",
       "sportjetextractors": "Sportea"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]BatmanStream[/COLOR]",
-      "sportjetextractors": "Batmanstream",
-      "enabled": "false"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Meth.Com[/COLOR]",
-      "sportjetextractors": "Meth_com",
-      "enabled": "false"
     },
     {
       "type": "dir",
@@ -49,33 +69,18 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]PPV Land[/COLOR]",
-      "sportjetextractors": "PPV Land"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]Strikeout[/COLOR]",
-      "sportjetextractors": "Strikeout"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]SportsBox(non-PC)[/COLOR]",
       "sportjetextractors": "SportsBox(non-PC)"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]720pStream[/COLOR]",
-      "sportjetextractors": "720pStream"
+      "title": "[COLORwhite]StreamBTW[/COLOR]",
+      "sportjetextractors": "StreamBTW"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Dofu[/COLOR]",
-      "sportjetextractors": "Dofu"
-    },
-    {
-      "type": "dir",
-      "title": "[COLORwhite]NizarStream[/COLOR]",
-      "sportjetextractors": "NizarStream"
+      "title": "[COLORwhite]Strikeout[/COLOR]",
+      "sportjetextractors": "Strikeout"
     },
     {
       "type": "dir",
