@@ -17,9 +17,8 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]BatmanStream[/COLOR]",
-      "sportjetextractors": "Batmanstream",
-      "enabled": "false"
+      "title": "[COLORwhite]Buffstreams[/COLOR]",
+      "sportjetextractors": "Buffstreams"
     },
     {
       "type": "dir",
@@ -84,14 +83,15 @@
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]TotalSportek[/COLOR]",
-      "sportjetextractors": "TotalSportek"
-    },
-    {
-      "type": "dir",
       "title": "[COLORwhite]TopEmbed[/COLOR]",
       "sportjetextractors": "TopEmbed"
     }
+    {
+      "type": "dir",
+      "title": "[COLORwhite]TotalSportek[/COLOR]",
+      "sportjetextractors": "TotalSportek"
+    }
+   
    
    
 
