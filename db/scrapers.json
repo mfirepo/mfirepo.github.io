@@ -5,9 +5,14 @@
       "title": "[COLORwhite]DaddyLive[/COLOR]",
       "sportjetextractors": "Daddylive"
     },
-    {
+     {
       "type": "dir",
       "title": "[COLORwhite]SportyBite[/COLOR]",
+      "sportjetextractors": "SportyBite"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]SportyBiteV2[/COLOR]",
       "sportjetextractors": "SportyBitev2"
     },
     {
@@ -50,20 +55,17 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Strikeout[/COLOR]",
-      "sportjetextractors": "Strikeout",
-      "enabled": "false"
+      "sportjetextractors": "Strikeout"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]SportsBox(non-PC)[/COLOR]",
-      "sportjetextractors": "SportsBox(non-PC)",
-      "enabled": "false"
+      "sportjetextractors": "SportsBox(non-PC)"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]720pStream[/COLOR]",
-      "sportjetextractors": "720pStream",
-      "enabled": "false"
+      "sportjetextractors": "720pStream"
     },
     {
       "type": "dir",
