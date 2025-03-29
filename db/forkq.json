@@ -1,16 +1,9 @@
 {
   "items": [
     {
-      "type": "dir",
-      "title": "[COLORlime][B]**** Online **** V2.3[/B][/COLOR]",
-      "link": "https://"
-    },
-    {
       "type": "item",
       "title": "BBC 1",
       "link": [
-        "http://1tv41.icu:8080/live/Dorris@609/443@609/53649.m3u8?&Connection=keep-alive",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-one-south-3126",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-356.php"
       ]
     },
@@ -18,7 +11,6 @@
       "type": "item",
       "title": "BBC 2",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=bbc-two-1-3128",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-357.php"
       ]
     },
@@ -80,11 +72,6 @@
     },
     {
       "type": "item",
-      "title": "5 USA",
-      "link": "plugin://plugin.video.forkq/uktvnow/play/502"
-    },
-    {
-      "type": "item",
       "title": "BBC News",
       "link": "plugin://plugin.video.forkq/uktvnow/play/47"
     },
@@ -119,16 +106,9 @@
     },
     {
       "type": "item",
-      "title": "Sky Nature",
-      "sportjetextractors": [
-        "https://balo.live/?tv=sky-nature-815"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Sky Crime",
       "sportjetextractors": [
-        "https://balo.live/?tv=sky-crime-1-1080"
+        "https://thedaddy.to/stream/stream-685.php"
       ]
     },
     {
@@ -211,20 +191,13 @@
     },
     {
       "type": "item",
-      "title": "Comedy Central UK",
+      "title": "Comedy Central",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=comedy-central-191",
-        "plugin://plugin.video.forkq/uktvnow/play/84"
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-310.php",
+        "plugin://plugin.video.forkq/uktvnow/play/85"
       ]
     },
     {
-      "type": "item",
-      "title": "Comedy Central US",
-      "sportjetextractors": [
-        "https://thedaddy.to/stream/stream-310.php"
-      ]
-    },
-	{
       "type": "item",
       "title": "Crave Movies 1",
       "link": "http://fl3.moveonjoy.com/CRAVE_1/index.m3u8"
@@ -236,11 +209,6 @@
     },
     {
       "type": "item",
-      "title": "Crave Movies 3",
-      "link": "http://fl3.moveonjoy.com/CRAVE_3/index.m3u8"
-    },
-    {
-      "type": "item",
       "title": "Crave Movies 4",
       "link": "http://fl2.moveonjoy.com/CRAVE_4/index.m3u8"
     },
@@ -248,7 +216,7 @@
       "type": "item",
       "title": "HBO",
       "link": [
-        "http://143.244.60.30/HBO/index.m3u8",
+        "https://fl2.moveonjoy.com/HBO/index.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-321.php",
         "plugin://plugin.video.forkq/uktvnow/play/128"
       ]
@@ -258,8 +226,7 @@
       "title": "HBO 2",
       "link": [
         "https://fl5.moveonjoy.com/HBO_2/index.m3u8",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-689.php",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=hbo-2-322"
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-689.php"
       ]
     },
     {
@@ -307,7 +274,6 @@
       "title": "Showtime 2",
       "link": [
         "http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-2-297",
         "plugin://plugin.video.forkq/uktvnow/play/473"
       ]
     },
@@ -315,30 +281,20 @@
       "type": "item",
       "title": "Showtime Extreme",
       "link": [
-        "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-extreme-298"
-      ]
-    },
-    {
-      "type": "item",
-      "title": "Showtime Family",
-      "sportjetextractors": [
-        "https://balo.live/?tv=showtime-family-zone-299"
+        "http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
       ]
     },
     {
       "type": "item",
       "title": "Showtime Next",
       "link": [
-        "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-next-300"
+        "http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
       ]
     },
     {
       "type": "item",
       "title": "Showtime Showcase",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-showcase-301",
         "plugin://plugin.video.forkq/uktvnow/play/475"
       ]
     },
@@ -346,7 +302,6 @@
       "type": "item",
       "title": "Showtime Women",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=showtime-women-302",
         "http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
       ]
     },
@@ -420,7 +375,6 @@
       "type": "item",
       "title": "E4 Channel",
       "sportjetextractors": [
-        "https://balo.live/?tv=e4-1-1005",
         "https://thedaddy.to/stream/stream-363.php"
       ]
     },
@@ -435,7 +389,7 @@
       "type": "item",
       "title": "Discovery Channel",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=discovery-channel-1-2983",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-313.php",
         "plugin://plugin.video.forkq/uktvnow/play/94"
       ]
     },
@@ -443,7 +397,6 @@
       "type": "item",
       "title": "Discovery Life Channel",
       "sportjetextractors": [
-        "https://balo.live/?tv=discovery-life-1204",
         "https://thedaddy.to/stream/stream-311.php"
       ]
     },
@@ -498,13 +451,6 @@
     },
     {
       "type": "item",
-      "title": "Animal Planet",
-      "sportjetextractors": [
-        "https://balo.live/?tv=animal-planet-2-958"
-      ]
-    },
-    {
-      "type": "item",
       "title": "AXS TV",
       "link": "plugin://plugin.video.forkq/uktvnow/play/42"
     },
@@ -531,18 +477,21 @@
       "title": "BEK Sports",
       "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
     },
-    {
+	{
       "type": "item",
-      "title": "Bounce TV",
-      "sportjetextractors": [
-        "https://balo.live/?tv=bounce-tv-312"
-      ]
+      "title": "Billiard TV",
+      "link": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Boxing TV",
+      "link": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8"
     },
     {
       "type": "item",
       "title": "BTN",
       "sportjetextractors": [
-        "https://balo.live/?tv=big-ten-network-177"
+        "https://thedaddy.to/stream/stream-397.php"
       ]
     },
     {
@@ -570,6 +519,11 @@
       "title": "Choppertown",
       "link": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "CineLife",
+      "link": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "Cinemax",
@@ -592,11 +546,21 @@
         "http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8"
       ]
     },
+	{
+      "type": "item",
+      "title": "Concert TV",
+      "link": "http://45.228.233.254:18000/play/a04u/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Cops",
+      "link": "https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8"
+    },
     {
       "type": "item",
       "title": "CMT",
       "sportjetextractors": [
-        "https://balo.live/?tv=cmt-187"
+        "https://thedaddy.to/stream/stream-647.php"
       ]
     },
     {
@@ -630,8 +594,7 @@
       "type": "item",
       "title": "Cooking Channel USA",
       "sportjetextractors": [
-        "https://thedaddy.to/stream/stream-697.php",
-        "https://balo.live/?tv=cooking-channel-193"
+        "https://thedaddy.to/stream/stream-697.php"
       ]
     },
     {
@@ -656,13 +619,6 @@
     },
     {
       "type": "item",
-      "title": "E!",
-      "sportjetextractors": [
-        "https://balo.live/?tv=e-203"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Electric Now",
       "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8"
     },
@@ -675,6 +631,11 @@
       "type": "item",
       "title": "Fashion TV 4K",
       "link": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Fido",
+      "link": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8"
     },
     {
       "type": "item",
@@ -764,7 +725,7 @@
       "type": "item",
       "title": "Hallmark Mystery",
       "sportjetextractors": [
-        "https://balo.live/?tv=hallmark-movies-mysteries-231"
+        "https://thedaddy.to/stream/stream-296.php"
       ]
     },
     {
@@ -794,13 +755,6 @@
     },
     {
       "type": "item",
-      "title": "HLN",
-      "sportjetextractors": [
-        "https://balo.live/?tv=hln-795"
-      ]
-    },
-    {
-      "type": "item",
       "title": "Impact Wrestling",
       "link": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
     },
@@ -822,6 +776,11 @@
       "title": "LMN",
       "link": "http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Lone Star",
+      "link": "https://6b88cde9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/ec788187-7d6a-4887-aeb7-cbe7214a3dc7/2.m3u8"
+    },
     {
       "type": "item",
       "title": "Loupe 4K",
@@ -840,7 +799,17 @@
     {
       "type": "item",
       "title": "Marquee Sports",
-      "link": "https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8"
+      "link": "https://v15.thetvapp.to/hls/marquee-sports-network/index.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Mav Select",
+      "link": "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "Mav TV",
+      "link": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
     },
     {
       "type": "item",
@@ -857,16 +826,26 @@
       "title": "MGM+ Drive In",
       "link": "http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
     },
+	{
+      "type": "item",
+      "title": "MGM+ Marquee",
+      "link": "http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8"
+    },
     {
       "type": "item",
       "title": "Midnight Pulp",
       "link": "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8"
     },
+	{
+      "type": "item",
+      "title": "Moto America TV",
+      "link": "https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA.m3u8"
+    },
     {
       "type": "item",
       "title": "Motor Trend",
       "sportjetextractors": [
-        "https://balo.live/?tv=motor-trend-3200"
+        "https://thedaddy.to/stream/stream-661.php"
       ]
     },
     {
@@ -878,7 +857,7 @@
       "type": "item",
       "title": "MSG",
       "sportjetextractors": [
-        "https://balo.live/?tv=msg-739"
+        "https://thedaddy.to/stream/stream-765.php"
       ]
     },
     {
@@ -908,17 +887,17 @@
     },
     {
       "type": "item",
-      "title": "Nat Geo",
+      "title": "NGC",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=nat-geographic-3467",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-328.php",
         "plugin://plugin.video.forkq/uktvnow/play/158"
       ]
     },
     {
       "type": "item",
-      "title": "Nat Geo Wild",
+      "title": "NGC Wild",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=nat-geo-wild-251",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-745.php",
         "plugin://plugin.video.forkq/uktvnow/play/157"
       ]
     },
@@ -989,7 +968,7 @@
       "type": "item",
       "title": "Sec Network",
       "sportjetextractors": [
-        "https://balo.live/?tv=sec-network-274"
+        "https://thedaddy.to/stream/stream-385.php"
       ]
     },
     {
@@ -1022,11 +1001,21 @@
         "plugin://plugin.video.forkq/uktvnow/play/222"
       ]
     },
+	{
+      "type": "item",
+      "title": "Tennis Channel",
+      "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
+    },
+	{
+      "type": "item",
+      "title": "The Archive",
+      "link": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us"
+    },
     {
       "type": "item",
       "title": "TLC",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://balo.live/?tv=tlc-1-1003",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://thedaddy.to/stream/stream-337.php",
         "plugin://plugin.video.forkq/uktvnow/play/288"
       ]
     },
@@ -1037,11 +1026,6 @@
         "http://fl2.moveonjoy.com/TNT/index.m3u8",
         "plugin://plugin.video.forkq/uktvnow/play/228"
       ]
-    },
-    {
-      "type": "item",
-      "title": "The Archive",
-      "link": "https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8"
     },
     {
       "type": "item",
@@ -1057,13 +1041,6 @@
       "type": "item",
       "title": "TV Art",
       "link": "https://stream.osc.bg/tvart/Stream3/playlist.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "TV Land",
-      "sportjetextractors": [
-        "https://balo.live/?tv=tv-land-289"
-      ]
     },
     {
       "type": "item",
