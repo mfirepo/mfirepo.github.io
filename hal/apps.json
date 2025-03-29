@@ -12,11 +12,6 @@
       "link": "plugin.video.crackle"
     },
     {
-      "type": "plugin",
-      "title": "[COLORlime]UK-TV Now[/COLOR]",
-      "link": "plugin.video.halcyon/uktvnow/categories"
-    },
-    {
       "type": "dir",
       "title": "[COLORlime]Fat To Fit[/COLOR]",
       "link": "https://www.youtube.com/playlist_list=PLviL5t4JOQSNmvER-qwxWqVK4vmDegL55"
