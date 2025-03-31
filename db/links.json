@@ -2,18 +2,18 @@
   "items": [
 		{
             "type": "dir",
-            "title": "Arsenal v Chelsea",
-            "pvr_sport_search": "search/Chelsea?include=17"
+            "title": "Wolves v West Ham United",
+            "pvr_sport_search": "search/West Ham United?include=17"
         },
 	{
             "type": "dir",
-            "title": "Fulham v Tottenham Hotspur",
-            "pvr_sport_search": "search/Fulham?include=17"
+            "title": "Arsenal v Fulham",
+            "pvr_sport_search": "search/Arsenal?include=17"
         },
 	{
             "type": "dir",
-            "title": "Leicester City v Manchester United",
-            "pvr_sport_search": "search/Leicester City?include=17"
+            "title": "Nottingham Forest v Manchester United",
+            "pvr_sport_search": "search/Nottingham Forest?include=17"
         }
 		
 		
