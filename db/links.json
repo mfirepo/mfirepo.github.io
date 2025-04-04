@@ -2,32 +2,32 @@
   "items": [
 		{
             "type": "dir",
-            "title": "Chelsea v Tottenham Hotspur",
-            "pvr_sport_search": "search/Tottenham Hotspur?include=17"
+            "title": "Everton v Arsenal",
+            "pvr_sport_search": "search/Everton?include=17"
         },
 	{
             "type": "dir",
-            "title": "Brighton v Aston Villa",
-            "pvr_sport_search": "search/Brighton?include=17",
-		"enabled": "false"
+            "title": "Crystal Palace v Brighton",
+            "pvr_sport_search": "search/Crystal Palace?include=17",
+		"enabled": "true"
         },
 	{
             "type": "dir",
-            "title": "Manchester City v Leicester City",
-            "pvr_sport_search": "search/Leicester City?include=17",
-		"enabled": "false"
+            "title": "Ipswich Town v Wolves",
+            "pvr_sport_search": "search/Ipswich Town?include=17",
+		"enabled": "true"
         },
 	{
             "type": "dir",
-            "title": "Newcastle United v Brentford",
-            "pvr_sport_search": "search/Brentford?include=17",
-		"enabled": "false"
+            "title": "West Ham United v Bournemouth AFC",
+            "pvr_sport_search": "search/West Ham United?include=17",
+		"enabled": "true"
         },
 	{
             "type": "dir",
-            "title": "Southampton v Crystal Palace",
-            "pvr_sport_search": "search/Southampton?include=17",
-		"enabled": "false"
+            "title": "Aston Villa v Nottingham Forest",
+            "pvr_sport_search": "search/Aston Villa?include=17",
+		"enabled": "true"
         },
 	{
             "type": "dir",
