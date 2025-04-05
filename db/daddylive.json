@@ -16,6 +16,11 @@
       "link": "https://mfirepo.github.io/db/daddylive2.json"
     },
     {
+      "type": "plugin",
+      "title": "[COLORwhite]DaddyLive App[/COLOR]",
+      "link": "plugin.video.tvfree/get_list/ddlv"
+    },
+    {
       "type": "dir",
       "title": "[COLORwhite]DaddyLive 24/7[/COLOR]",
       "pvr_sport_search": "search/24/7?include=7"
