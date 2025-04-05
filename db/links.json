@@ -2,8 +2,14 @@
   "items": [
 		{
             "type": "dir",
+            "title": "Fulham v Liverpool",
+            "pvr_sport_search": "search/Fulham?include=17"
+        },
+	{
+            "type": "dir",
             "title": "Tottenham Hotspur v Southampton",
-            "pvr_sport_search": "search/Southampton?include=17"
+            "pvr_sport_search": "search/Southampton?include=17",
+		"enabled": "true"
         },
 	{
             "type": "dir",
