@@ -4,7 +4,6 @@
       "type": "item",
       "title": "BBC 1",
       "link": [
-	    "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-356.php"
       ]
     },
@@ -12,7 +11,6 @@
       "type": "item",
       "title": "BBC 2",
       "link": [
-	    "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-357.php"
       ]
     },
@@ -218,7 +216,7 @@
       "type": "item",
       "title": "HBO",
       "link": [
-	    "http://fl2.moveonjoy.com/HBO/index.m3u8",
+        "http://fl2.moveonjoy.com/HBO/index.m3u8",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-321.php",
         "plugin://plugin.video.forkq/uktvnow/play/128"
       ]
@@ -347,7 +345,7 @@
       "type": "item",
       "title": "Gold UK",
       "link": [
-	    "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-687.php",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-687.php",
         "plugin://plugin.video.forkq/uktvnow/play/236"
       ]
     },
@@ -584,7 +582,7 @@
       "title": "Cult Movies",
       "link": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8"
     },
-	{
+    {
       "type": "item",
       "title": "Dateline",
       "link": "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
@@ -668,7 +666,7 @@
         "plugin://plugin.video.forkq/uktvnow/play/675"
       ]
     },
-	{
+    {
       "type": "item",
       "title": "Free Movies",
       "link": "https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8"
@@ -970,7 +968,7 @@
     {
       "type": "item",
       "title": "Tennis Channel",
-      "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
+      "link": "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-40.php"
     },
     {
       "type": "item",
@@ -998,7 +996,7 @@
       "title": "Travel Channel",
       "link": "plugin://plugin.video.forkq/uktvnow/play/786"
     },
-	{
+    {
       "type": "item",
       "title": "Travel TV 4K",
       "link": "https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
@@ -1008,7 +1006,7 @@
       "title": "True History",
       "link": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
     },
-	{
+    {
       "type": "item",
       "title": "TV Land",
       "sportjetextractors": [
@@ -1067,7 +1065,7 @@
       "title": "Xplore",
       "link": "http://xlpore-samsungus.amagi.tv/playlist.m3u8"
     },
-	{
+    {
       "type": "item",
       "title": "Yes",
       "link": "http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8"
