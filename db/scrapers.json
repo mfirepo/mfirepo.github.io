@@ -90,6 +90,16 @@
       "type": "dir",
       "title": "[COLORwhite]TotalSportek[/COLOR]",
       "sportjetextractors": "TotalSportek"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]PixelSports[/COLOR]",
+      "sportjetextractors": "PixelSports"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]Tazz[/COLOR]",
+      "sportjetextractors": "Tazz"
     }
    
    
