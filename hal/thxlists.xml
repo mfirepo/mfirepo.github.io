@@ -70,6 +70,10 @@ plugin>
 	<link>plugin://plugin.video.ftasport</link>
 </plugin>
 <plugin>
+	<title>[COLORwhite]DaddyLive[/COLOR]</title>
+	<link>plugin://plugin.video.dlv2</link>
+</plugin>
+<plugin>
 	<title>[COLORwhite]Crackle TV[/COLOR]</title>
 	<link>plugin://plugin.video.crackle</link>
 </plugin>
