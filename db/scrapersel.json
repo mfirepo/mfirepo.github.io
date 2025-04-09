@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Sports Channels #3[/COLOR]",
+      "pvr_sport_search": "search/soccer?include=18"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]EPL 3pm Kick-Off[/COLOR]",
       "link": "https://mfirepo.github.io/db/links.json"
     },
