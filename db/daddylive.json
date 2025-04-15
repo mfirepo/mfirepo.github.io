@@ -34,6 +34,11 @@
       "type": "dir",
       "title": "[COLORwhite]DaddyLive Search[/COLOR]",
       "pvr_sport_search": "search/*?include=7"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORwhite]DaddyLive Test[/COLOR]",
+      "link": "https://mfirepo.github.io/db/dltest.json"
     }
   ]
 }
