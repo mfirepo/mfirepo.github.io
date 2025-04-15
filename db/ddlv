@@ -1,0 +1,232 @@
+import sys
+import re
+import json
+from datetime import datetime, date
+from urllib.parse import quote_plus, unquote_plus, urljoin, urlparse
+from typing import List, Optional, Dict
+import xbmc
+import xbmcgui
+import xbmcplugin
+import requests
+from bs4 import BeautifulSoup
+from tzlocal import get_localzone
+import pytz
+from ..plugin import Plugin
+from ..DI import DI
+from ..util.common import ownAddon
+from ..modules.tools import m
+
+KODI_VER = float(xbmc.getInfoLabel("System.BuildVersion")[:4])
+SOURCE = re.compile(r'<script>.+?var .+? = "(.+?)";', re.DOTALL | re.MULTILINE)
+
+
+class Ddlv(Plugin):
+    name = "Daddy"
+    priority = 10
+    
+    def __init__(self):
+        self.session = DI.session
+        self.base_url = 'https://daddylive.mp'
+        self.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+        self.headers = {"User-Agent": self.user_agent, "Referer": self.base_url + '/', "Origin": self.base_url + '/'}
+        self.schedule_url = urljoin(self.base_url, '/schedule/schedule-generated.php')
+        self.channels_url = f'{self.base_url}/24-7-channels.php'
+        self.addon_icon = ownAddon.getAddonInfo('icon')
+        self.addon_fanart = ownAddon.getAddonInfo('fanart')
+    
+    
+    def get_list(self, url: str) -> Optional[Dict]:
+        if not url.startswith('ddlv'):
+            return
+            
+        if url.startswith('ddlv/channels'):
+            return self.session.get(self.channels_url, timeout=10).text
+            
+        if url == 'ddlv':
+            headers = {"User-Agent": self.user_agent, "Referer": self.base_url + '/', "Origin": self.base_url + '/'}
+            response = self.session.get(self.schedule_url, headers=self.headers, timeout=10)
+            schedule = response.json()
+            return json.dumps(schedule)
+        elif url.startswith('ddlv/cats/'):
+            return unquote_plus(url.replace('ddlv/cats/', ''))
+        elif url.startswith('ddlv/events/'):
+            return unquote_plus(url.replace('ddlv/events/', ''))
+    
+    
+    def parse_list(self, url: str, response: str) -> Optional[List[Dict[str, str]]]:
+        if not url.startswith('ddlv'):
+            return
+            
+        itemlist = []
+        title = ''
+        link = ''
+        
+        if url == 'ddlv/channels':
+            password = m.get_setting('adult_pw')
+            soup = BeautifulSoup(response, 'html.parser')
+            channels = []
+            for a in soup.find_all('a')[8:]:
+                title = a.text
+                link = json.dumps([[title, f"{self.base_url}{a['href']}"]])
+                if '18+' in title and password != 'xxXXxx':
+                    continue
+                if not link in channels:
+                    channels.append(link)
+                    itemlist.append(
+                        {
+                            'type': 'item',
+                            'title': title,
+                            'link': link,
+                            'summary': title
+                        }
+                    )
+            return itemlist
+            
+        response = json.loads(response)
+        
+        if url.startswith('ddlv/events/'):
+            for event in response:
+                title = event.get('event', '')
+                start_time = event.get('time', '')
+                title = f'{self.convert_utc_time_to_local(start_time)} - {title}' if start_time else title
+                link = json.dumps([[channel.get('channel_name'), urljoin(self.base_url, f"/stream/stream-{channel.get('channel_id')}.php")] for channel in event.get('channels')])
+                itemlist.append(
+                    {
+                        'type': 'item',
+                        'title': title,
+                        'link': link,
+                        'summary': title
+                    }
+                )
+            return itemlist
+        
+        itemlist.append(
+            {
+                'type': 'dir',
+                'title': 'Channels',
+                'link': 'ddlv/channels',
+                'summary': title
+            }
+        )
+        
+        for key in response.keys():
+            if url == 'ddlv':
+                title = key.split(' -')[0]
+                link = f'ddlv/cats/{quote_plus(json.dumps(response[key]))}'
+            elif url.startswith('ddlv/cats/'):
+                title = key.rstrip('</span>')
+                link = f'ddlv/events/{quote_plus(json.dumps(response[key]))}'
+                
+            itemlist.append(
+                {
+                    'type': 'dir',
+                    'title': title,
+                    'link': link,
+                    'summary': title
+                }
+            )
+        return itemlist
+
+
+    def play_video(self, item: str) -> Optional[bool]:
+        if not self.base_url in str(item):
+            return
+            
+        url = json.loads(item['link'])
+        title = item['title']
+        thumbnail = m.addon_icon
+        if isinstance(url, list):
+            if len(url) > 1:
+                url = self.get_multilink(url)
+                if not url:
+                    sys.exit()
+            else:
+                url = url[0][1]
+        response = requests.get(url, headers=self.headers, timeout=10).text
+        soup = BeautifulSoup(response, 'html.parser')
+        iframe = soup.find('iframe', attrs={'id': 'thatframe'})
+        if not iframe:
+            sys.exit()
+        url2 = iframe.get('src')
+        if not url2:
+            sys.exit()
+        self.headers['Referer'] = url
+        response2 = requests.get(url2, headers=self.headers, timeout=10).text
+        parsed_url = urlparse(url2)
+        referer_base = f"{parsed_url.scheme}://{parsed_url.netloc}"
+        server_lookup = re.findall('fetch\(\'([^\']*)',response2)
+        if not server_lookup:
+            sys.exit()
+        server_lookup = server_lookup[0]
+        channel_key = re.findall('var channelKey = "([^"]*)',response2)[0]
+        lookup_url = f'https://{urlparse(url2).netloc}{server_lookup}{channel_key}'
+        server_key = requests.get(lookup_url, headers=self.headers, timeout=10).json()['server_key']
+        domain = re.findall('"https://" \+ serverKey \+ "(.+?)" \+ serverKey \+ "/" \+ channelKey \+ "/mono.m3u8";', response2)[0]
+        referer = quote_plus(referer_base)
+        user_agent = quote_plus(self.user_agent)
+        
+        final_link = f'https://{server_key}{domain}{server_key}/{channel_key}/mono.m3u8|Referer={referer}/&Origin={referer}&Connection=Keep-Alive&User-Agent={user_agent}'
+        
+        liz = xbmcgui.ListItem(title, path=final_link)
+        liz.setInfo('video', {'plot': title})
+        liz.setArt({'icon': thumbnail, 'thumb': thumbnail, 'poster': thumbnail})
+        liz.setProperty('inputstream', 'inputstream.ffmpegdirect')
+        liz.setMimeType('application/x-mpegURL')
+        liz.setProperty('inputstream.ffmpegdirect.is_realtime_stream', 'true')
+        liz.setProperty('inputstream.ffmpegdirect.stream_mode', 'timeshift')
+        liz.setProperty('inputstream.ffmpegdirect.manifest_type', 'hls')
+        
+        xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, liz)
+        xbmc.Player().play(final_link, listitem=liz)
+        return True
+    
+    
+    def get_multilink(self, lists, lists2=None, trailers=None):
+        labels = []
+        links = []
+        counter = 1
+        if lists2 is not None:
+            for _list in lists2:
+                lists.append(_list)
+        for _list in lists:
+            if isinstance(_list, list) and len(_list) == 2:
+                if len(lists) == 1:
+                    return _list[1]
+                labels.append(_list[0])
+                links.append(_list[1])
+            elif isinstance(_list, str):
+                if len(lists) == 1:
+                    return _list
+                if _list.strip().endswith(')'):
+                    labels.append(_list.split('(')[-1].replace(')', ''))
+                    links.append(_list.rsplit('(')[0].strip())
+                else:
+                    labels.append('Link ' + str(counter))
+                    links.append(_list)
+            else:
+                return
+            counter += 1
+        if trailers is not None:
+            for name, link in trailers:
+                labels.append(name)
+                links.append(link)
+        dialog = xbmcgui.Dialog()
+        ret = dialog.select('Choose a Link', labels)
+        if ret == -1:
+            return
+        if isinstance(lists[ret], str) and lists[ret].endswith(')'):
+            link = lists[ret].split('(')[0].strip()
+            return link
+        elif isinstance(lists[ret], list):
+            return lists[ret][1]
+        return lists[ret]
+    
+    def convert_utc_time_to_local(self, utc_time_str):
+        today = date.today()
+        datetime_str = f"{today} {utc_time_str}"
+        utc_datetime = datetime.strptime(datetime_str, "%Y-%m-%d %H:%M")
+        utc_datetime = utc_datetime.replace(tzinfo=pytz.utc)
+        local_tz = get_localzone()
+        local_time = utc_datetime.astimezone(local_tz)
+        return local_time.strftime("%I:%M %p").lstrip('0')
+    
