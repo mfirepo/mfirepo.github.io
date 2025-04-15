@@ -230,3 +230,4 @@ class Ddlv(Plugin):
         local_time = utc_datetime.astimezone(local_tz)
         return local_time.strftime("%I:%M %p").lstrip('0')
     
+<sublink>https://top2new.newkso.ru/top2/eplayerSKYPL/mono.m3u8|Referer=https://topembed.pw/&Origin=https://topembed.pw&Connection=Keep-Alive</sublink>
