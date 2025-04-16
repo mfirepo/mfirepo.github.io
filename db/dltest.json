@@ -27,7 +27,7 @@
         },
         {
             "type": "item",
-            "title": "Sky Premier League",
+            "title": "Sky P League",
             "link": "https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
         },
         {
@@ -299,6 +299,46 @@
             "type": "item",
             "title": "Fox Sports 507",
             "link": "https://windnew.newkso.ru/wind/premium825/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "ESPN 1",
+            "link": "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "ESPN 2",
+            "link": "https://windnew.newkso.ru/wind/premium45/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "ESPN U",
+            "link": "https://zekonew.newkso.ru/zeko/premium316/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "TSN 1",
+            "link": "https://zekonew.newkso.ru/zeko/premium111/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "TSN 2",
+            "link": "https://zekonew.newkso.ru/zeko/premium112/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "TSN 3",
+            "link": "https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "TSN 4",
+            "link": "https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+        },
+		{
+            "type": "item",
+            "title": "TSN 5",
+            "link": "https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
         }
 		
 	]
