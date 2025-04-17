@@ -8,7 +8,7 @@
      {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #2[/COLOR]",
-      "link": "https://mfirepo.github.io/db/dltest.json"
+      "link": "https://cmanbuildsxyz.com/sport/dltest.json"
     },
     {
       "type": "dir",
@@ -39,12 +39,9 @@
       "type": "plugin",
       "title": "[COLORwhite]UKTV Now Sports[/COLOR]",
       "link": "plugin.video.mayhem/uktvnow/category/Sports"
-    },
-    {
-      "type": "plugin",
-      "title": "[COLORwhite]UKTV Now All*[/COLOR]",
-      "link": "plugin.video.mayhem/uktvnow/categories"
     }
+   
+    
     
   ]
 }
