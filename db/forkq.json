@@ -93,8 +93,9 @@
     {
       "type": "item",
       "title": "Sky Atlantic",
-      "sportjetextractors": [
-        "https://daddylive.mp/stream/stream-362.php"
+      "link": [
+        "https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-362.php"
       ]
     },
     {
@@ -171,8 +172,7 @@
       "type": "item",
       "title": "Sky Action",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-677.php",
-        "plugin://plugin.video.forkq/uktvnow/play/609"
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-677.php"
       ]
     },
     {
@@ -199,39 +199,26 @@
     },
     {
       "type": "item",
-      "title": "Crave Movies 1",
-      "link": "http://fl3.moveonjoy.com/CRAVE_1/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Crave Movies 2",
-      "link": "http://fl2.moveonjoy.com/CRAVE_2/index.m3u8"
-    },
-    {
-      "type": "item",
-      "title": "Crave Movies 4",
-      "link": "http://fl2.moveonjoy.com/CRAVE_4/index.m3u8"
-    },
-    {
-      "type": "item",
       "title": "HBO",
       "link": [
+        "https://zekonew.newkso.ru/zeko/premium321/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
         "http://fl2.moveonjoy.com/HBO/index.m3u8",
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-321.php",
-        "plugin://plugin.video.forkq/uktvnow/play/128"
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-321.php"
       ]
     },
     {
       "type": "item",
       "title": "HBO 2",
       "link": [
+        "https://nfsnew.newkso.ru/nfs/premium689/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-689.php"
       ]
     },
     {
       "type": "item",
       "title": "HBO Comedy",
-      "sportjetextractors": [
+      "link": [
+        "https://nfsnew.newkso.ru/nfs/premium690/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
         "https://daddylive.mp/stream/stream-690.php"
       ]
     },
@@ -239,31 +226,32 @@
       "type": "item",
       "title": "HBO Family",
       "link": [
-        "http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8",
-        "plugin://plugin.video.forkq/uktvnow/play/611"
+        "https://nfsnew.newkso.ru/nfs/premium691/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8"
       ]
     },
     {
       "type": "item",
       "title": "HBO Signature",
-      "sportjetextractors": [
-        "https://daddylive.mp/stream/stream-693.php"
+      "link": [
+        "https://nfsnew.newkso.ru/nfs/premium693/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-693.php"
       ]
     },
     {
       "type": "item",
       "title": "HBO Zone",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-694.php",
-        "plugin://plugin.video.forkq/uktvnow/play/609"
+        "https://nfsnew.newkso.ru/nfs/premium694/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-694.php"
       ]
     },
     {
       "type": "item",
       "title": "Showtime",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-333.php",
-        "plugin://plugin.video.forkq/uktvnow/play/472"
+		"https://windnew.newkso.ru/wind/premium333/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-333.php"
       ]
     },
     {
@@ -296,8 +284,8 @@
       "type": "item",
       "title": "Starz",
       "link": [
-        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-335.php",
-        "plugin://plugin.video.forkq/uktvnow/play/602"
+		"https://zekonew.newkso.ru/zeko/premium335/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
+        "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-335.php"
       ]
     },
     {
@@ -345,6 +333,7 @@
       "type": "item",
       "title": "Gold UK",
       "link": [
+		"https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive",
         "plugin://plugin.video.forkq/sportjetextractors/play?urls=https://daddylive.mp/stream/stream-687.php",
         "plugin://plugin.video.forkq/uktvnow/play/236"
       ]
