@@ -75,6 +75,31 @@
       "title": "Sky Sports News",
       "link": "https://windnew.newkso.ru/wind/premium366/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
+	{
+      "type": "item",
+      "title": "Premier League",
+      "link": "https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+    },
+	{
+      "type": "item",
+      "title": "Premier League",
+      "link": "https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+    },
+	{
+      "type": "item",
+      "title": "Premier League",
+      "link": "https://nfsnew.newkso.ru/nfs/premium27/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+    },
+	{
+      "type": "item",
+      "title": "Premier League",
+      "link": "https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+    },
+	{
+      "type": "item",
+      "title": "Premier League",
+      "link": "https://nfsnew.newkso.ru/nfs/premium29/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
+    },
     {
       "type": "item",
       "title": "SS P League",
@@ -365,12 +390,12 @@
       "title": "LFC TV",
       "link": "https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	  {
+    {
       "type": "item",
       "title": "Racing TV",
       "link": "https://zekonew.newkso.ru/zeko/premium555/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "Motor Trend",
       "link": "https://dokko1new.newkso.ru/dokko1/premium661/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
@@ -380,37 +405,37 @@
       "title": "Tennis Channel",
       "link": "https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports Bay Area",
       "link": "https://windnew.newkso.ru/wind/premium753/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports Boston",
       "link": "https://windnew.newkso.ru/wind/premium754/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports California",
       "link": "https://windnew.newkso.ru/wind/premium755/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports Chicago",
       "link": "https://windnew.newkso.ru/wind/premium776/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports Philadelphia",
       "link": "https://zekonew.newkso.ru/zeko/premium777/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBC Sports Washington",
       "link": "https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "Premier Sports 1",
       "link": "https://windnew.newkso.ru/wind/premium451/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
@@ -425,7 +450,7 @@
       "title": "MLB Network",
       "link": "https://windnew.newkso.ru/wind/premium399/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "NBA Network",
       "link": "https://zekonew.newkso.ru/zeko/premium404/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
@@ -435,22 +460,22 @@
       "title": "NFL Network",
       "link": "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "Fight Network",
       "link": "https://zekonew.newkso.ru/zeko/premium757/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "WWE Network",
       "link": "https://windnew.newkso.ru/wind/premium376/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "USA Network",
       "link": "https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
     },
-	{
+    {
       "type": "item",
       "title": "Yes Network",
       "link": "https://zekonew.newkso.ru/zeko/premium763/mono.m3u8|Referer=https://xtreaweb.top/&Origin=https://xtreaweb.top&Connection=Keep-Alive"
