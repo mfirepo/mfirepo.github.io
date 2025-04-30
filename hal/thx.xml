@@ -1244,6 +1244,19 @@ item>
 	<fanart>https://i.imgur.com/swuXPqM.jpeg</fanart>
 </item>
 
+ {
+      "type": "plugin",
+      "title": "[COLORlime]Catch Up TV[/COLOR]",
+      "link": "plugin.video.tvfree"
+    },
+
+<plugin>
+	<title>Test**</title>
+	<link>plugin.video.dlv2/get_list/ddlv/cats/</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</plugin>
+
 
 item>
 	<title>Test*</title>
