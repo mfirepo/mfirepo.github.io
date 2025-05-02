@@ -1019,7 +1019,7 @@
 </item>
 
 
-<item>
+item>
 	<title>Test*</title>
 	<link>
 		<sublink>plugin://plugin.video.dlv2/play_video/{"type":+"item",+"title":+"ABC+USA",+"link":+"[[\"ABC+USA\",+\"https://daddylive.mp/stream/stream-51.php\"]]",+"summary":+"ABC+USA"}</sublink>
