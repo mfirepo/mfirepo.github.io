@@ -12,6 +12,11 @@
     },
     {
       "type": "dir",
+      "title": "[COLORwhite]Live Events[/COLOR]",
+      "link": "https://mfirepo.github.io/db/events.json"
+    },
+    {
+      "type": "dir",
       "title": "[COLORwhite]UFC/MMA[/COLOR]",
       "pvr_sport_search": "search/mma?include=17"
     },
