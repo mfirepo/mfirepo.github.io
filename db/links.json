@@ -2,25 +2,25 @@
   "items": [
     {
       "type": "dir",
-      "title": "Bournemouth v Manchester United",
-      "pvr_sport_search": "search/Bournemouth?include=17"
+      "title": "Aston Villa v Fulham",
+      "pvr_sport_search": "search/Fulham?include=17"
     },
     {
       "type": "dir",
-      "title": "Liverpool v Tottenham Hotspur",
-      "pvr_sport_search": "search/Tottenham?include=17",
+      "title": "Everton v Ipswich Town",
+      "pvr_sport_search": "search/Everton?include=17",
       "enabled": "true"
     },
     {
       "type": "dir",
-      "title": "Newcastle United v Ipswich Town",
-      "pvr_sport_search": "search/Ipswich Town?include=17",
+      "title": "Leicester City v Southampton",
+      "pvr_sport_search": "search/Southampton?include=17",
       "enabled": "false"
     },
     {
       "type": "dir",
-      "title": "Southampton v Fulham",
-      "pvr_sport_search": "search/Southampton?include=17",
+      "title": "Arsenal v Bournemouth",
+      "pvr_sport_search": "search/Bournemouth?include=17",
       "enabled": "false"
     },
     {
