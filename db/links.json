@@ -15,13 +15,13 @@
       "type": "dir",
       "title": "Leicester City v Southampton",
       "pvr_sport_search": "search/Southampton?include=17",
-      "enabled": "false"
+      "enabled": "true"
     },
     {
       "type": "dir",
       "title": "Arsenal v Bournemouth",
       "pvr_sport_search": "search/Bournemouth?include=17",
-      "enabled": "false"
+      "enabled": "true"
     },
     {
       "type": "dir",
