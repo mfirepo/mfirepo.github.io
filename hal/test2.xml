@@ -1,8 +1,6 @@
 <items>
-    <item>
-        <title>Sample Folder*</title>
-        <link>https://mfirepo.github.io/hal/test1.xml</link>
-        <thumbnail>https://example.com/thumbs/folder.png</thumbnail>
-        <fanart>https://example.com/fanart/folder.jpg</fanart>
-    </item>
+  <folder label="Movies" thumb="http://example.com/thumb.jpg" fanart="http://example.com/fanart.jpg">
+    <item label="Sample Movie" url="https://example.com/movie-link" thumb="http://example.com/movie-thumb.jpg" fanart="http://example.com/movie-fanart.jpg" />
+  </folder>
+  <item label="Direct Video" url="https://example.com/stream" thumb="http://example.com/thumb2.jpg" fanart="http://example.com/fanart2.jpg" />
 </items>
