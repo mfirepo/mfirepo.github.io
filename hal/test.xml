@@ -1,7 +1,12 @@
 <videos>
-	<video>
-	<title>I Brake For Caterpillars</title>
-	<link>https://do7go.com/d/xtmzrkqhxt4g</link>
-	</video>
+    <video>
+        <title>I Brake For Caterpillars</title>
+        <url>https://do7go.com/d/xtmzrkqhxt4g</url>
+    </video>
+    <video>
+        <title>Sample Video 2</title>
+        <url>https://example.com/video2.mp4</url>
+    </video>
 </videos>
+
 
