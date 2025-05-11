@@ -1,4 +1,4 @@
-<playlist>
+<items>
     <item>
         <title>My Movie*</title>
         <link>https://do7go.com/d/t1csbr68uzqn</link>
@@ -6,10 +6,9 @@
         <fanart>https://image.tmdb.org/t/p/original/43EGc5aGL2SDfLhqEVgpGQIFEfj.jpg</fanart>
     </item>
     <item>
-        <title>Series</title>
-        <link>https://example.com/series.xml</link>
-        <folder>true</folder>
+        <title>M3u8</title>
+        <link>http://143.244.60.30/CRAVE_2/index.m3u8</link>
         <thumbnail>https://example.com/series_thumb.jpg</thumbnail>
         <fanart>https://example.com/series_fanart.jpg</fanart>
     </item>
-</playlist>
+</items>
