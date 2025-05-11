@@ -1,0 +1,53 @@
+import sys
+import urllib.request
+import xml.etree.ElementTree as ET
+import resolveurl
+import xbmcplugin
+import xbmcgui
+import xbmcaddon
+import urllib.parse
+
+addon = xbmcaddon.Addon()
+addon_handle = int(sys.argv[1])
+base_url = sys.argv[0]
+
+REMOTE_XML_URL = "https://mfirepo.github.io/hal/test1.xml"  # <-- Replace with your XML URL
+
+def build_url(query):
+    return base_url + '?' + urllib.parse.urlencode(query)
+
+def list_videos():
+    with urllib.request.urlopen(REMOTE_XML_URL) as response:
+        xml_data = response.read()
+    root = ET.fromstring(xml_data)
+    
+    for item in root.findall('item'):
+        title = item.find('title').text
+        link = item.find('link').text
+        thumb = item.find('thumbnail').text
+        fanart = item.find('fanart').text
+
+        url = build_url({'action': 'play', 'link': link})
+        li = xbmcgui.ListItem(label=title)
+        li.setArt({'thumb': thumb, 'fanart': fanart})
+        li.setInfo('video', {'title': title})
+        li.setProperty('IsPlayable', 'true')
+        xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False)
+
+    xbmcplugin.endOfDirectory(addon_handle)
+
+def play_video(link):
+    stream_url = resolveurl.resolve(link)
+    li = xbmcgui.ListItem(path=stream_url)
+    xbmcplugin.setResolvedUrl(addon_handle, True, listitem=li)
+
+def router(paramstring):
+    params = dict(urllib.parse.parse_qsl(paramstring))
+    if params:
+        if params['action'] == 'play':
+            play_video(params['link'])
+    else:
+        list_videos()
+
+if __name__ == '__main__':
+    router(sys.argv[2][1:])
