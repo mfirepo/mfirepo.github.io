@@ -1,0 +1,48 @@
+import sys
+import json
+import requests
+import urllib.parse
+import xbmcplugin
+import xbmcgui
+import xbmcaddon
+import xbmc
+import resolveurl
+
+addon = xbmcaddon.Addon()
+addon_handle = int(sys.argv[1])
+base_url = sys.argv[0]
+
+# Replace with your actual remote JSON URL
+json_url = "https://cmanbuildsxyz.com/forkq/vod.json"
+
+def get_url(**kwargs):
+    return base_url + '?' + urllib.parse.urlencode(kwargs)
+
+def list_videos():
+    response = requests.get(json_url)
+    video_list = response.json()
+
+    for video in video_list:
+        url = get_url(action='play', video_url=video['url'])
+        li = xbmcgui.ListItem(label=video['title'])
+        li.setArt({'thumb': video['thumbnail'], 'fanart': video['fanart']})
+        li.setInfo('video', {'title': video['title']})
+        li.setProperty('IsPlayable', 'true')
+        xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False)
+
+    xbmcplugin.endOfDirectory(addon_handle)
+
+def play_video(video_url):
+    stream_url = resolveurl.resolve(video_url)
+    li = xbmcgui.ListItem(path=stream_url)
+    xbmcplugin.setResolvedUrl(addon_handle, True, li)
+
+def router(paramstring):
+    params = dict(urllib.parse.parse_qsl(paramstring))
+    if params.get('action') == 'play':
+        play_video(params['video_url'])
+    else:
+        list_videos()
+
+if __name__ == '__main__':
+    router(sys.argv[2][1:])
