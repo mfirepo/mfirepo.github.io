@@ -1,4 +1,7 @@
 <directory>
     <title>My Videos</title>
+    <item>
+        <title>Movies</title>
         <link>https://mfirepo.github.io/hal/test2.xml</link>
+    </item>
 </directory>
