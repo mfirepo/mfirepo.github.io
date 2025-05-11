@@ -2,7 +2,7 @@
     <item>
         <title>Sample Folder</title>
         <folder>1</folder>
-        <link>https://example.com/folder1.xml</link>
+        <link>https://mfirepo.github.io/hal/test1.xml</link>
         <thumbnail>https://example.com/thumbs/folder.png</thumbnail>
         <fanart>https://example.com/fanart/folder.jpg</fanart>
     </item>
