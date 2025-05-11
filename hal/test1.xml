@@ -1,10 +1,9 @@
 <playlist>
   <item>
-    <title>Test 1</title>
+    <title>Test 1*</title>
     <link>https://filemoon.to/d/omm1fguq5w2x/I.Brake.For.Caterpillars.2024.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4</link>
-  </item>
-  <item>
-    <title>Test 2**</title>
-    <link>http://143.244.60.30/CRAVE_2/index.m3u8</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg</fanart>
+</item>
   </item>
 </playlist>
