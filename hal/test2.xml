@@ -1,11 +1,4 @@
 <directory>
     <title>My Videos</title>
-    <item>
-        <title>Movies</title>
-        <link>file:///storage/videos/movies/</link>
-    </item>
-    <item>
-        <title>TV Shows</title>
-        <link>file:///storage/videos/tvshows/</link>
-    </item>
+        <link>https://mfirepo.github.io/hal/test2.xml</link>
 </directory>
