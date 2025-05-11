@@ -1,10 +1,16 @@
-  [
-        {
-            
-            "title": "I Brake For Caterpillars",
-            "link": "https://filemoon.to/d/omm1fguq5w2x/I.Brake.For.Caterpillars.2024.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4",
-            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg",
-            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg"
-        }
-       
-    ]
+ 
+[
+  {
+    "title": "I Brake For Caterpillars",
+    "url": "https://filemoon.to/d/omm1fguq5w2x/I.Brake.For.Caterpillars.2024.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg"
+  },
+  {
+    "title": "Sample Video 2",
+    "url": "https://somehost.com/video2.m3u8",
+    "thumbnail": "https://somehost.com/thumb2.jpg",
+    "fanart": "https://somehost.com/fanart2.jpg"
+  }
+]
+
