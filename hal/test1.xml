@@ -1,9 +1,10 @@
 <playlist>
   <item folder="true">
     <title>Test 1**</title>
-    <link>
-    <sublink>https://do7go.com/d/xtmzrkqhxt4g</sublink>
-    <sublink>https://filemoon.to/d/omm1fguq5w2x/I.Brake.For.Caterpillars.2024.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4</sublink>
-    </link>
+    <link>https://filemoon.to/d/omm1fguq5w2x/I.Brake.For.Caterpillars.2024.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4</link>
+  </item>
+  <item>
+    <title>Test 2**</title>
+    <link>http://143.244.60.30/CRAVE_2/index.m3u8</link>
   </item>
 </playlist>
