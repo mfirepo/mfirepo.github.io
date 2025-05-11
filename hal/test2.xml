@@ -1,6 +1,11 @@
-<items>
-  <folder label="Movies" thumb="http://example.com/thumb.jpg" fanart="http://example.com/fanart.jpg">
-    <item label="Sample Movie" url="https://example.com/movie-link" thumb="http://example.com/movie-thumb.jpg" fanart="http://example.com/movie-fanart.jpg" />
-  </folder>
-  <item label="Direct Video" url="https://example.com/stream" thumb="http://example.com/thumb2.jpg" fanart="http://example.com/fanart2.jpg" />
-</items>
+<directory>
+    <title>My Videos</title>
+    <item>
+        <title>Movies</title>
+        <link>file:///storage/videos/movies/</link>
+    </item>
+    <item>
+        <title>TV Shows</title>
+        <link>file:///storage/videos/tvshows/</link>
+    </item>
+</directory>
