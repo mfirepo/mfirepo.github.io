@@ -1,0 +1,15 @@
+<items>
+    <item>
+        <title>Sample Folder</title>
+        <folder>1</folder>
+        <link>https://example.com/folder1.xml</link>
+        <thumbnail>https://example.com/thumbs/folder.png</thumbnail>
+        <fanart>https://example.com/fanart/folder.jpg</fanart>
+    </item>
+    <item>
+        <title>Sample Video</title>
+        <link>https://example.com/video.m3u8</link>
+        <thumbnail>https://example.com/thumbs/video.png</thumbnail>
+        <fanart>https://example.com/fanart/video.jpg</fanart>
+    </item>
+</items>
