@@ -1,14 +1,16 @@
-[
-  {
-    "title": "Sample Video 1**",
-    "url": "http://143.244.60.30/HBO/index.m3u8"
-  },
-  {
-    "title": "YouTube Video",
-    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  },
-  {
-    "title": "Video",
-    "url": "https://filemoon.to/d/7myqqzx4yo59/Creep.Encounters.2024.NORDICSUBS.1080p.WEBRip.x264.AAC5.1-_YTS.MX_.mp4"
-  }
-]
+{
+  "streams": [
+    {
+      "url": "http://143.244.60.30/HBO/index.m3u8",
+      "title": "Stream 1",
+      "thumbnail": "https://example.com/thumb1.jpg",
+      "fanart": "https://example.com/fanart1.jpg"
+    },
+    {
+      "url": "https://filemoon.to/d/jeopndhzx1bu/Snow.White.2025.1080p.WEBRip.x264.AAC5.1-_YTS.MX_.mp4",
+      "title": "Stream 2",
+      "thumbnail": "https://example.com/thumb2.jpg",
+      "fanart": "https://example.com/fanart2.jpg"
+    }
+  ]
+}
