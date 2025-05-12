@@ -1,12 +1,17 @@
 
 [
-  {
-    "title": "Example Video",
-    "m3u8_url": "http://example.com/video.m3u8",
-    "thumbnail": "http://example.com/thumb.jpg",
-    "fanart": "http://example.com/fanart.jpg"
-  }
- 
+    {
+        "title": "Channel 1",
+        "url": "http://143.244.60.30/HBO/index.m3u8",
+        "thumbnail": "https://example.com/thumb1.jpg",
+        "fanart": "https://example.com/fanart1.jpg"
+    },
+    {
+        "title": "Channel 2",
+        "url": "http://143.244.60.30/CRAVE_2/index.m3u8",
+        "thumbnail": "https://example.com/thumb2.jpg",
+        "fanart": "https://example.com/fanart2.jpg"
+    }
 ]
 
 
