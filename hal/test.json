@@ -1,1 +1,14 @@
-1
+[
+  {
+    "title": "Sample Video 1",
+    "url": "https://example.com/stream1.m3u8"
+  },
+  {
+    "title": "YouTube Video",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "title": "File Host",
+    "url": "https://somefilehost.com/abc123"
+  }
+]
