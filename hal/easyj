@@ -1,48 +1,58 @@
 import sys
 import json
-import requests
+import urllib.request
 import urllib.parse
-import xbmcplugin
-import xbmcgui
-import xbmcaddon
 import xbmc
-import resolveurl
+import xbmcgui
+import xbmcplugin
+import xbmcaddon
 
-addon = xbmcaddon.Addon()
-addon_handle = int(sys.argv[1])
-base_url = sys.argv[0]
-
-# Replace with your actual remote JSON URL
-json_url = "https://cmanbuildsxyz.com/forkq/vod.json"
+# Constants
+BASE_URL = sys.argv[0]
+HANDLE = int(sys.argv[1])
+ADDON = xbmcaddon.Addon()
+REMOTE_JSON = "https://cmanbuildsxyz.com/forkq/vod.json"  # Change this to your remote JSON URL
 
 def get_url(**kwargs):
-    return base_url + '?' + urllib.parse.urlencode(kwargs)
+    return f"{BASE_URL}?{urllib.parse.urlencode(kwargs)}"
+
+def fetch_remote_json(url):
+    try:
+        with urllib.request.urlopen(url) as response:
+            return json.loads(response.read().decode())
+    except Exception as e:
+        xbmc.log(f"Error fetching JSON: {e}", xbmc.LOGERROR)
+        return []
 
 def list_videos():
-    response = requests.get(json_url)
-    video_list = response.json()
-
-    for video in video_list:
-        url = get_url(action='play', video_url=video['url'])
-        li = xbmcgui.ListItem(label=video['title'])
-        li.setArt({'thumb': video['thumbnail'], 'fanart': video['fanart']})
-        li.setInfo('video', {'title': video['title']})
-        li.setProperty('IsPlayable', 'true')
-        xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False)
-
-    xbmcplugin.endOfDirectory(addon_handle)
+    items = fetch_remote_json(REMOTE_JSON)
+    for item in items:
+        list_item = xbmcgui.ListItem(label=item['title'])
+        list_item.setArt({
+            'thumbnail': item.get('thumbnail', ''),
+            'fanart': item.get('fanart', ''),
+            'icon': item.get('thumbnail', '')
+        })
+        url = get_url(action='play', video_url=item['url'])
+        xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=list_item, isFolder=False)
+    xbmcplugin.endOfDirectory(HANDLE)
 
 def play_video(video_url):
-    stream_url = resolveurl.resolve(video_url)
-    li = xbmcgui.ListItem(path=stream_url)
-    xbmcplugin.setResolvedUrl(addon_handle, True, li)
+    import resolveurl
+    resolved = resolveurl.resolve(video_url)
+    if resolved:
+        xbmc.Player().play(resolved)
+    else:
+        xbmcgui.Dialog().notification("ResolveURL", "Failed to resolve URL", xbmcgui.NOTIFICATION_ERROR)
 
-def router(paramstring):
-    params = dict(urllib.parse.parse_qsl(paramstring))
-    if params.get('action') == 'play':
+def router(params):
+    action = params.get('action')
+    if action == 'play':
         play_video(params['video_url'])
     else:
         list_videos()
 
 if __name__ == '__main__':
-    router(sys.argv[2][1:])
+    args = urllib.parse.parse_qs(sys.argv[2][1:])
+    params = {k: v[0] for k, v in args.items()}
+    router(params)
