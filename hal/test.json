@@ -11,6 +11,12 @@
         "url": "http://143.244.60.30/CRAVE_2/index.m3u8",
         "thumbnail": "https://example.com/thumb2.jpg",
         "fanart": "https://example.com/fanart2.jpg"
+    },
+    {
+        "title": "Channel 3",
+        "url": "http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8",
+        "thumbnail": "https://example.com/thumb2.jpg",
+        "fanart": "https://example.com/fanart2.jpg"
     }
 ]
 
