@@ -1,23 +1,18 @@
 
 [
-    {
-        "title": "Channel 1",
-        "url": "http://143.244.60.30/HBO/index.m3u8",
-        "thumbnail": "https://example.com/thumb1.jpg",
-        "fanart": "https://example.com/fanart1.jpg"
-    },
-    {
-        "title": "Channel 2",
-        "url": "http://143.244.60.30/CRAVE_2/index.m3u8",
-        "thumbnail": "https://example.com/thumb2.jpg",
-        "fanart": "https://example.com/fanart2.jpg"
-    },
-    {
-        "title": "Channel 3",
-        "url": "http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8",
-        "thumbnail": "https://example.com/thumb2.jpg",
-        "fanart": "https://example.com/fanart2.jpg"
-    }
+  {
+    "title": "Stream Title 1",
+    "url": "http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8",
+    "thumbnail": "https://path/to/thumbnail1.jpg",
+    "fanart": "https://path/to/fanart1.jpg"
+  },
+  {
+    "title": "Stream Title 2",
+    "url": "https://filemoon.to/d/jeopndhzx1bu/Snow.White.2025.1080p.WEBRip.x264.AAC5.1-_YTS.MX_.mp4",
+    "thumbnail": "https://path/to/thumbnail2.jpg",
+    "fanart": "https://path/to/fanart2.jpg"
+  }
 ]
+
 
 
