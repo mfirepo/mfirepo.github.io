@@ -5,8 +5,8 @@
     "m3u8_url": "http://example.com/video.m3u8",
     "thumbnail": "http://example.com/thumb.jpg",
     "fanart": "http://example.com/fanart.jpg"
-  },
-  ...
+  }
+ 
 ]
 
 
