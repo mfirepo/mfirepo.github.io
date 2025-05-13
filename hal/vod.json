@@ -1,4 +1,22 @@
  [
+       { 
+            "title": "Animal Within",
+            "url": "magnet:?xt=urn:btih:D6616866F82D0F772062B1569649A6BE6194148C",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ej4JsH8KqbBONXm3jkFqVDBv0Ay.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/1Zso6NLl7ECEy8f5Sj9vqno2SCc.jpg"
+        },
+        { 
+            "title": "A Greyhound Of A Girl",
+            "url": "magnet:?xt=urn:btih:83F1538EB8F31B97F0E22972E203C7F188A1F10E",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yLJ7ivvgw0F1DIZMWoWXxmuJaZi.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/62zJyhD1qyre6hXz4AYX4Y4jEOm.jpg"
+        },
+        {
+            "title": "A Minecraft Movie",
+            "url": "magnet:?xt=urn:btih:063BA876543B789921119C2F19323656B6484F67",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
+        },
         {
             "title": "Snow White",
             "url": "magnet:?xt=urn:btih:0002420DB88FF3EFA395979F049BB5C2B16641DB",
