@@ -1,10 +1,69 @@
-[
-		{
-            
-            "title": "Test",
-            "url": "magnet:?xt=urn:btih:063BA876543B789921119C2F19323656B6484F67",
-            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggs34AKgFlmVg8gdvMqvc5YLD3W.jpg",
-            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ggs34AKgFlmVg8gdvMqvc5YLD3W.jpg"
+ [
+        {
+            "title": "Snow White",
+            "url": "magnet:?xt=urn:btih:0002420DB88FF3EFA395979F049BB5C2B16641DB",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/xb9wpY31SeVZbfkevYuolhfV63w.jpg"
+        },
+        {
+            "title": "Flintoff",
+            "url": "magnet:?xt=urn:btih:101E8C078D44263AF7F4D032C157F03769169119",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLwoKiOMQAuwA6XWnCPZZFwHNzP.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/7dxVmla2nvyW6ifyYSBKdY5qCxu.jpg"
+        },
+        {
+            "title": "Wolf Man",
+            "url": "magnet:?xt=urn:btih:FBC8BE932F2A965E1477201CCEDBDC51D812847E",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg"
+        },
+        {
+            "title": "The Comic Shop",
+            "url": "magnet:?xt=urn:btih:7AE593F5845AEF93043D0AD6E005C1DCCB18D189",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w9lTTWzbU6ZpXZPyXIntsUKBY4b.jpg"
+        },
+        {
+            "title": "Dating My Past",
+            "url": "magnet:?xt=urn:btih:87FA08A1C859FB33DFE406B2635439D18F16A3D4",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1l28L85KUZAHmgQdZU3yk6asUkt.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/olnKFfeg3JJY4KmVsuxKUSDvsvD.jpg"
+        },
+        {
+            "title": "I Brake For Caterpillars",
+            "url": "magnet:?xt=urn:btih:05A30FF88601C98392CEF5D852A85DB2FDA7C2F8",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aK0xpdLfddbqhjiLfVgpSEkmf1U.jpg"
+        },
+        {
+            "title": "Unit 234",
+            "url": "magnet:?xt=urn:btih:522CECE4847830CCD735C83D3510040EE34C070E",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sXx9bmX8ZhhFxJ2GnuP1JFom5it.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/43EGc5aGL2SDfLhqEVgpGQIFEfj.jpg"
+        },
+        {
+            "title": "Last Swim",
+            "url": "magnet:?xt=urn:btih:ECFC1D0B9404F86CB912C185357918DC9E72B90A",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2ythlr2AkcImjGezqvtxuldbbQ.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/9IUMsGH3VwAXwk6tAXhlkCfICxw.jpg"
+        },
+        {
+            "title": "Marijuambies",
+            "url": "magnet:?xt=urn:btih:8F889DA7F3D9BA56E36F9BF1F95BFDA915205DD3",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t8kKdKBILYbEtPiNTOREDJ6lAFO.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/8JNiP6RYiu0ROmykpojRLCHJZGl.jpg"
+        },
+        {
+            "title": "The Beta Project",
+            "url": "magnet:?xt=urn:btih:5A423BB50FC33F8561495975F761F9C7A18AC573",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49blwWbnJsCzVTB4VIrJJHkMWvg.jpg",
+            "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49blwWbnJsCzVTB4VIrJJHkMWvg.jpg"
+        },
+        {
+            "title": "California King",
+            "url": "magnet:?xt=urn:btih:B24362B290925B71BAB02D0EF951FD0DA0F01520",
+            "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/axGzowK4dLk9u91VsF9fXwfk5Cv.jpg",
+            "fanart": "https://image.tmdb.org/t/p/original/s5b4P57l99OhOFUHuI4eMCXQC3N.jpg"
         }
+    ]
 
-]
