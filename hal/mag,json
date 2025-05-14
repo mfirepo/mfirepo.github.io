@@ -1,0 +1,55 @@
+import sys
+import json
+import requests
+import urllib.parse
+import xbmcplugin
+import xbmcgui
+import xbmcaddon
+import xbmc
+
+ADDON = xbmcaddon.Addon()
+HANDLE = int(sys.argv[1])
+BASE_URL = sys.argv[0]
+REMOTE_LIST_URL = 'https://cmanbuildsxyz.com/forkq/vodm.json'  # replace with your real playlist
+
+def get_url(**kwargs):
+    return f"{BASE_URL}?{urllib.parse.urlencode(kwargs)}"
+
+def fetch_remote_list():
+    try:
+        response = requests.get(REMOTE_LIST_URL)
+        return response.json()  # expects a JSON list with keys: title, url, thumb, fanart
+    except Exception as e:
+        xbmc.log(f"[SimpleAddon] Error fetching remote list: {e}", xbmc.LOGERROR)
+        return []
+
+def list_items():
+    items = fetch_remote_list()
+    for item in items:
+        url = get_url(action='play', video_url=item['url'])
+        li = xbmcgui.ListItem(label=item['title'])
+        li.setArt({'thumb': item.get('thumb', ''), 'fanart': item.get('fanart', '')})
+        li.setInfo('video', {'title': item['title']})
+        li.setProperty('IsPlayable', 'true')
+        xbmcplugin.addDirectoryItem(handle=HANDLE, url=url, listitem=li, isFolder=False)
+    xbmcplugin.endOfDirectory(HANDLE)
+
+def play_video(video_url):
+    import resolveurl
+    resolved = resolveurl.resolve(video_url)
+    if resolved:
+        play_item = xbmcgui.ListItem(path=resolved)
+        xbmcplugin.setResolvedUrl(HANDLE, True, listitem=play_item)
+    else:
+        xbmcgui.Dialog().notification('ResolveURL', 'Failed to resolve stream', xbmcgui.NOTIFICATION_ERROR)
+
+def router(paramstring):
+    params = dict(urllib.parse.parse_qsl(paramstring))
+    action = params.get('action')
+    if action == 'play':
+        play_video(params['video_url'])
+    else:
+        list_items()
+
+if __name__ == '__main__':
+    router(sys.argv[2][1:])
