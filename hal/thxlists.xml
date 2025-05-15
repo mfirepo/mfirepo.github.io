@@ -25,9 +25,9 @@
 	<title>[COLORwhite]Movie Channels[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/thxonline.xml</link>
 </dir>
-plugin>
-	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>plugin://plugin.video.thx/?action=movies&url=https://www.imdb.com/list/ls522854851/</link>
+<plugin>
+	<title>[COLORwhite]Debrid Movies (Magneto App)[/COLOR]</title>
+	<link>plugin://plugin.video.magneto</link>
 </plugin>
 plugin>
 	<title>[COLORwhite]Debrid Shows*[/COLOR]</title>
