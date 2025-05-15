@@ -13,6 +13,10 @@
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]UHD Movies (App)[/COLOR]</title>
+	<link>plugin://plugin.video.ultra_flix</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
