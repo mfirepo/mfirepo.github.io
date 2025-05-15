@@ -1,17 +1,6 @@
 
 [
-  {
-    "title": "Stream Title 1",
-    "url": "http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8",
-    "thumbnail": "https://path/to/thumbnail1.jpg",
-    "fanart": "https://path/to/fanart1.jpg"
-  },
-  {
-    "title": "Stream Title 2",
-    "url": "https://filemoon.to/d/jeopndhzx1bu/Snow.White.2025.1080p.WEBRip.x264.AAC5.1-_YTS.MX_.mp4",
-    "thumbnail": "https://path/to/thumbnail2.jpg",
-    "fanart": "https://path/to/fanart2.jpg"
-  }
+  {"title": "Test", "url": "https://filemoon.to/d/g5g7vvwb5ztg/I.Want.To.Live.On.Mars.2023.1080p.WEBRip.x264.AAC-_YTS.MX_.mp4", "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aq9QwqwTeBADbaQ12dWgj38Hso.jpg", "fanart": "https://image.tmdb.org/t/p/original/q6FsAyUzL0tvmxo33dZrO00iNzU.jpg"}
 ]
 
 
