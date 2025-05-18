@@ -1,18 +1,24 @@
-[
 {
-    "title": "A Minecraft Movie",
-    "url": "magnet:?xt=urn:btih:91847C8DA24CB48C570C285E0C662970F261E57E",
-    "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
-  },
-  {
-    "title": "Snow White",
-    "url": "magnet:?xt=urn:btih:4918CFEB026304EFA438C2AE3CF20A23BCC31AAB",
-    "thumb": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/xb9wpY31SeVZbfkevYuolhfV63w.jpg"
-  },
-  
+  "items": [
+    {
+      "type": "plugin",
+      "title": "EasyFlix",
+      "link": "plugin.video.easyflix"
+    },
+    {
+      "type": "plugin",
+      "title": "Magneto",
+      "link": "plugin.video.magneto"
+    },
+    {
+      "type": "plugin",
+      "title": "UltraFlix",
+      "link": "plugin.video.ultra_flix"
+    }
+
   ]
+}
+   
 
 
 
