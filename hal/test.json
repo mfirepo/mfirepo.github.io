@@ -2,17 +2,17 @@
   "items": [
     {
       "type": "plugin",
-      "title": "EasyFlix",
+      "title": "[COLORlime]EasyFlix[/COLOR]",
       "link": "plugin.video.easyflix"
     },
     {
       "type": "plugin",
-      "title": "Magneto",
+      "title": "[COLORlime]Magneto[/COLOR]",
       "link": "plugin.video.magneto"
     },
     {
       "type": "plugin",
-      "title": "UltraFlix",
+      "title": "[COLORlime]UltraFlix[/COLOR]",
       "link": "plugin.video.ultra_flix"
     }
 
