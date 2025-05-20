@@ -1,15 +1,23 @@
-[
-  {
-    "name": "Example Addon",
-    "url": "https://cmanbuildsxyz.com/cman/repo/plugin.video.easyflix/plugin.video.easyflix-1.2.3.zip",
-    "description": "An example video addon"
-  },
-  {
-    "name": "Music Addon",
-    "url": "https://example.com/addons/plugin.audio.music.zip",
-    "description": "An example music addon"
-  }
-]
+{
+  "items": [
+    {
+      "type": "plugin",
+      "title": "[COLORlime]EasyFlix[/COLOR]",
+      "link": "plugin.video.easyflix"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]Magneto[/COLOR]",
+      "link": "plugin.video.magneto"
+    },
+    {
+      "type": "plugin",
+      "title": "[COLORlime]UltraFlix[/COLOR]",
+      "link": "plugin.video.ultra_flix"
+    }
+
+  ]
+}
    
 
 
