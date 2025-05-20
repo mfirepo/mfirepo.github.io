@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<dir>
-	<title>[COLORwhite]4K Movies 2024/25 (A To Z)[/COLOR]</title>
-	<link>https://mfirepo.github.io/hal/4k2024.xml</link>
-</dir>
+<plugin>
+	<title>[COLORwhite]4K Movies (2025)[/COLOR]</title>
+	<link>plugin://plugin.video.ultra_flix</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]4K Movies 2023 (A To Z)[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4k2023.xml</link>
