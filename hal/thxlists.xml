@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-<dir>
+dir>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/thx.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]Free Movies[/COLOR]</title>
+	<link>plugin://plugin.video.easyflix</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml</link>
@@ -13,16 +17,12 @@
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
 </dir>
-<plugin>
-	<title>[COLORwhite]UHD Movies (App)[/COLOR]</title>
-	<link>plugin://plugin.video.ultra_flix</link>
-</plugin>
-<dir>
+dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
 </dir>
 <plugin>
-	<title>[COLORwhite]Debrid Movies (App)[/COLOR]</title>
+	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.magneto</link>
 </plugin>
 <dir>
