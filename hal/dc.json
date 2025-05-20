@@ -12,19 +12,20 @@
     },
     {
       "type": "plugin",
-      "title": "[COLORlime]4K Movies (App)[/COLOR]",
+      "title": "[COLORlime]4K (2024/25)[/COLOR]",
       "link": "plugin.video.ultra_flix"
     },
     {
       "type": "dir",
       "title": "[COLORlime]4K (2024/25)[/COLOR]",
-      "link": "https://mfirepo.github.io/hal/4k2024.xml"
+      "link": "https://mfirepo.github.io/hal/4k2024.xml",
+	  "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORlime]Debrid Movies[/COLOR]",
       "link": "https://mfirepo.github.io/hal/rdhq.xml",
-	    "enabled": "false"
+	  "enabled": "false"
     },
     {
       "type": "plugin",
