@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<dir>
-  <title>[COLORwhite]4K Movies A To Z (2024/25)*[/COLOR]</title>
-  <link>plugin://plugin.video.ultra_flix</link>
+<plugin>
+  <title>[COLORwhite]4K Movies A To Z (2024/25)***[/COLOR]</title>
+  <link>plugin.video.ultra_flix</link>
   <thumbnail></thumbnail>
-</dir>
+</plugin>
 <dir>
   <title>[COLORwhite]4K Movies A To Z (2023)[/COLOR]</title>
   <link>https://mfirepo.github.io/hal/4k2023.xml</link>
