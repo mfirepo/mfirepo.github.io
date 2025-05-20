@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "type": "plugin",
-      "title": "[COLORlime]EasyFlix[/COLOR]",
-      "link": "plugin.video.easyflix"
+      "type": "dir",
+      "title": "[COLORlime]EasyFlix*[/COLOR]",
+      "link": "plugin://plugin.video.easyflix"
     },
     {
-      "type": "plugin",
+      "type": "dir",
       "title": "[COLORlime]Magneto[/COLOR]",
-      "link": "plugin.video.magneto"
+      "link": "plugin://plugin.video.magneto"
     },
     {
-      "type": "plugin",
+      "type": "dir",
       "title": "[COLORlime]UltraFlix[/COLOR]",
-      "link": "plugin.video.ultra_flix"
+      "link": "plugin://plugin.video.ultra_flix"
     }
 
   ]
