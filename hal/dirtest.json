@@ -1,0 +1,53 @@
+[
+    {
+        "type": "dir",
+        "title": "WWII Declassified",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7GIoEWaFUj205FGGhmfw2MJNxvZ.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/w3lJnjtRT2wRQAELWwrYNcSuj1b.jpg",
+        "items": [
+            {
+                "type": "video",
+                "title": "WWII Declassified",
+                "url": "https://streamruby.com/a4hu4y8g9hno.html",
+                "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7GIoEWaFUj205FGGhmfw2MJNxvZ.jpg",
+                "fanart": "https://image.tmdb.org/t/p/original/w3lJnjtRT2wRQAELWwrYNcSuj1b.jpg"
+            },
+            {
+                "type": "video",
+                "title": "WWII Declassified",
+                "url": "https://vidmoly.me/w/62anaageawyk",
+                "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7GIoEWaFUj205FGGhmfw2MJNxvZ.jpg",
+                "fanart": "https://image.tmdb.org/t/p/original/w3lJnjtRT2wRQAELWwrYNcSuj1b.jpg"
+            }
+        ]
+    },
+    {
+        "type": "dir",
+        "title": "Peter Pan's Neverland Nightmare",
+		"thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/9uGxyklcNwpjlIe3Lim7HyPVns6.jpg",
+        "items": [
+            {
+                "type": "video",
+                "title": "Peter Pan's Neverland Nightmare",
+                "url": "https://luluvdoo.com/d/zdqavjr1uem1",
+                "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",
+                "fanart": "https://image.tmdb.org/t/p/original/9uGxyklcNwpjlIe3Lim7HyPVns6.jpg"
+            },
+            {
+                "type": "video",
+                "title": "Peter Pan's Neverland Nightmare",
+                "url": "https://vidmoly.me/w/cdd31p02sc7c",
+                "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg",
+                "fanart": "https://image.tmdb.org/t/p/original/9uGxyklcNwpjlIe3Lim7HyPVns6.jpg"
+            }
+        ]
+    },
+    {
+        "type": "video",
+        "title": "Standalone Video",
+        "url": "https://luluvdoo.com/d/zdqavjr1uem1",
+        "thumbnail": "https://example.com/thumb2.jpg",
+        "fanart": "https://example.com/fanart2.jpg"
+    }
+]
