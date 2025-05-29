@@ -10,8 +10,8 @@ dir>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Free Movies*[/COLOR]</title>
-	<link>plugin://script.module.easyflix</link>
+	<title>[COLORwhite]Free Movies**[/COLOR]</title>
+	<link>plugin://script.module.magneto</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
