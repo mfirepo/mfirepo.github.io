@@ -9,6 +9,10 @@ dir>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
+<plugin>
+	<title>[COLORwhite]Free Movies*[/COLOR]</title>
+	<link>plugin://script.module.easyflix</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml</link>
