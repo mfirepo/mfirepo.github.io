@@ -9,7 +9,7 @@ dir>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
-<plugin>
+plugin>
 	<title>[COLORwhite]Free Movies**[/COLOR]</title>
 	<link>plugin://script.module.magneto</link>
 </plugin>
