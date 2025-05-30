@@ -22,7 +22,7 @@ dir>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
 </dir>
 <plugin>
-	<title>[COLORwhite]UHD Movies*[/COLOR]</title>
+	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2f4ku.json</link>
 </plugin>
 dir>
