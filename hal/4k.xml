@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 plugin>
-  <title>[COLORwhite]4K Movies A To Z (2024/25)***[/COLOR]</title>
-  <link>plugin.video.ultra_flix</link>
+  <title>[COLORwhite]4K Movies A To Z (2024/25)[/COLOR]</title>
+  <link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2f4ku.json</link>
   <thumbnail></thumbnail>
 </plugin>
 <dir>
