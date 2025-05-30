@@ -5,12 +5,12 @@ dir>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/thx.xml</link>
 </dir>
-<plugin>
+plugin>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Free Movies*[/COLOR]</title>
+	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2fvodu.json</link>
 </plugin>
 <dir>
@@ -27,7 +27,7 @@ dir>
 </dir>
 <plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>plugin://plugin.video.magneto</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2fvodmu.json</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
