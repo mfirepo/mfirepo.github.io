@@ -1,0 +1,30 @@
+[
+ {
+    "title": "[COLORlime]Free Movies[/COLOR]",
+    "link": "https://cmanbuildsxyz.com/forkq/vodu.json",
+    "is_dir": true,
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  },
+  {
+    "title": "[COLORlime]Debrid Movies[/COLOR]",
+    "link": "https://cmanbuildsxyz.com/forkq/vodmu.json",
+    "is_dir": true,
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  },
+  {
+    "title": "[COLORlime]UHD Movies[/COLOR]",
+    "link": "https://cmanbuildsxyz.com/forkq/4ku.json",
+    "is_dir": true,
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  },
+  {
+    "title": "[COLORlime]Classic 4K[/COLOR]",
+    "link": "https://cmanbuildsxyz.com/forkq/classic4k.json",
+    "is_dir": true,
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  }
+]
