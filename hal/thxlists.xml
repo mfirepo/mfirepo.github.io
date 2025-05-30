@@ -9,9 +9,9 @@ dir>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
-plugin>
+<plugin>
 	<title>[COLORwhite]Free Movies**[/COLOR]</title>
-	<link>plugin://script.module.magneto</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&amp;url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2fvodu.json</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
