@@ -17,10 +17,14 @@ plugin>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml</link>
 </dir>
-<dir>
+dir>
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/4ksel.xml</link>
 </dir>
+<plugin>
+	<title>[COLORwhite]UHD Movies*[/COLOR]</title>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2f4ku.json</link>
+</plugin>
 dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>https://mfirepo.github.io/hal/rdhq.xml</link>
