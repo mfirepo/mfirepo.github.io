@@ -77,7 +77,7 @@ plugin>
 	<title>[COLORwhite]BBC iPlayer[/COLOR]</title>
 	<link>plugin://plugin.video.iplayerwww</link>
 </plugin>
-<plugin>
+plugin>
 	<title>[COLORwhite]Free Sports[/COLOR]</title>
 	<link>plugin://plugin.video.ftasport</link>
 </plugin>
