@@ -1,4 +1,5 @@
 
+
 import time,xbmcplugin,os,json,sys
 
 from resources.modules.public import *
@@ -119,8 +120,8 @@ def main_menu():
     all_d.append(aa)
     aa=addDir3('[COLORwhite]Free Shows[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/recent_episodes.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Shows',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[COLORwhite]Free Sports[/COLOR]', 'https://cmanbuilds.com/sport/free.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Sport',mypass=mypass)
-    all_d.append(aa)
+    #aa=addDir3('[COLORwhite]Free Sports[/COLOR]', 'https://cmanbuilds.com/sport/free.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Sport',mypass=mypass)
+    #all_d.append(aa)
     aa=addDir3('[COLORwhite]Sports Replays[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/WRESTLING%20REPLAYS/replays.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Sport',mypass=mypass)
     all_d.append(aa)
     aa=addDir3('[COLORwhite]Documentaries[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/DOCUMENTARIES/FreeDocs.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free',mypass=mypass)
