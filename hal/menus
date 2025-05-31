@@ -1,3 +1,4 @@
+
 import time,xbmcplugin,os,json,sys
 
 from resources.modules.public import *
@@ -98,10 +99,16 @@ def main_menu():
     key='zWrite'
     mypass=crypt(mypass,key)
 
-    aa=addDir3('[COLORwhite]Latest Movies[/COLOR]', 'https://cmanbuildsxyz.com/forkq/select.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free Movies (Non Debrid)',mypass=mypass)
+    aa=addDir3('[COLORwhite]1 Click Movies[/COLOR]', 'https://cmanbuildsxyz.com/forkq/select.json',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','One Click Movies (Debrid And Free)',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[COLORwhite]UHD Movies[/COLOR]', 'https://mfirepo.github.io/hal/4k.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','4K Movies (Debrid)',mypass=mypass)
-    all_d.append(aa)
+    if Addon.getSetting('movie_world')=='true':
+        aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
+        all_d.append(aa)
+    if Addon.getSetting('tv_world')=='true':
+        aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'basic.png',all_fanarts['32025'],'TV')
+        all_d.append(aa)
+    #aa=addDir3('[COLORwhite]UHD Movies[/COLOR]', 'https://mfirepo.github.io/hal/4k.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','4K Movies (Debrid)',mypass=mypass)
+    #all_d.append(aa)
     #aa=addDir3('[COLORwhite]Debrid Movies[/COLOR]', 'https://mfirepo.github.io/hal/rdhq.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Debrid (Debrid)',mypass=mypass)
     #all_d.append(aa)
     aa=addDir3('[COLORwhite]cMans Movies[/COLOR]', 'https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/MOVIES/Debrid-Main.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Movies (Debrid)',mypass=mypass)
@@ -120,12 +127,6 @@ def main_menu():
     all_d.append(aa)
     aa=addDir3('[COLORwhite]Live Webcams[/COLOR]', 'https://mfirepo.github.io/hal/camlist.xml',189,'https://i.imgur.com/LWBGiPh.png','https://i.imgur.com/7ecKGeN.jpg','Free',mypass=mypass)
     all_d.append(aa)
-    #if Addon.getSetting('movie_world')=='true':
-        #aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
-        #all_d.append(aa)
-    #if Addon.getSetting('tv_world')=='true':
-        #aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'basic.png',all_fanarts['32025'],'TV')
-        #all_d.append(aa)
     #if Addon.getSetting('trakt_world')=='true':
         #aa=addDir3(Addon.getLocalizedString(32026),'www',21,BASE_LOGO+'basic.png',all_fanarts['32026'],'No account needed)')
         #all_d.append(aa)
