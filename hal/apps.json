@@ -35,6 +35,11 @@
       "type": "plugin",
       "title": "[COLORlime]Test[/COLOR]",
       "link": "plugin.video.halcyon/get_list/m3ucat|https://raw.githubusercontent.com/mfirepo/mfirepo.github.io/refs/heads/main/hal/index.m3u|United Kingdom"
+    },
+    {
+      "type": "dir",
+      "title": "[COLORlime]Movie Test[/COLOR]",
+      "link": "https://cmanbuildsxyz.com/forkq/vodu.json"
     }
   
    
