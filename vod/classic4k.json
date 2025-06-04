@@ -41,6 +41,12 @@
         "thumbnail": "https://i.imgur.com/0FeoCcI.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "A Fistful Of Dollars (1964)",
+        "link": "magnet:?xt=urn:btih:6C21EE4F5F52601FEC8008F848B7FAD8F7ED0ECE",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "A Hard Days Night (1964)",
         "link": "magnet:?xt=urn:btih:9443b07700c25202e7e332e5e064a5f3fcd87b42&dn=A.Hard.Days.Night.1964.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1-RARBG",
@@ -48,17 +54,15 @@
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
-        "title": "A Haunting in Venice (2023)",
-        "link": [
-            "magnet:?xt=urn:btih:e2c05d7bd2d5d107e1f6c43d4e31fbf2a6b1f18f&dn=A.Haunting.in.Venice.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-B00TiFUL[TGx]"
-        ],
-        "thumbnail": "https://i.imgur.com/mFrdDRZ.jpg",
-        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
-    },
-    {
         "title": "A Million Miles Away (2023)",
         "link": "magnet:?xt=urn:btih:d93cdb0d5f89d509c88d383e5a5e9433c3435407&dn=A.Million.Miles.Away.2023.HDR.2160p.WEB.H265-AccomplishedYak[TGx]",
         "thumbnail": "https://zupimages.net/up/23/37/k6hd.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Another 48 Hrs (1990)",
+        "link": "magnet:?xt=urn:btih:636FBAEAB311A972FD4E728316265B1FD109E4FB",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3oSAuZP0346zcIo6awKzHyGUS44.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -97,6 +101,18 @@
         "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Ant-Man (2015)",
+        "link": "magnet:?xt=urn:btih:37F985BC67567BF7AAEB3D148986136A1436CD37",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Ant-Man And The Wasp (2018)",
+        "link": "magnet:?xt=urn:btih:7BBE6B3D20AD3A6A1644EF725BE601ABE8D3C03C",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Ant-Man And The Wasp: Quantumania (2023)",
         "link": "magnet:?xt=urn:btih:96ae9e9b8dcf911734d38c736932085fb7fe619f&;dn=Ant-Man.and.the.Wasp.Quantumania.2023.2160p.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-CM",
@@ -107,6 +123,12 @@
         "title": "Apollo 13 (1995)",
         "link": "magnet:?xt=urn:btih:BDC5E6A2B9809BCA9844BE7CE908399EB82A33F7&;dn=Apollo+13+%281995%29+%5B2160p%5D+%5BYTS.MX%5D",
         "thumbnail": "https://i.imgur.com/vYiCvW1.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Aquaman (2018)",
+        "link": "magnet:?xt=urn:btih:3403AE6E84CA1DCDD957B169A15B62673715DCA6",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIDpaHSnTMYK0Cf5RkEoQzXPpBE.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -205,10 +227,28 @@
         "thumbnail": "https://i.imgur.com/vNdCMgM.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
-    {
+	{
         "title": "Belfast (2021)",
         "link": "magnet:?xt=urn:btih:94b80588f4f787fa91051879bd749c1acc6960a5&dn=Belfast.2021.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-CMRG[TGx]",
         "thumbnail": "https://i.imgur.com/OQxBKAK.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Beverly Hills Cop (1984)",
+        "link": "magnet:?xt=urn:btih:2B264D96E3D0ED90AFBC2CF5CC5D96C0E658B9D8",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Beverly Hills Cop II (1987)",
+        "link": "magnet:?xt=urn:btih:99030F205C1019629ADD8D75AF76690A1090279C",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Beverly Hills Cop: Axel F (2024)",
+        "link": "magnet:?xt=urn:btih:74284CD0FD899EBE3B195F9ED6E13DEF4352C795",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -307,6 +347,12 @@
         "thumbnail": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Charlie And The Chocolate Factory (2005)",
+        "link": "magnet:?xt=urn:btih:799DCB6E1CB68DE9DD621088BBC7542FB463A19E",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Cinderella (1950)",
         "link": "magnet:?xt=urn:btih:553d0dc1b536a65ea163d732f7fadb74b1359824&;dn=Cinderella.1950.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG",
@@ -367,6 +413,12 @@
         "thumbnail": "https://i.imgur.com/iMC02Qw.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Days Of Thunder (1990)",
+        "link": "magnet:?xt=urn:btih:F37D878FC467978D54DB45B869ED26C3BF3F7159",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4kHzXHRJGcRxxRvkCvb5yTxZwml.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Deadpool (2016)",
         "link": "magnet:?xt=urn:btih:2b141fed08198c62627417e728964d91bc7497cf&dn=Deadpool.2016.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-EMERALD",
@@ -380,7 +432,7 @@
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
 	{
-        "title": "Deadpool And Wolverine (2024)",
+        "title": "Deadpool & Wolverine (2024)",
         "link": "magnet:?xt=urn:btih:FF904A75387E714274F9829E36D5B2BDB24DA5A5",
         "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
@@ -467,6 +519,12 @@
         "title": "Dirty Dancing (1987)",
         "link": "magnet:?xt=urn:btih:027421c01bdd408e1dabe2aadb3460b84d4d8999&dn=Dirty.Dancing.1987.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ",
         "thumbnail": "https://i.imgur.com/OkbNbyH.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Dirty Harry (1971)",
+        "link": "magnet:?xt=urn:btih:C4A4566B79B9215B8CE45458DB8C2C2ED05A69EB",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -655,6 +713,12 @@
         "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ziiy6ORt8BlxWFXskBChBMInvDA.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "For A Few Dollars More (1965)",
+        "link": "magnet:?xt=urn:btih:BB07D8D8E5CFBA66C1BD0B0EEF2ECCFEA7DBD61D",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "For All Mankind (1989)",
         "link": "magnet:?xt=urn:btih:cbe48928134ed14d60da6974cc5a6cabfe9be7fa&dn=For.All.Mankind.1989.WS.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-RARBG",
@@ -809,6 +873,12 @@
         "title": "Heist 88 (2023)",
         "link": "magnet:?xt=urn:btih:0b144e71ad120e011bd4cb30fcbcbee6cc281271&dn=Heist.88.2023.2160p.WEB.H265-HTFS[TGx]",
         "thumbnail": "https://img89.pixhost.to/images/928/384004773_7718100.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "High Plains Drifter (1973)",
+        "link": "magnet:?xt=urn:btih:F68CCD8B1BA5061B2352F346D9B9FCA41346E4D0",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -1309,6 +1379,12 @@
         "thumbnail": "https://i.imgur.com/CRaiGBz.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Rocky (1976)",
+        "link": "magnet:?xt=urn:btih:54C66F39110A3003E6E8BB577BFFF71FF63C067D",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Rocky II (1979)",
         "link": "magnet:?xt=urn:btih:5f3d02abe8febec4c845eb0e93e2b939136b8f08&dn=Rocky.II.1979.2160p.WEB-DL.DD5.1.DV.MP4.x265-DVSUX",
@@ -1367,6 +1443,12 @@
         "title": "Saw X (2023)",
         "link": "magnet:?xt=urn:btih:a3e41820b7d66855d39c9a77750de914ca0e19f3&dn=Saw.X.2023.2160p.WEB-DL.DDP5.1.Atmos.H.265-FLUX[TGx]",
         "thumbnail": "https://i.imgur.com/fUNY4ux.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Scent Of A Woman (1992)",
+        "link": "magnet:?xt=urn:btih:070C01941344C5FCDD12C65634BF9D5DEAB268E4",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -1433,6 +1515,18 @@
         "title": "Sonic the Hedgehog (2020)",
         "link": "magnet:?xt=urn:btih:f1d9e3daeae4f372d5e99485d1564544bb2a74df&dn=Sonic.the.Hedgehog.2020.2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL",
         "thumbnail": "https://i.imgur.com/vyTkSHQ.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Sonic the Hedgehog 2 (2022)",
+        "link": "magnet:?xt=urn:btih:E4D80919AC235B172EE40A9FCFFFE9DC5E0923EE",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+        "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Sonic the Hedgehog 3 (2024)",
+        "link": "magnet:?xt=urn:btih:21C595707655E8C2BB44A103064D225CE4B7EA02",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
         "fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {
@@ -2011,6 +2105,12 @@
         "thumbnail": "https://i.imgur.com/mQIQ9Je.jpg",
 		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "The Outlaw Josey Wales (1976)",
+        "link": "magnet:?xt=urn:btih:1BB1C350A0504FA57CBE318AC46B06242DFBA584",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "The Popes Exorcist (2023)",
         "link": "magnet:?xt=urn:btih:3E273AAF9E8AE9AEEA55798A083BD5DF2B1DDD47&dn=The.Popes.Exorcist.2023.2160p.WEB-DL.DD5.1.DV.HDR.H.265-APEX%5BTGx",
@@ -2095,6 +2195,12 @@
         "thumbnail": "https://i.imgur.com/NTe1Vnf.jpg",
 		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Timecop (1994)",
+        "link": "magnet:?xt=urn:btih:AAEE5568033AF343C207FA2C15974625DFB344FC",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Top Gun (1986)",
         "link": "magnet:?xt=urn:btih:9f315bb59f8b63c6735dcc9ae176a338dc89e51a&dn=Top.Gun.1986.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG",
@@ -2161,6 +2267,12 @@
         "thumbnail": "https://i.imgur.com/ASGxoe7.jpg",
 		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
+	{
+        "title": "Two Mules for Sister Sara (1970)",
+        "link": "magnet:?xt=urn:btih:F4A9C2AFDB0EE0920C70DBC079366F61B45DC3A8",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RbuNHMlrw7M2w1R3hZMAPwh6dG.jpg",
+		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
     {
         "title": "Uncut Gems (2019)",
         "link": "magnet:?xt=urn:btih:abdc1a9eddbf07bf67c9d8b1129be426c17ad638&dn=Uncut.Gems.2019.2160p.UHD.BluRay.x265.10bit.HDR.DDP5.1-RARBG",
@@ -2201,6 +2313,18 @@
         "title": "Waynes World (1992)",
         "link": "magnet:?xt=urn:btih:633294bfa5141c585efa68eff6c78d8d7fe59424&dn=Waynes.World.1992.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG",
         "thumbnail": "https://i.imgur.com/mNqlgEL.jpg",
+		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "Waynes World 2 (1993)",
+        "link": "magnet:?xt=urn:btih:BA1E3BF451BDE078318CEEAEC2CDDA2D1D6ECB79",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72TBNPN06oo1myHqihwcCQVDl48.jpg",
+		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    },
+	{
+        "title": "What Lies Beneath (2000)",
+        "link": "magnet:?xt=urn:btih:CD7BB3D533CCE605370E2F79C311B529A436754C",
+        "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
 		"fanart": "https://archive.org/download/background_20250524/Background.jpg"
     },
     {

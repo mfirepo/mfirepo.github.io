@@ -6,6 +6,66 @@
     "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
   },
   {
+    "title": "The Death That Awaits",
+    "link": "magnet:?xt=urn:btih:21038406E8EA5A73E32B4CD91C3B07405AD491BC",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/b4zY1w8ZoKgW0bOGUEqjUQVoLXp.jpg"
+  },
+  {
+    "title": "Juliet & Romeo",
+    "link": "magnet:?xt=urn:btih:721792268D99C65C428F060FE421639C0CF500C7",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4spOdjLgRAbIYO7mu22DQ2iInz7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/metwIREbyek4h0v1BfL2l250wCz.jpg"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.",
+    "link": "magnet:?xt=urn:btih:83D922E9AF689453CF26CE3B8783CA7D1C19903A",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8FxyXMIt7seeAeXgkI28VmWKNPM.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/64pUuotcAyjGHGU0PUBhhyMbRRK.jpg"
+  },
+  {
+    "title": "Spit",
+    "link": "magnet:?xt=urn:btih:673F1554B5D87C1D2C114A8D039D8BBFD1E0B1ED",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q48tOodYI79btVLcoahtM3O2tpo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/nkABLAG05R2fbtdtc3JksX3gFFV.jpg"
+  },
+  {
+    "title": "Freaky Tales",
+    "link": "magnet:?xt=urn:btih:E177FF15B3D2236802B1B0B74128222CF6D22D9F",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lo5mfglsGeMYmAkSRXs9DATNJxk.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg"
+  },
+  {
+    "title": "Brave The Dark",
+    "link": "magnet:?xt=urn:btih:11299C98708189E19A6E912560E87D90532CB1DC",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ddOe8coyI38cauKrd5PRu4bfj9u.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/rGLyAibq9uE5Grc4McrJ5SEoEjQ.jpg"
+  },
+  {
+    "title": "Irish Ashes",
+    "link": "magnet:?xt=urn:btih:C65EAF1E0684498F88D64C0200295DD3AE792157",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dnswhxoK8xGBNIG7LWFiVIM1W4w.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dnswhxoK8xGBNIG7LWFiVIM1W4w.jpg"
+  },
+  {
+    "title": "The Severed Sun",
+    "link": "magnet:?xt=urn:btih:FDF5B1DE83B635DD2A805603EDE353F34655871A",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9lU6c7Mfuwvx6oLLYQ8UTQ9amlo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/a6NznKiOEn5fZ1mgVRvLcpqI72X.jpg"
+  },
+  {
+    "title": "Mountainhead",
+    "link": "magnet:?xt=urn:btih:BDC60265517E1741084217553D503BAF4D4D3179",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/iUTx9SnuMOl9bUwGuzq291GSFTa.jpg"
+  },
+  {
+    "title": "The Alien Perspective",
+    "link": "magnet:?xt=urn:btih:82E9C9376D42A4201EE16A55EB54854414D9EF88",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/trzLl81tAtlUsR8EhUUaVPN2kJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/iG0Kjm95zHVApDuSOKM1VmDsIXo.jpg"
+  },
+  {
     "title": "Shadow Force",
     "link": "magnet:?xt=urn:btih:60EFD89BBD0E571923760A6DE086E4BC12B34113",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uX6FaNE86a4Xnf1mFFEryvjqB1D.jpg",
@@ -25,7 +85,7 @@
   },
   {
     "title": "Sinners",
-    "link": "https://rapidgator.net/file/a673e1463df0b28d3b7003455893bad9/S.2025.1080p.WEB-DL.DDP5.1.Atmos.H.264-WADU.mkv.html",
+    "link": "magnet:?xt=urn:btih:8DBCB7D525712EAAC6E29B169C4E1E5AF8BDF8C3",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
   },
@@ -91,7 +151,7 @@
   },
   {
     "title": "Abduct",
-    "link": "magnet:?xt=urn:btih:FBAF5C617B5E6260A9A7AB6C252BB766AD258170",
+    "link": "magnet:?xt=urn:btih:33EA71561C05A366282AF5D9D6B0103BABF9DDCC",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dMFUnLuBHWg8OpuA9TYZSySsknR.jpg",
     "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dMFUnLuBHWg8OpuA9TYZSySsknR.jpg"
   },
