@@ -6,8 +6,26 @@
     "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
   },
   {
+    "title": "Graveyard Stories 3",
+    "link": "magnet:?xt=urn:btih:41C99DF6E98351A8BAC1D4BD1C8539D813E01D6E",
+    "thumbnail": "https://img.yts.mx/assets/images/movies/graveyard_stories_3_2023/medium-cover.jpg",
+    "fanart": "https://img.yts.mx/assets/images/movies/graveyard_stories_3_2023/large-screenshot2.jpg"
+  },
+  {
+    "title": "Henry Johnson",
+    "link": "magnet:?xt=urn:btih:YO7NMTGPV424YWNQJ7DKH2L5VPFZ2YQI",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mlWxYEsdtdY4zbW3L8B17ftAn4w.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/byf2GP9BohJmD8FKB8DSy1gULUb.jpg"
+  },
+  {
+    "title": "Drop",
+    "link": "magnet:?xt=urn:btih:8581741D37C0BE5A2B8A5593DEE39177DFB859DE",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2CcMG34v4PCynvxwmBUwVtNqsKL.jpg"
+  },
+  {
     "title": "The Death That Awaits",
-    "link": "magnet:?xt=urn:btih:21038406E8EA5A73E32B4CD91C3B07405AD491BC",
+    "link": "magnet:?xt=urn:btih:8BD8A622B11E216B6C33230AEA26CA5245D3B505",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7hloUkIXB1Jc0xjSFlO4dcVfzdt.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/b4zY1w8ZoKgW0bOGUEqjUQVoLXp.jpg"
   },
@@ -16,12 +34,6 @@
     "link": "magnet:?xt=urn:btih:721792268D99C65C428F060FE421639C0CF500C7",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4spOdjLgRAbIYO7mu22DQ2iInz7.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/metwIREbyek4h0v1BfL2l250wCz.jpg"
-  },
-  {
-    "title": "S.T.A.L.K.E.R.",
-    "link": "magnet:?xt=urn:btih:83D922E9AF689453CF26CE3B8783CA7D1C19903A",
-    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8FxyXMIt7seeAeXgkI28VmWKNPM.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/64pUuotcAyjGHGU0PUBhhyMbRRK.jpg"
   },
   {
     "title": "Spit",
@@ -760,12 +772,6 @@
     "link": "magnet:?xt=urn:btih:FD690DCF011B521CBC09B1B5EFE2A044EF275509",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/mpqIfhW3TtWduA8uC1CnnUCh8cj.jpg"
-  },
-  {
-    "title": "Drop",
-    "link": "magnet:?xt=urn:btih:8581741D37C0BE5A2B8A5593DEE39177DFB859DE",
-    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/2CcMG34v4PCynvxwmBUwVtNqsKL.jpg"
   },
   {
     "title": "Murder At The Lighthouse",
