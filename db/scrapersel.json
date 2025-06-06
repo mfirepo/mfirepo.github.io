@@ -9,16 +9,17 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Sports Channels #1[/COLOR]",
-      "pvr_sport_search": "search/channels?include=18"
+      "pvr_sport_search": "search/channels?include=18",
+      "enabled": "false"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
+      "title": "[COLORwhite]Sports Channels #1[/COLOR]",
       "link": "https://mfirepo.github.io/db/home1.json"
     },
     {
       "type": "dir",
-      "title": "[COLORwhite]Sports Channels #3[/COLOR]",
+      "title": "[COLORwhite]Sports Channels #2[/COLOR]",
       "link": "https://mfirepo.github.io/db/now.json"
     },
     {
