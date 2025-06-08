@@ -8,12 +8,14 @@
     {
       "type": "dir",
       "title": "[COLORwhite]Premier League[/COLOR]",
-      "link": "https://cmanbuildsxyz.com/sport/links.json"
+      "link": "https://cmanbuildsxyz.com/sport/links.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
       "title": "[COLORwhite]Live Events[/COLOR]",
-      "link": "https://cmanbuildsxyz.com/sport/events.json"
+      "link": "https://cmanbuildsxyz.com/sport/events.json",
+      "enabled": "false"
     },
     {
       "type": "dir",
