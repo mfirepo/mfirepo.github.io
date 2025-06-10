@@ -1,9 +1,9 @@
 {
 	"builds": [
 		{
-			"name": "Build 1",
+			"name": "Test Build",
 			"version": "1.0",
-			"url": "http://",
+			"url": "http://cmanbuildsxyz.com/test/NeoFlix.zip",
 			"icon": "http://",
 			"fanart": "http://",
 			"description": "The first build. You need a comma after the curly bracket if this is not the last build.",
