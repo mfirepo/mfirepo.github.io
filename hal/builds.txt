@@ -1,6 +1,6 @@
-name="Build 1"
+name="Build 1 Test"
 version="1.0"
-url="http://"
+url="http://cmanbuildsxyz.com/test/NeoFlix.zip"
 minor="http://"
 gui="http://"
 kodi="19"
