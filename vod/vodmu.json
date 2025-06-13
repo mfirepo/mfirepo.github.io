@@ -2,8 +2,86 @@
   {
     "title": "[COLORgold]Debrid Service Required[/COLOR]",
     "link": "magnet:",
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/info_20250613/info.png",
+    "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+  },
+  {
+    "title": "American Thunder",
+    "link": "magnet:?xt=urn:btih:ABEBFAC5132B31AE6152C6C780DF867229C99E33",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l9TBlDqNjouevOcwf6JmiQSMJhX.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hfChLWKNJR7Iv2vg7US613KuxI.jpg"
+  },
+  {
+    "title": "Deep Cover",
+    "link": "magnet:?xt=urn:btih:BFB421F04CFB7F22CFA6FDCB34299E661E8E26B2",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euM8fJvfH28xhjGy25LiygxfkWc.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sAWkzmPnoLGtoqsIgoBAKvirWrx.jpg"
+  },
+  {
+    "title": "The Ghost Trap",
+    "link": "magnet:?xt=urn:btih:56BA2B8AB8770D3C75BFE518C3B358A72FE599B1",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FPUKh7NLfOttF1IfFgL8cvcEqe.jpg"
+  },
+  {
+    "title": "Dr. Sander's Sleep Cure",
+    "link": "magnet:?xt=urn:btih:0C1C0A683365C06EE31AA2B043FDC239CD44FCAB",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iyslMalSLEDJzOoJDafLR9rKOt4.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iyslMalSLEDJzOoJDafLR9rKOt4.jpg"
+  },
+  {
+    "title": "Vulcanizadora",
+    "link": "magnet:?xt=urn:btih:208285F481DE534DF457477845CD2F7CF3B6C53A",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wzkf2AWzsVTPp2yt6CX4lsRaW91.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/gVOhWhSxhZL6jjyYfbrCf8vNm7i.jpg"
+  },
+  {
+    "title": "The Pickleball Exorcist",
+    "link": "magnet:?xt=urn:btih:1A41BEB2F6E2457E940042A59B3697F0E0DE50A1",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x0AZk2D8VW65BF5LiXJ5fCNXuoP.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x0AZk2D8VW65BF5LiXJ5fCNXuoP.jpg"
+  },
+  {
+    "title": "The Shrouds",
+    "link": "magnet:?xt=urn:btih:644ACDE89E76598733324738EFE9699289B2C0DF",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hEbqMd0FOFRbtnDN1JQujh7EQ3K.jpg"
+  },
+  {
+    "title": "Good Night And Good Luck",
+    "link": "magnet:?xt=urn:btih:920C547C0D28A2322E16CEE0EBF6CA66BF5010E9",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brxnUy5hP3Gu764aHVgtf6T2jlU.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wUtEyGIXwXLQuxKVESInHgJo9OK.jpg"
+  },
+  {
+    "title": "Friendship",
+    "link": "magnet:?xt=urn:btih:88B7227C688140EA5D3F55CE6AF1D6CE9D689B69",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg"
+  },
+  {
+    "title": "Bogieville",
+    "link": "magnet:?xt=urn:btih:7FBAA3235C5F9AEE542694B080C155BF8035E282",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kFCN6RYLbylgn5pvEemqQnbtCWs.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ncWE8cqqtvCCQHy6qDuJJ4ycElS.jpg"
+  },
+  {
+    "title": "Bleeding",
+    "link": "magnet:?xt=urn:btih:0689437696577DD8DEF04797053A00EC81B26471",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uMwkeUKBoY52rHevW6UjqGvfZEE.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4z48B5ajwBI6VyH6yF5Z5V3GmDv.jpg"
+  },
+  {
+    "title": "Karate Kid: Legends (HD Cam)",
+    "link": "magnet:?xt=urn:btih:DFC381D5772154F6C956F009D28ED660CFE70919",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/lAnkMSDISzMYLWICS7m16rSTUHD.jpg"
+  },
+  {
+    "title": "Clown In A Cornfield",
+    "link": "magnet:?xt=urn:btih:4014333BB1E10F068A520EB1D66CF7556EA24490",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/diPSE2jVqMQF1g6u1duFzzxMxh9.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8FLzVS8AlhyAMSgzcsZukCKG15c.jpg"
   },
   {
     "title": "Sew Torn",
@@ -639,7 +717,7 @@
     "title": "[COLORgold][I]>>>> Next Page >>>>[/I][/COLOR]",
     "link": "https://cmanbuildsxyz.com/forkq/vodmu2.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/next_20250613/next.png",
+    "fanart": "https://archive.org/download/background_20250524/Background.jpg"
   }
 ]
