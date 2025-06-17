@@ -11,7 +11,7 @@ plugin>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fforkq%2fvodu.json</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fvodu.json</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
