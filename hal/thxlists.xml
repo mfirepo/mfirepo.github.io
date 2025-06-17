@@ -33,6 +33,10 @@ dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
 	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fvodmu.json</link>
 </plugin>
+<plugin>
+	<title>[COLORwhite]Classic 4K[/COLOR]</title>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fclassic4k.json</link>
+</plugin>
 <dir>
 	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
 	<link>https://cmanbuilds.com/NEW%20BLACK%20LIGHTING/NEW_EPISODES/EPISODES.xml</link>
