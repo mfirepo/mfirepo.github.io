@@ -1,9 +1,39 @@
 [
   {
-    "title": "[COLORgold]Debrid Service Required[/COLOR]",
+    "title": "[COLORlime]Neo Flix[COLORgold] Debrid Movies 4K[/COLOR]",
     "link": "magnet:",
-    "thumbnail": "https://archive.org/download/info_20250613/info.png",
-    "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  },
+  {
+    "title": "Fight Or Flight",
+    "link": "magnet:?xt=urn:btih:62DC46FC665D4AD4AD5941122A57312C02DAA76D",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6J259Zuq09Bt2PLUNeTS5a3DwLZ.jpg"
+  },
+  {
+    "title": "Echo Valley",
+    "link": "magnet:?xt=urn:btih:FF7E91744E996F942D7876F87D493C8ACC7275E1",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4akm5FQdZFfNpYGgVyOEXi72eby.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg"
+  },
+  {
+    "title": "American Thunder",
+    "link": "magnet:?xt=urn:btih:B0CA82B072C84442EA8310964EF00537084B2842",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l9TBlDqNjouevOcwf6JmiQSMJhX.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hfChLWKNJR7Iv2vg7US613KuxI.jpg"
+  },
+  {
+    "title": "Goodrich",
+    "link": "magnet:?xt=urn:btih:8C6B7625090346F9F9EC97959AF35AEBA9AB72EE",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/269xdEQkEQjjPtM2WeVDAeetJn8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dTC50Xt3J6rQ1AlEvSrm2SJzeRS.jpg"
+  },
+  {
+    "title": "Deep Cover",
+    "link": "magnet:?xt=urn:btih:486C3CF9F7FDE7653E7863408701EFACF5737845",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euM8fJvfH28xhjGy25LiygxfkWc.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sAWkzmPnoLGtoqsIgoBAKvirWrx.jpg"
   },
   {
     "title": "The Amateur",

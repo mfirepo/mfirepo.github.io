@@ -1,9 +1,111 @@
 [
   {
-    "title": "[COLORgold]Debrid Service Required[/COLOR]",
+    "title": "[COLORlime]Neo Flix[COLORgold] Debrid Movies[/COLOR]",
     "link": "magnet:",
-    "thumbnail": "https://archive.org/download/info_20250613/info.png",
-    "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+  },
+  {
+    "title": "Kidnapped By A Killer",
+    "link": "magnet:?xt=urn:btih:C73C844B0603B36C7F5CC41916A9C43271DFA6AA",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blsuU2J5FZ9ieqMbUDp0lVe2M8k.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2WGkUwrwum3u747TJ1ijsIKn1n9.jpg"
+  },
+  {
+    "title": "Absolute Dominion",
+    "link": "magnet:?xt=urn:btih:A9DACC0172CF2C8761AC7FD76907C859506EFA18",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Ae7qfJeYSkeTYhp6WHEegzpCtxH.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2MaLXml2ho1UmUr6PbzpKuQKSCQ.jpg"
+  },
+  {
+    "title": "Marshmallow",
+    "link": "magnet:?xt=urn:btih:9C0A94864FA01880B6E3046F94FF99DD9F3272C8",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RasbjB6H9K90DLhGQMzH9qxWzS.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/4W28zYCwqRhrNuYy5G7EB8ZamHj.jpg"
+  },
+  {
+    "title": "Surviving Ohio State",
+    "link": "magnet:?xt=urn:btih:54D0EE9099279B54D5504F019120206B220818F0",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wOnGC0nm4JwQ9EmS1jhn5WC3FzQ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/cFpZTCRy5x2byXD20nGTInjGKTO.jpg"
+  },
+  {
+    "title": "Justin Willman: Magic Lover",
+    "link": "magnet:?xt=urn:btih:038F983335CB4226F23C33E65BAFB1F560094F68",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fLIloyzdb1PU9Hvnhw5DVFk7XGB.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fLIloyzdb1PU9Hvnhw5DVFk7XGB.jpg"
+  },
+  {
+    "title": "Sally",
+    "link": "magnet:?xt=urn:btih:132CA02039BE0CEB825E63180549AEA60BD610C1",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MtfJPrAEJlWhFNeW7NOVmSHs4k.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eils3aXwYa9FTA6umqZ1YX7ay0L.jpg"
+  },
+  {
+    "title": "Fight Or Flight",
+    "link": "magnet:?xt=urn:btih:93BAE6585325E4E927979983FAEC5792275796B6",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6J259Zuq09Bt2PLUNeTS5a3DwLZ.jpg"
+  },
+  {
+    "title": "A Kind Of Madness",
+    "link": "magnet:?xt=urn:btih:180B4ABDD4F9471B9FA204CFF9A53D600EDB0EA4",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBoBE56z7A1U7yKBcIsGfAwMOD7.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBoBE56z7A1U7yKBcIsGfAwMOD7.jpg"
+  },
+  {
+    "title": "The Quincy Avery Effect",
+    "link": "magnet:?xt=urn:btih:9FE0B334138FEB1DA401D830ABAC4F1C83D4DA9D",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nbAqaeY6YcIvimvSUhI3PkyKrcL.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eJOuYhLQoVg5yRv3EpVJ0IRKs3g.jpg"
+  },
+  {
+    "title": "Goodrich",
+    "link": "magnet:?xt=urn:btih:DFEB8E3D7035C5AF0BEF7D6F92D84B6ECFCC08F0",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/269xdEQkEQjjPtM2WeVDAeetJn8.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/dTC50Xt3J6rQ1AlEvSrm2SJzeRS.jpg"
+  },
+  {
+    "title": "Final Destination: Bloodlines",
+    "link": "magnet:?xt=urn:btih:917A04D75590A7935D7BAF4787DBF308C6FBF395",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bse2E5xgKcsL6w8h2efqpecvnxV.jpg"
+  },
+  {
+    "title": "Morgan: Killer Doll",
+    "link": "magnet:?xt=urn:btih:B0B8AFA27FF3EF2BAFFC3C5964BB99E69D9B8446",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5sSPOclb7mcoa9kCEjLFixosE8z.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5sSPOclb7mcoa9kCEjLFixosE8z.jpg"
+  },
+  {
+    "title": "Words Of War",
+    "link": "magnet:?xt=urn:btih:1B484F8F0DE890A7AE53DF8E3A2E7F1632DEBAAC",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fszN3PSB40FYsFzkHvNZrXLes0M.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kMYzdhWBeZBP9mS8vAvuigpa3LF.jpg"
+  },
+  {
+    "title": "Diablo",
+    "link": "magnet:?xt=urn:btih:777ACB6684362EC422F9FAA757472E3C1B6223D5",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3rupPdZ9sQZS1WJRPOTC6lKUG1x.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wLBP0WLKmbFitqh66A08mojLy2R.jpg"
+  },
+  {
+    "title": "Return To Wickensburg",
+    "link": "magnet:?xt=urn:btih:006C20BA25515693E490E2DC5FD5BA71A793E1AC",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iI7ISwQMNBzhptChNM56UmQ2sM6.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iI7ISwQMNBzhptChNM56UmQ2sM6.jpg"
+  },
+  {
+    "title": "Echo Valley",
+    "link": "magnet:?xt=urn:btih:F0432AC44675670BE403F8AEB83B538355727BBC",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4akm5FQdZFfNpYGgVyOEXi72eby.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/aQ5nvQGT6mM6TliOM5iSgrKVF4C.jpg"
+  },
+  {
+    "title": "How To Solve Your Own Murder",
+    "link": "magnet:?xt=urn:btih:9F1630C71E240C1D523CD20955477136FFF38F67",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3ActLcNShyUxiyDRFyUKnCVKPv.jpg",
+    "fanart": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3ActLcNShyUxiyDRFyUKnCVKPv.jpg"
   },
   {
     "title": "American Thunder",
@@ -510,12 +612,6 @@
     "fanart": "https://image.tmdb.org/t/p/original/sPZcvygiIWuq8douju9PQcibfrq.jpg"
   },
   {
-    "title": "Final Destination: Bloodlines",
-    "link": "magnet:?xt=urn:btih:AD4DBAFCDC90576777A616084B40A9E62C91232C",
-    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
-    "fanart": "https://image.tmdb.org/t/p/original/bse2E5xgKcsL6w8h2efqpecvnxV.jpg"
-  },
-  {
     "title": "Sinners",
     "link": "magnet:?xt=urn:btih:AA292D9563095A97A8956D86E4E202E33EE4B3A2",
     "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
@@ -715,9 +811,9 @@
   },
   {
     "title": "[COLORgold][I]>>>> Next Page >>>>[/I][/COLOR]",
-    "link": "https://cmanbuildsxyz.com/forkq/vodmu2.json",
+    "link": "https://cmanbuildsxyz.com/neo/vodmu2.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/next_20250613/next.png",
-    "fanart": "https://archive.org/download/background_20250524/Background.jpg"
+    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
+    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
   }
 ]
