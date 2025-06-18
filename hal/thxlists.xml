@@ -11,7 +11,7 @@ plugin>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Free Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fvodu.json</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGEgoLW0APHDAI</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
@@ -23,7 +23,7 @@ dir>
 </dir>
 <plugin>
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2f4ku.json</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGUA4aAAQWADE%3d</link>
 </plugin>
 dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
@@ -31,11 +31,11 @@ dir>
 </dir>
 <plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fvodmu.json</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGEgoLQxtLBSwJAg%3d%3d</link>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Classic 4K[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=https%3a%2f%2fcmanbuildsxyz.com%2fneo%2fclassic4k.json</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGBwkOXR0MDGsNQgMLHwI%3d</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
