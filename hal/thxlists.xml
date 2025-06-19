@@ -10,8 +10,8 @@ plugin>
 	<link>plugin://plugin.video.easyflix</link>
 </plugin>
 <plugin>
-	<title>[COLORwhite]Free Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGEgoLW0APHDAI</link>
+	<title>[COLORwhite]Free Movies*[/COLOR]</title>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYKWxIMSxMAShtLBSwJAg%3d%3d</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Free Shows Daily[/COLOR]</title>
@@ -23,7 +23,7 @@ dir>
 </dir>
 <plugin>
 	<title>[COLORwhite]UHD Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGUA4aAAQWADE%3d</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYKWxIMS1EEW0APHDAI</link>
 </plugin>
 dir>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
@@ -31,11 +31,11 @@ dir>
 </dir>
 <plugin>
 	<title>[COLORwhite]Debrid Movies[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGEgoLQxtLBSwJAg%3d%3d</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYKWxIMSxMASgMQQTUVAwc%3d</link>
 </plugin>
 <plugin>
 	<title>[COLORwhite]Classic 4K[/COLOR]</title>
-	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYASxlGBwkOXR0MDGsNQgMLHwI%3d</link>
+	<link>plugin://plugin.video.neo_flix/?action=list&url=GBgBFxpUAVkKCQQBTBsMAzsVFBACXg8aCkYKWxIMSwYDTx0WBjxSB0cSAwMb</link>
 </plugin>
 <dir>
 	<title>[COLORwhite]Latest TV Shows[/COLOR]</title>
