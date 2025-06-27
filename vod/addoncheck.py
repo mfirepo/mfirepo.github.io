@@ -8,7 +8,6 @@ import xbmcgui
 import xbmcplugin
 import xbmcaddon
 import os
-import resolveurl
 
 EXPECTED_ID = "plugin.video.neocheck"
 ADDON = xbmcaddon.Addon()
