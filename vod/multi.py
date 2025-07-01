@@ -60,3 +60,25 @@ def router(paramstring):
 
 if __name__ == '__main__':
     router(sys.argv[2][1:])
+
+##############################################################################################
+
+[
+  {
+    "item": "Ballerina",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/sItIskd5xpiE64bBWYwZintkGf3.jpg",
+    "link": [
+      { "label": "1080p", "url": "https://luluvdoo.com/d/o2cd72aeutae" },
+      { "label": "1080p", "url": "https://vidmoly.me/w/8sinw3i27cvx" }
+    ]
+  },
+  {
+    "item": "Tornado",
+    "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRCXxDdAQPjPrJgxKyDyxkb0dDt.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/a94Wn2XksIELb1vSJSMksu1T5G9.jpg",
+    "link": [
+      { "label": "1080p", "url": "https://vidmoly.me/w/t2e9r0ilvgme" }
+    ]
+  }
+]
