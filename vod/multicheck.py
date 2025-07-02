@@ -4,7 +4,7 @@ import sys, json, urllib.request, urllib.parse
 import resolveurl
 import os
 
-EXPECTED_ID = "plugin.video.obsidiantest"
+EXPECTED_ID = "plugin.video.easyflix"
 ADDON = xbmcaddon.Addon()
 ACTUAL_ID = ADDON.getAddonInfo("id")
 if ACTUAL_ID != EXPECTED_ID:
@@ -13,7 +13,7 @@ if ACTUAL_ID != EXPECTED_ID:
 
 ADDON = xbmcaddon.Addon()
 HANDLE = int(sys.argv[1])
-BASE_URL = 'https://cmanbuildsxyz.com/forkq/test.json'  # Replace with your actual URL
+BASE_URL = 'https://cmanbuildsxyz.com/dude/obs.json'  # Replace with your actual URL
 
 def get_remote_json():
     with urllib.request.urlopen(BASE_URL) as response:
