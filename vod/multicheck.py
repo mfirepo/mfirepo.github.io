@@ -8,7 +8,7 @@ EXPECTED_ID = "plugin.video.easyflix"
 ADDON = xbmcaddon.Addon()
 ACTUAL_ID = ADDON.getAddonInfo("id")
 if ACTUAL_ID != EXPECTED_ID:
-    xbmcgui.Dialog().ok("Error", "Addon ID mismatch!")
+    xbmcgui.Dialog().ok("Error", "Addon ID Mismatch!")
     raise SystemExit
 
 ADDON = xbmcaddon.Addon()
@@ -41,7 +41,7 @@ def select_stream(title):
 
     links = selected['link']
     labels = [l['label'] for l in links]
-    choice = xbmcgui.Dialog().select(f"Select Stream for {title}", labels)
+    choice = xbmcgui.Dialog().select(f"Select A Stream For: {title}", labels)
     if choice == -1:
         return
 
