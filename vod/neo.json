@@ -1,30 +1,30 @@
 [
- {
+  {
     "title": "[COLORlime]Free Movies[/COLOR]",
-    "link": "https://cmanbuildsxyz.com/forkq/vodu.json",
+    "link": "https://cmanbuildsxyz.com/dude/vodu.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
+    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
   },
   {
     "title": "[COLORlime]Debrid Movies[/COLOR]",
-    "link": "https://cmanbuildsxyz.com/forkq/vodmu.json",
+    "link": "https://cmanbuildsxyz.com/dude/vodmu.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
+    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
   },
   {
     "title": "[COLORlime]UHD Movies[/COLOR]",
-    "link": "https://cmanbuildsxyz.com/forkq/4ku.json",
+    "link": "https://cmanbuildsxyz.com/dude/4ku.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
+    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
   },
   {
     "title": "[COLORlime]Classic 4K[/COLOR]",
-    "link": "https://cmanbuildsxyz.com/forkq/classic4k.json",
+    "link": "https://cmanbuildsxyz.com/dude/classic4k.json",
     "is_dir": true,
-    "thumbnail": "https://archive.org/download/icon_20250528/icon.png",
-    "fanart": "https://archive.org/download/fanart_20250528/fanart.jpg"
+    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
+    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
   }
 ]
