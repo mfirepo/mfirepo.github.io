@@ -1,6 +1,7 @@
 import xbmcplugin, xbmcgui, xbmcaddon, xbmc
 import sys, json, urllib.request, urllib.parse
 import resolveurl
+import os
 
 EXPECTED_ID = "plugin.video.easyflix"
 ADDON = xbmcaddon.Addon()
