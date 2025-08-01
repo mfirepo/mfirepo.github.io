@@ -1,11 +1,12 @@
 {
     "items": [
-        {
-    "title": "[COLORlime]Free Movies[/COLOR]",
-    "url": "https://bitbucket.org/halcyonhal/easy_neo/raw/main/vod.json",
-    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
-    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
-  },
+  {
+    "type": "folder",
+    "name": "[COLORgold][I]>>>> Next Page >>>>[/I][/COLOR]",
+    "url": "https://cmanbuildsxyz.com/dude/easy2.json",
+    "thumbnail": "https://archive.org/download/icon_20250705/icon.png",
+    "fanart": "https://archive.org/download/fanart4k/fanart4k.jpg"
+  }
         {
             "type": "item",
             "title": "21 Jump Street (2012)",
