@@ -1,6 +1,12 @@
 {
     "items": [
         {
+    "title": "[COLORlime]Free Movies[/COLOR]",
+    "url": "https://bitbucket.org/halcyonhal/easy_neo/raw/main/vod.json",
+    "thumbnail": "https://archive.org/download/iconlarge/iconlarge.png",
+    "fanart": "https://archive.org/download/fanart_20250626/fanart.jpg"
+  },
+        {
             "type": "item",
             "title": "21 Jump Street (2012)",
             "link": "magnet:?xt=urn:btih:15caca747b0171d7d484d8243b28420cec46c267&dn=21.Jump.Street.2012.MULTi.2160p.BLURAY.HDR.DTS-HDMA.7.1.HEVC-DDR.mkv",
