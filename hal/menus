@@ -100,7 +100,7 @@ def main_menu():
     key='zWrite'
     mypass=crypt(mypass,key)
 
-    aa=addDir3('[COLORwhite]One Click[/COLOR]', 'https://cmanbuildsxyz.com/forkq/select.json',189,'https://archive.org/download/trakt_202506/trakt.png','https://i.imgur.com/7ecKGeN.jpg','One Click Movies (Debrid And Free)',mypass=mypass)
+    aa=addDir3('[COLORwhite]One Click[/COLOR]', 'https://archive.org/download/select_202508/select.json',189,'https://archive.org/download/trakt_202506/trakt.png','https://i.imgur.com/7ecKGeN.jpg','One Click Movies (Debrid And Free)',mypass=mypass)
     all_d.append(aa)
     if Addon.getSetting('movie_world')=='true':
         aa=addDir3(Addon.getLocalizedString(32024),'www',2,BASE_LOGO+'basic.png',all_fanarts['32024'],'Movies')
